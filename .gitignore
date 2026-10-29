@@ -21,3 +21,8 @@ data/models/whisper/
 data/models/wake/
 *.gguf
 third_party/grok-1/checkpoints/
+
+# LM Studio connection (machine-local; token is a secret)
+config/lm_studio.json
+config/lm_studio_token.txt
+config/lmstudio_api_key.txt

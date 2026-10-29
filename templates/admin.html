@@ -696,6 +696,7 @@
         }
     </style>
     <link rel="stylesheet" href="/static/assets/synapse-console.css">
+    {% include "_shell.html" %}
 </head>
 <body class="synapse-console">
     <video class="ambient-video" autoplay muted loop playsinline>
@@ -706,7 +707,7 @@
         <div class="ambient-fog"></div>
     </div>
     <div class="admin-shell">
-        <div class="title">OXIDUS Admin Panel<br><span class="title-accent">Heart: <b>gpt-oss-20b</b> (LM Studio)</span></div>
+        <div class="title">OXIDUS Admin Panel<br><span class="title-accent">Heart: <b id="heartModel">LM Studio</b> (LM Studio)</span></div>
         <div class="subtitle">Secure control console for system oversight and knowledge workflows.</div>
 
         <nav class="forge-nav">

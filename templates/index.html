@@ -1113,6 +1113,7 @@
         }
     </style>
     <link rel="stylesheet" href="/static/assets/synapse-console.css">
+    {% include "_shell.html" %}
 </head>
 <body class="synapse-console">
     <video class="ambient-video" autoplay muted loop playsinline>
@@ -1123,7 +1124,7 @@
         <div class="ambient-fog"></div>
     </div>
     <div class="title title-lg">OXIDUS - Forge Edition</div>
-    <div class="subtitle">Honest. Bold. Full of Character.<br><span class="subtitle-accent">Heart: <b>gpt-oss-20b</b></span></div>
+    <div class="subtitle">Honest. Bold. Full of Character.<br><span class="subtitle-accent">Heart: <b id="heartModel">LM Studio</b></span></div>
 
 
     <div class="container vertical">
@@ -1187,7 +1188,7 @@
                     <div class="ai-meta">
                         <div class="ai-meta-line">Learning Mode: <span id="currentMode" class="ai-meta-accent">HUMAN</span> | Core: <span id="lmStudioStatus" class="ai-meta-accent">...</span></div>
                         <div class="ai-meta-line">Conversation Style: <span id="chatStyle" class="ai-meta-accent">HYBRID</span></div>
-                        <div class="ai-meta-highlight">Core Model: <b>gpt-oss-20b</b></div>
+                        <div class="ai-meta-highlight">Core Model: <b class="ox-model-name">LM Studio</b></div>
                         <div class="note">Learning mode controls how Oxidus learns. Conversation style controls how it responds to you.</div>
                     </div>
                     <div class="button-group button-group-slim">

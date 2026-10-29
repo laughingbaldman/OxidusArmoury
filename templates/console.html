@@ -25,6 +25,7 @@
         .meter span { display: block; height: 100%; background: #c1ba8b; width: 0; }
         @media (max-width: 800px) { .layout { grid-template-columns: 1fr; } }
     </style>
+    {% include "_shell.html" %}
 </head>
 <body>
     <header>
@@ -42,7 +43,7 @@
         pages.forEach((name, index) => {
             const button = document.createElement("button");
             button.textContent = name;
-            button.onclick = () => show(index);
+            button.onclick = () => { history.replaceState(null, "", "#" + encodeURIComponent(name)); show(index); window.dispatchEvent(new HashChangeEvent("hashchange")); };
             nav.appendChild(button);
         });
         function show(index) {
@@ -66,7 +67,9 @@
         const tunePage = section("Fine-tune", `<p>Builds a dataset from answered questions. The GPU train is a separate command.</p><button class="act" id="tune">Prepare dataset</button><pre id="tuneOut"></pre>`);
         const logsPage = section("Logs", `<button class="act" id="logs">Load learning log</button><pre id="logOut"></pre>`);
         const adminPage = section("Admin", `<p>These are the old admin actions. Put the admin secret in the box. It stays in this browser tab.</p><input id="adminToken" type="password" placeholder="Admin secret"><pre id="adminOut"></pre><div id="adminButtons"></div>`);
-        show(0);
+        function showFromHash() { const i = pages.indexOf(decodeURIComponent(location.hash.slice(1))); show(i >= 0 ? i : 0); }
+        window.addEventListener("hashchange", showFromHash);
+        showFromHash();
 
         async function get(url) { const response = await fetch(url); return response.json(); }
         async function post(url, body, headers) {

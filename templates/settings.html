@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oxidus - Settings</title>
+<style>
+  .set-wrap { max-width: 1040px; margin: 0 auto; padding: 24px 24px 64px; }
+  .set-wrap > p.lead { margin-top: 0; }
+  .set-grid { display: grid; gap: 18px; }
+  .set-card { scroll-margin-top: 70px; }
+  .set-card h2 { display: flex; align-items: center; gap: 10px; }
+  .row { display: grid; grid-template-columns: 170px 1fr; gap: 10px 14px; align-items: center; margin: 10px 0; }
+  .row > label { font-weight: 600; font-size: 13px; }
+  .row input, .row select { width: 100%; }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+  .msg { margin: 10px 0 0; padding: 10px 12px; border-radius: 10px; background: var(--ox-bg-2); border: 1px solid var(--ox-border); color: var(--ox-text-2); font-size: 14px; }
+  .msg:empty { display: none; }
+  .msg.ok { border-color: #2c6a40; } .msg.bad { border-color: #7a2a2e; } .msg.warn { border-color: #6a5420; }
+  .toc { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 18px; }
+  .toc a { padding: 5px 12px; border-radius: 999px; background: var(--ox-surface-2); border: 1px solid var(--ox-border); color: var(--ox-text-2); text-decoration: none; font-size: 13px; }
+  ul.plain { margin: 6px 0; padding-left: 18px; color: var(--ox-text-2); }
+  .switch { display: inline-flex; align-items: center; gap: 8px; cursor: pointer; }
+  @media (max-width: 700px) { .row { grid-template-columns: 1fr; } }
+</style>
+{% include "_shell.html" %}
+</head>
+<body>
+<div class="set-wrap">
+  <h1>Settings</h1>
+  <p class="lead ox-help">Everything Oxidus lets you change, in one place. Parts that don't work yet are marked <b>Not built yet</b>; they aren't pretend switches.</p>
+  <div class="toc">
+    <a href="#lm">LM Studio</a><a href="#voice">Voice &amp; mic</a><a href="#obsidian">Obsidian vault</a>
+    <a href="#ethics">Ethics</a><a href="#memory">Memory</a><a href="#performance">Performance</a><a href="#look">Appearance</a>
+  </div>
+  <div class="set-grid">
+
+  <section class="ox-card set-card" id="lm">
+    <h2>LM Studio <span class="ox-badge" id="lmBadge">checking…</span></h2>
+    <p class="ox-help">Oxidus talks to LM Studio's local server (OpenAI-style <code>/v1/chat/completions</code>).</p>
+    <div class="msg" id="lmMsg"></div>
+    <div class="row"><label for="lmUrl">Server address</label><input id="lmUrl" placeholder="http://127.0.0.1:1234"></div>
+    <div class="row"><label for="lmModel">Model</label><select id="lmModel"><option value="auto">Auto (whatever LM Studio has loaded)</option></select></div>
+    <div class="row"><label for="lmToken">API key</label><input id="lmToken" type="password" autocomplete="off" placeholder="Only needed if LM Studio has 'Require Authentication' on"></div>
+    <div class="row"><span></span><span class="ox-help" id="lmTokenState"></span></div>
+    <div class="actions">
+      <button class="ox-primary" id="lmSave">Save</button>
+      <button id="lmTest">Test connection</button>
+      <button id="lmRefresh">Re-check</button>
+      <button id="lmClear" class="ox-danger">Forget API key</button>
+    </div>
+    <div class="msg" id="lmTestOut"></div>
+    <div class="row" style="margin-top:18px"><label for="backend">Who answers chat</label>
+      <select id="backend"><option value="auto">Auto</option><option value="retrieval">Shelf only (no AI model)</option><option value="lm_studio">LM Studio</option><option value="grok">Grok (local)</option></select></div>
+    <div class="actions"><button id="backendSave">Save answer source</button></div>
+  </section>
+
+  <section class="ox-card set-card" id="voice">
+    <h2>Voice &amp; mic</h2>
+    <p class="ox-help">The microphone stays off until you turn it on.</p>
+    <div class="row"><label>Microphone</label><span><label class="switch"><input type="checkbox" id="micOn"> Allow mic</label></span></div>
+    <div class="row"><label>Mute</label><span><label class="switch"><input type="checkbox" id="muteOn"> Muted</label></span></div>
+    <div class="row"><label for="micDevice">Input device</label><select id="micDevice"></select></div>
+    <div class="row"><label>Wake word / hotkey</label><span id="voiceInfo" class="ox-help"></span></div>
+    <div class="ox-notbuilt">Listening and speaking aloud. These switches are saved, but Oxidus doesn't capture audio or talk back yet: the Whisper (hearing) and Piper (voice) pieces exist in code but aren't connected or installed.</div>
+  </section>
+
+  <section class="ox-card set-card" id="obsidian">
+    <h2>Obsidian vault <span class="ox-badge" id="obsBadge">…</span></h2>
+    <div class="row"><label for="vault">Vault folder</label><input id="vault"></div>
+    <div class="row"><label>Notes read</label><span id="obsNotes" class="ox-help"></span></div>
+    <div class="row"><label>Brain export</label><span id="obsExport" class="ox-help"></span></div>
+    <div class="actions">
+      <button class="ox-primary" id="vaultSave">Save folder</button>
+      <button id="obsSync">Re-read vault notes</button>
+      <button id="obsExportBtn">Export brain to Obsidian</button>
+    </div>
+    <div class="msg" id="obsMsg"></div>
+    <p class="ox-help">The export only writes into <code>Oxidus Brain/Brain</code> and never touches your own notes. It needs the admin secret.</p>
+  </section>
+
+  <section class="ox-card set-card" id="ethics">
+    <h2>Ethics</h2>
+    <p class="ox-help">The covenant boundaries are fixed. You can add your own house rules underneath them, one per line.</p>
+    <ul class="plain" id="ethicsFixed"></ul>
+    <textarea id="ethicsExtra" rows="5" style="width:100%" placeholder="One house rule per line"></textarea>
+    <div class="actions"><button class="ox-primary" id="ethicsSave">Save house rules</button></div>
+    <div class="msg" id="ethicsMsg"></div>
+  </section>
+
+  <section class="ox-card set-card" id="memory">
+    <h2>Memory</h2>
+    <div class="row"><label>Notes Oxidus keeps</label><span id="memNotes" class="ox-help">…</span></div>
+    <div class="row"><label>Conversation turns</label><span id="memTurns" class="ox-help">…</span></div>
+    <p><a href="/?tab=knowledgeTab">Browse knowledge</a> · <a href="/brain">See the brain map</a> · <a href="/console#Shelf">Search the shelf</a></p>
+    <div class="ox-notbuilt">Editing or forgetting a single memory from here. For now, notes live in <code>data/knowledge_base/notes</code>.</div>
+  </section>
+
+  <section class="ox-card set-card" id="performance">
+    <h2>Performance</h2>
+    <div class="row"><label for="tier">Tier</label><select id="tier"><option value="lite">Lite: shelf + small models</option><option value="standard">Standard: LM Studio model</option><option value="full">Full: everything on</option></select></div>
+    <div class="row"><label>This computer</label><span id="hw" class="ox-help">…</span></div>
+    <div class="actions"><button class="ox-primary" id="tierSave">Save tier</button></div>
+    <div class="msg" id="tierMsg"></div>
+  </section>
+
+  <section class="ox-card set-card" id="look">
+    <h2>Appearance</h2>
+    <div class="row"><label>Moving background</label><span><label class="switch"><input type="checkbox" id="videoOn"> Show the animated video behind the chat (uses more CPU)</label></span></div>
+    <div class="ox-notbuilt">Light theme and custom colours.</div>
+  </section>
+  </div>
+</div>
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (t) => String(t ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+async function getJ(url) { const r = await fetch(url); return r.json(); }
+async function postJ(url, body, headers) {
+  const r = await fetch(url, { method: "POST", headers: Object.assign({ "Content-Type": "application/json" }, headers || {}), body: JSON.stringify(body || {}) });
+  let d = {}; try { d = await r.json(); } catch (e) {}
+  d._status = r.status; return d;
+}
+function msg(el, text, kind) { el.textContent = text || ""; el.className = "msg " + (kind || ""); }
+
+/* LM Studio */
+function paintLm(d) {
+  const badge = $("lmBadge");
+  badge.className = "ox-badge " + (d.ok ? "ok" : d.reachable ? "warn" : "bad");
+  badge.textContent = d.ok ? "Connected" : d.reachable ? (d.auth === "ok" ? "No model" : "Needs token") : "Server off";
+  msg($("lmMsg"), d.message, d.ok ? "ok" : d.reachable ? "warn" : "bad");
+  const s = d.settings || {};
+  if (document.activeElement !== $("lmUrl")) $("lmUrl").value = s.base_url || d.url || "";
+  const sel = $("lmModel"), want = s.model || "auto";
+  const models = (d.models || []).filter(m => !/embed/i.test(m));
+  sel.innerHTML = '<option value="auto">Auto (whatever LM Studio has loaded)</option>' +
+    models.map(m => `<option value="${esc(m)}">${esc(m)}${(d.loaded || []).includes(m) ? "  (loaded)" : ""}</option>`).join("");
+  if (want !== "auto" && !models.includes(want)) sel.innerHTML += `<option value="${esc(want)}">${esc(want)} (not seen in LM Studio right now)</option>`;
+  sel.value = want;
+  $("lmTokenState").textContent = s.token_set ? "API key: set. Leave the box empty to keep it." : "API key: not set.";
+  if (s.env_overrides && s.env_overrides.length) $("lmTokenState").textContent += ` Environment overrides active: ${s.env_overrides.join(", ")}.`;
+}
+async function loadLm() { paintLm(await getJ("/api/settings/lm-studio")); }
+$("lmRefresh").onclick = loadLm;
+$("lmSave").onclick = async () => {
+  const d = await postJ("/api/settings/lm-studio", { base_url: $("lmUrl").value, model: $("lmModel").value, token: $("lmToken").value });
+  $("lmToken").value = "";
+  if (d.error) return msg($("lmMsg"), d.error, "bad");
+  paintLm(d); if (window.oxCheckLm) window.oxCheckLm();
+};
+$("lmClear").onclick = async () => { paintLm(await postJ("/api/settings/lm-studio", { clear_token: true })); };
+$("lmTest").onclick = async () => {
+  msg($("lmTestOut"), "Sending a test question to LM Studio… (the first answer can take a minute while the model loads)", "warn");
+  const d = await postJ("/api/settings/lm-studio/test", {});
+  msg($("lmTestOut"), d.ok ? `Worked in ${d.seconds}s using ${d.model}. LM Studio said: "${d.reply}"` : `Didn't work: ${d.message}`, d.ok ? "ok" : "bad");
+};
+getJ("/api/console/models").then(d => { $("backend").value = d.backend || "auto"; }).catch(() => {});
+$("backendSave").onclick = async () => { await postJ("/api/console/models", { backend: $("backend").value }); msg($("lmTestOut"), "Answer source saved.", "ok"); };
+
+/* Voice */
+function paintVoice(v) {
+  $("micOn").checked = !!v.mic_enabled; $("muteOn").checked = !!v.muted;
+  $("micDevice").innerHTML = (v.devices || []).map(x => `<option value="${esc(x.id)}">${esc(x.name)}</option>`).join("");
+  $("micDevice").value = v.device_id || "default";
+  $("voiceInfo").textContent = `Wake word "${v.wake_word || "Oxidus"}", push-to-talk ${v.hotkey || "Ctrl+Space"}`;
+}
+getJ("/api/console/voice").then(paintVoice).catch(() => {});
+$("micOn").onchange = async () => paintVoice(await postJ("/api/console/voice", { mic_enabled: $("micOn").checked }));
+$("muteOn").onchange = async () => paintVoice(await postJ("/api/console/voice", { muted: $("muteOn").checked }));
+$("micDevice").onchange = async () => paintVoice(await postJ("/api/console/voice", { device_id: $("micDevice").value }));
+
+/* Obsidian */
+async function loadObs() {
+  const d = await getJ("/api/obsidian/status");
+  $("vault").value = d.vault || "";
+  $("obsBadge").className = "ox-badge " + (d.exists ? "ok" : "bad");
+  $("obsBadge").textContent = d.exists ? "Found" : "Folder missing";
+  $("obsNotes").textContent = `${d.notes || 0} of your notes indexed` + (d.built ? ` (last read ${new Date(d.built * 1000).toLocaleString()})` : "");
+  const b = d.brain_export;
+  $("obsExport").textContent = b ? `${b.notes} notes, ${b.links} links, last ${new Date(b.exported).toLocaleString()}` : "Not exported yet";
+}
+loadObs().catch(() => {});
+$("vaultSave").onclick = async () => { const d = await postJ("/api/settings/obsidian", { vault: $("vault").value }); msg($("obsMsg"), d.ok ? "Saved." : d.error, d.ok ? "ok" : "bad"); loadObs(); };
+$("obsSync").onclick = async () => { msg($("obsMsg"), "Reading vault…", "warn"); const d = await postJ("/api/obsidian/sync"); msg($("obsMsg"), d.ok ? `Read ${d.notes} notes.` : (d.error || "Failed"), d.ok ? "ok" : "bad"); loadObs(); };
+$("obsExportBtn").onclick = async () => {
+  const secret = prompt("Admin secret (from config/admin_token.txt):");
+  if (!secret) return;
+  msg($("obsMsg"), "Exporting… this can take a few minutes on a slow drive.", "warn");
+  const d = await postJ("/api/obsidian/export-brain", {}, { "X-Oxidus-Admin-Token": secret });
+  msg($("obsMsg"), d.ok ? `Exported ${d.notes} notes (${d.created} new, ${d.updated} updated).` : (d.error || "Failed"), d.ok ? "ok" : "bad"); loadObs();
+};
+
+/* Ethics */
+getJ("/api/console/ethics").then(d => {
+  const fixed = d.immutable || {};
+  $("ethicsFixed").innerHTML = (Array.isArray(fixed) ? fixed.map(x => ["", x]) : Object.entries(fixed))
+    .map(([k, v]) => `<li>${k ? `<b>${esc(k.replace(/_/g, " "))}</b>: ` : ""}${esc(v)}</li>`).join("");
+  $("ethicsExtra").value = (d.extra || []).join("\n");
+}).catch(() => {});
+$("ethicsSave").onclick = async () => {
+  const extra = $("ethicsExtra").value.split("\n").map(s => s.trim()).filter(Boolean);
+  const d = await postJ("/api/console/ethics", { extra }); msg($("ethicsMsg"), d.ok ? "House rules saved." : "Couldn't save.", d.ok ? "ok" : "bad");
+};
+
+/* Memory + performance */
+getJ("/api/settings/overview").then(d => {
+  $("memNotes").textContent = d.memory.notes ?? "unknown"; $("memTurns").textContent = d.memory.conversation_turns ?? "unknown";
+}).catch(() => {});
+getJ("/api/console/status").then(d => {
+  $("tier").value = d.tier || "lite";
+  const h = d.hardware || {};
+  $("hw").textContent = `${d.tier_note || ""} Cores ${h.cores ?? "?"}, RAM ${h.ram_gb ?? "?"} GB, GPU ${h.gpu ? "yes" : "no"}.`;
+}).catch(() => {});
+$("tierSave").onclick = async () => { const d = await postJ("/api/console/tier", { tier: $("tier").value }); msg($("tierMsg"), d.ok ? `Tier is now ${d.tier}.` : d.error, d.ok ? "ok" : "bad"); };
+
+/* Appearance */
+$("videoOn").checked = localStorage.getItem("ox-video") === "1";
+$("videoOn").onchange = () => { localStorage.setItem("ox-video", $("videoOn").checked ? "1" : "0"); document.body.classList.toggle("ox-video", $("videoOn").checked); };
+
+loadLm();
+</script>
+</body>
+</html>

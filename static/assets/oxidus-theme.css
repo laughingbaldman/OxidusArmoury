@@ -1,0 +1,178 @@
+/* ==========================================================================
+   Oxidus design system — one stylesheet for every page. Plain CSS, no CDN.
+   Loaded last (via templates/_shell.html) so it sets the shared look.
+   ========================================================================== */
+:root {
+  /* palette: deep navy / charcoal, steel, ember accent, cyan glow */
+  --ox-bg: #0a0e16;
+  --ox-bg-2: #0e1420;
+  --ox-surface: #131b29;
+  --ox-surface-2: #192335;
+  --ox-surface-3: #202c42;
+  --ox-border: #26324a;
+  --ox-border-strong: #34425e;
+  --ox-text: #e6ebf3;
+  --ox-text-2: #b9c3d3;
+  --ox-muted: #8995aa;
+  --ox-steel: #9fb0c7;
+  --ox-accent: #f28c38;        /* ember */
+  --ox-accent-hover: #ff9f52;
+  --ox-accent-ink: #1a0f05;
+  --ox-glow: #5cc8ff;          /* cyan, used for the brain + focus rings */
+  --ox-ok: #3fb950; --ox-warn: #d29922; --ox-bad: #f85149;
+  /* type */
+  --ox-font: "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+  --ox-mono: "Cascadia Code", Consolas, "SFMono-Regular", Menlo, monospace;
+  --ox-fs-xs: 12px; --ox-fs-sm: 13px; --ox-fs-md: 15px; --ox-fs-lg: 18px; --ox-fs-xl: 22px; --ox-fs-2xl: 28px;
+  /* spacing, radius, shadow */
+  --ox-s1: 4px; --ox-s2: 8px; --ox-s3: 12px; --ox-s4: 16px; --ox-s5: 24px; --ox-s6: 32px;
+  --ox-r1: 6px; --ox-r2: 10px; --ox-r3: 14px;
+  --ox-shadow-1: 0 1px 2px rgba(0,0,0,.35);
+  --ox-shadow-2: 0 6px 20px rgba(0,0,0,.35), 0 1px 0 rgba(255,255,255,.03) inset;
+  --ox-glow-ring: 0 0 0 3px rgba(92,200,255,.35);
+  /* layout */
+  --ox-nav-w: 216px; --ox-header-h: 52px;
+}
+
+/* ---------- base ---------- */
+html { background: var(--ox-bg); }
+body.ox {
+  margin: 0; min-height: 100vh; color: var(--ox-text); font-family: var(--ox-font); font-size: var(--ox-fs-md); line-height: 1.5;
+  background: radial-gradient(1100px 600px at 85% -10%, rgba(92,200,255,.07), transparent 60%),
+              radial-gradient(900px 500px at -10% 110%, rgba(242,140,56,.06), transparent 60%), var(--ox-bg) !important;
+  padding-top: var(--ox-header-h) !important;
+}
+body.ox.ox-nav-open { padding-left: var(--ox-nav-w) !important; }
+body.ox * { box-sizing: border-box; }
+body.ox a { color: var(--ox-glow); }
+body.ox a:hover { color: #9fe0ff; }
+body.ox h1, body.ox h2, body.ox h3 { color: var(--ox-text); font-weight: 650; letter-spacing: .01em; line-height: 1.25; }
+body.ox h1 { font-size: var(--ox-fs-2xl); } body.ox h2 { font-size: var(--ox-fs-xl); margin: 0 0 var(--ox-s3); } body.ox h3 { font-size: var(--ox-fs-lg); margin: var(--ox-s4) 0 var(--ox-s2); }
+body.ox p { color: var(--ox-text-2); }
+body.ox :focus-visible { outline: none; box-shadow: var(--ox-glow-ring); }
+body.ox ::selection { background: rgba(242,140,56,.35); }
+body.ox ::-webkit-scrollbar { width: 10px; height: 10px; } body.ox ::-webkit-scrollbar-thumb { background: var(--ox-border-strong); border-radius: 10px; } body.ox ::-webkit-scrollbar-track { background: transparent; }
+
+/* ---------- controls ---------- */
+body.ox button, body.ox .btn, body.ox input[type=submit], body.ox input[type=button] {
+  font: 600 var(--ox-fs-sm)/1.2 var(--ox-font); color: var(--ox-text); background: var(--ox-surface-3);
+  border: 1px solid var(--ox-border-strong); border-radius: var(--ox-r1); padding: 8px 14px; cursor: pointer;
+  transition: background .15s, border-color .15s, transform .05s; text-decoration: none; display: inline-block;
+}
+body.ox button:hover, body.ox .btn:hover { background: #283652; border-color: #46577a; }
+body.ox button:active { transform: translateY(1px); }
+body.ox button:disabled { opacity: .5; cursor: not-allowed; }
+/* primary actions */
+body.ox button.act, body.ox .btn-send, body.ox .ox-primary, body.ox button[type=submit] {
+  background: var(--ox-accent); color: var(--ox-accent-ink); border-color: transparent;
+}
+body.ox button.act:hover, body.ox .btn-send:hover, body.ox .ox-primary:hover { background: var(--ox-accent-hover); }
+body.ox button.kill, body.ox .ox-danger { background: #3a1517; border-color: #7a2a2e; color: #ffb4ae; }
+body.ox button.kill:hover, body.ox .ox-danger:hover { background: #5a1d21; }
+body.ox button.off { background: var(--ox-surface-2); color: var(--ox-muted); }
+body.ox input:not([type=checkbox]):not([type=radio]):not([type=range]), body.ox select, body.ox textarea {
+  font: var(--ox-fs-md)/1.4 var(--ox-font); color: var(--ox-text); background: var(--ox-bg-2);
+  border: 1px solid var(--ox-border); border-radius: var(--ox-r1); padding: 8px 10px; max-width: 100%;
+}
+body.ox input:focus, body.ox select:focus, body.ox textarea:focus { border-color: var(--ox-glow); box-shadow: var(--ox-glow-ring); outline: none; }
+body.ox input::placeholder, body.ox textarea::placeholder { color: #6c7890; }
+body.ox input[type=checkbox], body.ox input[type=radio] { accent-color: var(--ox-accent); width: 16px; height: 16px; vertical-align: middle; }
+body.ox label { color: var(--ox-text-2); }
+body.ox pre, body.ox code { font-family: var(--ox-mono); font-size: var(--ox-fs-sm); }
+body.ox pre { background: var(--ox-bg-2); border: 1px solid var(--ox-border); border-radius: var(--ox-r2); padding: var(--ox-s3); color: var(--ox-text-2); white-space: pre-wrap; overflow: auto; max-height: 420px; }
+body.ox pre:empty { display: none; }
+body.ox table { border-collapse: collapse; width: 100%; font-size: var(--ox-fs-sm); }
+body.ox th, body.ox td { padding: 8px 10px; border-bottom: 1px solid var(--ox-border); text-align: left; }
+body.ox th { color: var(--ox-muted); font-weight: 600; text-transform: uppercase; font-size: var(--ox-fs-xs); letter-spacing: .06em; }
+body.ox tr:hover td { background: rgba(255,255,255,.02); }
+
+/* ---------- cards ---------- */
+body.ox .ox-card, body.ox .panel, body.ox main > section, body.ox .card {
+  background: linear-gradient(180deg, var(--ox-surface), #111827) !important; border: 1px solid var(--ox-border) !important;
+  border-radius: var(--ox-r3) !important; box-shadow: var(--ox-shadow-2) !important; padding: var(--ox-s4) var(--ox-s5);
+  backdrop-filter: none !important;
+}
+body.ox .panel-header, body.ox .ox-card h2 { font-size: var(--ox-fs-sm) !important; text-transform: uppercase; letter-spacing: .12em; color: var(--ox-steel) !important; font-weight: 700; margin: 0 0 var(--ox-s3); border: 0 !important; background: none !important; padding: 0 !important; text-shadow: none !important; }
+body.ox .panel-header::after { display: none !important; }
+body.ox .ox-badge { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: var(--ox-fs-xs); font-weight: 600; background: var(--ox-surface-3); color: var(--ox-text-2); border: 1px solid var(--ox-border-strong); }
+body.ox .ox-badge.ok { color: #7ee2a0; border-color: #2c6a40; background: #12281b; }
+body.ox .ox-badge.warn { color: #f2cc60; border-color: #6a5420; background: #2a2210; }
+body.ox .ox-badge.bad { color: #ffa198; border-color: #7a2a2e; background: #2c1214; }
+body.ox .ox-notbuilt { border: 1px dashed var(--ox-border-strong); border-radius: var(--ox-r2); padding: var(--ox-s3); color: var(--ox-muted); background: rgba(255,255,255,.015); }
+body.ox .ox-notbuilt::before { content: "Not built yet"; display: inline-block; margin-right: 8px; padding: 1px 8px; border-radius: 999px; background: #2a2210; color: #f2cc60; font-size: var(--ox-fs-xs); font-weight: 700; }
+body.ox .ox-help { color: var(--ox-muted); font-size: var(--ox-fs-sm); }
+
+/* ---------- shared header + left nav (built by oxidus-shell.js) ---------- */
+.ox-header { position: fixed; top: 0; left: 0; right: 0; height: var(--ox-header-h); z-index: 9001; display: flex; align-items: center; gap: var(--ox-s3);
+  padding: 0 var(--ox-s4); background: rgba(10,14,22,.92); border-bottom: 1px solid var(--ox-border); backdrop-filter: blur(6px); font-family: var(--ox-font); }
+.ox-header .ox-burger { background: none !important; border: 1px solid var(--ox-border) !important; color: var(--ox-text) !important; padding: 5px 10px !important; }
+.ox-logo { font-weight: 800; letter-spacing: .22em; color: var(--ox-text); text-decoration: none !important; font-size: 15px; }
+.ox-logo span { color: var(--ox-accent); }
+.ox-title { color: var(--ox-muted); font-size: var(--ox-fs-md); border-left: 1px solid var(--ox-border); padding-left: var(--ox-s3); }
+.ox-header .ox-spacer { flex: 1; }
+.ox-pill { display: inline-flex; align-items: center; gap: 8px; padding: 4px 12px; border-radius: 999px; background: var(--ox-surface-2); border: 1px solid var(--ox-border); color: var(--ox-text-2) !important; font-size: var(--ox-fs-sm); text-decoration: none !important; }
+.ox-dot { width: 9px; height: 9px; border-radius: 50%; background: #5b6476; display: inline-block; }
+.ox-dot.ok { background: var(--ox-ok); box-shadow: 0 0 8px var(--ox-ok); } .ox-dot.warn { background: var(--ox-warn); box-shadow: 0 0 8px var(--ox-warn); } .ox-dot.bad { background: var(--ox-bad); }
+.ox-nav { position: fixed; top: var(--ox-header-h); left: 0; bottom: 0; width: var(--ox-nav-w); z-index: 9000; overflow-y: auto; padding: var(--ox-s3) var(--ox-s2) var(--ox-s5);
+  background: rgba(13,18,28,.97); border-right: 1px solid var(--ox-border); font-family: var(--ox-font); font-size: 14px; transform: translateX(-100%); transition: transform .18s ease; }
+body.ox-nav-open .ox-nav { transform: none; }
+.ox-nav .ox-group { margin: var(--ox-s4) var(--ox-s3) var(--ox-s1); font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .14em; color: #6f7b91; }
+.ox-nav .ox-group:first-child { margin-top: var(--ox-s1); }
+.ox-nav a { display: flex; align-items: center; gap: 10px; padding: 8px 12px; margin: 1px 0; border-radius: var(--ox-r1); color: var(--ox-text-2) !important; text-decoration: none !important; }
+.ox-nav a:hover { background: var(--ox-surface-2); color: var(--ox-text) !important; }
+.ox-nav a.on { background: linear-gradient(90deg, rgba(242,140,56,.18), rgba(242,140,56,.04)); color: #fff !important; box-shadow: inset 3px 0 0 var(--ox-accent); }
+.ox-nav .ox-ico { width: 18px; text-align: center; opacity: .85; }
+
+/* old per-page navs: their links live in the sidebar now */
+body.ox .forge-nav, body.ox > header .ox-old-link { display: none !important; }
+
+/* video background is optional (Settings > Appearance). Off by default for speed. */
+body.ox .ambient-video { display: none !important; }
+body.ox.ox-video .ambient-video { display: block !important; opacity: .18; }
+body.ox .ambient-bg, body.ox .synapse-background { opacity: .35; }
+
+/* ---------- page: chat (index) ---------- */
+body.ox-page-home .title, body.ox-page-home .subtitle { display: none !important; }
+body.ox-page-home .container { max-width: 1500px; margin: 0 auto; padding: var(--ox-s4); }
+body.ox-page-home .content-shell { gap: var(--ox-s4) !important; }
+body.ox-page-home .conversation { background: var(--ox-bg-2) !important; border: 1px solid var(--ox-border) !important; border-radius: var(--ox-r2) !important; box-shadow: none !important; }
+body.ox-page-home .input-field { min-height: 110px; font-size: var(--ox-fs-md) !important; background: var(--ox-bg-2) !important; }
+body.ox-page-home .btn-clear { background: var(--ox-surface-3) !important; color: var(--ox-text) !important; }
+
+/* ---------- page: admin ---------- */
+body.ox-page-admin .title { font-size: var(--ox-fs-xl) !important; text-align: left !important; margin: var(--ox-s4) var(--ox-s5) 0 !important; }
+
+/* ---------- pages with a simple <header> + <main> (console, games, agent) ---------- */
+body.ox > header { position: sticky; top: var(--ox-header-h); z-index: 50; background: rgba(14,20,32,.95) !important; border-bottom: 1px solid var(--ox-border) !important; padding: 10px var(--ox-s5) !important; }
+body.ox-page-games main, body.ox-page-agent main { padding: var(--ox-s5) !important; max-width: 1200px; gap: var(--ox-s4) !important; }
+body.ox-page-games main { display: grid; gap: var(--ox-s4); }
+body.ox-page-games .row { border-bottom: 1px solid var(--ox-border) !important; }
+body.ox .warn { background: #2a2210 !important; border: 1px solid #6a5420 !important; border-radius: var(--ox-r2); color: #f2d9a0; }
+body.ox .pending { background: #2a2210 !important; border-radius: var(--ox-r2); }
+body.ox #log { background: var(--ox-bg-2) !important; border: 1px solid var(--ox-border) !important; border-radius: var(--ox-r2); }
+/* console (workshop): its section list becomes a tab strip */
+body.ox-page-console .layout { display: block !important; min-height: 0 !important; }
+body.ox-page-console #nav { display: flex; flex-wrap: wrap; gap: 6px; border: 0 !important; padding: var(--ox-s4) var(--ox-s5) 0 !important; }
+body.ox-page-console #nav button { width: auto !important; margin: 0 !important; background: var(--ox-surface-2) !important; border: 1px solid var(--ox-border) !important; border-radius: 999px !important; padding: 6px 14px !important; color: var(--ox-text-2) !important; }
+body.ox-page-console #nav button.on { background: var(--ox-accent) !important; color: var(--ox-accent-ink) !important; border-color: transparent !important; }
+body.ox-page-console main { padding: var(--ox-s4) var(--ox-s5) var(--ox-s6) !important; max-width: 1100px; }
+body.ox-page-console main > section.on { display: block; }
+body.ox .meter { background: var(--ox-bg-2) !important; border-radius: 99px; overflow: hidden; }
+body.ox .meter span { background: var(--ox-accent) !important; }
+
+/* ---------- page: brain (full-screen canvas keeps its glow) ---------- */
+body.ox-page-brain { padding-top: 0 !important; }
+body.ox-page-brain.ox-nav-open { padding-left: 0 !important; }
+body.ox-page-brain .bar { top: calc(var(--ox-header-h) + 10px) !important; }
+body.ox-page-brain.ox-nav-open .bar, body.ox-page-brain.ox-nav-open #legend { left: calc(var(--ox-nav-w) + 10px) !important; }
+body.ox-page-brain #side { top: calc(var(--ox-header-h) + 56px) !important; }
+body.ox-page-brain .bar h1 { display: none; }
+
+/* ---------- responsive ---------- */
+@media (max-width: 860px) {
+  body.ox.ox-nav-open { padding-left: 0 !important; }
+  .ox-nav { box-shadow: 8px 0 30px rgba(0,0,0,.6); }
+  .ox-title { display: none; }
+  body.ox .ox-card, body.ox .panel, body.ox main > section { padding: var(--ox-s3); }
+}
+@media (prefers-reduced-motion: reduce) { .ox-nav { transition: none; } }

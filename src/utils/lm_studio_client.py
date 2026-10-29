@@ -11,6 +11,11 @@ from difflib import SequenceMatcher
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Optional, Dict, Any, List
 
+try:
+    from src.utils import lm_settings
+except ImportError:  # loaded with src/utils on sys.path
+    import lm_settings
+
 
 class LMStudioClient:
     """
@@ -18,19 +23,28 @@ class LMStudioClient:
     Allows Oxidus to ask questions and receive logical AI responses.
     """
     
-    def __init__(self, base_url: str = "http://127.0.0.1:1234"):
+    def __init__(self, base_url: Optional[str] = None):
         """
         Initialize LM Studio client.
         
         Args:
-            base_url: Base URL for LM Studio API (default: http://127.0.0.1:1234)
+            base_url: Base URL for LM Studio API. When omitted it comes from
+                src/utils/lm_settings.py (env, config/lm_studio.json, or
+                http://127.0.0.1:1234).
         """
-        self.base_url = base_url.rstrip('/')
+        self._explicit_url = base_url
+        self.base_url = (base_url or lm_settings.base_url()).rstrip('/')
         self.api_endpoint = f"{self.base_url}/v1/chat/completions"
-        env_primary = os.environ.get('OXIDUS_LM_MODEL')
+        self.last_error: Optional[str] = None
+        try:
+            self.request_timeout = max(5.0, float(os.environ.get('OXIDUS_LM_TIMEOUT', '90')))
+        except ValueError:
+            self.request_timeout = 90.0
+        env_primary = os.environ.get('OXIDUS_LM_MODEL') or lm_settings.model()
         env_secondary = os.environ.get('OXIDUS_LM_SECONDARY_MODEL')
 
         self.preferred_primary = [
+            "google/gemma-4-12b",
             "openai/gpt-oss-20b",
             "Qwen2.5-32B-Instruct",
             "Qwen2.5-14B-Instruct",
@@ -39,13 +53,15 @@ class LMStudioClient:
             "openai/gpt-oss-120b"
         ]
         self.preferred_secondary = [
+            "google/gemma-4-12b",
             "openai/gpt-oss-20b",
             "Qwen2.5-7B-Instruct",
             "Llama-3.1-8B-Instruct",
             "Phi-3.5-mini-instruct"
         ]
 
-        self.primary_model = env_primary or "openai/gpt-oss-20b"
+        # "auto" means: use whatever model LM Studio has loaded (see ensure_model_selected).
+        self.primary_model = env_primary or "auto"
         self.secondary_model = env_secondary or self.primary_model
         self.model = self.primary_model
 
@@ -249,7 +265,7 @@ class LMStudioClient:
 
     def _fetch_model_ids(self) -> List[str]:
         try:
-            response = requests.get(f"{self.base_url}/v1/models", timeout=2)
+            response = requests.get(f"{self.base_url}/v1/models", headers=self._headers(), timeout=2)
             if response.status_code != 200:
                 return []
             payload = response.json()
@@ -258,26 +274,132 @@ class LMStudioClient:
         except requests.exceptions.RequestException:
             return []
 
+    def _headers(self) -> Dict[str, str]:
+        headers = {"Content-Type": "application/json"}
+        api_token = lm_settings.token()
+        if api_token:
+            headers["Authorization"] = f"Bearer {api_token}"
+        return headers
+
+    def reload_settings(self) -> None:
+        """Re-read address/model/token after they change in Settings."""
+        if not self._explicit_url:
+            self.base_url = lm_settings.base_url()
+            self.api_endpoint = f"{self.base_url}/v1/chat/completions"
+        configured = lm_settings.model()
+        for attr in ("primary_model", "secondary_model", "model"):
+            setattr(self, attr, configured)
+        self.simple_model_override = os.environ.get('OXIDUS_LM_SIMPLE_MODEL', '').strip() or configured
+        self.ensure_model_selected()
+
+    def _fetch_loaded_llms(self) -> List[str]:
+        """Models LM Studio has loaded right now (native REST API), LLMs only."""
+        try:
+            response = requests.get(f"{self.base_url}/api/v0/models", headers=self._headers(), timeout=2)
+            if response.status_code != 200:
+                return []
+            data = response.json().get('data', [])
+            return [m.get('id') for m in data
+                    if m.get('id') and m.get('state') == 'loaded' and m.get('type') in (None, 'llm', 'vlm')]
+        except (requests.exceptions.RequestException, ValueError, AttributeError):
+            return []
+
     def _select_model(self, preferred: List[str]) -> Optional[str]:
-        available = self._fetch_model_ids()
-        if not available:
-            return None
-        for candidate in preferred:
-            if candidate in available:
-                return candidate
-        return available[0]
+        loaded = self._fetch_loaded_llms()
+        available = [m for m in self._fetch_model_ids() if 'embed' not in m.lower()]
+        for pool in (loaded, available):
+            for candidate in preferred:
+                if candidate in pool:
+                    return candidate
+        if loaded:
+            return loaded[0]
+        return available[0] if available else None
 
     def ensure_model_selected(self) -> None:
-        if self.primary_model == "auto":
+        """Resolve "auto", and fall back to a real model when the configured one isn't installed."""
+        available = self._fetch_model_ids()
+        def usable(name: str) -> bool:
+            return bool(name) and name != "auto" and (not available or name in available)
+        if not usable(self.primary_model):
             selected = self._select_model(self.preferred_primary)
             if selected:
                 self.primary_model = selected
-        if self.secondary_model == "auto":
+        if not usable(self.secondary_model):
             selected = self._select_model(self.preferred_secondary)
             if selected:
                 self.secondary_model = selected
-        if self.model == "auto":
+        if self.simple_model_override and not usable(self.simple_model_override):
+            self.simple_model_override = self.primary_model
+        if self.complex_model_override and not usable(self.complex_model_override):
+            self.complex_model_override = ''
+        if not usable(self.model):
             self.model = self.primary_model
+
+    def diagnose(self) -> Dict[str, Any]:
+        """Plain-language connection check used by Settings."""
+        info: Dict[str, Any] = {"url": self.base_url, "reachable": False, "auth": "unknown",
+                                "token_set": bool(lm_settings.token()), "models": [], "loaded": [],
+                                "model": None, "ok": False, "message": ""}
+        try:
+            response = requests.get(f"{self.base_url}/v1/models", headers=self._headers(), timeout=3)
+        except requests.exceptions.RequestException as exc:
+            info["server"] = "off"
+            info["message"] = (f"LM Studio server is off (nothing answering at {self.base_url}). "
+                               "To turn it on: open LM Studio > Developer tab > switch 'Status' to Running, "
+                               "or run: lms server start")
+            return info
+        info["reachable"] = True
+        if response.status_code == 401:
+            info["auth"] = "rejected" if info["token_set"] else "required"
+            info["message"] = ("LM Studio rejected the API token. Paste a current token from LM Studio "
+                               "(Developer > Server Settings > Manage Tokens)." if info["token_set"] else
+                               "LM Studio is running but requires an API token. Either paste a token from LM Studio "
+                               "(Developer > Server Settings > Manage Tokens) below, or turn off 'Require Authentication' "
+                               "in LM Studio's server settings.")
+            return info
+        if response.status_code != 200:
+            info["message"] = f"LM Studio answered HTTP {response.status_code}."
+            return info
+        info["auth"] = "ok"
+        try:
+            info["models"] = [m.get('id') for m in response.json().get('data', []) if m.get('id')]
+        except ValueError:
+            pass
+        info["loaded"] = self._fetch_loaded_llms()
+        self.ensure_model_selected()
+        info["model"] = self.model
+        if not [m for m in info["models"] if 'embed' not in m.lower()]:
+            info["message"] = "Connected, but LM Studio has no chat model downloaded."
+            return info
+        info["ok"] = True
+        info["message"] = (f"Connected. Using {self.model}." + ("" if info["loaded"] else
+                           " No model is loaded yet; LM Studio will load it on the first question (can take a minute)."))
+        return info
+
+    def test_round_trip(self, timeout: float = 120) -> Dict[str, Any]:
+        """Send one tiny chat request and report what came back."""
+        import time as _time
+        diag = self.diagnose()
+        if not diag.get("ok"):
+            return {"ok": False, "message": diag.get("message"), "diagnose": diag}
+        payload = {"model": self.model, "temperature": 0, "max_tokens": 40, "stream": False,
+                   "messages": [{"role": "user", "content": "Reply with exactly: Oxidus link OK"}]}
+        start = _time.time()
+        try:
+            response = requests.post(self.api_endpoint, json=payload, headers=self._headers(), timeout=timeout)
+        except requests.exceptions.RequestException as exc:
+            return {"ok": False, "message": f"Request failed: {type(exc).__name__}", "diagnose": diag}
+        seconds = round(_time.time() - start, 2)
+        if response.status_code != 200:
+            return {"ok": False, "message": f"LM Studio answered HTTP {response.status_code}: {response.text[:200]}",
+                    "seconds": seconds, "diagnose": diag}
+        try:
+            reply = response.json()['choices'][0]['message'].get('content') or ''
+        except (ValueError, KeyError, IndexError):
+            reply = ''
+        return {"ok": bool(reply.strip()), "reply": reply.strip()[:300], "model": self.model, "seconds": seconds,
+                "message": "Round trip worked." if reply.strip() else "LM Studio answered with an empty reply.",
+                "diagnose": diag}
         
     def is_available(self) -> bool:
         """
@@ -287,7 +409,7 @@ class LMStudioClient:
             True if LM Studio is available, False otherwise
         """
         try:
-            response = requests.get(f"{self.base_url}/v1/models", timeout=2)
+            response = requests.get(f"{self.base_url}/v1/models", headers=self._headers(), timeout=2)
             return response.status_code == 200
         except requests.exceptions.RequestException:
             return False
@@ -342,12 +464,14 @@ class LMStudioClient:
             response = requests.post(
                 self.api_endpoint,
                 json=payload,
-                headers={"Content-Type": "application/json"},
-                timeout=30
+                headers=self._headers(),
+                timeout=self.request_timeout
             )
 
             if response.status_code != 200:
+                self.last_error = f"HTTP {response.status_code}: {response.text[:200]}"
                 return None
+            self.last_error = None
 
             data = response.json()
             content = data['choices'][0]['message']['content']
@@ -732,7 +856,7 @@ Avoid emotional framing. Keep it under 6 sentences."""
             Dict with model information, or None if unavailable
         """
         try:
-            response = requests.get(f"{self.base_url}/v1/models", timeout=2)
+            response = requests.get(f"{self.base_url}/v1/models", headers=self._headers(), timeout=2)
             if response.status_code == 200:
                 return response.json()
             return None

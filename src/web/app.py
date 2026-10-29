@@ -12,6 +12,7 @@ from src.web.agent_page import agent_bp
 from src.web.console import console_bp
 from src.web.blueprints.obsidian import register as register_obsidian
 from src.web.blueprints.brain import register as register_brain
+from src.web.blueprints.settings import register as register_settings
 
 register_chat(app)
 register_wiki(app)
@@ -23,3 +24,4 @@ app.register_blueprint(agent_bp)
 app.register_blueprint(console_bp)
 register_obsidian(app)
 register_brain(app)
+register_settings(app)
