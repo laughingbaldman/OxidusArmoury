@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Oxidus - Brain</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  html,body{margin:0;height:100%;background:#05070d;color:#cfd8e3;font-family:Segoe UI,Arial,sans-serif;overflow:hidden}
+  #c{position:fixed;inset:0;display:block;cursor:grab}
+  .bar{position:fixed;top:10px;left:10px;right:10px;display:flex;gap:10px;align-items:center;pointer-events:none}
+  .bar>*{pointer-events:auto}
+  a.btn,button,input{background:#0d1422cc;color:#cfd8e3;border:1px solid #23324d;border-radius:6px;padding:6px 10px;font-size:14px;text-decoration:none}
+  input{width:220px}
+  h1{font-size:18px;margin:0 8px 0 0;color:#8fd3ff;text-shadow:0 0 8px #3aa0ff}
+  #legend{position:fixed;left:10px;bottom:10px;background:#0b111dcc;border:1px solid #1d2a40;border-radius:8px;padding:8px 10px;font-size:12px;line-height:1.6}
+  #legend span{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:middle}
+  #legend div{cursor:pointer}
+  #legend div.off{opacity:.35}
+  #side{position:fixed;right:10px;top:56px;width:300px;max-height:calc(100% - 80px);overflow:auto;background:#0b111dcc;border:1px solid #1d2a40;border-radius:8px;padding:10px;font-size:13px}
+  #side h3{margin:4px 0 6px;font-size:14px;color:#8fd3ff}
+  #side .n{cursor:pointer;color:#9fb3c8}
+  #side .n:hover{color:#fff}
+  #act .q{color:#ffd28a}
+  #status{font-size:12px;color:#7f8ea3}
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div class="bar">
+  <h1>OXIDUS BRAIN</h1>
+  <a class="btn" href="/">Back to chat</a>
+  <input id="find" placeholder="Find a node (Enter)">
+  <button id="reset">Re-center</button>
+  <span id="status">Loading brain...</span>
+</div>
+<div id="legend"></div>
+<div id="side">
+  <h3>Live activity</h3>
+  <div id="act">Ask Oxidus something in chat; the nodes it pulls from light up here.</div>
+  <h3 id="selTitle" style="margin-top:14px">Selected</h3>
+  <div id="sel">Click a node to see what it connects to.</div>
+</div>
+<script>
+(function(){
+"use strict";
+const COLORS={hub:"#f5c542",domain:"#ff7a3d",topic:"#ffa94d",wiki:"#4dabf7",scripture:"#c77dff",
+  theme:"#ff5c8a",ethics:"#51cf66",conversation:"#3bc9db",thought:"#adb5bd",question:"#fcc419",source:"#748ffc"};
+const cv=document.getElementById("c"),ctx=cv.getContext("2d");
+let W=0,H=0,DPR=Math.min(window.devicePixelRatio||1,1.5);
+function resize(){W=innerWidth;H=innerHeight;cv.width=W*DPR;cv.height=H*DPR;cv.style.width=W+"px";cv.style.height=H+"px";}
+addEventListener("resize",resize);resize();
+
+// glow sprites per colour (cheap: drawImage instead of shadowBlur)
+const sprites={};
+function sprite(col){
+  if(sprites[col])return sprites[col];
+  const s=64,c=document.createElement("canvas");c.width=c.height=s;const g=c.getContext("2d");
+  const gr=g.createRadialGradient(s/2,s/2,0,s/2,s/2,s/2);
+  gr.addColorStop(0,"#ffffff");gr.addColorStop(0.18,col);gr.addColorStop(0.45,col+"55");gr.addColorStop(1,col+"00");
+  g.fillStyle=gr;g.fillRect(0,0,s,s);return sprites[col]=c;
+}
+
+let nodes=[],links=[],byId={},adj={},hidden={};
+let cam={x:0,y:0,k:0.6},alpha=1,selected=null,hover=null;
+const pulse={}; // node id -> strength 0..1
+
+function load(){
+  fetch("/api/brain/graph").then(r=>r.status===202?null:r.json()).then(d=>{
+    if(!d){document.getElementById("status").textContent="Building brain map...";setTimeout(load,1500);return;}
+    init(d);
+  }).catch(()=>setTimeout(load,3000));
+}
+function init(d){
+  nodes=d.nodes.map((n,i)=>{const a=i*2.399963,r=12*Math.sqrt(i);return Object.assign(n,{x:Math.cos(a)*r,y:Math.sin(a)*r,vx:0,vy:0,deg:0});});
+  byId={};nodes.forEach(n=>byId[n.id]=n);
+  links=d.links.filter(l=>byId[l.source]&&byId[l.target]).map(l=>({s:byId[l.source],t:byId[l.target],rel:l.rel}));
+  adj={};links.forEach(l=>{l.s.deg++;l.t.deg++;(adj[l.s.id]=adj[l.s.id]||[]).push(l.t);(adj[l.t.id]=adj[l.t.id]||[]).push(l.s);});
+  nodes.forEach(n=>n.r=2.5+Math.min(14,Math.sqrt(n.deg)*1.4));
+  document.getElementById("status").textContent=nodes.length+" nodes, "+links.length+" links";
+  legend();alpha=1;
+}
+function legend(){
+  const counts={};nodes.forEach(n=>counts[n.kind]=(counts[n.kind]||0)+1);
+  const el=document.getElementById("legend");el.innerHTML="";
+  Object.keys(COLORS).filter(k=>counts[k]).forEach(k=>{
+    const d=document.createElement("div");d.innerHTML='<span style="background:'+COLORS[k]+';box-shadow:0 0 6px '+COLORS[k]+'"></span>'+k+" ("+counts[k]+")";
+    d.onclick=()=>{hidden[k]=!hidden[k];d.classList.toggle("off",!!hidden[k]);};el.appendChild(d);
+  });
+}
+
+// --- physics: simple O(n^2) repulsion, fine for a few hundred nodes on any CPU
+function step(){
+  if(alpha<0.004)return;
+  const N=nodes.length;
+  for(let i=0;i<N;i++){const a=nodes[i];
+    for(let j=i+1;j<N;j++){const b=nodes[j];let dx=a.x-b.x,dy=a.y-b.y,d2=dx*dx+dy*dy+0.01;
+      if(d2>250000)continue;const f=900*alpha/d2;dx*=f;dy*=f;a.vx+=dx;a.vy+=dy;b.vx-=dx;b.vy-=dy;}}
+  for(const l of links){let dx=l.t.x-l.s.x,dy=l.t.y-l.s.y,d=Math.sqrt(dx*dx+dy*dy)||1;
+    const k=(d-60)/d*0.04*alpha;dx*=k;dy*=k;l.s.vx+=dx;l.s.vy+=dy;l.t.vx-=dx;l.t.vy-=dy;}
+  for(const n of nodes){n.vx-=n.x*0.002*alpha;n.vy-=n.y*0.002*alpha;
+    if(n!==drag){n.x+=n.vx;n.y+=n.vy;}n.vx*=0.6;n.vy*=0.6;}
+  alpha*=0.992;
+}
+
+function toScreen(n){return[(n.x-cam.x)*cam.k+W/2,(n.y-cam.y)*cam.k+H/2];}
+function draw(t){
+  ctx.setTransform(DPR,0,0,DPR,0,0);ctx.fillStyle="#05070d";ctx.fillRect(0,0,W,H);
+  const focus=selected?new Set([selected.id,...(adj[selected.id]||[]).map(n=>n.id)]):null;
+  ctx.lineWidth=1;
+  for(const l of links){
+    if(hidden[l.s.kind]||hidden[l.t.kind])continue;
+    const p=Math.max(pulse[l.s.id]||0,0)*Math.max(pulse[l.t.id]||0,0)>0?Math.min(pulse[l.s.id],pulse[l.t.id]):0;
+    const [x1,y1]=toScreen(l.s),[x2,y2]=toScreen(l.t);
+    let a=focus?(focus.has(l.s.id)&&focus.has(l.t.id)?0.5:0.03):0.09;
+    if(p>0){ctx.strokeStyle="rgba(255,230,150,"+(0.25+0.6*p)+")";ctx.lineWidth=1+2*p;}
+    else{ctx.strokeStyle="rgba(120,170,255,"+a+")";ctx.lineWidth=1;}
+    ctx.beginPath();ctx.moveTo(x1,y1);ctx.lineTo(x2,y2);ctx.stroke();
+    if(p>0){const u=((t/700)%1);ctx.fillStyle="rgba(255,240,190,"+p+")";ctx.beginPath();
+      ctx.arc(x1+(x2-x1)*u,y1+(y2-y1)*u,2.2,0,6.283);ctx.fill();}
+  }
+  for(const n of nodes){
+    if(hidden[n.kind])continue;
+    const [x,y]=toScreen(n);if(x<-40||y<-40||x>W+40||y>H+40)continue;
+    const col=COLORS[n.kind]||"#ffffff",p=pulse[n.id]||0;
+    const breathe=1+0.08*Math.sin(t/900+n.x*0.05);
+    let r=n.r*cam.k*breathe*(1+1.6*p);r=Math.max(r,1.5);
+    ctx.globalAlpha=focus&&!focus.has(n.id)?0.15:1;
+    const s=r*(4+3*p);ctx.drawImage(sprite(col),x-s/2,y-s/2,s,s);
+    ctx.globalAlpha=1;
+    if(p>0.05||n===hover||n===selected||(cam.k>1.1&&n.deg>3)||(n.kind==="hub")){
+      ctx.fillStyle=p>0.05?"#fff3c4":"#dfe8f5";ctx.font=(n.kind==="hub"?"bold 13px":"11px")+" Segoe UI";
+      ctx.fillText(n.id,x+r+3,y+4);
+    }
+  }
+  for(const k in pulse){pulse[k]-=0.0025;if(pulse[k]<=0)delete pulse[k];}
+}
+function loop(t){step();draw(t);requestAnimationFrame(loop);}
+requestAnimationFrame(loop);
+
+// --- interaction
+let drag=null,panning=null;
+function pick(mx,my){let best=null,bd=1e9;for(const n of nodes){if(hidden[n.kind])continue;const[x,y]=toScreen(n);
+  const d=(x-mx)**2+(y-my)**2,r=Math.max(6,n.r*cam.k+4);if(d<r*r&&d<bd){bd=d;best=n;}}return best;}
+cv.addEventListener("mousedown",e=>{const n=pick(e.clientX,e.clientY);if(n){drag=n;select(n);}else panning={x:e.clientX,y:e.clientY,cx:cam.x,cy:cam.y};});
+addEventListener("mousemove",e=>{
+  if(drag){drag.x=(e.clientX-W/2)/cam.k+cam.x;drag.y=(e.clientY-H/2)/cam.k+cam.y;alpha=Math.max(alpha,0.08);}
+  else if(panning){cam.x=panning.cx-(e.clientX-panning.x)/cam.k;cam.y=panning.cy-(e.clientY-panning.y)/cam.k;}
+  else{hover=pick(e.clientX,e.clientY);cv.style.cursor=hover?"pointer":"grab";}});
+addEventListener("mouseup",()=>{drag=null;panning=null;});
+cv.addEventListener("wheel",e=>{e.preventDefault();cam.k=Math.min(5,Math.max(0.1,cam.k*(e.deltaY<0?1.12:0.89)));},{passive:false});
+cv.addEventListener("dblclick",()=>{selected=null;document.getElementById("sel").textContent="Click a node to see what it connects to.";});
+document.getElementById("reset").onclick=()=>{cam={x:0,y:0,k:0.6};selected=null;alpha=Math.max(alpha,0.3);};
+document.getElementById("find").addEventListener("keydown",e=>{if(e.key!=="Enter")return;
+  const q=e.target.value.toLowerCase();const n=nodes.find(n=>n.id.toLowerCase()===q)||nodes.find(n=>n.id.toLowerCase().includes(q));
+  if(n){select(n);cam.x=n.x;cam.y=n.y;cam.k=1.4;pulse[n.id]=1;}});
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
+function select(n){selected=n;const nb=(adj[n.id]||[]);
+  document.getElementById("selTitle").textContent=n.id;
+  document.getElementById("sel").innerHTML='<div>'+esc(n.kinds.join(", "))+' - '+nb.length+' connections</div>'+
+    nb.slice(0,80).map(m=>'<div class="n" data-id="'+esc(m.id)+'"><span style="color:'+(COLORS[m.kind]||"#fff")+'">&#9679;</span> '+esc(m.id)+'</div>').join("");
+  document.querySelectorAll("#sel .n").forEach(el=>el.onclick=()=>{const m=byId[el.dataset.id];if(m){select(m);cam.x=m.x;cam.y=m.y;}});}
+
+// --- live activity polling (1s)
+let seq=0;
+function poll(){
+  fetch("/api/brain/activity?since="+seq).then(r=>r.json()).then(d=>{
+    if(seq===0&&d.events.length===0){seq=d.seq;return;}
+    for(const ev of d.events){seq=Math.max(seq,ev.seq);
+      ev.nodes.forEach(id=>{pulse[id]=1;(adj[id]||[]).forEach(m=>{if(!pulse[m.id]||pulse[m.id]<0.35)pulse[m.id]=0.35;});});
+      document.getElementById("act").innerHTML='<div class="q">"'+esc(ev.query)+'"</div>'+
+        (ev.hits.length?'<div>Pulled: '+esc(ev.hits.join("; "))+'</div>':'')+
+        '<div>Lit up: '+(ev.nodes.length?ev.nodes.map(esc).join(", "):"(no matching nodes)")+'</div>';
+    }
+    if(d.seq<seq)seq=d.seq; // server restarted
+  }).catch(()=>{}).finally(()=>setTimeout(poll,1000));
+}
+load();poll();
+})();
+</script>
+</body>
+</html>

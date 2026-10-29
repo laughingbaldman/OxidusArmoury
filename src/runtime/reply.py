@@ -25,4 +25,5 @@ def reply_to(root: str | Path, message: str, model_call=None) -> dict:
         "used_model": answered["used_model"],
         "questions": loop.list_open(),
         "queued": queued,
+        "hits": hits,
     }

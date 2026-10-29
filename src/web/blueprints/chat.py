@@ -87,6 +87,11 @@ def send_message():
     from src.runtime.reply import reply_to
     packed = reply_to(hub.PROJECT_ROOT, user_message, model_call=_model_call)
     lm_response = packed.get('text')
+    try:
+        from src.web.blueprints.brain import record_activity
+        record_activity(user_message, packed.get('hits'), message_topics)
+    except Exception:
+        pass
     if lm_response is None or not str(lm_response).strip():
         lm_response = hub._fallback_response(user_message)
     documented = hub._store_answered_exchange(user_message, str(lm_response))
