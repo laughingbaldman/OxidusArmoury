@@ -564,7 +564,7 @@ def _run_memryx_indexing(payload: dict) -> None:
                 hub.INDEXING_STATUS['throughput_eps'] = round(processed * batch_size / elapsed, 2)
             hub.INDEXING_STATUS['avg_batch_ms'] = round(elapsed / max(processed, 1) * 1000, 2)
             if processed == 1 or processed % 10 == 0 or processed == total:
-                hub._log_indexing(f'Progress {processed}/{total} | {hub.INDEXING_STATUS['throughput_eps']} eps | {hub.INDEXING_STATUS['avg_batch_ms']} ms/batch')
+                hub._log_indexing(f'Progress {processed}/{total} | {hub.INDEXING_STATUS["throughput_eps"]} eps | {hub.INDEXING_STATUS["avg_batch_ms"]} ms/batch')
         try:
             result = build_index(model_id=model_id, onnx_path=onnx_path, dfp_path=dfp_path, data_root=data_root, output_dir=output_dir, max_tokens=max_tokens, batch_size=batch_size, device_ids=device_ids, use_memryx=use_memryx, prefer_async=prefer_async, progress_cb=_progress, priority_paths=priority_paths, batch_delay_s=batch_delay_s)
         except Exception as run_exc:

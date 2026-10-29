@@ -10,6 +10,7 @@ from src.web.blueprints.learn import register as register_learn
 from src.web.games_page import games_bp
 from src.web.agent_page import agent_bp
 from src.web.console import console_bp
+from src.web.blueprints.obsidian import register as register_obsidian
 
 register_chat(app)
 register_wiki(app)
@@ -19,4 +20,4 @@ register_learn(app)
 app.register_blueprint(games_bp)
 app.register_blueprint(agent_bp)
 app.register_blueprint(console_bp)
-
+register_obsidian(app)
