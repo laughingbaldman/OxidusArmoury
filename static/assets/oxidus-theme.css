@@ -176,3 +176,6 @@ body.ox-page-brain .bar h1 { display: none; }
   body.ox .ox-card, body.ox .panel, body.ox main > section { padding: var(--ox-s3); }
 }
 @media (prefers-reduced-motion: reduce) { .ox-nav { transition: none; } }
+
+/* Page styles (e.g. index's global button rules) must not stretch header controls */
+body.ox .ox-header .ox-burger { width: 34px !important; height: 34px; flex: 0 0 34px; padding: 0 !important; margin: 0 !important; }
