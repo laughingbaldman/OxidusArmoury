@@ -2400,17 +2400,13 @@ class Oxidus:
         # Check if this is Wikipedia homepage or main page using proper URL parsing
         try:
             parsed = urlparse(url)
-            domain = parsed.netloc.lower()
             path = parsed.path.lower()
-            # Properly check domain to prevent subdomain spoofing
-            # Split by '.' and check the last two parts are 'wikipedia.org'
-            domain_parts = domain.split('.')
-            is_wikipedia = (
-                domain == 'wikipedia.org' or 
-                (len(domain_parts) >= 3 and 
-                 domain_parts[-2] == 'wikipedia' and 
-                 domain_parts[-1] == 'org')
-            )
+            # Proper domain check (blocks wikipedia.org.evil.com etc.); see src/utils/url_safety.py
+            try:
+                from src.utils.url_safety import is_wikipedia_url
+            except ImportError:
+                from utils.url_safety import is_wikipedia_url
+            is_wikipedia = is_wikipedia_url(url)
             normalized_path = path.rstrip('/')
             is_main_page = normalized_path in {'', '/wiki/main_page'}
             
