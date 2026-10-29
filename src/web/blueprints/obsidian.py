@@ -103,8 +103,11 @@ bp = Blueprint("obsidian", __name__)
 @bp.get("/api/obsidian/status")
 def status():
     idx = load_index()
+    from src.integrations.obsidian_brain_export import last_export
+    last = last_export() or {}
+    brain = {k: last.get(k) for k in ("brain_folder", "exported", "notes", "links", "by_kind")} if last else None
     return jsonify({"vault": str(vault_path()), "exists": vault_path().exists(),
-                    "notes": idx.get("count", 0), "built": idx.get("built")})
+                    "notes": idx.get("count", 0), "built": idx.get("built"), "brain_export": brain})
 
 @bp.post("/api/obsidian/sync")
 def sync():
@@ -126,6 +129,21 @@ def note_route():
         return jsonify({"error": "title and body required"}), 400
     p = write_note(data["title"], data["body"], data.get("tags"))
     return jsonify({"ok": True, "path": str(p)})
+
+@bp.post("/api/obsidian/export-brain")
+def export_brain_route():
+    """Mirror Oxidus's brain into <vault>/Oxidus Brain/Brain (generated files only)."""
+    from src.web.hub import hub
+    guard = hub.require_admin_token()
+    if guard:
+        return guard
+    from src.integrations.obsidian_brain_export import export_brain
+    data = request.get_json(silent=True) or {}
+    result = export_brain(vault=vault_path(), dry_run=bool(data.get("dry_run")))
+    if not result.get("dry_run"):
+        build_index()
+    result["stale_generated_files"] = len(result.get("stale_generated_files", []))
+    return jsonify(result)
 
 def register(app):
     app.register_blueprint(bp)
