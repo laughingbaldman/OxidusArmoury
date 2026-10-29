@@ -1,0 +1,19 @@
+{
+  "id": "kb_b2ca02ce3521c7f6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 14
+  },
+  "summary": "Let not your heart be troubled: ye believe in God, believe also in me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 14:1",
+  "content_hash": "b0e523b37c836c6898c44424296b3fb62bd9b2ed0a6ac5599b7f440701f6599e",
+  "updated": "2026-10-29T16:32:47Z"
+}

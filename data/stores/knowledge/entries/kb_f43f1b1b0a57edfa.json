@@ -1,0 +1,19 @@
+{
+  "id": "kb_f43f1b1b0a57edfa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 26
+  },
+  "summary": "Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the LORD your God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 26:1",
+  "content_hash": "4db7feda81b31c95856bf3395f067eaaa0b209b227d84e298f766daec05f54b7",
+  "updated": "2026-10-29T16:32:45Z"
+}

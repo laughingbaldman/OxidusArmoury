@@ -1,0 +1,19 @@
+{
+  "id": "kb_5879f85ca22cedf1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 24
+  },
+  "summary": "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 24:1",
+  "content_hash": "a1e0fd39e0d93d6e58aed72d9876bf70e7a051c85e7312dd2459b3247d6c2638",
+  "updated": "2026-10-29T16:32:46Z"
+}

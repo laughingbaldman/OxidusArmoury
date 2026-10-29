@@ -1,0 +1,19 @@
+{
+  "id": "kb_65345b47ca98f701",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 25
+  },
+  "summary": "These are also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 25:1",
+  "content_hash": "2af268b2cd7ec8a119dbd665cee6733f0e21a785fe23040677ab7442bf5d47aa",
+  "updated": "2026-10-29T16:32:46Z"
+}

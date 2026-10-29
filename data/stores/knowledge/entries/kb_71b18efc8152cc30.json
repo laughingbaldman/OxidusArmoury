@@ -1,0 +1,19 @@
+{
+  "id": "kb_71b18efc8152cc30",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 1
+  },
+  "summary": "Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 1:1",
+  "content_hash": "3ef63363af5f07d98e17036a236e7e0a312f52c76771c9eba786fd445b28db27",
+  "updated": "2026-10-29T16:32:47Z"
+}

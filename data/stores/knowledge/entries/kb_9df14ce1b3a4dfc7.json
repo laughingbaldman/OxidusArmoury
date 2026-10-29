@@ -1,0 +1,19 @@
+{
+  "id": "kb_9df14ce1b3a4dfc7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 1
+  },
+  "summary": "Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 1:1",
+  "content_hash": "bbeeea8edb9fc4a753f1713ed28ec41f8207872cc100c01f8073ab0e664f92fe",
+  "updated": "2026-10-29T16:32:45Z"
+}

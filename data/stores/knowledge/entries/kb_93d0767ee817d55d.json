@@ -1,0 +1,19 @@
+{
+  "id": "kb_93d0767ee817d55d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "James",
+  "title": "James 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "James",
+    "chapter": 1
+  },
+  "summary": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting.",
+  "source": "KJV",
+  "when": "",
+  "loc": "James 1:1",
+  "content_hash": "0ce98b79b13895fd468965d2019219a5d5698c2db44b08ee6eb44e907251586e",
+  "updated": "2026-10-29T16:32:47Z"
+}

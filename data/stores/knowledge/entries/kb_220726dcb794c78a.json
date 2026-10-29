@@ -1,0 +1,19 @@
+{
+  "id": "kb_220726dcb794c78a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 21
+  },
+  "summary": "And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 21:1",
+  "content_hash": "7c6a02d75711ca45f84c80aef4a9099c1cdfb7eb0a2e5eb3a06c3f1067f4b82b",
+  "updated": "2026-10-29T16:32:45Z"
+}

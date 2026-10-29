@@ -1,0 +1,19 @@
+{
+  "id": "kb_de8ec822bc9bf203",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 12
+  },
+  "summary": "Now concerning spiritual gifts, brethren, I would not have you ignorant.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 12:1",
+  "content_hash": "d03dc8dd9a4013ce93f3db033c11a6687cced9164fca8f3daa60e8cd4eb782b3",
+  "updated": "2026-10-29T16:32:47Z"
+}

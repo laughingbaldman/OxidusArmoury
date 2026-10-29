@@ -1,0 +1,19 @@
+{
+  "id": "kb_7a82c2b00883185b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 10
+  },
+  "summary": "And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 10:1",
+  "content_hash": "d2c9fb8c534697714ec0e35ad1ab79a9a9952ef2342fe51532b738fd98afe8b6",
+  "updated": "2026-10-29T16:32:45Z"
+}

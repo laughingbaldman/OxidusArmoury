@@ -1,0 +1,19 @@
+{
+  "id": "kb_03a16a2e98d533f7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 34",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 34
+  },
+  "summary": "Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 34:1",
+  "content_hash": "01db750b0616bebd5e52b3b73e2ce6eb05d16e1fc2dda38e21d190c1d2a66cef",
+  "updated": "2026-10-29T16:32:46Z"
+}

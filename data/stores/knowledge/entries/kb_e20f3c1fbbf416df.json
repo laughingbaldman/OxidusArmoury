@@ -1,0 +1,19 @@
+{
+  "id": "kb_e20f3c1fbbf416df",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 45",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 45
+  },
+  "summary": "Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 45:1",
+  "content_hash": "1b9ea71db5fa581c5182e08f9ba41a3b7bf0599e2b84aa79b7aa01ad867f95df",
+  "updated": "2026-10-29T16:32:46Z"
+}

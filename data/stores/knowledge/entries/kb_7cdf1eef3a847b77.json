@@ -1,0 +1,19 @@
+{
+  "id": "kb_7cdf1eef3a847b77",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 37",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 37
+  },
+  "summary": "At this also my heart trembleth, and is moved out of his place.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 37:1",
+  "content_hash": "c9ea2bc000a308ae3c9cf7cd56b0493fc667101e451892d8b5a3ff6721580f53",
+  "updated": "2026-10-29T16:32:46Z"
+}

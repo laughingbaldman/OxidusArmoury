@@ -1,0 +1,19 @@
+{
+  "id": "kb_7c9115d674b56271",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 48",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 48
+  },
+  "summary": "Great is the LORD, and greatly to be praised in the city of our God, in the mountain of his holiness.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 48:1",
+  "content_hash": "f9c1955ded0cec3a6a032f30f8d7ebdb10ed66ce46b7453a4f02f29fb54369ec",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_b8e11b9abeba8e72",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 17
+  },
+  "summary": "In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 17:1",
+  "content_hash": "0c5c5f981387772cd8524913138d9e58abb849585625d02e8351e883c01a36f9",
+  "updated": "2026-10-29T16:32:46Z"
+}

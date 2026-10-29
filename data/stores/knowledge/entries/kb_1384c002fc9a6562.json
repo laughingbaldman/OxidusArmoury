@@ -1,0 +1,19 @@
+{
+  "id": "kb_1384c002fc9a6562",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 18
+  },
+  "summary": "And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 18:1",
+  "content_hash": "8eae25a158249517e4d1aa09ca1293e2b8ac6cba29fe80c4bf9c3b04027799ce",
+  "updated": "2026-10-29T16:32:45Z"
+}

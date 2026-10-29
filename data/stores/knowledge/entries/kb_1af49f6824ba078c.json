@@ -1,0 +1,19 @@
+{
+  "id": "kb_1af49f6824ba078c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ecclesiastes",
+  "title": "Ecclesiastes 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ecclesiastes",
+    "chapter": 2
+  },
+  "summary": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ecclesiastes 2:1",
+  "content_hash": "566df0f3cb0bd2a9ddb9147936a9df8925d2ad742721bc2dcebda9d9bc18146f",
+  "updated": "2026-10-29T16:32:46Z"
+}

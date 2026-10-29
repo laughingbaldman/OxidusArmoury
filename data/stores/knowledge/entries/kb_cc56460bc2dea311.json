@@ -1,0 +1,19 @@
+{
+  "id": "kb_cc56460bc2dea311",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 6
+  },
+  "summary": "And he went out from thence, and came into his own country; and his disciples follow him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 6:1",
+  "content_hash": "66c7264a817337b844698822f779b1c54157825dd899c231963449c868e68025",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_09c620797f5b589c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 2
+  },
+  "summary": "Now the days of David drew nigh that he should die; and he charged Solomon his son, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 2:1",
+  "content_hash": "eea6322ee519a6e205d793c67932e871211836f487ffa946decdc61f04d621e4",
+  "updated": "2026-10-29T16:32:45Z"
+}

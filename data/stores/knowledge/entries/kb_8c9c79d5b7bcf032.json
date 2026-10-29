@@ -1,0 +1,19 @@
+{
+  "id": "kb_8c9c79d5b7bcf032",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 1
+  },
+  "summary": "The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 1:1",
+  "content_hash": "bd88c7327d9b94dfd49cc7f991b062f59594208e025dfd0ac77a56600619685c",
+  "updated": "2026-10-29T16:32:47Z"
+}

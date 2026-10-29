@@ -1,0 +1,19 @@
+{
+  "id": "kb_ac9c642f0eba009b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 1
+  },
+  "summary": "Then Moab rebelled against Israel after the death of Ahab.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 1:1",
+  "content_hash": "949769f8a3ac3c38177a58b613386d637d051a32fded1dd80cf1f94f6fc135e0",
+  "updated": "2026-10-29T16:32:46Z"
+}

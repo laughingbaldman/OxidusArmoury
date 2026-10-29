@@ -1,0 +1,19 @@
+{
+  "id": "kb_3f77e1d7229f00a0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 1
+  },
+  "summary": "The proverbs of Solomon the son of David, king of Israel;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 1:1",
+  "content_hash": "136a945345483840884cd52096e29dfca783bb90c7c42489c3cad1ba0a0eb384",
+  "updated": "2026-10-29T16:32:46Z"
+}

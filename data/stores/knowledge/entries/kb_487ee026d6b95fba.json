@@ -1,0 +1,19 @@
+{
+  "id": "kb_487ee026d6b95fba",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 2
+  },
+  "summary": "And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 2:1",
+  "content_hash": "a011f23031ac0adbb060793077daf45c2b1702cf3c1ee31b82b909154adcb904",
+  "updated": "2026-10-29T16:32:46Z"
+}

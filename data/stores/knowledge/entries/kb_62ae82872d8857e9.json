@@ -1,0 +1,19 @@
+{
+  "id": "kb_62ae82872d8857e9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 1
+  },
+  "summary": "There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 1:1",
+  "content_hash": "f11c2b29a1d45d97f05165e312f5503aa57b133af3e10c3a2e3192f8785f1974",
+  "updated": "2026-10-29T16:32:46Z"
+}

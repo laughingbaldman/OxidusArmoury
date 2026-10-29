@@ -1,0 +1,19 @@
+{
+  "id": "kb_20dfc9388959572b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 21
+  },
+  "summary": "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 21:1",
+  "content_hash": "1701eb5f61a08b4cd51a8be6ede4fa746e64925463b922c58b6a28938c8f6f25",
+  "updated": "2026-10-29T16:32:47Z"
+}

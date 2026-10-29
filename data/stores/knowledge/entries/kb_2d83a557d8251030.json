@@ -1,0 +1,19 @@
+{
+  "id": "kb_2d83a557d8251030",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 17
+  },
+  "summary": "And there was a man of mount Ephraim, whose name was Micah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 17:1",
+  "content_hash": "996e4b59ab1b94f69ab5f1e58dcfb11082a5641ce9ba16a641a8b433eeda7d85",
+  "updated": "2026-10-29T16:32:45Z"
+}

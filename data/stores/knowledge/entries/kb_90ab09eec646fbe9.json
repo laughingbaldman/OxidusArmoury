@@ -1,0 +1,19 @@
+{
+  "id": "kb_90ab09eec646fbe9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 9
+  },
+  "summary": "And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 9:1",
+  "content_hash": "95b5152f729b04c3f1c2404a0a1ada8030f09f5519ad31f586648933edaea87b",
+  "updated": "2026-10-29T16:32:45Z"
+}

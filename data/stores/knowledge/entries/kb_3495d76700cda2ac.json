@@ -1,0 +1,19 @@
+{
+  "id": "kb_3495d76700cda2ac",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 7
+  },
+  "summary": "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 7:1",
+  "content_hash": "e2c49c5d64b358bfccb096ddd61e182e032a287181959a01cb4cffdc0baee328",
+  "updated": "2026-10-29T16:32:47Z"
+}

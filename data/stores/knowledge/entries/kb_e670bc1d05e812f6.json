@@ -1,0 +1,19 @@
+{
+  "id": "kb_e670bc1d05e812f6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 17
+  },
+  "summary": "The sin of Judah is written with a pen of iron, and with the point of a diamond: it is graven upon the table of their heart, and upon the horns of your altars;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 17:1",
+  "content_hash": "c84de64cf3ec0f4197374cf18185bae04fb00d810d2762972b9712659b50941b",
+  "updated": "2026-10-29T16:32:46Z"
+}

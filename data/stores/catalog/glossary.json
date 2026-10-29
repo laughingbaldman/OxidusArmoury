@@ -1,0 +1,58 @@
+{
+  "terms": {
+    "golden rule": {
+      "term": "golden rule",
+      "definition": "Treat people the way you would want to be treated.",
+      "entry_id": "",
+      "loc": "Matthew 7:12"
+    },
+    "mercy": {
+      "term": "mercy",
+      "definition": "Hold back the harm you could do, and do it without dropping justice.",
+      "entry_id": "",
+      "loc": "Micah 6:8"
+    },
+    "justice": {
+      "term": "justice",
+      "definition": "Give people what is right, and do not sell the judgment.",
+      "entry_id": "",
+      "loc": "Micah 6:8"
+    },
+    "honesty": {
+      "term": "honesty",
+      "definition": "Do not lie about your neighbor. A false weight and a false word are the same kind of cheat.",
+      "entry_id": "",
+      "loc": "Exodus 20:16"
+    },
+    "humility": {
+      "term": "humility",
+      "definition": "Walk quietly. Strength that needs an audience has already gone wrong.",
+      "entry_id": "",
+      "loc": "Micah 6:8"
+    },
+    "love": {
+      "term": "love",
+      "definition": "Love is patient and does not keep a score to use later.",
+      "entry_id": "",
+      "loc": "1 Corinthians 13:4"
+    },
+    "forgiveness": {
+      "term": "forgiveness",
+      "definition": "If you want to be forgiven, you do not get to clutch the grudge.",
+      "entry_id": "",
+      "loc": "Matthew 6:14"
+    },
+    "integrity": {
+      "term": "integrity",
+      "definition": "The small trust is the interview for the large one.",
+      "entry_id": "",
+      "loc": "Luke 16:10"
+    },
+    "stewardship": {
+      "term": "stewardship",
+      "definition": "What you are given is not a trophy. Keep it faithfully.",
+      "entry_id": "",
+      "loc": "Luke 16:10"
+    }
+  }
+}

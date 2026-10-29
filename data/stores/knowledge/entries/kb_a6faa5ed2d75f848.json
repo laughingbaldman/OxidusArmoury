@@ -1,0 +1,19 @@
+{
+  "id": "kb_a6faa5ed2d75f848",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 18
+  },
+  "summary": "Through desire a man, having separated himself, seeketh and intermeddleth with all wisdom.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 18:1",
+  "content_hash": "adf54054f0924c5c56f4ea9cf716860caf5f321a9276b0e5b6ca659a5217d015",
+  "updated": "2026-10-29T16:32:46Z"
+}

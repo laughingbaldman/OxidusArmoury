@@ -1,0 +1,19 @@
+{
+  "id": "kb_c83850e14f6ca413",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 23
+  },
+  "summary": "And the whole multitude of them arose, and led him unto Pilate.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 23:1",
+  "content_hash": "6c9cbd8dbfe86bbc1305511529b844d098b6317cee93e4fa58d1c6b6b99760b8",
+  "updated": "2026-10-29T16:32:47Z"
+}

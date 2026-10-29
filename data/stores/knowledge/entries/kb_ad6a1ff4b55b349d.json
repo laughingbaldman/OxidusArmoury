@@ -1,0 +1,19 @@
+{
+  "id": "kb_ad6a1ff4b55b349d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 14
+  },
+  "summary": "Now Joab the son of Zeruiah perceived that the king’s heart was toward Absalom.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 14:1",
+  "content_hash": "f15e6932ff6b4128c9d3ad5871cf14594564df0d4a4faf9c4707b3d38cef05d3",
+  "updated": "2026-10-29T16:32:45Z"
+}

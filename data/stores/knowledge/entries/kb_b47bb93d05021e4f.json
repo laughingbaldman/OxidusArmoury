@@ -1,0 +1,19 @@
+{
+  "id": "kb_b47bb93d05021e4f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 93",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 93
+  },
+  "summary": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 93:1",
+  "content_hash": "a8fd336a3f28e47742c167ad36fbcff7d225a047d4fa87ee96d4120b5137b3c3",
+  "updated": "2026-10-29T16:32:46Z"
+}

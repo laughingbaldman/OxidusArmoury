@@ -1,0 +1,19 @@
+{
+  "id": "kb_9e002b5dc8f28d61",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 15
+  },
+  "summary": "After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 15:1",
+  "content_hash": "1167c6e71b88dbcc67aaf1bc9001c9ee3d12fb5f083c8d8f5e6457f7a9c3328d",
+  "updated": "2026-10-29T16:32:45Z"
+}

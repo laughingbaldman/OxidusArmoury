@@ -1,0 +1,19 @@
+{
+  "id": "kb_24731121bdef9448",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Amos",
+  "title": "Amos 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Amos",
+    "chapter": 2
+  },
+  "summary": "Thus saith the LORD; For three transgressions of Moab, and for four, I will not turn away the punishment thereof; because he burned the bones of the king of Edom into lime:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Amos 2:1",
+  "content_hash": "950a06df361a6a5a716c72ff6e4112eb88f3079f217f159898fc5d378eb8c6d7",
+  "updated": "2026-10-29T16:32:46Z"
+}

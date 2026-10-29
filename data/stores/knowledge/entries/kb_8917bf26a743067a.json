@@ -1,0 +1,19 @@
+{
+  "id": "kb_8917bf26a743067a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 18
+  },
+  "summary": "Woe to the land shadowing with wings, which is beyond the rivers of Ethiopia:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 18:1",
+  "content_hash": "9ff5da9d973ca11a811e6d1262ea7232fb62ed5451260a1fdfd69f34ffcdf6ab",
+  "updated": "2026-10-29T16:32:46Z"
+}

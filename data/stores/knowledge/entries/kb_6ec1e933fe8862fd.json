@@ -1,0 +1,19 @@
+{
+  "id": "kb_6ec1e933fe8862fd",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 27",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 27
+  },
+  "summary": "And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus’ band.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 27:1",
+  "content_hash": "6bba4e80d44d1ea6f49f22482651c0c9f82020c9d02da18a488cff29ca1ec410",
+  "updated": "2026-10-29T16:32:47Z"
+}

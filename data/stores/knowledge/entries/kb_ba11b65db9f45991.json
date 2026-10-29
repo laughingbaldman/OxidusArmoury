@@ -1,0 +1,19 @@
+{
+  "id": "kb_ba11b65db9f45991",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 95",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 95
+  },
+  "summary": "O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 95:1",
+  "content_hash": "2345a5d785b2b7af7c61c17cda75113a1a31078cc34a14f77303ffe5ecb6be5e",
+  "updated": "2026-10-29T16:32:46Z"
+}

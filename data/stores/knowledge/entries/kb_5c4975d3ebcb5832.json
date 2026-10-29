@@ -1,0 +1,19 @@
+{
+  "id": "kb_5c4975d3ebcb5832",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 49",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 49
+  },
+  "summary": "Hear this, all ye people; give ear, all ye inhabitants of the world:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 49:1",
+  "content_hash": "21a6e0635866c7a7dbc3f7dc1ad61e4783ce69dea79ef90ff77d74eb97a5aaf1",
+  "updated": "2026-10-29T16:32:46Z"
+}

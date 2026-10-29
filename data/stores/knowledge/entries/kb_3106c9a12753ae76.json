@@ -1,0 +1,19 @@
+{
+  "id": "kb_3106c9a12753ae76",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 27",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 27
+  },
+  "summary": "And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 27:1",
+  "content_hash": "0478e332408b2a85b5724fc2019dab823fa6013b0b7c5f9bea52179173b09671",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_62a82907edee434c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Malachi",
+  "title": "Malachi 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Malachi",
+    "chapter": 4
+  },
+  "summary": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Malachi 4:1",
+  "content_hash": "c8f14c94b4c1a18ef69eeb0289193a50cc581989319bbb3459ef42ed3fed6c93",
+  "updated": "2026-10-29T16:32:46Z"
+}

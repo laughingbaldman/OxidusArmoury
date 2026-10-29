@@ -1,0 +1,19 @@
+{
+  "id": "kb_f22a6e562cac1b8c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Obadiah",
+  "title": "Obadiah 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Obadiah",
+    "chapter": 1
+  },
+  "summary": "The vision of Obadiah. Thus saith the Lord GOD concerning Edom; We have heard a rumour from the LORD, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Obadiah 1:1",
+  "content_hash": "1f88989553ee0ebd217e23322d70dc28c198ca1071672e81bb8ac0089378429b",
+  "updated": "2026-10-29T16:32:46Z"
+}

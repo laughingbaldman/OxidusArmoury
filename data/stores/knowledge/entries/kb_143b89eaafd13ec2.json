@@ -1,0 +1,19 @@
+{
+  "id": "kb_143b89eaafd13ec2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 17
+  },
+  "summary": "And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 17:1",
+  "content_hash": "85214ac68e6ee669ddd48a59f5d845a6c21f5ee2b8d25b7c5482e648c396203c",
+  "updated": "2026-10-29T16:32:46Z"
+}

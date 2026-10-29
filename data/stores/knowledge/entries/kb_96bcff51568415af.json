@@ -1,0 +1,19 @@
+{
+  "id": "kb_96bcff51568415af",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zechariah",
+  "title": "Zechariah 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zechariah",
+    "chapter": 10
+  },
+  "summary": "Ask ye of the LORD rain in the time of the latter rain; so the LORD shall make bright clouds, and give them showers of rain, to every one grass in the field.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zechariah 10:1",
+  "content_hash": "aa41e760a3a19f2937f73d94f6424bbd093563e148e0cab73dcec7130fb67989",
+  "updated": "2026-10-29T16:32:46Z"
+}

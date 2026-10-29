@@ -1,0 +1,19 @@
+{
+  "id": "kb_79680e2273f60a8f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 19
+  },
+  "summary": "Better is the poor that walketh in his integrity, than he that is perverse in his lips, and is a fool.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 19:1",
+  "content_hash": "7e40f6329dd1c737184aae247cc2ef8d2f67e6bc22b9feaa6755a8810cf7abc0",
+  "updated": "2026-10-29T16:32:46Z"
+}

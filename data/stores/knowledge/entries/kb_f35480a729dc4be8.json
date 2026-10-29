@@ -1,0 +1,19 @@
+{
+  "id": "kb_f35480a729dc4be8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 18
+  },
+  "summary": "And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 18:1",
+  "content_hash": "6847c833331e4f51bf365d4921d64ac7fd9fd6a166de75c0f15dec126ac2e9c2",
+  "updated": "2026-10-29T16:32:45Z"
+}

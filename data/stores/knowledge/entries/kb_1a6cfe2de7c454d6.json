@@ -1,0 +1,19 @@
+{
+  "id": "kb_1a6cfe2de7c454d6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 4
+  },
+  "summary": "And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 4:1",
+  "content_hash": "eb8eb1d3501b67da0fcda29f1d64e3cfef7072d9198c05ff1ac9982dbb000241",
+  "updated": "2026-10-29T16:32:47Z"
+}

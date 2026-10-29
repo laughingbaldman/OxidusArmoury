@@ -1,0 +1,19 @@
+{
+  "id": "kb_b8566f69169821af",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 9
+  },
+  "summary": "In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 9:1",
+  "content_hash": "72f531914b9298e475d4705363cdf7f4fb16fa149a15cd1388c713cff9f3d3a2",
+  "updated": "2026-10-29T16:32:46Z"
+}

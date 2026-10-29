@@ -1,0 +1,19 @@
+{
+  "id": "kb_fd954b47c651f9d9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 25
+  },
+  "summary": "Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 25:1",
+  "content_hash": "27ade64654ec0f9ec21f2e662cf9bd9298c7f7bac23552d8390a93b04a1f54fb",
+  "updated": "2026-10-29T16:32:46Z"
+}

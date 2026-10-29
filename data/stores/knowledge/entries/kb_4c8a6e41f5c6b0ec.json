@@ -1,0 +1,19 @@
+{
+  "id": "kb_4c8a6e41f5c6b0ec",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 5
+  },
+  "summary": "But a certain man named Ananias, with Sapphira his wife, sold a possession,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 5:1",
+  "content_hash": "3cf2ce9c01b85ed08f7ca2aef9a0b93275d60b521c15ca2362c3989f30c5b3b1",
+  "updated": "2026-10-29T16:32:47Z"
+}

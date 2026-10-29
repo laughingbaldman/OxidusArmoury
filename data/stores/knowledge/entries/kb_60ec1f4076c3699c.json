@@ -1,0 +1,19 @@
+{
+  "id": "kb_60ec1f4076c3699c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 18
+  },
+  "summary": "And he spake a parable unto them to this end, that men ought always to pray, and not to faint;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 18:1",
+  "content_hash": "b532a71f98f8d2840a941cb2bda2426630c5bd1eb11f08176ed698d295acdf9d",
+  "updated": "2026-10-29T16:32:47Z"
+}

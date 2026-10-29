@@ -1,0 +1,19 @@
+{
+  "id": "kb_0eb4159a2afaa505",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 17
+  },
+  "summary": "Thou shalt not sacrifice unto the LORD thy God any bullock, or sheep, wherein is blemish, or any evilfavouredness: for that is an abomination unto the LORD thy God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 17:1",
+  "content_hash": "31453c7a3f9a22b3238b08bed33700d2e30d9426dcaebd36c5423a2db43b7b2f",
+  "updated": "2026-10-29T16:32:45Z"
+}

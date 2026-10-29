@@ -1,0 +1,19 @@
+{
+  "id": "kb_486f20fc3f0e8af7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 11
+  },
+  "summary": "In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 11:1",
+  "content_hash": "83a1412153bceb7053f802f71f81c0f3a7e1daea958aa1a74afb5fccc7307d6e",
+  "updated": "2026-10-29T16:32:46Z"
+}

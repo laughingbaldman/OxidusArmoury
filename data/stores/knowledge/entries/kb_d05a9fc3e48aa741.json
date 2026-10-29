@@ -1,0 +1,19 @@
+{
+  "id": "kb_d05a9fc3e48aa741",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Micah",
+  "title": "Micah 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Micah",
+    "chapter": 7
+  },
+  "summary": "Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: there is no cluster to eat: my soul desired the firstripe fruit.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Micah 7:1",
+  "content_hash": "096e3f8f2d85b8215e836c5a278dbf7d2af19183db9d729be2e1891ea9328722",
+  "updated": "2026-10-29T16:32:46Z"
+}

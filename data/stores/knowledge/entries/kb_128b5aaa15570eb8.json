@@ -1,0 +1,19 @@
+{
+  "id": "kb_128b5aaa15570eb8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 38",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 38
+  },
+  "summary": "And the word of the LORD came unto me, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 38:1",
+  "content_hash": "dbec776392296372f6317aa663c5026b1ccb70624f41dfb6b7ad73663b2790e9",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_66d086067cce1984",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 3
+  },
+  "summary": "And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 3:1",
+  "content_hash": "28252a96f09405d733a3c1353cc041bbedd6755111c0d281aed26b341e0c7361",
+  "updated": "2026-10-29T16:32:47Z"
+}

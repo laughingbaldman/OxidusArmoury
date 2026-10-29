@@ -1,0 +1,19 @@
+{
+  "id": "kb_c671abaaf4a0af39",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Esther",
+  "title": "Esther 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Esther",
+    "chapter": 4
+  },
+  "summary": "When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Esther 4:1",
+  "content_hash": "7c00fbd21f9a6dfc6e7f3d36c63f05668c5c77e2479eca60b95be952bbf9d058",
+  "updated": "2026-10-29T16:32:46Z"
+}

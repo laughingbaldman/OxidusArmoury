@@ -1,0 +1,19 @@
+{
+  "id": "kb_831eb1ab4db2bd52",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 29",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 29
+  },
+  "summary": "And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 29:1",
+  "content_hash": "b78d7fb09920074404988eec88d46dbd19768ed29be674721973f00e4b5c9428",
+  "updated": "2026-10-29T16:32:45Z"
+}

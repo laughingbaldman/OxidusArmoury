@@ -1,0 +1,19 @@
+{
+  "id": "kb_e894f20cb3bd8276",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 75",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 75
+  },
+  "summary": "Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 75:1",
+  "content_hash": "d59920858de9e72af8ab598d5e5d795c5f786366610431da17a16e396d559388",
+  "updated": "2026-10-29T16:32:46Z"
+}

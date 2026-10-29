@@ -1,0 +1,19 @@
+{
+  "id": "kb_5b7856346256f490",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 4
+  },
+  "summary": "And it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 4:1",
+  "content_hash": "de8f0975148d4bc9bab060d20eae9ca4b51d2f058546236f7639a033b96b78fd",
+  "updated": "2026-10-29T16:32:45Z"
+}

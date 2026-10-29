@@ -1,0 +1,19 @@
+{
+  "id": "kb_23d3389859ae9b9e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 16
+  },
+  "summary": "Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 16:1",
+  "content_hash": "08fb843f131b2d11c51fc1ac4ca9325a94fb69b5ccea814a2dcd331cb540c6e3",
+  "updated": "2026-10-29T16:32:47Z"
+}

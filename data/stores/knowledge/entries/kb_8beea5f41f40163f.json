@@ -1,0 +1,19 @@
+{
+  "id": "kb_8beea5f41f40163f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 20
+  },
+  "summary": "It came to pass after this also, that the children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 20:1",
+  "content_hash": "735da59dbb3ea028fc9e349c4014445e9d6232d5d43823fa26f90ed8d47c57d3",
+  "updated": "2026-10-29T16:32:46Z"
+}

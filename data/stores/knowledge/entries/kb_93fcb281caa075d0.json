@@ -1,0 +1,19 @@
+{
+  "id": "kb_93fcb281caa075d0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 35",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 35
+  },
+  "summary": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 35:1",
+  "content_hash": "6864731e02e107cd708c6ac9429513d2a42d6a3fc5dde136256dac85eb0b2e96",
+  "updated": "2026-10-29T16:32:45Z"
+}

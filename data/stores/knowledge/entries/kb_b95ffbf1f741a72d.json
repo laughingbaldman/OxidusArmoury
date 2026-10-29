@@ -1,0 +1,19 @@
+{
+  "id": "kb_b95ffbf1f741a72d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 70",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 70
+  },
+  "summary": "MAKE HASTE, O GOD, TO DELIVER ME; MAKE HASTE TO HELP ME, O LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 70:1",
+  "content_hash": "5e71fd266daec63e9af6c1db7cf79ece1bafaae49a72bb48dcd87db7a88ac11b",
+  "updated": "2026-10-29T16:32:46Z"
+}

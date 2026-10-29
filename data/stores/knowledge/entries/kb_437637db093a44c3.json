@@ -1,0 +1,19 @@
+{
+  "id": "kb_437637db093a44c3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 2
+  },
+  "summary": "Thus the heavens and the earth were finished, and all the host of them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 2:1",
+  "content_hash": "6f4a7d45743a722858ec518fd3685870ed591f686ddc1560dd164510a9ba80cc",
+  "updated": "2026-10-29T16:32:45Z"
+}

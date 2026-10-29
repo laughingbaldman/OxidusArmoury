@@ -1,0 +1,19 @@
+Third-party notices
+
+OpenJarvis
+https://github.com/open-jarvis/OpenJarvis
+Apache License 2.0
+Copyright holders as named in that repository.
+
+Oxidus does not copy OpenJarvis source. The local skill list and the
+speech path (wake, then speech-to-text, then a reply, then speech) follow
+the shape of a local assistant. The code here is Oxidus's.
+
+grok-1
+https://github.com/xai-org/grok-1
+Apache License 2.0
+Copyright 2024 X.AI Corp.
+
+The grok-1 example code is included as the git submodule third_party/grok-1.
+The license covers that code and the Grok-1 weights. The weights are not
+in this repository. See scripts/download_grok_weights.py.

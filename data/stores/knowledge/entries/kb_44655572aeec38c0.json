@@ -1,0 +1,19 @@
+{
+  "id": "kb_44655572aeec38c0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 12
+  },
+  "summary": "And Job answered and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 12:1",
+  "content_hash": "88c17949f94fdb171f419fdaa681a596d5f166217fcbb110322428a1acfd4810",
+  "updated": "2026-10-29T16:32:46Z"
+}

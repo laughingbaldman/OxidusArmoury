@@ -1,0 +1,19 @@
+{
+  "id": "kb_1f1e6fed27dcb164",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 52",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 52
+  },
+  "summary": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 52:1",
+  "content_hash": "f7db1cced6b9dc25b770b60c16513b83c5edef31b733b44f0ac092c5bdeda5ea",
+  "updated": "2026-10-29T16:32:46Z"
+}

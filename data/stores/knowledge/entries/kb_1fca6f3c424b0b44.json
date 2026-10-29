@@ -1,0 +1,19 @@
+{
+  "id": "kb_1fca6f3c424b0b44",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 27",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 27
+  },
+  "summary": "In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 27:1",
+  "content_hash": "63fdde60463dbe1512d2a78362b7547abc64fd732385675b0ce2ab7e49c2ab38",
+  "updated": "2026-10-29T16:32:46Z"
+}

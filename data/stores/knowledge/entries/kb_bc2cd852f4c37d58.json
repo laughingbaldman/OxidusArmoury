@@ -1,0 +1,19 @@
+{
+  "id": "kb_bc2cd852f4c37d58",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 22
+  },
+  "summary": "And they continued three years without war between Syria and Israel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 22:1",
+  "content_hash": "9d6d0e71614146e1affd660e08243c1a503ea6149c5f98733023696717e2b5c8",
+  "updated": "2026-10-29T16:32:45Z"
+}

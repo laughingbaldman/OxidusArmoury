@@ -1,0 +1,19 @@
+{
+  "id": "kb_7103b2673d2c29d0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 11
+  },
+  "summary": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 11:1",
+  "content_hash": "2dde3dce5cad4e5544ff9ab26c321f6e62334dbb6911e990e669d9c97d7843a6",
+  "updated": "2026-10-29T16:32:47Z"
+}

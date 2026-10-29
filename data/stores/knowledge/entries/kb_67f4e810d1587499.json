@@ -1,0 +1,19 @@
+{
+  "id": "kb_67f4e810d1587499",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 28",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 28
+  },
+  "summary": "And when they were escaped, then they knew that the island was called Melita.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 28:1",
+  "content_hash": "2d6ba2066c50beaf7074b5c749e96f5ce3b8d6eee5dd386e4c629e325a503b66",
+  "updated": "2026-10-29T16:32:47Z"
+}

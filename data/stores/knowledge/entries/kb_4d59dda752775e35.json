@@ -1,0 +1,19 @@
+{
+  "id": "kb_4d59dda752775e35",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 12
+  },
+  "summary": "And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 12:1",
+  "content_hash": "150a857f26b41b3599c9d251c91c617c8de65657f64b3d5c56a511e207d0282e",
+  "updated": "2026-10-29T16:32:45Z"
+}

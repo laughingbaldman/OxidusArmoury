@@ -1,0 +1,19 @@
+{
+  "id": "kb_b66942a7e642e040",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 129",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 129
+  },
+  "summary": "Many a time have they afflicted me from my youth, may Israel now say:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 129:1",
+  "content_hash": "d7a73b5427861429d0cf2133501685493f0ff21e69bf12e76de347f0adf1513d",
+  "updated": "2026-10-29T16:32:46Z"
+}

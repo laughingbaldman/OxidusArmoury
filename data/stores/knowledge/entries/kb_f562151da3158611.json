@@ -1,0 +1,19 @@
+{
+  "id": "kb_f562151da3158611",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 10
+  },
+  "summary": "For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 10:1",
+  "content_hash": "230fa3106b29b1f021798416970ebd287c22b3b924e71691c3d1afb66ba12d72",
+  "updated": "2026-10-29T16:32:47Z"
+}

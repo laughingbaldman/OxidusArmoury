@@ -1,0 +1,19 @@
+{
+  "id": "kb_6aee7f5d7321445c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 10
+  },
+  "summary": "And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 10:1",
+  "content_hash": "4aa57844a09a67d84e3aefa5beeecffd484187ad93d31fe0aac55c0a9863bac6",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_3a3021db359d0c61",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 1
+  },
+  "summary": "And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 1:1",
+  "content_hash": "13697238345f0aebf7dae59ead45bac4787aca74eb273de58229c8b2c954925f",
+  "updated": "2026-10-29T16:32:45Z"
+}

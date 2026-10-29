@@ -1,0 +1,19 @@
+{
+  "id": "kb_a067c3d9be694a4a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 8
+  },
+  "summary": "All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 8:1",
+  "content_hash": "7e12f7666190ed61cde8f572b2369fc4d382f2625c7b5deddb7fdd0cec2d4d9d",
+  "updated": "2026-10-29T16:32:45Z"
+}

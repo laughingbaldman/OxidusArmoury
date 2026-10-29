@@ -1,0 +1,19 @@
+{
+  "id": "kb_49d5a2f757ca4926",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 47",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 47
+  },
+  "summary": "The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 47:1",
+  "content_hash": "7f36ec22a4ec15fc305b30ff81e58dc924dd6911a6fc4a3e494821df0a963132",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_0e4ab3deec9feff9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 110",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 110
+  },
+  "summary": "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 110:1",
+  "content_hash": "39e36343f12343acad4fdf6d9618990763d7ffe254aa746aae01f156294bf17d",
+  "updated": "2026-10-29T16:32:46Z"
+}

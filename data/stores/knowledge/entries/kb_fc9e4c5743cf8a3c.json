@@ -1,0 +1,19 @@
+{
+  "id": "kb_fc9e4c5743cf8a3c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 6
+  },
+  "summary": "Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 6:1",
+  "content_hash": "afa331f4c8fbd09b896c7e3a8477a0ec908933c88a3cd4546b085b816a41c2ca",
+  "updated": "2026-10-29T16:32:45Z"
+}

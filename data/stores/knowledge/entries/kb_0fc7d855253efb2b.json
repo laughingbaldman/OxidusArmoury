@@ -1,0 +1,19 @@
+{
+  "id": "kb_0fc7d855253efb2b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 13
+  },
+  "summary": "Lo, mine eye hath seen all this, mine ear hath heard and understood it.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 13:1",
+  "content_hash": "8a5ce13631a80fe5348c391856d09a18b91b9352e1372b4b7d42d6b8d72dc733",
+  "updated": "2026-10-29T16:32:46Z"
+}

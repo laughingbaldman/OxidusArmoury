@@ -1,0 +1,19 @@
+{
+  "id": "kb_ef5ff684baa29a66",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 9
+  },
+  "summary": "Hear, O Israel: Thou art to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 9:1",
+  "content_hash": "933c13efa5876a8939ec74944a2d77452ce25e49d1a03bdbedc5613ab76b793a",
+  "updated": "2026-10-29T16:32:45Z"
+}

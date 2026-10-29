@@ -1,0 +1,19 @@
+{
+  "id": "kb_2af050bf7eae4a08",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "James",
+  "title": "James 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "James",
+    "chapter": 4
+  },
+  "summary": "From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?",
+  "source": "KJV",
+  "when": "",
+  "loc": "James 4:1",
+  "content_hash": "5c15321c95a0d31fe5599d0e0bfd9be6a94b56e6890f3a3f100c7d2ac1a45798",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_7a736d76b8a57d83",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 20
+  },
+  "summary": "The LORD also spake unto Joshua, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 20:1",
+  "content_hash": "eb37ea44e2787d2a0fc4ea33ac8300621210877145917235159b0f66d62a02c5",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_558d56612288dea2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 6
+  },
+  "summary": "After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 6:1",
+  "content_hash": "d3b446eb6b91308f9c93e7c83a0b86cbe14405254af30d1915ac9fbfa76c858d",
+  "updated": "2026-10-29T16:32:47Z"
+}

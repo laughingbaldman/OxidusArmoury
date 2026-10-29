@@ -1,0 +1,19 @@
+{
+  "id": "kb_e04ff8b560f91389",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 51",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 51
+  },
+  "summary": "Thus saith the LORD; Behold, I will raise up against Babylon, and against them that dwell in the midst of them that rise up against me, a destroying wind;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 51:1",
+  "content_hash": "0558d7b325f650b27c98cfc159ef75c65c1bc8edcfa78a74cf73fd02255d05d3",
+  "updated": "2026-10-29T16:32:46Z"
+}

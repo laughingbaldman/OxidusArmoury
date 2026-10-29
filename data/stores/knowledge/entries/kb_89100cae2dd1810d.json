@@ -1,0 +1,19 @@
+{
+  "id": "kb_89100cae2dd1810d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 42",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 42
+  },
+  "summary": "Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 42:1",
+  "content_hash": "b7e17b31f3fe3731f8b600fd4786c836db1c61652a28dadf59622101183b1b07",
+  "updated": "2026-10-29T16:32:45Z"
+}

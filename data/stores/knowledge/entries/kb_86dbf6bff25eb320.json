@@ -1,0 +1,19 @@
+{
+  "id": "kb_86dbf6bff25eb320",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Timothy",
+  "title": "1 Timothy 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Timothy",
+    "chapter": 2
+  },
+  "summary": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Timothy 2:1",
+  "content_hash": "088b3bf4077f68c703f36a0992aa1f447661a2293d8e52f7f2f9afee5b33fca2",
+  "updated": "2026-10-29T16:32:47Z"
+}

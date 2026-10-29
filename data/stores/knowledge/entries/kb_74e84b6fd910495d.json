@@ -1,0 +1,19 @@
+{
+  "id": "kb_74e84b6fd910495d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Timothy",
+  "title": "1 Timothy 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Timothy",
+    "chapter": 4
+  },
+  "summary": "Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Timothy 4:1",
+  "content_hash": "2ee6f900dda243f9af8cac61f6d0bb0d081e4d494f18c9bcf1981868ff843229",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_218c1127b153eabf",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 28",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 28
+  },
+  "summary": "And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 28:1",
+  "content_hash": "6118cb8ab12b8b858a1f6e467abce160ca2fa6d9f8e41144f11fb12ccb7e3b1f",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_d4f33dc462aeb131",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 65",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 65
+  },
+  "summary": "Praise waiteth for thee, O God, in Sion: and unto thee shall the vow be performed.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 65:1",
+  "content_hash": "c1e5f628962dac9dc577da2d278515d9bd7516740679327060cddb3e1251fbdf",
+  "updated": "2026-10-29T16:32:46Z"
+}

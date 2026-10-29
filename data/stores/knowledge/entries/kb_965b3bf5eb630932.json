@@ -1,0 +1,19 @@
+{
+  "id": "kb_965b3bf5eb630932",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 17
+  },
+  "summary": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 17:1",
+  "content_hash": "5a597b99accca7bc12f176b4255868a5f5dc708e7f0431a47c410c59eb4609fd",
+  "updated": "2026-10-29T16:32:47Z"
+}

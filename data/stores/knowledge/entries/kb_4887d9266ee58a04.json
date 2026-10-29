@@ -1,0 +1,19 @@
+{
+  "id": "kb_4887d9266ee58a04",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 17
+  },
+  "summary": "Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 17:1",
+  "content_hash": "551cda2b56b0f3a54d74dad2c54d172f3a29ab7b1c05494b6667d3e781e16120",
+  "updated": "2026-10-29T16:32:47Z"
+}

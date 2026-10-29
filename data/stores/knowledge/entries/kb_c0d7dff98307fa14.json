@@ -1,0 +1,19 @@
+{
+  "id": "kb_c0d7dff98307fa14",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 134",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 134
+  },
+  "summary": "Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 134:1",
+  "content_hash": "9fa5cd58dbfeb33661cd4cf1c43481c652ba18512cdf4bf2c9658dd6bc732ebe",
+  "updated": "2026-10-29T16:32:46Z"
+}

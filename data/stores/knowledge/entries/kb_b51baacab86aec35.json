@@ -1,0 +1,19 @@
+{
+  "id": "kb_b51baacab86aec35",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 69",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 69
+  },
+  "summary": "Save me, O God; for the waters are come in unto my soul.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 69:1",
+  "content_hash": "54a6ee1c4be6afa6dc08e6cdeae40c4ca4fa761933be5ca65b90299ce337739d",
+  "updated": "2026-10-29T16:32:46Z"
+}

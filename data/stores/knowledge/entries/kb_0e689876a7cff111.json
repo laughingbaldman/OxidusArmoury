@@ -1,0 +1,19 @@
+{
+  "id": "kb_0e689876a7cff111",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 8
+  },
+  "summary": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 8:1",
+  "content_hash": "956e4c4a8d4af341243f1928fc5f95acb760d4d6081d97165ce8baa8ef05a08e",
+  "updated": "2026-10-29T16:32:45Z"
+}

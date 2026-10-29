@@ -1,0 +1,19 @@
+{
+  "id": "kb_530cc76458f0e381",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 16
+  },
+  "summary": "And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Bethel,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 16:1",
+  "content_hash": "c20689601a0e5eb7b56d749b1731ccb2a038e67bbdbfa60113bc95573320c0e5",
+  "updated": "2026-10-29T16:32:45Z"
+}

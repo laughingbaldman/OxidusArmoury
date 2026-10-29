@@ -1,0 +1,19 @@
+{
+  "id": "kb_f788b5e834bbe36c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 6
+  },
+  "summary": "Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do them in the land whither ye go to possess it:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 6:1",
+  "content_hash": "34f4a7906857a1f5a672ea2aef501e83ba7e386225c01cc7f21a07d4b42b6f0f",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_0c8c69819b1d202a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hosea",
+  "title": "Hosea 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hosea",
+    "chapter": 1
+  },
+  "summary": "The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hosea 1:1",
+  "content_hash": "d039ed52d2044a6de2ed823a8d6f4e603ff8bf76b855085635e342fdde3b2ae6",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_8a6adbb006b82ca4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zechariah",
+  "title": "Zechariah 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zechariah",
+    "chapter": 8
+  },
+  "summary": "Again the word of the LORD of hosts came to me, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zechariah 8:1",
+  "content_hash": "7c179ea323eb7824ea744942923ba40d2b1b9f86a524349e9d814f61a9e5461c",
+  "updated": "2026-10-29T16:32:46Z"
+}

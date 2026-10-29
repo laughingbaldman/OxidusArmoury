@@ -1,0 +1,19 @@
+{
+  "id": "kb_496407691cdeae86",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 13
+  },
+  "summary": "Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 13:1",
+  "content_hash": "2e8969954ca2ab3dacb455179940b8b526a3f4da341eac0df820f3be64e98e93",
+  "updated": "2026-10-29T16:32:47Z"
+}

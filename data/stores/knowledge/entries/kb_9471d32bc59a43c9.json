@@ -1,0 +1,19 @@
+{
+  "id": "kb_9471d32bc59a43c9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 28",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 28
+  },
+  "summary": "And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 28:1",
+  "content_hash": "d403ec0c0daea34b04c901651397783f33d711a3a59f99508fc02aa953c22002",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_20ac77af253ccf13",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 8
+  },
+  "summary": "Moreover the LORD said unto me, Take thee a great roll, and write in it with a man’s pen concerning Mahershalalhashbaz.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 8:1",
+  "content_hash": "44bfb2b53e7cbd118d946bb133dbff29f4e1950603e91d46d3df66f64efb3d93",
+  "updated": "2026-10-29T16:32:46Z"
+}

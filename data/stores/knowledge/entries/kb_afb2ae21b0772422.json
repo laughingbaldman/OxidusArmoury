@@ -1,0 +1,19 @@
+{
+  "id": "kb_afb2ae21b0772422",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Timothy",
+  "title": "1 Timothy 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Timothy",
+    "chapter": 3
+  },
+  "summary": "This is a true saying, If a man desire the office of a bishop, he desireth a good work.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Timothy 3:1",
+  "content_hash": "39764895e92528e62e00d7c699c28b8ba04cf72742d36f031080643f35f3b52b",
+  "updated": "2026-10-29T16:32:47Z"
+}

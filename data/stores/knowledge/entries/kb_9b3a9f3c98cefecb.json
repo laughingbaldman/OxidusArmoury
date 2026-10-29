@@ -1,0 +1,19 @@
+{
+  "id": "kb_9b3a9f3c98cefecb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 4
+  },
+  "summary": "So king Solomon was king over all Israel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 4:1",
+  "content_hash": "9075bddcef93d8340ed4faf7d23de3c86553324781f9949da6bc83951f4848b1",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_3f924c5425207eb0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 16
+  },
+  "summary": "The word of the LORD came also unto me, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 16:1",
+  "content_hash": "db43dd1e840d9717572b4223a739606c0843c479deaa750e132cbb7083e99c92",
+  "updated": "2026-10-29T16:32:46Z"
+}

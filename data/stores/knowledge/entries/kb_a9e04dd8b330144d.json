@@ -1,0 +1,19 @@
+{
+  "id": "kb_a9e04dd8b330144d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 2
+  },
+  "summary": "Why do the heathen rage, and the people imagine a vain thing?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 2:1",
+  "content_hash": "00914edafb21316c5541eb07c00993442a2223259d6e42e6805652068b805b70",
+  "updated": "2026-10-29T16:32:46Z"
+}

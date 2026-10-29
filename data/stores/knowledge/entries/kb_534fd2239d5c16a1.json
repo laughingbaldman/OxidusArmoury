@@ -1,0 +1,19 @@
+{
+  "id": "kb_534fd2239d5c16a1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ephesians",
+  "title": "Ephesians 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ephesians",
+    "chapter": 3
+  },
+  "summary": "For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ephesians 3:1",
+  "content_hash": "c2ab963d7de682c2403040df957c889db4ad2353a2cf0d35edb72e9d86cf87e1",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_1287cc6ca0c28b12",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 22
+  },
+  "summary": "Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 22:1",
+  "content_hash": "92b662c532f274b4ea44280ff8cb32d68e3638ac5141e56a645c2c252850f70c",
+  "updated": "2026-10-29T16:32:46Z"
+}

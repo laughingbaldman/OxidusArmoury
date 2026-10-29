@@ -1,0 +1,19 @@
+{
+  "id": "kb_b7061a270c40a810",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 117",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 117
+  },
+  "summary": "O Praise the LORD, all ye nations: praise him, all ye people.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 117:1",
+  "content_hash": "9a7ba3042b668823057817c1b04ac7bc41fba4735cf330d2720a75c192926b4e",
+  "updated": "2026-10-29T16:32:46Z"
+}

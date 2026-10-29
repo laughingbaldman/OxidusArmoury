@@ -1,0 +1,19 @@
+{
+  "id": "kb_e042626a34a5d5fb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 25
+  },
+  "summary": "Unto thee, O LORD, do I lift up my soul.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 25:1",
+  "content_hash": "9284239e681b3d2703e03ce5653bc656ba4d4d5ec2612b2546c767b471ac5485",
+  "updated": "2026-10-29T16:32:46Z"
+}

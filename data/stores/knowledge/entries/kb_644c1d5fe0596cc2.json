@@ -1,0 +1,19 @@
+{
+  "id": "kb_644c1d5fe0596cc2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 16
+  },
+  "summary": "I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 16:1",
+  "content_hash": "ba6e9787fa0cc1f50648234d04adaad57abb04b2ba02c8c870fa9b4f59ff7cdb",
+  "updated": "2026-10-29T16:32:47Z"
+}

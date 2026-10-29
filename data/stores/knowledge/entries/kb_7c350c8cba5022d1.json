@@ -1,0 +1,19 @@
+{
+  "id": "kb_7c350c8cba5022d1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 4
+  },
+  "summary": "Therefore seeing we have this ministry, as we have received mercy, we faint not;",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 4:1",
+  "content_hash": "e536b1263c4613c78d40dee552c9d23c108f27169a3617fcfa27f283d83bf92a",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_ed7f049cf5e330dd",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 John",
+  "title": "1 John 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 John",
+    "chapter": 1
+  },
+  "summary": "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 John 1:1",
+  "content_hash": "5187b682338a5f6592aa211ebae28eb23550075c244f104a13894163080a46ff",
+  "updated": "2026-10-29T16:32:47Z"
+}

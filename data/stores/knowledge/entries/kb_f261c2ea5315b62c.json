@@ -1,0 +1,19 @@
+{
+  "id": "kb_f261c2ea5315b62c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hosea",
+  "title": "Hosea 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hosea",
+    "chapter": 4
+  },
+  "summary": "Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hosea 4:1",
+  "content_hash": "3e8a41a645455a853b5bb1d0d845ea311415b48a75bc9adcf68aa0e6666c2c80",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_0253f8fa699f128e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 31",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 31
+  },
+  "summary": "At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 31:1",
+  "content_hash": "655122f8f8a0ca5af928229abe61afef42f0cab7e829abb0c755f6ba673bab6f",
+  "updated": "2026-10-29T16:32:46Z"
+}

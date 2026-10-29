@@ -1,0 +1,19 @@
+{
+  "id": "kb_fa137897f557f3aa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 23
+  },
+  "summary": "And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old and stricken in age.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 23:1",
+  "content_hash": "8476a60e191443938ddf92111ffa17fe6582e7400b08411882f007c7daec34bc",
+  "updated": "2026-10-29T16:32:45Z"
+}

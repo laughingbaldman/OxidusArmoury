@@ -1,0 +1,19 @@
+{
+  "id": "kb_8a834e25330e00f2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 3
+  },
+  "summary": "Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 3:1",
+  "content_hash": "65a32b65218084aa8b0e775593b6bf23a39bb4b1df77b9a33fe4091dc7da7b2f",
+  "updated": "2026-10-29T16:32:46Z"
+}

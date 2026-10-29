@@ -1,0 +1,19 @@
+{
+  "id": "kb_c03c7cf92508f63f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 1
+  },
+  "summary": "The book of the generation of Jesus Christ, the son of David, the son of Abraham.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 1:1",
+  "content_hash": "91e02045144df3aa9bdfe3c0ba93ddbbb90954b13d11fda348fbe536d5d91556",
+  "updated": "2026-10-29T16:32:47Z"
+}

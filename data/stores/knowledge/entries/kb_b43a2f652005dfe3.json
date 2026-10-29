@@ -1,0 +1,19 @@
+{
+  "id": "kb_b43a2f652005dfe3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 9
+  },
+  "summary": "And he entered into a ship, and passed over, and came into his own city.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 9:1",
+  "content_hash": "91de27b6dbf01c2bf849906535d86fb930621787cf97fc3e035c5a0c5ed6bd0c",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_3f6f6f768872c23d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 6
+  },
+  "summary": "And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 6:1",
+  "content_hash": "38c039573e31554a45b983e04761884dc870ed33161c509128e5df97cf338e14",
+  "updated": "2026-10-29T16:32:47Z"
+}

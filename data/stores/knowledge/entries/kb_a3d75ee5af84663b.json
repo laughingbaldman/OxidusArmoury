@@ -1,0 +1,19 @@
+{
+  "id": "kb_a3d75ee5af84663b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 8
+  },
+  "summary": "O LORD, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 8:1",
+  "content_hash": "a025645debaef4eb069e3b3b7d36e960ad0446dd51f05eabbb3cda60645e1c96",
+  "updated": "2026-10-29T16:32:46Z"
+}

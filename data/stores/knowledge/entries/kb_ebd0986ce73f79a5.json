@@ -1,0 +1,19 @@
+{
+  "id": "kb_ebd0986ce73f79a5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Lamentations",
+  "title": "Lamentations 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Lamentations",
+    "chapter": 1
+  },
+  "summary": "How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!",
+  "source": "KJV",
+  "when": "",
+  "loc": "Lamentations 1:1",
+  "content_hash": "f3fa76a3e4a15715bf81c46bb83065ca105f0b4b1e2aeca102bf07bcec7de544",
+  "updated": "2026-10-29T16:32:46Z"
+}

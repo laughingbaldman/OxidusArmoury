@@ -1,0 +1,19 @@
+{
+  "id": "kb_bdaa005a1aae5cb9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 20
+  },
+  "summary": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 20:1",
+  "content_hash": "61ce7c19cfd720e7dc8ae9f03c30105eae17900310289c5fb058bf07a2e426a4",
+  "updated": "2026-10-29T16:32:45Z"
+}

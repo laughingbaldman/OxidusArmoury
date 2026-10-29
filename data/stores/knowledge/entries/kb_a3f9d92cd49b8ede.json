@@ -1,0 +1,19 @@
+{
+  "id": "kb_a3f9d92cd49b8ede",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 5
+  },
+  "summary": "And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the LORD had dried up the waters of Jordan from before the children of Israel, until we were passed over, tha",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 5:1",
+  "content_hash": "5219aefa9575b809f8fe6254909bc6c1c0d587a2d8a4b6ffc9b4f56c53dd26ed",
+  "updated": "2026-10-29T16:32:45Z"
+}

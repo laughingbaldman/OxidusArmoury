@@ -1,0 +1,19 @@
+{
+  "id": "kb_872b70c5706ad18e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 45",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 45
+  },
+  "summary": "My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue is the pen of a ready writer.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 45:1",
+  "content_hash": "8f3f75f15e61b538769f8ffe0c602f78158ed324f4b5d846ea1be51d952a9d4e",
+  "updated": "2026-10-29T16:32:46Z"
+}

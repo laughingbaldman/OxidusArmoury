@@ -1,0 +1,19 @@
+{
+  "id": "kb_6b7fa07c3ff455f9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 13
+  },
+  "summary": "And it came to pass after this, that Absalom the son of David had a fair sister, whose name was Tamar; and Amnon the son of David loved her.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 13:1",
+  "content_hash": "50e7995e9d6f401317e951775bcfd7bd18ec6fa003df4a3ae5ad434c3ede47d2",
+  "updated": "2026-10-29T16:32:45Z"
+}

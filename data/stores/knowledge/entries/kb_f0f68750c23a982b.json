@@ -1,0 +1,19 @@
+{
+  "id": "kb_f0f68750c23a982b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 5
+  },
+  "summary": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 5:1",
+  "content_hash": "99c1f2b606bcf9cadd5a69909c76ab525f69651a0cda58b3fe908d77821c9442",
+  "updated": "2026-10-29T16:32:45Z"
+}

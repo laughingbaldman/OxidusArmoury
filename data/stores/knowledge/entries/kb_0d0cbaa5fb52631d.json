@@ -1,0 +1,19 @@
+{
+  "id": "kb_0d0cbaa5fb52631d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 19
+  },
+  "summary": "And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 19:1",
+  "content_hash": "17425efcb4cf6e117ba5d6680fcf878a0de5fca57671237e35c621ff8bdef605",
+  "updated": "2026-10-29T16:32:47Z"
+}

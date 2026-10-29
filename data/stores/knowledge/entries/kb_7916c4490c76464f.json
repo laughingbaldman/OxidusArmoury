@@ -1,0 +1,19 @@
+{
+  "id": "kb_7916c4490c76464f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Philippians",
+  "title": "Philippians 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Philippians",
+    "chapter": 3
+  },
+  "summary": "Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Philippians 3:1",
+  "content_hash": "6864e5ed15e8ef09c0758bd875d8c5d5298aa74adebe1adf45d5c843c84b8260",
+  "updated": "2026-10-29T16:32:47Z"
+}

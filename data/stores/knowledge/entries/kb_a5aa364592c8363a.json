@@ -1,0 +1,19 @@
+{
+  "id": "kb_a5aa364592c8363a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 81",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 81
+  },
+  "summary": "Sing aloud unto God our strength: make a joyful noise unto the God of Jacob.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 81:1",
+  "content_hash": "23ac9428f54d317d4bf5409f2457b1117df23b372eeef0454cedc92e0f007749",
+  "updated": "2026-10-29T16:32:46Z"
+}

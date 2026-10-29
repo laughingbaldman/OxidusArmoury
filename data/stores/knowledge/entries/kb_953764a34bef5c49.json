@@ -1,0 +1,19 @@
+{
+  "id": "kb_953764a34bef5c49",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Micah",
+  "title": "Micah 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Micah",
+    "chapter": 2
+  },
+  "summary": "Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Micah 2:1",
+  "content_hash": "987223b8d15686adad51c9ff3ad7e5925a4dd9a192f36d77d324b0f5883d482e",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_619025dffad2069e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 12
+  },
+  "summary": "Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 12:1",
+  "content_hash": "2959fe9796115eb1ed454de414f319bece6cfe66d007b8f3c8390ce45aa4ddff",
+  "updated": "2026-10-29T16:32:45Z"
+}

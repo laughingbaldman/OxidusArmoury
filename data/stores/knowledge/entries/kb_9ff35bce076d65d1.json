@@ -1,0 +1,19 @@
+{
+  "id": "kb_9ff35bce076d65d1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 9
+  },
+  "summary": "And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 9:1",
+  "content_hash": "2e57d9fe4e605bbe6502fa49d0b066552352d48dcb658ca5b5b0bd989b171ba4",
+  "updated": "2026-10-29T16:32:45Z"
+}

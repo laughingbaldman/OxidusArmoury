@@ -1,0 +1,19 @@
+{
+  "id": "kb_1ef91f211b3f1ad9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 20
+  },
+  "summary": "Now Pashur the son of Immer the priest, who was also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 20:1",
+  "content_hash": "5547c59fd0e85f92d9221e623c9e9739fd77841f7d05c218c610664e76e55155",
+  "updated": "2026-10-29T16:32:46Z"
+}

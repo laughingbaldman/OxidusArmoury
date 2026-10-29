@@ -1,0 +1,19 @@
+{
+  "id": "kb_0b87ce19476219a2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 13
+  },
+  "summary": "This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 13:1",
+  "content_hash": "be523903c86f7588498c09bd410baffd0989ee31eb960751b73b7849d5d8d5e7",
+  "updated": "2026-10-29T16:32:47Z"
+}

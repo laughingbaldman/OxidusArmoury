@@ -1,0 +1,19 @@
+{
+  "id": "kb_65f6aa8292456ca2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zechariah",
+  "title": "Zechariah 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zechariah",
+    "chapter": 6
+  },
+  "summary": "And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains were mountains of brass.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zechariah 6:1",
+  "content_hash": "99b1e240fab69e5dc7c99a9657936225bbbbb82b0766f5db81015f0039cd2070",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_34cbe5057115fffc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 2
+  },
+  "summary": "And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 2:1",
+  "content_hash": "f950b871df779cf1f19afa4fb4265464e03fd644b2e2437af95f1d341f9d5d72",
+  "updated": "2026-10-29T16:32:46Z"
+}

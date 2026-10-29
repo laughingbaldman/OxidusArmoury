@@ -1,0 +1,19 @@
+{
+  "id": "kb_81c7b7844e45439a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 31",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 31
+  },
+  "summary": "The words of king Lemuel, the prophecy that his mother taught him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 31:1",
+  "content_hash": "7382188ba5d65b829cf59f527abd5a45e9b44d01d674063a08cd85629cb46c89",
+  "updated": "2026-10-29T16:32:46Z"
+}

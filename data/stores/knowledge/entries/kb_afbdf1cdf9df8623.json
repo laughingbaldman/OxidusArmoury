@@ -1,0 +1,19 @@
+{
+  "id": "kb_afbdf1cdf9df8623",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 10
+  },
+  "summary": "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 10:1",
+  "content_hash": "0a3c2f93851e5503e9bda2c479a18ff51eb4773a54b13ab048d7c6385c14872d",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_ac63f6dddd9981b8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 49",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 49
+  },
+  "summary": "And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 49:1",
+  "content_hash": "930f9fc96ec97c3b21c4ae9fd04f6cb90a2a0efc1b998ed9a806e3cb549418c1",
+  "updated": "2026-10-29T16:32:45Z"
+}

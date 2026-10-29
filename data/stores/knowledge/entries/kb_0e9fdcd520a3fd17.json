@@ -1,0 +1,19 @@
+{
+  "id": "kb_0e9fdcd520a3fd17",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 7
+  },
+  "summary": "Judge not, that ye be not judged.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 7:1",
+  "content_hash": "570111ff7551698746a1fec30a856e396c9d9302fe53a086eed859a9eb4ed3db",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_fdedfe3b193ec427",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 88",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 88
+  },
+  "summary": "O LORD God of my salvation, I have cried day and night before thee:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 88:1",
+  "content_hash": "3964da5c21c1dbbd84938d9e0ede9f6391cd076e60d8f7926b29b4122b18452b",
+  "updated": "2026-10-29T16:32:46Z"
+}

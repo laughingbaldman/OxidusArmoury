@@ -1,0 +1,19 @@
+{
+  "id": "kb_a46b100ca1505220",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 4
+  },
+  "summary": "And the children of Israel again did evil in the sight of the LORD, when Ehud was dead.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 4:1",
+  "content_hash": "2766cda57774a6bb6ae801c6e88231721db00a098fb6fda13ea8f760961eaae2",
+  "updated": "2026-10-29T16:32:45Z"
+}

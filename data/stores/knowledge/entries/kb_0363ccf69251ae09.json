@@ -1,0 +1,19 @@
+{
+  "id": "kb_0363ccf69251ae09",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 6
+  },
+  "summary": "The sons of Levi; Gershon, Kohath, and Merari.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 6:1",
+  "content_hash": "a19d5156681872d346c61839311931f8bf5c048dd12db85d6405bd7d3d6ef09e",
+  "updated": "2026-10-29T16:32:46Z"
+}

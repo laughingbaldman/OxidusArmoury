@@ -1,0 +1,19 @@
+{
+  "id": "kb_a53a3b222c6cb116",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 26
+  },
+  "summary": "And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon?",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 26:1",
+  "content_hash": "4b72714ff9825837f986d92d641dd6753e207375005b12d5579dace28c3c69f7",
+  "updated": "2026-10-29T16:32:45Z"
+}

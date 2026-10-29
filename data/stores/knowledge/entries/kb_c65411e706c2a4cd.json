@@ -1,0 +1,19 @@
+{
+  "id": "kb_c65411e706c2a4cd",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 6
+  },
+  "summary": "Again, David gathered together all the chosen men of Israel, thirty thousand.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 6:1",
+  "content_hash": "e3a7f18435c491220297896d1832487c87aedc37b9349f3e3b60f43863d5c4a1",
+  "updated": "2026-10-29T16:32:45Z"
+}

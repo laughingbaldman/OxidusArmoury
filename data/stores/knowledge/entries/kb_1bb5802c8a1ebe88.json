@@ -1,0 +1,19 @@
+{
+  "id": "kb_1bb5802c8a1ebe88",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 4
+  },
+  "summary": "Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 4:1",
+  "content_hash": "1ec85d1bf4274111e128c36bb4b3bcddeb650723d814b896c274a3edba33372f",
+  "updated": "2026-10-29T16:32:47Z"
+}

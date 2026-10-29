@@ -1,0 +1,19 @@
+{
+  "id": "kb_c84df031b70cfbb1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 29",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 29
+  },
+  "summary": "Hezekiah began to reign when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother’s name was Abijah, the daughter of Zechariah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 29:1",
+  "content_hash": "fa3dee70df5c471bbca2216f36633c7dc583395842840431aabdde9c250d54d1",
+  "updated": "2026-10-29T16:32:46Z"
+}

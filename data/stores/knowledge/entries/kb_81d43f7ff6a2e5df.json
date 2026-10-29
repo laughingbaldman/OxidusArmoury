@@ -1,0 +1,19 @@
+{
+  "id": "kb_81d43f7ff6a2e5df",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 114",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 114
+  },
+  "summary": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 114:1",
+  "content_hash": "d7a6eb4e09b1193f9942e7ac4af316937ae72ae7cdd4d74936802d9b2dafd1cb",
+  "updated": "2026-10-29T16:32:46Z"
+}

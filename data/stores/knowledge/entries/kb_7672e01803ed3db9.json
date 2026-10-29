@@ -1,0 +1,19 @@
+{
+  "id": "kb_7672e01803ed3db9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 37",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 37
+  },
+  "summary": "Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 37:1",
+  "content_hash": "7a550fce6f82fb31316b00d9fba8f04764e0d7e3ddf6510f9037c99c5486d4f2",
+  "updated": "2026-10-29T16:32:46Z"
+}

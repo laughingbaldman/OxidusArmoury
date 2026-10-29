@@ -1,0 +1,19 @@
+{
+  "id": "kb_e4b14db1c1419540",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 116",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 116
+  },
+  "summary": "I love the LORD, because he hath heard my voice and my supplications.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 116:1",
+  "content_hash": "06db0a0b9e12e48154f4f55cad9cbffcbd67d1f8ae3b3d46abb6d5304a7906c0",
+  "updated": "2026-10-29T16:32:46Z"
+}

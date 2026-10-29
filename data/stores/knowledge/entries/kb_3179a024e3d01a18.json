@@ -1,0 +1,19 @@
+{
+  "id": "kb_3179a024e3d01a18",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 9
+  },
+  "summary": "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 9:1",
+  "content_hash": "d7f9689e2e34122430a722f8655742ebf11b8638679232e925a1aa533c6fdbf2",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_9dd2a29047a8fdb0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 24
+  },
+  "summary": "Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 24:1",
+  "content_hash": "30790d1e4cda9ed3c495e0420e852bf4ff19068ad6acaac166b4f58d2e931fd0",
+  "updated": "2026-10-29T16:32:46Z"
+}

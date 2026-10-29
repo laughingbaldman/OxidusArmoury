@@ -1,0 +1,19 @@
+{
+  "id": "kb_e2c51de44a9b6fb8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 11
+  },
+  "summary": "Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 11:1",
+  "content_hash": "2909da32333c6334abf52aa2f6ea5af52626ee5a7b6194837f4bb8b049a818a8",
+  "updated": "2026-10-29T16:32:47Z"
+}

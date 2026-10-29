@@ -1,0 +1,19 @@
+{
+  "id": "kb_08b4ee27b5a7a396",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 8
+  },
+  "summary": "And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 8:1",
+  "content_hash": "a60c38da703c296fee2f384be791cacac24893102bda873aa67ef1201077fbc5",
+  "updated": "2026-10-29T16:32:47Z"
+}

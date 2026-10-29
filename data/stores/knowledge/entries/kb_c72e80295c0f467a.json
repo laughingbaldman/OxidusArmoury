@@ -1,0 +1,19 @@
+{
+  "id": "kb_c72e80295c0f467a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 33",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 33
+  },
+  "summary": "And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 33:1",
+  "content_hash": "9aa388ac42d3cabbdfd91c30fe58e415226b75a158947160a6cdbc394080bcc0",
+  "updated": "2026-10-29T16:32:45Z"
+}

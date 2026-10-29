@@ -1,0 +1,19 @@
+{
+  "id": "kb_a725ff82e7379f4e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 54",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 54
+  },
+  "summary": "Save me, O God, by thy name, and judge me by thy strength.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 54:1",
+  "content_hash": "640517c8fbdeb71a8f48c88d028efd38d7e1d3d3ab7b93462c5c8b5403ecf817",
+  "updated": "2026-10-29T16:32:46Z"
+}

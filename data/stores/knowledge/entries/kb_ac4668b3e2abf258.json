@@ -1,0 +1,19 @@
+{
+  "id": "kb_ac4668b3e2abf258",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 11
+  },
+  "summary": "Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 11:1",
+  "content_hash": "e9d6c6d2fb68c066a35ca1f0701db8bc48a83d918678f3fe3e280867f60cc73c",
+  "updated": "2026-10-29T16:32:46Z"
+}

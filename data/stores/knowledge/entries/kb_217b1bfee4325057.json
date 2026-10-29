@@ -1,0 +1,19 @@
+{
+  "id": "kb_217b1bfee4325057",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 12
+  },
+  "summary": "Then Jesus six days before the passover came to Bethany, where Lazarus was, which had been dead, whom he raised from the dead.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 12:1",
+  "content_hash": "3ffdcaf9e1ac0306cde45f601f3a7f3515bb614174e3eb5a604d80568868eb1b",
+  "updated": "2026-10-29T16:32:47Z"
+}

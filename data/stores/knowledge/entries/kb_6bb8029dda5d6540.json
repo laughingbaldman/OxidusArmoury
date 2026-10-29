@@ -1,0 +1,19 @@
+{
+  "id": "kb_6bb8029dda5d6540",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 11
+  },
+  "summary": "Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 11:1",
+  "content_hash": "736f9c11233ab013ee68bc082f585c27b6b6c902cc81b0eb8095aa900ea66ce3",
+  "updated": "2026-10-29T16:32:45Z"
+}

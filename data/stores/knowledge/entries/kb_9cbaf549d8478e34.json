@@ -1,0 +1,19 @@
+{
+  "id": "kb_9cbaf549d8478e34",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 9
+  },
+  "summary": "I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 9:1",
+  "content_hash": "2e5c934fb3f8256ae6cfa8775b94c7c7824ed1ac61ec70cdc93b0a862ba243f6",
+  "updated": "2026-10-29T16:32:47Z"
+}

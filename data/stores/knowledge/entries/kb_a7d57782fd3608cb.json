@@ -1,0 +1,19 @@
+{
+  "id": "kb_a7d57782fd3608cb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 26
+  },
+  "summary": "And it came to pass in the eleventh year, in the first day of the month, that the word of the LORD came unto me, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 26:1",
+  "content_hash": "96448465030da4462c48061b979ed40ea4389e389886905456fbe8bbcf9220bc",
+  "updated": "2026-10-29T16:32:46Z"
+}

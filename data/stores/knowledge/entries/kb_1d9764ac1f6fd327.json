@@ -1,0 +1,19 @@
+{
+  "id": "kb_1d9764ac1f6fd327",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 7
+  },
+  "summary": "My son, keep my words, and lay up my commandments with thee.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 7:1",
+  "content_hash": "be9ed9bdd4ee8d2e364aac6db0cf190cb2761eacd18f79c546c9db13580a295b",
+  "updated": "2026-10-29T16:32:46Z"
+}

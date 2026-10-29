@@ -1,0 +1,19 @@
+{
+  "id": "kb_20d84057d9019cac",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 7
+  },
+  "summary": "Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimrom, four.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 7:1",
+  "content_hash": "3fd7282e97750e8a4c2851b6fbdc1d367bcb59d0b7e9033990dc4a6e8d219a55",
+  "updated": "2026-10-29T16:32:46Z"
+}

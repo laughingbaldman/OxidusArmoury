@@ -1,0 +1,19 @@
+{
+  "id": "kb_f8399e202422004d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 18
+  },
+  "summary": "Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 18:1",
+  "content_hash": "630109c377c608527fc85b0feac57a6cc3f1424b55f86c296bc19eabae582b9b",
+  "updated": "2026-10-29T16:32:46Z"
+}

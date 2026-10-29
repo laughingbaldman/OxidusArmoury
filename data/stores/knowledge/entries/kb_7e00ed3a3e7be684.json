@@ -1,0 +1,19 @@
+{
+  "id": "kb_7e00ed3a3e7be684",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 5
+  },
+  "summary": "Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 5:1",
+  "content_hash": "94126eb929f1a6938450f6445eb245a2cd399e94c03eb61a23c1ca24ba2221f8",
+  "updated": "2026-10-29T16:32:46Z"
+}

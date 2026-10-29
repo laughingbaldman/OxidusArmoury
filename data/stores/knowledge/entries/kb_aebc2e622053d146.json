@@ -1,0 +1,19 @@
+{
+  "id": "kb_aebc2e622053d146",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 68",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 68
+  },
+  "summary": "Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 68:1",
+  "content_hash": "0ea2e2444dcd724956704f5ad3ef2f0c0d8e71335e11f404fb74aeade3f918fe",
+  "updated": "2026-10-29T16:32:46Z"
+}

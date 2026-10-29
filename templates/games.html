@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oxidus games</title>
+    <style>
+        body { margin: 0; background: #101317; color: #f5f7fb; font-family: "Segoe UI", sans-serif; }
+        header { display: flex; justify-content: space-between; align-items: center; padding: 16px 22px; border-bottom: 1px solid rgba(200,210,220,.18); }
+        a { color: #c1ba8b; }
+        main { padding: 22px; max-width: 980px; }
+        .warn { background: #3a2a1c; border: 1px solid #c1ba8b; padding: 12px 14px; margin: 12px 0 18px; }
+        .row { display: flex; gap: 12px; align-items: center; justify-content: space-between; padding: 12px 0; border-bottom: 1px solid rgba(255,255,255,.08); }
+        button { background: #c1ba8b; color: #111; border: 0; padding: 8px 12px; cursor: pointer; }
+        button.off { background: #2a3138; color: #f5f7fb; }
+        .banner { position: sticky; top: 0; background: #6b2b24; padding: 8px 12px; display: none; }
+        .banner.on { display: block; }
+        label { display: block; margin-top: 8px; }
+    </style>
+</head>
+<body>
+    <div id="banner" class="banner"></div>
+    <header>
+        <strong>Play together</strong>
+        <a href="/">Back to chat</a>
+    </header>
+    <main>
+        <p>Online games start with play-together off. Turn a game on when you are hosting a private room. The anti-cheat note shows once.</p>
+        <div id="warning" class="warn" hidden></div>
+        <button id="ack" hidden>I understand, don't show this again</button>
+        <h2>Installed games</h2>
+        <div id="list">Looking for a local Steam library...</div>
+        <h2>Boards in the app</h2>
+        <p id="word"></p>
+        <label>Letter <input id="letter" maxlength="1"> <button id="guess">Guess</button></label>
+        <p id="trivia"></p>
+        <label>Answer <input id="triviaAnswer"> <button id="triviaSend">Check</button></label>
+        <p id="tic"></p>
+    </main>
+    <script>
+        const banner = document.getElementById("banner");
+        const warning = document.getElementById("warning");
+        const ack = document.getElementById("ack");
+        const list = document.getElementById("list");
+
+        function showBanner(text, on) {
+            banner.textContent = text || "";
+            banner.className = on ? "banner on" : "banner";
+        }
+
+        async function load() {
+            const response = await fetch("/api/games/library");
+            const data = await response.json();
+            if (!data.warning_acknowledged) {
+                warning.hidden = false;
+                warning.textContent = "Some games' anti-cheat may flag input automation. This notice shows once. Private rooms are your call.";
+                ack.hidden = false;
+            } else {
+                warning.hidden = true;
+                ack.hidden = true;
+            }
+            const watching = data.companion && data.companion.watching;
+            const driving = data.player2 && data.player2.enabled;
+            showBanner(watching ? data.companion.indicator : (driving ? data.player2.indicator : ""), watching || driving);
+            if (!data.games.length) {
+                list.textContent = "No installed Steam games found on this machine. The switches still work once a library is present.";
+                return;
+            }
+            list.innerHTML = "";
+            data.games.forEach((game) => {
+                const safety = game.safety || {};
+                const row = document.createElement("div");
+                row.className = "row";
+                const on = !!safety.input_enabled;
+                const label = safety.online ? "Online, default off" : (safety.mode || "local");
+                row.innerHTML = `<div><strong></strong><div></div></div><div></div>`;
+                row.children[0].children[0].textContent = game.name;
+                row.children[0].children[1].textContent = `${label}. ${safety.warning || ""}`;
+                const controls = row.children[1];
+                const toggle = document.createElement("button");
+                toggle.className = on ? "" : "off";
+                toggle.textContent = on ? "Play-together on" : "Play-together off";
+                toggle.onclick = () => setToggle(game.appid, !on);
+                const launch = document.createElement("button");
+                launch.textContent = "Launch";
+                launch.onclick = () => launchGame(game.launch_url);
+                controls.append(toggle, launch);
+                list.appendChild(row);
+            });
+        }
+
+        async function setToggle(appid, enabled) {
+            const response = await fetch("/api/games/toggle", {
+                method: "POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({appid, enabled})
+            });
+            const data = await response.json();
+            if (data.needs_warning) {
+                warning.hidden = false;
+                warning.textContent = data.warning;
+                ack.hidden = false;
+            }
+            await load();
+        }
+
+        function launchGame(url) {
+            window.location.href = url;
+        }
+
+        ack.onclick = async () => {
+            await fetch("/api/games/warning", {method: "POST"});
+            await load();
+        };
+
+        async function refreshBoards() {
+            const response = await fetch("/api/games/board");
+            const data = await response.json();
+            document.getElementById("word").textContent = `Word: ${data.word.mask || "press guess to start"}`;
+            document.getElementById("trivia").textContent = data.trivia.prompt;
+            document.getElementById("tic").textContent = `Tic-tac-toe ${data.tic.board.join(" ")} (${data.tic.winner || data.tic.turn})`;
+        }
+
+        document.getElementById("guess").onclick = async () => {
+            await fetch("/api/games/board", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({kind: "word", letter: document.getElementById("letter").value})});
+            refreshBoards();
+        };
+        document.getElementById("triviaSend").onclick = async () => {
+            await fetch("/api/games/board", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({kind: "trivia", answer: document.getElementById("triviaAnswer").value})});
+            refreshBoards();
+        };
+        refreshBoards();
+        load();
+    </script>
+</body>
+</html>

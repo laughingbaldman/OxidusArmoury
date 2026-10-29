@@ -1,0 +1,19 @@
+{
+  "id": "kb_d80e500a9727ef02",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 7
+  },
+  "summary": "Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 7:1",
+  "content_hash": "8a1520447f2dd597560754908caf1a244c31519f7ca1b03a6b6ae1084da98388",
+  "updated": "2026-10-29T16:32:46Z"
+}

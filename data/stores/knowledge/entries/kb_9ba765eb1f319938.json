@@ -1,0 +1,19 @@
+{
+  "id": "kb_9ba765eb1f319938",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 53",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 53
+  },
+  "summary": "Who hath believed our report? and to whom is the arm of the LORD revealed?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 53:1",
+  "content_hash": "5d35938455e4620cd0398aaa58bddb20109f316cdb51357be2d6f28d45a070ea",
+  "updated": "2026-10-29T16:32:46Z"
+}

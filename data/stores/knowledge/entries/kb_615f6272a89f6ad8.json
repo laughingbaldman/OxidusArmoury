@@ -1,0 +1,19 @@
+{
+  "id": "kb_615f6272a89f6ad8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Malachi",
+  "title": "Malachi 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Malachi",
+    "chapter": 2
+  },
+  "summary": "And now, O ye priests, this commandment is for you.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Malachi 2:1",
+  "content_hash": "a87b64813223322bc8db9451a0c9e6089add021a444184cf820f338e38c54270",
+  "updated": "2026-10-29T16:32:46Z"
+}

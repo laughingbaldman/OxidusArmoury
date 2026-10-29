@@ -1,0 +1,19 @@
+{
+  "id": "kb_29b1aa9627a8caa8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Habakkuk",
+  "title": "Habakkuk 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Habakkuk",
+    "chapter": 1
+  },
+  "summary": "The burden which Habakkuk the prophet did see.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Habakkuk 1:1",
+  "content_hash": "c605aff335caeaf35ec364d7e1da739bff6dee28a780e3c01ff348e3d278ea9d",
+  "updated": "2026-10-29T16:32:46Z"
+}

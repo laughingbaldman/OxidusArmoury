@@ -1,0 +1,19 @@
+{
+  "id": "kb_08942067822cc01d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 10
+  },
+  "summary": "And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 10:1",
+  "content_hash": "617356620d204f4b1396e2446f40a6cba17801983dce4c8df4caa17c27458127",
+  "updated": "2026-10-29T16:32:47Z"
+}

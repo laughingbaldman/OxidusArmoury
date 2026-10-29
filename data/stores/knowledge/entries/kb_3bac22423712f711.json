@@ -1,0 +1,19 @@
+{
+  "id": "kb_3bac22423712f711",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 9
+  },
+  "summary": "Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 9:1",
+  "content_hash": "786885ca2382f7e2436c91c68ebca2a2724b88ee6ab62f8643cb3eef01893ee7",
+  "updated": "2026-10-29T16:32:46Z"
+}

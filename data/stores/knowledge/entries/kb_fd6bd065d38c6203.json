@@ -1,0 +1,19 @@
+{
+  "id": "kb_fd6bd065d38c6203",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 44",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 44
+  },
+  "summary": "And he commanded the steward of his house, saying, Fill the men’s sacks with food, as much as they can carry, and put every man’s money in his sack’s mouth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 44:1",
+  "content_hash": "f587d6a67579bdd1156b09e93ef9ce1b144a7e18e2a0b7902cc234d1b4c9aa86",
+  "updated": "2026-10-29T16:32:45Z"
+}

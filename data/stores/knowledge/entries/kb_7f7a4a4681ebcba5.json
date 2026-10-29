@@ -1,0 +1,19 @@
+{
+  "id": "kb_7f7a4a4681ebcba5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 46",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 46
+  },
+  "summary": "God is our refuge and strength, a very present help in trouble.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 46:1",
+  "content_hash": "c718e973dd14783c1687bc7377dab423bc7ccf94d8d19535d9c90591ff11cde0",
+  "updated": "2026-10-29T16:32:46Z"
+}

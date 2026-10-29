@@ -1,0 +1,19 @@
+{
+  "id": "kb_1c699e34c5f1478f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 John",
+  "title": "1 John 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 John",
+    "chapter": 4
+  },
+  "summary": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 John 4:1",
+  "content_hash": "8512056c49bcfe6ddb9c9a18ca49ef50bbe40aa6ae833a644cf9c0e01a6ddbba",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_3b4c97871fd76960",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 5
+  },
+  "summary": "And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 5:1",
+  "content_hash": "95b9ddd3f53dea0546422d8be27507dc63e67a9234c7837e8e6b3956eecfbc8f",
+  "updated": "2026-10-29T16:32:45Z"
+}

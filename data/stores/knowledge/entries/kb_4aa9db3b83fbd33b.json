@@ -1,0 +1,19 @@
+{
+  "id": "kb_4aa9db3b83fbd33b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 16
+  },
+  "summary": "And when David was a little past the top of the hill, behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred loaves of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 16:1",
+  "content_hash": "9d10718f14dfb2d0cf62466708ad976d2b323b9cd1c95587d263345dc023a16b",
+  "updated": "2026-10-29T16:32:45Z"
+}

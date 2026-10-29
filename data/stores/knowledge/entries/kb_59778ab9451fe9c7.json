@@ -1,0 +1,19 @@
+{
+  "id": "kb_59778ab9451fe9c7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 32",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 32
+  },
+  "summary": "Blessed is he whose transgression is forgiven, whose sin is covered.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 32:1",
+  "content_hash": "817e35a2b843d2ad548f450b4367708b5789b8ef0520d3c335a66abf68b66c52",
+  "updated": "2026-10-29T16:32:46Z"
+}

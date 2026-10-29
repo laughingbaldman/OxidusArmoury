@@ -1,0 +1,19 @@
+{
+  "id": "kb_d0d3d10977dbb346",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 43",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 43
+  },
+  "summary": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 43:1",
+  "content_hash": "3606522894bf21c634688ead72fdf7e4dd6476f2d16d132a440716fa2d628888",
+  "updated": "2026-10-29T16:32:46Z"
+}

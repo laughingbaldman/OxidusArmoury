@@ -1,0 +1,19 @@
+{
+  "id": "kb_45271bfe4e21583a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 128",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 128
+  },
+  "summary": "Blessed is every one that feareth the LORD; that walketh in his ways.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 128:1",
+  "content_hash": "40dde38d095840c482201756a9d922a02b5f6372627bc872d1f9b3c42b216f8f",
+  "updated": "2026-10-29T16:32:46Z"
+}

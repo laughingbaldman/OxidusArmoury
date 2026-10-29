@@ -1,0 +1,19 @@
+{
+  "id": "kb_f9605c3d7709a81e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 32",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 32
+  },
+  "summary": "And Jacob went on his way, and the angels of God met him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 32:1",
+  "content_hash": "cb640395a9e72c6375f6e5ad4ae03eb895a751ca4487400f91af77dbac1963f2",
+  "updated": "2026-10-29T16:32:45Z"
+}

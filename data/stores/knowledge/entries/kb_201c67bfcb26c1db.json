@@ -1,0 +1,19 @@
+{
+  "id": "kb_201c67bfcb26c1db",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 10
+  },
+  "summary": "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 10:1",
+  "content_hash": "ed14c2b8fcccdf621ad9e199c51cf023808f4b99f15fdd7fdd9e475aea6d9773",
+  "updated": "2026-10-29T16:32:45Z"
+}

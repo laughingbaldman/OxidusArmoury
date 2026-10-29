@@ -1,0 +1,19 @@
+{
+  "id": "kb_24968ab765657d8a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 5
+  },
+  "summary": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 5:1",
+  "content_hash": "b8c558018816be04ceccb3ee9f6fefee4e8e7bac9fce07ae506fcf2e1b9f24d5",
+  "updated": "2026-10-29T16:32:47Z"
+}

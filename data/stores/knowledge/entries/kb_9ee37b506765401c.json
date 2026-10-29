@@ -1,0 +1,19 @@
+{
+  "id": "kb_9ee37b506765401c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Thessalonians",
+  "title": "1 Thessalonians 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Thessalonians",
+    "chapter": 1
+  },
+  "summary": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Thessalonians 1:1",
+  "content_hash": "25b0a2cb6769f6ad12cea8de54b0bfc2fb057ad3400eebe2b7c68729416203f3",
+  "updated": "2026-10-29T16:32:47Z"
+}

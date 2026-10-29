@@ -1,0 +1,19 @@
+{
+  "id": "kb_83257ce5dacf8ff1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zechariah",
+  "title": "Zechariah 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zechariah",
+    "chapter": 14
+  },
+  "summary": "Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zechariah 14:1",
+  "content_hash": "2eaffd8225c1c0ab228922a132aebc1253141b39837d6a4112def768dbeab615",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_d74dbd88362ce64d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 10
+  },
+  "summary": "There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 10:1",
+  "content_hash": "67b0d54d4892238330529951fde8dfbe29b64b2706292ea1108b0fff43cccbc2",
+  "updated": "2026-10-29T16:32:47Z"
+}

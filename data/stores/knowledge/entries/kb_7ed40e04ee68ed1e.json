@@ -1,0 +1,19 @@
+{
+  "id": "kb_7ed40e04ee68ed1e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 78",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 78
+  },
+  "summary": "Give ear, O my people, to my law: incline your ears to the words of my mouth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 78:1",
+  "content_hash": "bb53cc0d4e336676d824216700cb281966482b99b3a01ca2239e5d14dff62ebe",
+  "updated": "2026-10-29T16:32:46Z"
+}

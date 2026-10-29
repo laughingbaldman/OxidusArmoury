@@ -1,0 +1,19 @@
+{
+  "id": "kb_b55d75103f117df7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 16
+  },
+  "summary": "And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 16:1",
+  "content_hash": "8af9028b4c67f491ce089e5c0eee8a775428d6ffac3c17090955f1cb986032a7",
+  "updated": "2026-10-29T16:32:45Z"
+}

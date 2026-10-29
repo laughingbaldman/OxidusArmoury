@@ -1,0 +1,19 @@
+{
+  "id": "kb_0f1d2830967be745",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 13
+  },
+  "summary": "A wise son heareth his father’s instruction: but a scorner heareth not rebuke.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 13:1",
+  "content_hash": "544aa2899ae4dbf0e2cffa0a7351aeb54a38a8917b77e612f62f9fefe4094a57",
+  "updated": "2026-10-29T16:32:46Z"
+}

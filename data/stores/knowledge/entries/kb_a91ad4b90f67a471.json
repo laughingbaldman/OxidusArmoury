@@ -1,0 +1,19 @@
+{
+  "id": "kb_a91ad4b90f67a471",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Amos",
+  "title": "Amos 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Amos",
+    "chapter": 5
+  },
+  "summary": "Hear ye this word which I take up against you, even a lamentation, O house of Israel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Amos 5:1",
+  "content_hash": "2f43512f12d7917c800e7dd902ffa4f0d11d53bda53d1ce3d853943feefe58ec",
+  "updated": "2026-10-29T16:32:46Z"
+}

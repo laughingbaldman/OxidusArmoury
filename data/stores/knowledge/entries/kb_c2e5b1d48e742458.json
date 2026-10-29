@@ -1,0 +1,19 @@
+{
+  "id": "kb_c2e5b1d48e742458",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 11
+  },
+  "summary": "I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 11:1",
+  "content_hash": "61f4912338d76d7d53f36c1270afe20c2076579afac702bfd61257871e019bfa",
+  "updated": "2026-10-29T16:32:47Z"
+}

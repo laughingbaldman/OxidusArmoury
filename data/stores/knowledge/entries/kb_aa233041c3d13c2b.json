@@ -1,0 +1,19 @@
+{
+  "id": "kb_aa233041c3d13c2b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 26
+  },
+  "summary": "Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 26:1",
+  "content_hash": "9493a1a2ccd6be18544080a56cc41c54fd721a447b53acf2e3202aa03b967be0",
+  "updated": "2026-10-29T16:32:46Z"
+}

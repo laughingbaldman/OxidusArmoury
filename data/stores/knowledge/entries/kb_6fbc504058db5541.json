@@ -1,0 +1,19 @@
+{
+  "id": "kb_6fbc504058db5541",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 22
+  },
+  "summary": "Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 22:1",
+  "content_hash": "ae8c99722b99e1e6268c3eec6e175aad7dda5b51acac010e2225bd1495b58ef5",
+  "updated": "2026-10-29T16:32:45Z"
+}

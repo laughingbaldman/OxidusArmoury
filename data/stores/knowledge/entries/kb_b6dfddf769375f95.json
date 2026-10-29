@@ -1,0 +1,19 @@
+{
+  "id": "kb_b6dfddf769375f95",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 34",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 34
+  },
+  "summary": "And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 34:1",
+  "content_hash": "7244e810cfba7b8d384046a8c54b523240b72d0b408ca767d7ec011be60c39a3",
+  "updated": "2026-10-29T16:32:45Z"
+}

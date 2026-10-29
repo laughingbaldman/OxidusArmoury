@@ -1,0 +1,19 @@
+{
+  "id": "kb_0aaff9637060309f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 7
+  },
+  "summary": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 7:1",
+  "content_hash": "95885f915f8e4f6618410a580fe6585126aebf7b2bcc4a9c1b58189ff32c2fae",
+  "updated": "2026-10-29T16:32:45Z"
+}

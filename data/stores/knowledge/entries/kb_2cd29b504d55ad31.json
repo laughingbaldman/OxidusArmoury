@@ -1,0 +1,19 @@
+{
+  "id": "kb_2cd29b504d55ad31",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Song of Solomon",
+  "title": "Song of Solomon 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Song of Solomon",
+    "chapter": 1
+  },
+  "summary": "The song of songs, which is Solomon’s.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Song of Solomon 1:1",
+  "content_hash": "225866be01ba973d72e83099e8cb2c43fbdd3f7268d29a762fcf8b3d0a107428",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_827b393c76dc1bcb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 14
+  },
+  "summary": "For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 14:1",
+  "content_hash": "2b4eb8d4c14575af8ea398bf1021a1665b372fc26df4cb8bcedf8f1dffc2a812",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_6c9c55cf9239bb7c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Colossians",
+  "title": "Colossians 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Colossians",
+    "chapter": 2
+  },
+  "summary": "For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Colossians 2:1",
+  "content_hash": "626a1e89046e5f75048bfbeb50e48f8565a90d80f9cdb107a8b9c9253d0cc559",
+  "updated": "2026-10-29T16:32:47Z"
+}

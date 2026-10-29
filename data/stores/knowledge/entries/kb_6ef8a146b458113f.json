@@ -1,0 +1,19 @@
+{
+  "id": "kb_6ef8a146b458113f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 8
+  },
+  "summary": "Doth not wisdom cry? and understanding put forth her voice?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 8:1",
+  "content_hash": "8bf84e8204309d84dcb209d6f813ed46ea5020743be95dca239d9383e4ab8bd2",
+  "updated": "2026-10-29T16:32:46Z"
+}

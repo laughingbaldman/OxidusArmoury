@@ -1,0 +1,19 @@
+{
+  "id": "kb_51404f8f8296389e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 41",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 41
+  },
+  "summary": "Blessed is he that considereth the poor: the LORD will deliver him in time of trouble.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 41:1",
+  "content_hash": "0f60aaa8c76420d2d969cb1a610d65660b2815e89c02b5ded262e28081fbfb8e",
+  "updated": "2026-10-29T16:32:46Z"
+}

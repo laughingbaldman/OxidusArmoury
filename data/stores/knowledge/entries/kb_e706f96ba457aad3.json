@@ -1,0 +1,19 @@
+{
+  "id": "kb_e706f96ba457aad3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 35",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 35
+  },
+  "summary": "The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 35:1",
+  "content_hash": "46bc96974ba6504bf693ce74a113979bf474830011eac26b0ef70d64e1580008",
+  "updated": "2026-10-29T16:32:46Z"
+}

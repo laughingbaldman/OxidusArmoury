@@ -1,0 +1,19 @@
+{
+  "id": "kb_35c9aa0cbcebb006",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 19
+  },
+  "summary": "And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 19:1",
+  "content_hash": "36609c9e357cc3e25a172481a6fd34ac75bd3c7fdfb3d01f04e3c9aa357a36ef",
+  "updated": "2026-10-29T16:32:47Z"
+}

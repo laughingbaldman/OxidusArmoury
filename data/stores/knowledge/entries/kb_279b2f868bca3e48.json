@@ -1,0 +1,19 @@
+{
+  "id": "kb_279b2f868bca3e48",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Malachi",
+  "title": "Malachi 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Malachi",
+    "chapter": 1
+  },
+  "summary": "The burden of the word of the LORD to Israel by Malachi.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Malachi 1:1",
+  "content_hash": "dd678cfee56b20d979ebc0c71c1eecdede7363feb6d27a88855f80a80992ceb8",
+  "updated": "2026-10-29T16:32:46Z"
+}

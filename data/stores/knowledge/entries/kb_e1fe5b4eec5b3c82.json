@@ -1,0 +1,19 @@
+{
+  "id": "kb_e1fe5b4eec5b3c82",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 131",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 131
+  },
+  "summary": "Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 131:1",
+  "content_hash": "dcd004a27bed5ade8ce5d427e743e61589495afc77c4857ec5d3c33b65a3a127",
+  "updated": "2026-10-29T16:32:46Z"
+}

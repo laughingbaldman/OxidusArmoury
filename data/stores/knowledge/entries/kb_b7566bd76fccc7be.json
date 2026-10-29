@@ -1,0 +1,19 @@
+{
+  "id": "kb_b7566bd76fccc7be",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 6
+  },
+  "summary": "It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 6:1",
+  "content_hash": "1a9ab2e8bc108dcecc4f728f25887ab3399594cde60c3ed87cf7953bc4eed115",
+  "updated": "2026-10-29T16:32:46Z"
+}

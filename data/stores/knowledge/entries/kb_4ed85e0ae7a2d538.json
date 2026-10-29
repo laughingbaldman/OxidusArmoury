@@ -1,0 +1,19 @@
+{
+  "id": "kb_4ed85e0ae7a2d538",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 23
+  },
+  "summary": "Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 23:1",
+  "content_hash": "c283df94aaaffe63218730ffae6a08b252d75699b0685a1d3f967c32275baaac",
+  "updated": "2026-10-29T16:32:45Z"
+}

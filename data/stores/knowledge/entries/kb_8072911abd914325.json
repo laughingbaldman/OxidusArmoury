@@ -1,0 +1,19 @@
+{
+  "id": "kb_8072911abd914325",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 7
+  },
+  "summary": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 7:1",
+  "content_hash": "0ae63bcffb451d6cdccc31907a570963561de6295911b875f5050774c33a0bce",
+  "updated": "2026-10-29T16:32:47Z"
+}

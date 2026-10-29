@@ -1,0 +1,19 @@
+{
+  "id": "kb_d973c03c526afe5f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 6
+  },
+  "summary": "Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 6:1",
+  "content_hash": "27f31a94c8a95bce8c7ea434b6036db7e2a970aabae482d1c848d940d29d3a9d",
+  "updated": "2026-10-29T16:32:47Z"
+}

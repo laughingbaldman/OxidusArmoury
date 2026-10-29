@@ -1,0 +1,19 @@
+{
+  "id": "kb_bf94392a73bb15f6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 1
+  },
+  "summary": "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 1:1",
+  "content_hash": "56440b3d055f6fee30d4a3cb18f32fab850bcc82ea514260015e88ee20f4271d",
+  "updated": "2026-10-29T16:32:47Z"
+}

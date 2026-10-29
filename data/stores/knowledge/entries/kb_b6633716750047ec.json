@@ -1,0 +1,19 @@
+{
+  "id": "kb_b6633716750047ec",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 42",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 42
+  },
+  "summary": "Then Job answered the LORD, and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 42:1",
+  "content_hash": "742fbd6f157cf6e88b445ea457ec62afeb3d5511b004cf8efdd7e7a63d392310",
+  "updated": "2026-10-29T16:32:46Z"
+}

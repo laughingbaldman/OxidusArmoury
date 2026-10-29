@@ -1,0 +1,19 @@
+{
+  "id": "kb_0c06fd7f5e3797e8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 11
+  },
+  "summary": "And when the people complained, it displeased the LORD: and the LORD heard it; and his anger was kindled; and the fire of the LORD burnt among them, and consumed them that were in the uttermost parts of the camp.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 11:1",
+  "content_hash": "82485050cf6825aaed8a54ce734f1d0b6ccf63785ef7117baddc5ce3ca4713cb",
+  "updated": "2026-10-29T16:32:45Z"
+}

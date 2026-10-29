@@ -1,0 +1,19 @@
+{
+  "id": "kb_4cc7ccf9f26a5e9b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 19
+  },
+  "summary": "And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 19:1",
+  "content_hash": "5c7105588a8672357f685697349bda884928dde1751e62a780d0d85a02d4aed3",
+  "updated": "2026-10-29T16:32:45Z"
+}

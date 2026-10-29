@@ -1,0 +1,19 @@
+{
+  "id": "kb_a81fe174f1ec11a1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 13
+  },
+  "summary": "In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, and reigned seventeen years.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 13:1",
+  "content_hash": "b9789b13a19205197ef529b3fea7ce63e164347cfdd50e1cb4c5fc949ae1644e",
+  "updated": "2026-10-29T16:32:46Z"
+}

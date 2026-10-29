@@ -1,0 +1,19 @@
+{
+  "id": "kb_b92753886c10cc27",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 6
+  },
+  "summary": "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Zif, which is the second month, that he began to build the house of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 6:1",
+  "content_hash": "52af8f333033d7dd8a2ab55d99e9601fefcbe95fd07d5267c1243ddf3fcb0c16",
+  "updated": "2026-10-29T16:32:45Z"
+}

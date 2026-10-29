@@ -1,0 +1,19 @@
+{
+  "id": "kb_5658525101c3221a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hosea",
+  "title": "Hosea 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hosea",
+    "chapter": 6
+  },
+  "summary": "Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hosea 6:1",
+  "content_hash": "dd4ad2ab0ab5147cf0011f0890a298c11da52c7582d7fb5fa8a0deb1714eae77",
+  "updated": "2026-10-29T16:32:46Z"
+}

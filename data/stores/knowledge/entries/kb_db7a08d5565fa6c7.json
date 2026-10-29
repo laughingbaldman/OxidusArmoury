@@ -1,0 +1,19 @@
+{
+  "id": "kb_db7a08d5565fa6c7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 1
+  },
+  "summary": "The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 1:1",
+  "content_hash": "659b03143c5c1e9b1109bb726226bcf8cb52e490129f09dc91602024d1260102",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_7e6ed3315b3c47ea",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 19
+  },
+  "summary": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 19:1",
+  "content_hash": "42ee6dd654a183789124cc8f78cc999b169d38ecc608f9cbdd5b9040b6b08a20",
+  "updated": "2026-10-29T16:32:46Z"
+}

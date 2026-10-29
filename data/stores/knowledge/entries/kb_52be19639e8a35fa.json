@@ -1,0 +1,19 @@
+{
+  "id": "kb_52be19639e8a35fa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 10
+  },
+  "summary": "Woe unto them that decree unrighteous decrees, and that write grievousness which they have prescribed;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 10:1",
+  "content_hash": "ba6d1dd4ac6f37fe728d0b1f1fa717ed21c125cd2da7a9aea95f742a4bb59f8d",
+  "updated": "2026-10-29T16:32:46Z"
+}

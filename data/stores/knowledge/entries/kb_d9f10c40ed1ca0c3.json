@@ -1,0 +1,19 @@
+{
+  "id": "kb_d9f10c40ed1ca0c3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 22
+  },
+  "summary": "Josiah was eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother’s name was Jedidah, the daughter of Adaiah of Boscath.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 22:1",
+  "content_hash": "156f265b091c6c5c13c9d5b0effb55ee8fec2fbcfce5a0b9dd82b7baa0af2c7a",
+  "updated": "2026-10-29T16:32:46Z"
+}

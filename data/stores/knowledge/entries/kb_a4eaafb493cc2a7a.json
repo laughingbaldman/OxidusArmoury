@@ -1,0 +1,19 @@
+{
+  "id": "kb_a4eaafb493cc2a7a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Titus",
+  "title": "Titus 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Titus",
+    "chapter": 1
+  },
+  "summary": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Titus 1:1",
+  "content_hash": "3c8ed47c61d749dab63bc1fe521652715a442cffd962c33927d4c902aad80101",
+  "updated": "2026-10-29T16:32:47Z"
+}

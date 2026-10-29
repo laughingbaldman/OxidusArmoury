@@ -1,0 +1,19 @@
+{
+  "id": "kb_5f0482f490b334bb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 9
+  },
+  "summary": "And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 9:1",
+  "content_hash": "661cd0e922b2b1daefd9c6e59560ff6d65dd973631e5a8c77870950fcea38360",
+  "updated": "2026-10-29T16:32:47Z"
+}

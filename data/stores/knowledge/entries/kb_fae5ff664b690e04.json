@@ -1,0 +1,19 @@
+{
+  "id": "kb_fae5ff664b690e04",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 25
+  },
+  "summary": "And the LORD spake unto Moses in mount Sinai, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 25:1",
+  "content_hash": "3ab435db9e94545b4e2452a370a1835036035719e44541d56794191ce4e3c36a",
+  "updated": "2026-10-29T16:32:45Z"
+}

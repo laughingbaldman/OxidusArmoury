@@ -1,0 +1,19 @@
+{
+  "id": "kb_a2a48d7dc0df6654",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 21
+  },
+  "summary": "After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 21:1",
+  "content_hash": "eefc76836049dbaf9b7d04e374869c68e6682da95bf67f8b65d2da31ba368dde",
+  "updated": "2026-10-29T16:32:47Z"
+}

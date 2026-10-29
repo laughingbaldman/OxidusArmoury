@@ -1,0 +1,19 @@
+{
+  "id": "kb_6dfe9f0e242c79b9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Esther",
+  "title": "Esther 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Esther",
+    "chapter": 6
+  },
+  "summary": "On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Esther 6:1",
+  "content_hash": "b4305b1279fa16a05457f465c2d21afcc554ec380cd2e2e94e22b370a3a0e96a",
+  "updated": "2026-10-29T16:32:46Z"
+}

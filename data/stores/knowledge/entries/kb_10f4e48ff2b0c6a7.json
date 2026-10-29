@@ -1,0 +1,19 @@
+{
+  "id": "kb_10f4e48ff2b0c6a7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 9
+  },
+  "summary": "Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 9:1",
+  "content_hash": "0527abc61fa51e56caf9cf5dd78afaa0b27f7169a464c1d519c5393c4f10f2ba",
+  "updated": "2026-10-29T16:32:47Z"
+}

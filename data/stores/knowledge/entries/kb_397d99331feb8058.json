@@ -1,0 +1,19 @@
+{
+  "id": "kb_397d99331feb8058",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 2
+  },
+  "summary": "Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 2:1",
+  "content_hash": "48ef7ce412acc87e43e386aa1c258c1ab5b94af6d973f86d2255c27b5a6ab5fa",
+  "updated": "2026-10-29T16:32:47Z"
+}

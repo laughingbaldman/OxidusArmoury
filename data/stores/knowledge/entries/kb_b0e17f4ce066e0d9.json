@@ -1,0 +1,19 @@
+{
+  "id": "kb_b0e17f4ce066e0d9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ephesians",
+  "title": "Ephesians 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ephesians",
+    "chapter": 5
+  },
+  "summary": "Be ye therefore followers of God, as dear children;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ephesians 5:1",
+  "content_hash": "3d24e3cd69b9cd5ab6dc1379969a3e5def73a7884502ccc84eb35d1ea66b118a",
+  "updated": "2026-10-29T16:32:47Z"
+}

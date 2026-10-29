@@ -1,0 +1,19 @@
+{
+  "id": "kb_95bf9ece11ee31a7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zechariah",
+  "title": "Zechariah 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zechariah",
+    "chapter": 11
+  },
+  "summary": "Open thy doors, O Lebanon, that the fire may devour thy cedars.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zechariah 11:1",
+  "content_hash": "120a7ad9c1e6c98d1244c118422b43a4cb9c7ec9ae426740aae6de600d2bd172",
+  "updated": "2026-10-29T16:32:46Z"
+}

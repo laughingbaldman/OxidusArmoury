@@ -1,0 +1,19 @@
+{
+  "id": "kb_82f8af814c13b39f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 135",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 135
+  },
+  "summary": "Praise ye the LORD. Praise ye the name of the LORD; praise him, O ye servants of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 135:1",
+  "content_hash": "e72abd77216a5ec35eb78ac8808f03212bdd134784fefa5c54738ccc43e4778f",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_d7757b0feae8150f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 12
+  },
+  "summary": "And the LORD spake unto Moses and Aaron in the land of Egypt, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 12:1",
+  "content_hash": "a83cb11556857714cc4212a5ca4f7c27bb66d562753108da0d2b4cb6afe445a7",
+  "updated": "2026-10-29T16:32:45Z"
+}

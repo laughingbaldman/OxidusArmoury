@@ -1,0 +1,19 @@
+{
+  "id": "kb_949a9a1e8949510d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 102",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 102
+  },
+  "summary": "Hear my prayer, O LORD, and let my cry come unto thee.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 102:1",
+  "content_hash": "812875f307c06ed19841bdcbb89852c3758cb36ad77789bc6a5d193727ee29f8",
+  "updated": "2026-10-29T16:32:46Z"
+}

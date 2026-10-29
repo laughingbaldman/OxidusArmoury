@@ -1,0 +1,19 @@
+{
+  "id": "kb_54b1c77496ac67b7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 4
+  },
+  "summary": "Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 4:1",
+  "content_hash": "70c9fefedbbc27ffc41473124df41807da10c125b3f624b391ec5528485236cb",
+  "updated": "2026-10-29T16:32:46Z"
+}

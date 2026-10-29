@@ -1,0 +1,19 @@
+{
+  "id": "kb_2fb7b80789221dfb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 29",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 29
+  },
+  "summary": "Then Jacob went on his journey, and came into the land of the people of the east.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 29:1",
+  "content_hash": "007c0875d42b8c1a944948ae8ae18aae8112ad980448b9564176623a66357083",
+  "updated": "2026-10-29T16:32:45Z"
+}

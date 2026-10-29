@@ -1,0 +1,19 @@
+{
+  "id": "kb_7cdadec29cb6bce2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 13
+  },
+  "summary": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 13:1",
+  "content_hash": "9b7349cf324cbb9dbec351f5665e65361234cb248436f8f8e43c4fed0ac2a182",
+  "updated": "2026-10-29T16:32:47Z"
+}

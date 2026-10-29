@@ -1,0 +1,19 @@
+{
+  "id": "kb_5f7c85cdf1191de2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 9
+  },
+  "summary": "And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 9:1",
+  "content_hash": "01344bbfb6941d547fd9e433a86645f5934d6e7aef67adcd1d6f01bc7f058361",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_9cfb6846d78c8b3e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Peter",
+  "title": "1 Peter 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Peter",
+    "chapter": 4
+  },
+  "summary": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Peter 4:1",
+  "content_hash": "8cd9ac0ecd57ff7b1b9394c880a83af5555703d7188bb2c27b2de68ded8b0d75",
+  "updated": "2026-10-29T16:32:47Z"
+}

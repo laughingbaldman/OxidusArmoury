@@ -1,0 +1,19 @@
+{
+  "id": "kb_16f6cc24bcf22fc9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 1
+  },
+  "summary": "Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 1:1",
+  "content_hash": "9ebb506134566ab69d378c29c8c3ab92017cf571fc69d30c659653fc3d966cdf",
+  "updated": "2026-10-29T16:32:45Z"
+}

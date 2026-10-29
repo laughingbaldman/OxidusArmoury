@@ -1,0 +1,19 @@
+{
+  "id": "kb_884ad18b1bc2982b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 3
+  },
+  "summary": "Lord, how are they increased that trouble me! many are they that rise up against me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 3:1",
+  "content_hash": "b91c0b0923f0eac35c2a409f7b93d8a2043b9ede879cc55e90e19f6916313dd2",
+  "updated": "2026-10-29T16:32:46Z"
+}

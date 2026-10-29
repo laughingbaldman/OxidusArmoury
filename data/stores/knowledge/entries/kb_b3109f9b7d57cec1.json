@@ -1,0 +1,19 @@
+{
+  "id": "kb_b3109f9b7d57cec1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 3
+  },
+  "summary": "And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 3:1",
+  "content_hash": "d48d849f1443fbae32747eca1c27d445dbb6cf86cf45546ee376e5c6cad8acda",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_ef620bc6a62e9aeb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 15
+  },
+  "summary": "A soft answer turneth away wrath: but grievous words stir up anger.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 15:1",
+  "content_hash": "fd06d95fc29266dc1986dd58e3bc29b2facaec7ba8daae32580631e8f67fc787",
+  "updated": "2026-10-29T16:32:46Z"
+}

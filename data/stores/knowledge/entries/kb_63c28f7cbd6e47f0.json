@@ -1,0 +1,19 @@
+{
+  "id": "kb_63c28f7cbd6e47f0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 22
+  },
+  "summary": "Thus saith the LORD; Go down to the house of the king of Judah, and speak there this word,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 22:1",
+  "content_hash": "c8277e3bbbb5f0c2985236e9b492dc7c5ffc26fafaf4069363d7784d8dee94a9",
+  "updated": "2026-10-29T16:32:46Z"
+}

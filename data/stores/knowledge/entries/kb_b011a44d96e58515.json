@@ -1,0 +1,19 @@
+{
+  "id": "kb_b011a44d96e58515",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 11
+  },
+  "summary": "Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 11:1",
+  "content_hash": "b295fdfa0e39455121ff9890420198cbc1305fe6f81fc881ec8638ddf1428633",
+  "updated": "2026-10-29T16:32:45Z"
+}

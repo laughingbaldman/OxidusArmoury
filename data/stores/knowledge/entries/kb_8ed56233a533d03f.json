@@ -1,0 +1,19 @@
+{
+  "id": "kb_8ed56233a533d03f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Philippians",
+  "title": "Philippians 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Philippians",
+    "chapter": 4
+  },
+  "summary": "Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Philippians 4:1",
+  "content_hash": "a4522e540615697f514da54515d14d699ecd0529661f4ff8a143adb383f0ea25",
+  "updated": "2026-10-29T16:32:47Z"
+}

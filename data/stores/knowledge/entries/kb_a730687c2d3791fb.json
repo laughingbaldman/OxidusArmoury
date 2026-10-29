@@ -1,0 +1,19 @@
+{
+  "id": "kb_a730687c2d3791fb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Thessalonians",
+  "title": "1 Thessalonians 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Thessalonians",
+    "chapter": 4
+  },
+  "summary": "Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Thessalonians 4:1",
+  "content_hash": "028233f361ca24c66194ec81edfaf0e1d18dc24728fba71a64ebf27f6a72ab3b",
+  "updated": "2026-10-29T16:32:47Z"
+}

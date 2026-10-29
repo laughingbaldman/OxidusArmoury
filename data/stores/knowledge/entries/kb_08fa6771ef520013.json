@@ -1,0 +1,19 @@
+{
+  "id": "kb_08fa6771ef520013",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 5
+  },
+  "summary": "Then sang Deborah and Barak the son of Abinoam on that day, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 5:1",
+  "content_hash": "dd44ee2feb762ed50580f4cb9917f512e9963ebb9a78c10eb183c5304678881e",
+  "updated": "2026-10-29T16:32:45Z"
+}

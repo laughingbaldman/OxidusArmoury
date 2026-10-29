@@ -1,0 +1,19 @@
+{
+  "id": "kb_d8cd06e814dcf42e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 11
+  },
+  "summary": "Be ye followers of me, even as I also am of Christ.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 11:1",
+  "content_hash": "d152bee4f50ed328bd61593186ddfdba76e48def651ea3c5ad8efd8688b30156",
+  "updated": "2026-10-29T16:32:47Z"
+}

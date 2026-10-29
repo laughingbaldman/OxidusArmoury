@@ -1,0 +1,19 @@
+{
+  "id": "kb_3141c72be689dd72",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 8
+  },
+  "summary": "Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 8:1",
+  "content_hash": "948f2b65d2e667dfdd93b9b065c10069dc85870861d8f38db9da52bcd11e0260",
+  "updated": "2026-10-29T16:32:46Z"
+}

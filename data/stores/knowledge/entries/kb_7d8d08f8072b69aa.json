@@ -1,0 +1,19 @@
+{
+  "id": "kb_7d8d08f8072b69aa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Esther",
+  "title": "Esther 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Esther",
+    "chapter": 7
+  },
+  "summary": "So the king and Haman came to banquet with Esther the queen.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Esther 7:1",
+  "content_hash": "12e9f5a851050671ade352cbc9bd44580c8a430c0ad93be9b16e1629c1aa0495",
+  "updated": "2026-10-29T16:32:46Z"
+}

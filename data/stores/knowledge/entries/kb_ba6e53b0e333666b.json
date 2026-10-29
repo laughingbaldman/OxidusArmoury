@@ -1,0 +1,19 @@
+{
+  "id": "kb_ba6e53b0e333666b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Timothy",
+  "title": "2 Timothy 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Timothy",
+    "chapter": 1
+  },
+  "summary": "Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Timothy 1:1",
+  "content_hash": "ac1f3aa5bb258b3a6c2f331699b928946be13f99b9d0146e93c07cec37e07b43",
+  "updated": "2026-10-29T16:32:47Z"
+}

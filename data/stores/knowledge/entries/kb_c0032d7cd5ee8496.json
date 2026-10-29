@@ -1,0 +1,19 @@
+{
+  "id": "kb_c0032d7cd5ee8496",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Haggai",
+  "title": "Haggai 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Haggai",
+    "chapter": 2
+  },
+  "summary": "In the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Haggai 2:1",
+  "content_hash": "51864da1b35b77e027a653f7e250734f8763be751c35435d5f9de81d9c9f7ece",
+  "updated": "2026-10-29T16:32:46Z"
+}

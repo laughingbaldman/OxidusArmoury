@@ -1,0 +1,19 @@
+{
+  "id": "kb_61a6bda2ffde73f5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 109",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 109
+  },
+  "summary": "Hold not thy peace, O God of my praise;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 109:1",
+  "content_hash": "f826e8bc03112e45fa7bb13e65c6e4a5f596590c7ce0447ef30b953b21a48655",
+  "updated": "2026-10-29T16:32:46Z"
+}

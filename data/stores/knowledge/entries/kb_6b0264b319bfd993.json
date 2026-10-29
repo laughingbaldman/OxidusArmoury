@@ -1,0 +1,19 @@
+{
+  "id": "kb_6b0264b319bfd993",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 127",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 127
+  },
+  "summary": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 127:1",
+  "content_hash": "423079638ccd9b29fe326db42c7c2440b56373168df1efbfe6fe5eae7aff81c1",
+  "updated": "2026-10-29T16:32:46Z"
+}

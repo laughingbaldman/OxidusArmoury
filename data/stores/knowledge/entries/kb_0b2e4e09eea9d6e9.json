@@ -1,0 +1,19 @@
+{
+  "id": "kb_0b2e4e09eea9d6e9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 10
+  },
+  "summary": "And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 10:1",
+  "content_hash": "c8612645cd8d3aafe88652f9652348da711a0ec849ee636585f769de2f6d9068",
+  "updated": "2026-10-29T16:32:46Z"
+}

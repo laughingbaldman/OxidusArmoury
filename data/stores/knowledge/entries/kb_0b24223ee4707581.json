@@ -1,0 +1,19 @@
+{
+  "id": "kb_0b24223ee4707581",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 11
+  },
+  "summary": "But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, and Hittites;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 11:1",
+  "content_hash": "2f56eee45653553805d25cef8eae99a8164b9d24ccfb340dd953f9ad8a0d04d9",
+  "updated": "2026-10-29T16:32:45Z"
+}

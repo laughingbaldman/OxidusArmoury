@@ -1,0 +1,19 @@
+{
+  "id": "kb_7db6bbf1bc5e8486",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 36",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 36
+  },
+  "summary": "Now these are the generations of Esau, who is Edom.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 36:1",
+  "content_hash": "3e07a4fa6e6975a430a831d471ab524ed87c2f4a2701c3b19b1a1fa14efab511",
+  "updated": "2026-10-29T16:32:45Z"
+}

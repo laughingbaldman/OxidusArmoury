@@ -1,0 +1,19 @@
+{
+  "id": "kb_fd58ee3d4e9f463b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 19
+  },
+  "summary": "And the LORD spake unto Moses and unto Aaron, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 19:1",
+  "content_hash": "8b74674df0cc8a110b6a5bb21e75a8ce7c23e989a7f611e472fc5d34adbe3a4f",
+  "updated": "2026-10-29T16:32:45Z"
+}

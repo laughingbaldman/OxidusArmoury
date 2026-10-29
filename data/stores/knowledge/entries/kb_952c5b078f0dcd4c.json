@@ -1,0 +1,19 @@
+{
+  "id": "kb_952c5b078f0dcd4c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Galatians",
+  "title": "Galatians 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Galatians",
+    "chapter": 3
+  },
+  "summary": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Galatians 3:1",
+  "content_hash": "50ca423811a9d93cbded57e0f6a8c25980ce8cf6a9d0601334e510b31cf3b218",
+  "updated": "2026-10-29T16:32:47Z"
+}

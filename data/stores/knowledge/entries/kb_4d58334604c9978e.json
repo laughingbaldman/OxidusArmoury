@@ -1,0 +1,19 @@
+{
+  "id": "kb_4d58334604c9978e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 4
+  },
+  "summary": "Hear, ye children, the instruction of a father, and attend to know understanding.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 4:1",
+  "content_hash": "47f3a1a57566d22f2f2d41d6b910c9f7c2c4573236c12641567eb587cac24ea0",
+  "updated": "2026-10-29T16:32:46Z"
+}

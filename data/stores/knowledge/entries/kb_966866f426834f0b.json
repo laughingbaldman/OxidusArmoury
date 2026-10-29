@@ -1,0 +1,19 @@
+{
+  "id": "kb_966866f426834f0b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 28",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 28
+  },
+  "summary": "Surely there is a vein for the silver, and a place for gold where they fine it.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 28:1",
+  "content_hash": "71a308c86485f6625932ed3d21e9c5165c13ecdf69414957b64082366b40870c",
+  "updated": "2026-10-29T16:32:46Z"
+}

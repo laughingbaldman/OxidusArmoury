@@ -1,0 +1,19 @@
+{
+  "id": "kb_ade4143b7c3b1fa5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 5
+  },
+  "summary": "My son, attend unto my wisdom, and bow thine ear to my understanding:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 5:1",
+  "content_hash": "03b90be343c6e280ba1a6c842c9534a8bc73e3eda1e70a2f905ce44a91ce7a30",
+  "updated": "2026-10-29T16:32:46Z"
+}

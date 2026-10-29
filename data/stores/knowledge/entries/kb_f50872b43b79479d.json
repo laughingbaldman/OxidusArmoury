@@ -1,0 +1,19 @@
+{
+  "id": "kb_f50872b43b79479d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 24
+  },
+  "summary": "And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 24:1",
+  "content_hash": "f3aae960eb15de9a6aa6f5223078b904d49995158e003184c4f0f838080ce649",
+  "updated": "2026-10-29T16:32:45Z"
+}

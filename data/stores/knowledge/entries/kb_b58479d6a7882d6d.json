@@ -1,0 +1,19 @@
+{
+  "id": "kb_b58479d6a7882d6d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 24
+  },
+  "summary": "Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 24:1",
+  "content_hash": "28381119ea9357cf360d05009225c48fa7dec26573ec0fb0610284424d0ac1a2",
+  "updated": "2026-10-29T16:32:47Z"
+}

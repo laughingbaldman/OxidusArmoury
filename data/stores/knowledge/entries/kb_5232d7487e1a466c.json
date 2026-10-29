@@ -1,0 +1,19 @@
+{
+  "id": "kb_5232d7487e1a466c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 15
+  },
+  "summary": "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 15:1",
+  "content_hash": "d5beda86f8b72c0e8a1b5667aa0f6f90ae532278c3308ab1a2169517bd06be94",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_9d731a55a6218208",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 3
+  },
+  "summary": "What advantage then hath the Jew? or what profit is there of circumcision?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 3:1",
+  "content_hash": "e2b78cb768e2c94cc33985cff8464641c514c7e6706d3dcae9cee6e69d08120f",
+  "updated": "2026-10-29T16:32:47Z"
+}

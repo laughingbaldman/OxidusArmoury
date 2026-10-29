@@ -1,0 +1,19 @@
+{
+  "id": "kb_2ce078270aa35563",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 16
+  },
+  "summary": "So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 16:1",
+  "content_hash": "ce799df3a3c4a4d1f4c30c5a7f040a6d8f6ce7f4b5f840dc1311473c148db86b",
+  "updated": "2026-10-29T16:32:46Z"
+}

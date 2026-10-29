@@ -1,0 +1,19 @@
+{
+  "id": "kb_87037bb7801f7417",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jude",
+  "title": "Jude 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jude",
+    "chapter": 1
+  },
+  "summary": "Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jude 1:1",
+  "content_hash": "bcd45f69127aa86809c244f7049255241cac10887f055ebca1bdfbf75f424bfa",
+  "updated": "2026-10-29T16:32:47Z"
+}

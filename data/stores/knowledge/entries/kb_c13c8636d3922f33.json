@@ -1,0 +1,19 @@
+{
+  "id": "kb_c13c8636d3922f33",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 6
+  },
+  "summary": "My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 6:1",
+  "content_hash": "9be66633850e242f5faf760583245275143486ff25daef575dd822b87fdb48fc",
+  "updated": "2026-10-29T16:32:46Z"
+}

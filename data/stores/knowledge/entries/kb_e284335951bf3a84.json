@@ -1,0 +1,19 @@
+{
+  "id": "kb_e284335951bf3a84",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 15
+  },
+  "summary": "I am the true vine, and my Father is the husbandman.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 15:1",
+  "content_hash": "0cb29a7b1de3fbd512307954d0eb87426c4c2b0b5eda09786fe31f861bff5feb",
+  "updated": "2026-10-29T16:32:47Z"
+}

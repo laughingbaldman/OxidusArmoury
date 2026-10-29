@@ -1,0 +1,19 @@
+{
+  "id": "kb_96f36c4c0f7b7496",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 27",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 27
+  },
+  "summary": "When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 27:1",
+  "content_hash": "0564b4a376e1901d8e78a7e7f9942f249635d0f855565d79f827f93df1769122",
+  "updated": "2026-10-29T16:32:47Z"
+}

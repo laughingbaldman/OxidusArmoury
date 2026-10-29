@@ -1,0 +1,19 @@
+{
+  "id": "kb_a8c07fb4d957d676",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Song of Solomon",
+  "title": "Song of Solomon 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Song of Solomon",
+    "chapter": 3
+  },
+  "summary": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Song of Solomon 3:1",
+  "content_hash": "9298b4d08dc86dd3a095d869d0f636f5f2a80b37f6707519e23f43eeb7a39d0d",
+  "updated": "2026-10-29T16:32:46Z"
+}

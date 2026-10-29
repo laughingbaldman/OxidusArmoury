@@ -1,0 +1,19 @@
+{
+  "id": "kb_c0f1016ccb89fc1c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 13
+  },
+  "summary": "Saul reigned one year; and when he had reigned two years over Israel,",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 13:1",
+  "content_hash": "cb4bb33c52792ff9b34745c2f5dce151e07408d64c7820ebe20a0e004c73e39b",
+  "updated": "2026-10-29T16:32:45Z"
+}

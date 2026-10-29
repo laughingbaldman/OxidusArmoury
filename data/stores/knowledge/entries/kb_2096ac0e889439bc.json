@@ -1,0 +1,19 @@
+{
+  "id": "kb_2096ac0e889439bc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 1
+  },
+  "summary": "Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 1:1",
+  "content_hash": "437e7051f8e1fef0eb8b15abe252350109323b4f709a019d07053c6bef9d1cc8",
+  "updated": "2026-10-29T16:32:47Z"
+}

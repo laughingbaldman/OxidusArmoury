@@ -1,0 +1,19 @@
+{
+  "id": "kb_f88219188d101c55",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 14
+  },
+  "summary": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 14:1",
+  "content_hash": "e530bd4c8af12999d1fe1c9f47b4281011c546a3badd0f7ef08cc48f510f434b",
+  "updated": "2026-10-29T16:32:46Z"
+}

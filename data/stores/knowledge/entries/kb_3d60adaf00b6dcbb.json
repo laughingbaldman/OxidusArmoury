@@ -1,0 +1,19 @@
+{
+  "id": "kb_3d60adaf00b6dcbb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 6
+  },
+  "summary": "Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 6:1",
+  "content_hash": "9675d2cd84009aeeeca9b0adb653a083b32e752c03b7e8ea4608d2fe0afc53c1",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_eaf806b055135ab0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 26
+  },
+  "summary": "And it shall be, when thou art come in unto the land which the LORD thy God giveth thee for an inheritance, and possessest it, and dwellest therein;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 26:1",
+  "content_hash": "4df6e1b692e9cb00cf58320261f29702463186f785643830ddaae33576785659",
+  "updated": "2026-10-29T16:32:45Z"
+}

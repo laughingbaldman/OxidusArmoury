@@ -1,0 +1,19 @@
+{
+  "id": "kb_5c33d7154c6045d7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Timothy",
+  "title": "2 Timothy 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Timothy",
+    "chapter": 3
+  },
+  "summary": "This know also, that in the last days perilous times shall come.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Timothy 3:1",
+  "content_hash": "d8d56cd8805b3cdff59b9d20e6e1c742b13cacd9c9764ea535787997a6d29d2b",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_934c0eb1555ba116",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 136",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 136
+  },
+  "summary": "O give thanks unto the LORD; for he is good: for his mercy endureth for ever.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 136:1",
+  "content_hash": "afc03a55917f9052ae6718cabb864532c36bb31a2710cca925c9195b9dc9383e",
+  "updated": "2026-10-29T16:32:46Z"
+}

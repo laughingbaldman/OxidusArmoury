@@ -1,0 +1,19 @@
+{
+  "id": "kb_dff84cfb55e12d65",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezra",
+  "title": "Ezra 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezra",
+    "chapter": 8
+  },
+  "summary": "These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezra 8:1",
+  "content_hash": "5408886fe7cd87e84033a9b243e6f81fca4def7dcdd69b3297c98e3278ef6959",
+  "updated": "2026-10-29T16:32:46Z"
+}

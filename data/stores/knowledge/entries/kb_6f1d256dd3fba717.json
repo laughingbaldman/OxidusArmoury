@@ -1,0 +1,19 @@
+{
+  "id": "kb_6f1d256dd3fba717",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "James",
+  "title": "James 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "James",
+    "chapter": 2
+  },
+  "summary": "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons.",
+  "source": "KJV",
+  "when": "",
+  "loc": "James 2:1",
+  "content_hash": "1be1e661cd6cf7a1265ec65084d43225d25316b0d802efa1656abe74585b813b",
+  "updated": "2026-10-29T16:32:47Z"
+}

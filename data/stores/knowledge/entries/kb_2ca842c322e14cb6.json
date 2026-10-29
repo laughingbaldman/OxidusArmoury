@@ -1,0 +1,19 @@
+{
+  "id": "kb_2ca842c322e14cb6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 149",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 149
+  },
+  "summary": "Praise ye the LORD. Sing unto the LORD a new song, and his praise in the congregation of saints.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 149:1",
+  "content_hash": "08f3d816a54005c4557b170eb3895b1ea5d08c023a2b27815aea2a2472758035",
+  "updated": "2026-10-29T16:32:46Z"
+}

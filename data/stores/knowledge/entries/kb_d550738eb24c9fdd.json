@@ -1,0 +1,19 @@
+{
+  "id": "kb_d550738eb24c9fdd",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 25
+  },
+  "summary": "O Lord, thou art my God; I will exalt thee, I will praise thy name; for thou hast done wonderful things; thy counsels of old are faithfulness and truth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 25:1",
+  "content_hash": "f50febd7a93baf2256345c7d4a26d5d9e0cccfb270c3bf726793c15cdc12b975",
+  "updated": "2026-10-29T16:32:46Z"
+}

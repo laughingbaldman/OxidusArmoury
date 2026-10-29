@@ -1,0 +1,19 @@
+{
+  "id": "kb_e75f7a3d25f1b0c9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nehemiah",
+  "title": "Nehemiah 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nehemiah",
+    "chapter": 1
+  },
+  "summary": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nehemiah 1:1",
+  "content_hash": "7a31a0ad96c8c36e8a74ac62b6b97ef45792f407c6a0d576a5dc960708d55f26",
+  "updated": "2026-10-29T16:32:46Z"
+}

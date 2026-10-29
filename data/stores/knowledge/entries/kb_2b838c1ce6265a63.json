@@ -1,0 +1,19 @@
+{
+  "id": "kb_2b838c1ce6265a63",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 35",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 35
+  },
+  "summary": "Plead my cause, O LORD, with them that strive with me: fight against them that fight against me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 35:1",
+  "content_hash": "60f74fae869413db59135dcb3db1756aa2ea20048582149122dbf3de0822cd19",
+  "updated": "2026-10-29T16:32:46Z"
+}

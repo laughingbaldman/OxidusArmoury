@@ -1,0 +1,19 @@
+{
+  "id": "kb_ab98486f8a60520a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 3
+  },
+  "summary": "After this opened Job his mouth, and cursed his day.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 3:1",
+  "content_hash": "e10bb1d383f3c06c93c5ccdd647d9c9a22b88c377cb4e9eebc93fb43025020b4",
+  "updated": "2026-10-29T16:32:46Z"
+}

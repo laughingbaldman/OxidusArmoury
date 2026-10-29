@@ -1,0 +1,19 @@
+{
+  "id": "kb_a18b62f7fa8bb5a7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 1
+  },
+  "summary": "And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 1:1",
+  "content_hash": "0dd790bfb3c4113eb81a55d3d7865c46e70336d4e6b0d6e6097a8b9a7b58d33b",
+  "updated": "2026-10-29T16:32:46Z"
+}

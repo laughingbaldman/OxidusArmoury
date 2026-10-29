@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oxidus agent</title>
+    <style>
+        body { margin: 0; background: #101317; color: #f5f7fb; font-family: "Segoe UI", sans-serif; }
+        header { display: flex; justify-content: space-between; align-items: center; padding: 16px 22px; border-bottom: 1px solid rgba(200,210,220,.18); }
+        a { color: #c1ba8b; }
+        main { display: grid; grid-template-columns: 1.1fr .9fr; gap: 22px; padding: 22px; }
+        @media (max-width: 900px) { main { grid-template-columns: 1fr; } }
+        button { background: #c1ba8b; color: #111; border: 0; padding: 8px 12px; cursor: pointer; }
+        button.kill { background: #e06b62; color: #111; font-weight: 700; }
+        textarea, input { width: 100%; background: #0c0f12; color: #f5f7fb; border: 1px solid rgba(200,210,220,.3); padding: 8px; }
+        #log { white-space: pre-wrap; background: #070809; min-height: 240px; padding: 12px; border: 1px solid rgba(200,210,220,.18); }
+        .pending { background: #3a2a1c; padding: 12px; margin: 12px 0; }
+        label { display: block; margin: 8px 0; }
+    </style>
+</head>
+<body>
+    <header>
+        <strong>Agent</strong>
+        <div>
+            <button class="kill" id="kill">Kill switch</button>
+            <button id="resume">Resume</button>
+            <a href="/">Chat</a>
+        </div>
+    </header>
+    <main>
+        <section>
+            <h2>Goal</h2>
+            <textarea id="goal" rows="4" placeholder="Read the repo, fix the bug, run the tests."></textarea>
+            <p><button id="run">Run</button></p>
+            <div id="pending"></div>
+            <h2>Settings</h2>
+            <label>Network <input id="network" type="checkbox"></label>
+            <label>Max steps <input id="steps" type="number" min="1" value="8"></label>
+            <div id="tools"></div>
+            <p><button id="save">Save settings</button></p>
+            <h2>Schedule</h2>
+            <label>Name <input id="sname"></label>
+            <label>Every seconds <input id="severy" type="number" value="3600"></label>
+            <label>Goal <input id="sgoal"></label>
+            <p><button id="schedule">Add chore</button></p>
+        </section>
+        <section>
+            <h2>Activity</h2>
+            <div id="log">Agent is idle.</div>
+        </section>
+    </main>
+    <script>
+        const log = document.getElementById("log");
+        const pending = document.getElementById("pending");
+        const toolBox = document.getElementById("tools");
+
+        function paint(data) {
+            const rows = data.activity || [];
+            log.textContent = rows.length ? rows.map(row => `${row.at}  ${row.kind}  ${row.detail}`).join("\n") : "Agent is idle.";
+            document.getElementById("network").checked = !!(data.config && data.config.network_granted);
+            document.getElementById("steps").value = (data.config && data.config.max_steps) || 8;
+            if (!toolBox.childElementCount && data.tools) {
+                data.tools.forEach(name => {
+                    const label = document.createElement("label");
+                    const box = document.createElement("input");
+                    box.type = "checkbox";
+                    box.value = name;
+                    box.checked = (data.config.enabled_tools || []).includes(name);
+                    label.append(box, document.createTextNode(" " + name));
+                    toolBox.appendChild(label);
+                });
+            }
+            pending.innerHTML = "";
+            if (data.pending) {
+                const box = document.createElement("div");
+                box.className = "pending";
+                box.textContent = data.pending.summary;
+                const yes = document.createElement("button");
+                yes.textContent = "Approve";
+                yes.onclick = () => decide(data.pending.id, true);
+                const no = document.createElement("button");
+                no.textContent = "Deny";
+                no.onclick = () => decide(data.pending.id, false);
+                box.append(document.createElement("br"), yes, no);
+                pending.appendChild(box);
+            }
+            if (data.killed) {
+                log.textContent = "KILL SWITCH ON\n" + log.textContent;
+            }
+        }
+
+        async function refresh() {
+            const response = await fetch("/api/agent/status");
+            paint(await response.json());
+        }
+
+        async function decide(id, yes) {
+            await fetch("/api/agent/approve", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({id, yes})});
+            refresh();
+        }
+
+        document.getElementById("run").onclick = async () => {
+            await fetch("/api/agent/run", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({goal: document.getElementById("goal").value})});
+            refresh();
+        };
+        document.getElementById("kill").onclick = async () => {
+            await fetch("/api/agent/kill", {method: "POST"});
+            refresh();
+        };
+        document.getElementById("resume").onclick = async () => {
+            await fetch("/api/agent/resume", {method: "POST"});
+            refresh();
+        };
+        document.getElementById("save").onclick = async () => {
+            const enabled = [...toolBox.querySelectorAll("input:checked")].map(box => box.value);
+            await fetch("/api/agent/config", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({
+                network_granted: document.getElementById("network").checked,
+                max_steps: Number(document.getElementById("steps").value),
+                enabled_tools: enabled
+            })});
+            refresh();
+        };
+        document.getElementById("schedule").onclick = async () => {
+            await fetch("/api/agent/schedule", {method: "POST", headers: {"Content-Type": "application/json"}, body: JSON.stringify({
+                name: document.getElementById("sname").value,
+                every_seconds: Number(document.getElementById("severy").value),
+                goal: document.getElementById("sgoal").value
+            })});
+            refresh();
+        };
+        refresh();
+        setInterval(refresh, 2000);
+    </script>
+</body>
+</html>

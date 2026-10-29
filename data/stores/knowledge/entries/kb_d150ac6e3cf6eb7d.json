@@ -1,0 +1,19 @@
+{
+  "id": "kb_d150ac6e3cf6eb7d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 30",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 30
+  },
+  "summary": "And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the LORD hath commanded.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 30:1",
+  "content_hash": "e9666aed3265bc8eddf41f62fcfb637ad384d8739daa0fbeda37fc32dcbdb224",
+  "updated": "2026-10-29T16:32:45Z"
+}

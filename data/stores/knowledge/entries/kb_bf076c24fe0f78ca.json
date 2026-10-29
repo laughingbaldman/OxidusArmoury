@@ -1,0 +1,19 @@
+{
+  "id": "kb_bf076c24fe0f78ca",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 3
+  },
+  "summary": "Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 3:1",
+  "content_hash": "f99026be4bd0a06a854aca83698936294732b36ea27e12ae66fbd47cd01ba8cf",
+  "updated": "2026-10-29T16:32:46Z"
+}

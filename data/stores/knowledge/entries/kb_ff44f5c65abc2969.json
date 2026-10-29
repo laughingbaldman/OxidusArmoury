@@ -1,0 +1,19 @@
+{
+  "id": "kb_ff44f5c65abc2969",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jonah",
+  "title": "Jonah 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jonah",
+    "chapter": 4
+  },
+  "summary": "But it displeased Jonah exceedingly, and he was very angry.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jonah 4:1",
+  "content_hash": "2bc26cd5001d3cd738de06a203903987fed42a9f94d9982701384763be89c781",
+  "updated": "2026-10-29T16:32:46Z"
+}

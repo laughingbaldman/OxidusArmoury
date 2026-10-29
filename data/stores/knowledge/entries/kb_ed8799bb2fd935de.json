@@ -1,0 +1,19 @@
+{
+  "id": "kb_ed8799bb2fd935de",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 79",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 79
+  },
+  "summary": "O GOD, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 79:1",
+  "content_hash": "7b433bd4261186902434a89e385b8230f6f3bbefce2f3f8744f85413d0248255",
+  "updated": "2026-10-29T16:32:46Z"
+}

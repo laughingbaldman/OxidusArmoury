@@ -1,0 +1,19 @@
+{
+  "id": "kb_453c65caa24716ec",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Song of Solomon",
+  "title": "Song of Solomon 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Song of Solomon",
+    "chapter": 8
+  },
+  "summary": "O that thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Song of Solomon 8:1",
+  "content_hash": "45cb85584ff5e90fd1a957217cbfc6c3b50c15077b8b25949dd4aa52a0994710",
+  "updated": "2026-10-29T16:32:46Z"
+}

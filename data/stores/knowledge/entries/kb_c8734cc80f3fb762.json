@@ -1,0 +1,19 @@
+{
+  "id": "kb_c8734cc80f3fb762",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 11
+  },
+  "summary": "And the LORD said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 11:1",
+  "content_hash": "5f93dce2135d90f8b84f0e548397f0e74387846dabe2092f53cb7d10c979ec41",
+  "updated": "2026-10-29T16:32:45Z"
+}

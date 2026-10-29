@@ -1,0 +1,19 @@
+{
+  "id": "kb_d27b448efcf43ae3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Galatians",
+  "title": "Galatians 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Galatians",
+    "chapter": 4
+  },
+  "summary": "Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Galatians 4:1",
+  "content_hash": "ee36ecaca75c04278795c8c191b22a5e32e9478cd5ca8f07cbc316b8667e3d6b",
+  "updated": "2026-10-29T16:32:47Z"
+}

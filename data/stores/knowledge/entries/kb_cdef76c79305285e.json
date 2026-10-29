@@ -1,0 +1,19 @@
+{
+  "id": "kb_cdef76c79305285e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 1
+  },
+  "summary": "Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 1:1",
+  "content_hash": "284aef4e3230a54d41c9d6db991fc3e2996be35cc3dfda64d94a930e352e7305",
+  "updated": "2026-10-29T16:32:47Z"
+}

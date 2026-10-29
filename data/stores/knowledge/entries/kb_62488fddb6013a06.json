@@ -1,0 +1,19 @@
+{
+  "id": "kb_62488fddb6013a06",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 43",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 43
+  },
+  "summary": "But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 43:1",
+  "content_hash": "a2409b52f4c7fbadeb2ae13fd2c269ba083e8190caa0ce1382d4a2da79f5b369",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_484b473220d33dc0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 23
+  },
+  "summary": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 23:1",
+  "content_hash": "4914eabbb47c9dc334ae888ac46f932746c1090a20c09e5f19e2d5eecb68c1c7",
+  "updated": "2026-10-29T16:32:45Z"
+}

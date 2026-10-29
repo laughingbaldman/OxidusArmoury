@@ -1,0 +1,19 @@
+{
+  "id": "kb_e92aa8d049d6d093",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 15
+  },
+  "summary": "Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 15:1",
+  "content_hash": "4ab34f55df9322d279ed8fecc26bdaa13322fe3e92e1ca4135b6ca7e6f20c6a9",
+  "updated": "2026-10-29T16:32:45Z"
+}

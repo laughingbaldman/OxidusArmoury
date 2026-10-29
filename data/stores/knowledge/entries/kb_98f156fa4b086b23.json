@@ -1,0 +1,19 @@
+{
+  "id": "kb_98f156fa4b086b23",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 14
+  },
+  "summary": "In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 14:1",
+  "content_hash": "6627c46dd10fb4ceef3a5f97623e07b4c1511ca03a928e5e351638f3782a2b94",
+  "updated": "2026-10-29T16:32:46Z"
+}

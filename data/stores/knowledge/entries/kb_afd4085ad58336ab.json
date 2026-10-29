@@ -1,0 +1,19 @@
+{
+  "id": "kb_afd4085ad58336ab",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 65",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 65
+  },
+  "summary": "I am sought of them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 65:1",
+  "content_hash": "0668f9c3ec427b6cd558a173dac99a686e5f7345c4806c629ce806a1195f43a0",
+  "updated": "2026-10-29T16:32:46Z"
+}

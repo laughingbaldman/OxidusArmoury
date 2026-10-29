@@ -1,0 +1,19 @@
+{
+  "id": "kb_945860debe500922",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 21
+  },
+  "summary": "The king’s heart is in the hand of the LORD, as the rivers of water: he turneth it whithersoever he will.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 21:1",
+  "content_hash": "ace6b9af3665fb4158b43bc20daadac54edf48b44379d7ce81b6b649bc36639f",
+  "updated": "2026-10-29T16:32:46Z"
+}

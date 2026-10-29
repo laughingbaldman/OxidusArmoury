@@ -1,0 +1,19 @@
+{
+  "id": "kb_db0f63893d074824",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 6
+  },
+  "summary": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 6:1",
+  "content_hash": "c05428823f0093bd9e6a3f243796f01e52bdb62c50a52e70de2a333efa7a5bf4",
+  "updated": "2026-10-29T16:32:45Z"
+}

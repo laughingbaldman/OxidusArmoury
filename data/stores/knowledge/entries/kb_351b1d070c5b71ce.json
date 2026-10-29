@@ -1,0 +1,19 @@
+{
+  "id": "kb_351b1d070c5b71ce",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 143",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 143
+  },
+  "summary": "Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 143:1",
+  "content_hash": "6bf66c30f46a27c64745b7963c6dec17b9d69faf87be31a5a24ba56961195ebc",
+  "updated": "2026-10-29T16:32:46Z"
+}

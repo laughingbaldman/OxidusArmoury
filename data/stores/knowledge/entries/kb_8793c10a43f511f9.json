@@ -1,0 +1,19 @@
+{
+  "id": "kb_8793c10a43f511f9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 10
+  },
+  "summary": "Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 10:1",
+  "content_hash": "95a237bbfdb9da5956e2efbd3f3e74166d7185bd77d8cc57956146de97bc51f4",
+  "updated": "2026-10-29T16:32:47Z"
+}

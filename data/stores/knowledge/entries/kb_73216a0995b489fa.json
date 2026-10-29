@@ -1,0 +1,19 @@
+{
+  "id": "kb_73216a0995b489fa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 19
+  },
+  "summary": "In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 19:1",
+  "content_hash": "87fd04a6daef1115ba4509dc90cc1b1189f1495f0811ffdf52d5355eb0b3e632",
+  "updated": "2026-10-29T16:32:45Z"
+}

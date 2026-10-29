@@ -1,0 +1,19 @@
+{
+  "id": "kb_413d804ac00ae84f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 16
+  },
+  "summary": "Then went Samson to Gaza, and saw there an harlot, and went in unto her.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 16:1",
+  "content_hash": "6b2a725ef97042b427f0871eaba0ae4cfdfd404c11ed26f8554e8c53cd3843b5",
+  "updated": "2026-10-29T16:32:45Z"
+}

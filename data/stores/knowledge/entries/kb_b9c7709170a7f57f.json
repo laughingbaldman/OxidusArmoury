@@ -1,0 +1,19 @@
+{
+  "id": "kb_b9c7709170a7f57f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 7
+  },
+  "summary": "In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, and told the sum of the matters.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 7:1",
+  "content_hash": "cd89cbb5f2baca49e9af3f2a1769d6acf987fdf65514d5a8fc1b179a2e414ae6",
+  "updated": "2026-10-29T16:32:46Z"
+}

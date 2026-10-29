@@ -1,0 +1,19 @@
+{
+  "id": "kb_cafb45e4f205cc35",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 36",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 36
+  },
+  "summary": "Elihu also proceeded, and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 36:1",
+  "content_hash": "73dc2ab60b650aa9288c7d72d715985eb4f7c53dc1a38b5fcea149bbe78eb660",
+  "updated": "2026-10-29T16:32:46Z"
+}

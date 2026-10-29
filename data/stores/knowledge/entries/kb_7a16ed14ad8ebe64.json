@@ -1,0 +1,19 @@
+{
+  "id": "kb_7a16ed14ad8ebe64",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 8
+  },
+  "summary": "And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 8:1",
+  "content_hash": "9ec77340d7037b5eb0c6a1719c5d2eb141c750ca4e60386d83cff8ecd14c7a06",
+  "updated": "2026-10-29T16:32:47Z"
+}

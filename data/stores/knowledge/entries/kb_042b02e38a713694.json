@@ -1,0 +1,19 @@
+{
+  "id": "kb_042b02e38a713694",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 33",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 33
+  },
+  "summary": "Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 33:1",
+  "content_hash": "ebe63bf4b66f817aac58f6db0c1a0bbe1569e217c296bfa517cd21bc5a391710",
+  "updated": "2026-10-29T16:32:46Z"
+}

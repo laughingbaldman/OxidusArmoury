@@ -1,0 +1,19 @@
+{
+  "id": "kb_2f67a664c0709597",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hosea",
+  "title": "Hosea 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hosea",
+    "chapter": 2
+  },
+  "summary": "Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hosea 2:1",
+  "content_hash": "c41780d627e82d8fe5f3aa50fc8f26050fedccc6e8a9823e5ae6344f69226a5e",
+  "updated": "2026-10-29T16:32:46Z"
+}

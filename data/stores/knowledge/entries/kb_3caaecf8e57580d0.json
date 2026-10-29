@@ -1,0 +1,19 @@
+{
+  "id": "kb_3caaecf8e57580d0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zechariah",
+  "title": "Zechariah 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zechariah",
+    "chapter": 3
+  },
+  "summary": "And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zechariah 3:1",
+  "content_hash": "d77d568aa23650be3a6ca09d0c78d548cf214393d23f8754ee8e90e1263e050c",
+  "updated": "2026-10-29T16:32:46Z"
+}

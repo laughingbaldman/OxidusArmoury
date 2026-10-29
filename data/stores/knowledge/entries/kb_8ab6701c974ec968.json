@@ -1,0 +1,19 @@
+{
+  "id": "kb_8ab6701c974ec968",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 9
+  },
+  "summary": "He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 9:1",
+  "content_hash": "9cea6e8c754ec7ee09fa80bd160cc4b5c8f71e5c5205e4cac5b569d461875d67",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_2bdf6459ff73d384",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 31",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 31
+  },
+  "summary": "Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because they are many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD!",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 31:1",
+  "content_hash": "92ba6a6a63fffd7cfdad6055e4ce8dc4b92ea8f773dd30c3c9e1e341e2d4b415",
+  "updated": "2026-10-29T16:32:46Z"
+}

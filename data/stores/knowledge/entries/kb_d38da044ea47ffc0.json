@@ -1,0 +1,19 @@
+{
+  "id": "kb_d38da044ea47ffc0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 23
+  },
+  "summary": "Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 23:1",
+  "content_hash": "46db76585afb90cbdcb8078ae4443cf838056400c66005ffa70b9ad450a6fb00",
+  "updated": "2026-10-29T16:32:46Z"
+}

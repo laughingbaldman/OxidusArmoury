@@ -1,0 +1,19 @@
+{
+  "id": "kb_d559fcbd8e832344",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Thessalonians",
+  "title": "1 Thessalonians 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Thessalonians",
+    "chapter": 5
+  },
+  "summary": "But of the times and the seasons, brethren, ye have no need that I write unto you.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Thessalonians 5:1",
+  "content_hash": "e7b78c00493fc3e484f580b09462f570040509197307f6c2aa0c1120c29de1fc",
+  "updated": "2026-10-29T16:32:47Z"
+}

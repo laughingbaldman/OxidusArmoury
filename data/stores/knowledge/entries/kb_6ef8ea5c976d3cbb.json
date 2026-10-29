@@ -1,0 +1,19 @@
+{
+  "id": "kb_6ef8ea5c976d3cbb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 59",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 59
+  },
+  "summary": "Behold, the LORD’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 59:1",
+  "content_hash": "7e6ae39305bee526392c3cefb6c56d428663bce6937cd96abfea34fa8d1dff6a",
+  "updated": "2026-10-29T16:32:46Z"
+}

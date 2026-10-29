@@ -1,0 +1,19 @@
+{
+  "id": "kb_f4ac77bfc443d1d9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 38",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 38
+  },
+  "summary": "And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 38:1",
+  "content_hash": "1ead167f77194ec20233a66376bbb4e4c72ee33c710938acb78e289331cb165a",
+  "updated": "2026-10-29T16:32:45Z"
+}

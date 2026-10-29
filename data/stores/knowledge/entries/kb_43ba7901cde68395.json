@@ -1,0 +1,19 @@
+{
+  "id": "kb_43ba7901cde68395",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 31",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 31
+  },
+  "summary": "I made a covenant with mine eyes; why then should I think upon a maid?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 31:1",
+  "content_hash": "72409c3eb6a538d71d551e84c8c9a2bb3ad9fb1748e1ce34bb5930635bab9395",
+  "updated": "2026-10-29T16:32:46Z"
+}

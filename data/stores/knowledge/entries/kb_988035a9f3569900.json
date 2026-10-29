@@ -1,0 +1,19 @@
+{
+  "id": "kb_988035a9f3569900",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 4
+  },
+  "summary": "And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 4:1",
+  "content_hash": "231861e34650e7dc6a8f7b46de69772275bf70db460c2b57c2cc8e2e4f2c6aa8",
+  "updated": "2026-10-29T16:32:47Z"
+}

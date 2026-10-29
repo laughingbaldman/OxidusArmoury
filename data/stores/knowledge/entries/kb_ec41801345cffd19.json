@@ -1,0 +1,19 @@
+{
+  "id": "kb_ec41801345cffd19",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 3
+  },
+  "summary": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 3:1",
+  "content_hash": "ab28f706c214ac231c9d5ce73939a3832060350fa33345e55b5245a3a05b757f",
+  "updated": "2026-10-29T16:32:47Z"
+}

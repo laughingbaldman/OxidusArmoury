@@ -1,0 +1,19 @@
+{
+  "id": "kb_67255a5e0126a82f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 4
+  },
+  "summary": "What shall we say then that Abraham our father, as pertaining to the flesh, hath found?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 4:1",
+  "content_hash": "da8e347ed857d262a23b0d11303bfbacf95c742f983045793253d162defd34aa",
+  "updated": "2026-10-29T16:32:47Z"
+}

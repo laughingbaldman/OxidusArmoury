@@ -1,0 +1,19 @@
+{
+  "id": "kb_fd0311e2d6f04ecc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 18
+  },
+  "summary": "Then answered Bildad the Shuhite, and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 18:1",
+  "content_hash": "d4b5198bb0a3236a69bc8a80c750db240f0592495cc35b3eff1742d1ea9dad7a",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_4eee940f2f1b6dac",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zechariah",
+  "title": "Zechariah 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zechariah",
+    "chapter": 7
+  },
+  "summary": "And it came to pass in the fourth year of king Darius, that the word of the LORD came unto Zechariah in the fourth day of the ninth month, even in Chisleu;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zechariah 7:1",
+  "content_hash": "7b307e7f3f753ac2d1ae9c585295457b7ae14b934b9e9cd85a9dfe8fa1193e88",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_01416c2e859ee0ac",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 16
+  },
+  "summary": "And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 16:1",
+  "content_hash": "a71a75f19440bddb2b1df7c039c717d6bfe5c01061119ee3a4b9876de31a4d87",
+  "updated": "2026-10-29T16:32:47Z"
+}

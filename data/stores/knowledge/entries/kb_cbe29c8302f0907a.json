@@ -1,0 +1,19 @@
+{
+  "id": "kb_cbe29c8302f0907a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 82",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 82
+  },
+  "summary": "God standeth in the congregation of the mighty; he judgeth among the gods.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 82:1",
+  "content_hash": "19eee29d7ebe4b568cece107ff343ee169aec76177a361ffb92feb6d481ecee9",
+  "updated": "2026-10-29T16:32:46Z"
+}

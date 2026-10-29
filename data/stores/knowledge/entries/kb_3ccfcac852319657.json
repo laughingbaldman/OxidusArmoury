@@ -1,0 +1,19 @@
+{
+  "id": "kb_3ccfcac852319657",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 20
+  },
+  "summary": "When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 20:1",
+  "content_hash": "5920fae960095f47c353e4c8b8c716ea77598e3991bec80a4602f81eab022023",
+  "updated": "2026-10-29T16:32:45Z"
+}

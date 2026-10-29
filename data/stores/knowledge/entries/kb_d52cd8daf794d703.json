@@ -1,0 +1,19 @@
+{
+  "id": "kb_d52cd8daf794d703",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 17
+  },
+  "summary": "Then said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come!",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 17:1",
+  "content_hash": "bc7dc19cc086b2ef4c0cee35f9fb696ea20f22be6a8612194ed532fd96730e19",
+  "updated": "2026-10-29T16:32:47Z"
+}

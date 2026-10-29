@@ -1,0 +1,19 @@
+{
+  "id": "kb_f69f26e1daa828ae",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Peter",
+  "title": "1 Peter 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Peter",
+    "chapter": 5
+  },
+  "summary": "The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Peter 5:1",
+  "content_hash": "0895906a6fbc498c45a98880f4dba6d26a553da9fc7f0b24f8d33ee075928f40",
+  "updated": "2026-10-29T16:32:47Z"
+}

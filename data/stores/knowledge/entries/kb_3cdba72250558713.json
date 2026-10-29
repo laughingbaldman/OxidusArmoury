@@ -1,0 +1,19 @@
+{
+  "id": "kb_3cdba72250558713",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nehemiah",
+  "title": "Nehemiah 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nehemiah",
+    "chapter": 4
+  },
+  "summary": "But it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nehemiah 4:1",
+  "content_hash": "5ddc12ad8642bb4dea051a9e31faa140b341d9f79ae6ca6bc80a47aadfda3763",
+  "updated": "2026-10-29T16:32:46Z"
+}

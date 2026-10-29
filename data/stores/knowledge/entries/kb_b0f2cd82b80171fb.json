@@ -1,0 +1,19 @@
+{
+  "id": "kb_b0f2cd82b80171fb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Peter",
+  "title": "2 Peter 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Peter",
+    "chapter": 1
+  },
+  "summary": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Peter 1:1",
+  "content_hash": "ded914610116b64fccdd62d6a986a20c3f8f9be10a1bc3495f161042fc878b32",
+  "updated": "2026-10-29T16:32:47Z"
+}

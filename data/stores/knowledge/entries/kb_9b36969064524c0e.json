@@ -1,0 +1,19 @@
+{
+  "id": "kb_9b36969064524c0e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 21
+  },
+  "summary": "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 21:1",
+  "content_hash": "4fda068721b537c5698e5f5e45f88d723fd9d9968349963d00ae7ed051be42f0",
+  "updated": "2026-10-29T16:32:45Z"
+}

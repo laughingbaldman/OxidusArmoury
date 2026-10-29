@@ -1,0 +1,19 @@
+{
+  "id": "kb_06c8a908ed837d9e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 19
+  },
+  "summary": "Then Pilate therefore took Jesus, and scourged him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 19:1",
+  "content_hash": "6c1979974d250f4ac3fa5f7d92299ed699ae084433c8045be724d59e1503ac6d",
+  "updated": "2026-10-29T16:32:47Z"
+}

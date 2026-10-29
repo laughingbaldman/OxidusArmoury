@@ -1,0 +1,19 @@
+{
+  "id": "kb_98599e285a0ac2e2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 4
+  },
+  "summary": "And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 4:1",
+  "content_hash": "e6ad4a334f22d8e1c8dd4e0a9173fcd7186733897f90b68517a739e71c8107c5",
+  "updated": "2026-10-29T16:32:47Z"
+}

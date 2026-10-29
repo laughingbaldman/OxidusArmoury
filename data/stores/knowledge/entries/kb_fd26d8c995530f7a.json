@@ -1,0 +1,19 @@
+{
+  "id": "kb_fd26d8c995530f7a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 2
+  },
+  "summary": "And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 2:1",
+  "content_hash": "09d37159e6592f8f1337dabd80d264c283d3cf0f13c97b54424afc753ce2610a",
+  "updated": "2026-10-29T16:32:45Z"
+}

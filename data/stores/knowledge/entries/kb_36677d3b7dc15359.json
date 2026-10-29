@@ -1,0 +1,19 @@
+{
+  "id": "kb_36677d3b7dc15359",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Thessalonians",
+  "title": "2 Thessalonians 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Thessalonians",
+    "chapter": 1
+  },
+  "summary": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Thessalonians 1:1",
+  "content_hash": "a94706dce15a1e20e044e31a415cbbc3d859781bdd5336816b3e10fdc0768828",
+  "updated": "2026-10-29T16:32:47Z"
+}

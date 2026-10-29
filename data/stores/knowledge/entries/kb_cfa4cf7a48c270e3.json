@@ -1,0 +1,19 @@
+{
+  "id": "kb_cfa4cf7a48c270e3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 15
+  },
+  "summary": "At the end of every seven years thou shalt make a release.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 15:1",
+  "content_hash": "45ec5360620f87f0b913ede75c5a0b934ba58903821539776e75dcd9e16dd522",
+  "updated": "2026-10-29T16:32:45Z"
+}

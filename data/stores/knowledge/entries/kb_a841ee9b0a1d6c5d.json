@@ -1,0 +1,19 @@
+{
+  "id": "kb_a841ee9b0a1d6c5d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Song of Solomon",
+  "title": "Song of Solomon 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Song of Solomon",
+    "chapter": 5
+  },
+  "summary": "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Song of Solomon 5:1",
+  "content_hash": "17a8c0995e0dcb66de580d7eda36284298b6e45acbd527f888674f99f8306c2e",
+  "updated": "2026-10-29T16:32:46Z"
+}

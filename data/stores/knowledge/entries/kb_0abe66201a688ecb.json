@@ -1,0 +1,19 @@
+{
+  "id": "kb_0abe66201a688ecb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 7
+  },
+  "summary": "Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 7:1",
+  "content_hash": "c3e44e95b1955c01a5608d620edc6d84485433cf4b84f90184f49a4f1cc2960b",
+  "updated": "2026-10-29T16:32:47Z"
+}

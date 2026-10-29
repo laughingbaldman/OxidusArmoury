@@ -1,0 +1,19 @@
+{
+  "id": "kb_f6ee5bb839773ab5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 119",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 119
+  },
+  "summary": "Blessed are the undefiled in the way, who walk in the law of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 119:1",
+  "content_hash": "d076617574dbbfd630bf209d61f0647a63b6a20393189a6b9d13718cb9ced3be",
+  "updated": "2026-10-29T16:32:46Z"
+}

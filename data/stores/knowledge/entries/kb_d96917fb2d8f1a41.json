@@ -1,0 +1,19 @@
+{
+  "id": "kb_d96917fb2d8f1a41",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 33",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 33
+  },
+  "summary": "Rejoice in the LORD, O ye righteous: for praise is comely for the upright.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 33:1",
+  "content_hash": "7714b79666462da1f429333f7867323a51de3e311193d67536b7893bb08e5042",
+  "updated": "2026-10-29T16:32:46Z"
+}

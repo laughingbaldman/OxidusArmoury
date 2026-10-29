@@ -1,0 +1,19 @@
+{
+  "id": "kb_3e96f89fdc91a192",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hosea",
+  "title": "Hosea 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hosea",
+    "chapter": 8
+  },
+  "summary": "Set the trumpet to thy mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hosea 8:1",
+  "content_hash": "ad9f1d57a92b15dcbeb800812391238aff189bb6cf4d84634f3c478560150f8d",
+  "updated": "2026-10-29T16:32:46Z"
+}

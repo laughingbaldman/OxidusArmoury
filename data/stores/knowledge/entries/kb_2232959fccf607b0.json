@@ -1,0 +1,19 @@
+{
+  "id": "kb_2232959fccf607b0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 35",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 35
+  },
+  "summary": "Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth day of the first month.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 35:1",
+  "content_hash": "0e8e0383d8e82653ad16de503359c8d7acaa4d51e62a02e08155e911f8abe68c",
+  "updated": "2026-10-29T16:32:46Z"
+}

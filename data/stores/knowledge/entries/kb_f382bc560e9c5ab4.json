@@ -1,0 +1,19 @@
+{
+  "id": "kb_f382bc560e9c5ab4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hosea",
+  "title": "Hosea 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hosea",
+    "chapter": 12
+  },
+  "summary": "Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hosea 12:1",
+  "content_hash": "3326c77957266ffad9017c068618fb72cabaf8172e6bca9d3b9ff1d3ba0b5686",
+  "updated": "2026-10-29T16:32:46Z"
+}

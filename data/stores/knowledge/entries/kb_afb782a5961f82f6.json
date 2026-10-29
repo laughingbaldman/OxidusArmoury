@@ -1,0 +1,19 @@
+{
+  "id": "kb_afb782a5961f82f6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 3
+  },
+  "summary": "Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 3:1",
+  "content_hash": "149b1ca9c02a2d542f65745e5cacec520c5a3c1aec483ae61e8ab0a3e1f12ab1",
+  "updated": "2026-10-29T16:32:47Z"
+}

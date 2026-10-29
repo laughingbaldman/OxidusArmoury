@@ -1,0 +1,19 @@
+{
+  "id": "kb_8c7efab364401b5e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 35",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 35
+  },
+  "summary": "Moreover the word of the LORD came unto me, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 35:1",
+  "content_hash": "d2f82b5bb7185d257c0ec0b9bbbdaf4ef0459f376ca0f823e2ee37db76a07509",
+  "updated": "2026-10-29T16:32:46Z"
+}

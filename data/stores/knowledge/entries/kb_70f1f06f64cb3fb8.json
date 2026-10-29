@@ -1,0 +1,19 @@
+{
+  "id": "kb_70f1f06f64cb3fb8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 62",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 62
+  },
+  "summary": "Truly my soul waiteth upon God: from him cometh my salvation.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 62:1",
+  "content_hash": "4d479c6ff9bdc911e6cdd5ae035348eb7c6f85c62e368d098149a4a5f29bc6d5",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_b19cbc0e21cba367",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 18
+  },
+  "summary": "Now it came to pass in the third year of Hoshea son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah began to reign.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 18:1",
+  "content_hash": "49fbcd24aa214580952c84a3358eefd16228b4e0790201ec9462a34ac2fa7510",
+  "updated": "2026-10-29T16:32:46Z"
+}

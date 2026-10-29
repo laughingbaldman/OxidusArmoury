@@ -1,0 +1,19 @@
+{
+  "id": "kb_7e757998e3522e12",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 50",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 50
+  },
+  "summary": "And Joseph fell upon his father’s face, and wept upon him, and kissed him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 50:1",
+  "content_hash": "a0b4fb3206aac6520a77f22e17e3cd1058a96132c1cb28b064e664666398870d",
+  "updated": "2026-10-29T16:32:45Z"
+}

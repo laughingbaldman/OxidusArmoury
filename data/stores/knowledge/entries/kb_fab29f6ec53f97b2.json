@@ -1,0 +1,19 @@
+{
+  "id": "kb_fab29f6ec53f97b2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 3
+  },
+  "summary": "These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 3:1",
+  "content_hash": "0b1c260ff2b3c5b6f65e0b5405e2af80e8606d96257e810dc4e593f8e37009fd",
+  "updated": "2026-10-29T16:32:45Z"
+}

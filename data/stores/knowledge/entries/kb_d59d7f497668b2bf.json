@@ -1,0 +1,19 @@
+{
+  "id": "kb_d59d7f497668b2bf",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Song of Solomon",
+  "title": "Song of Solomon 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Song of Solomon",
+    "chapter": 4
+  },
+  "summary": "Behold, thou art fair, my love; behold, thou art fair; thou hast doves’ eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Song of Solomon 4:1",
+  "content_hash": "33ba0f4f66ce6ce6d6a2c3f41009c3df8d40b8a6cbe9883dfc2be61267253267",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_7ae30fe25f075144",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 19
+  },
+  "summary": "And it was told Joab, Behold, the king weepeth and mourneth for Absalom.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 19:1",
+  "content_hash": "697a8ae1849bd59ee03834c5783c60a5998f3e82401954a23f5ba704ac217615",
+  "updated": "2026-10-29T16:32:45Z"
+}

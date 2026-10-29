@@ -1,0 +1,19 @@
+{
+  "id": "kb_01ca45d8c7f54b91",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Thessalonians",
+  "title": "1 Thessalonians 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Thessalonians",
+    "chapter": 3
+  },
+  "summary": "Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Thessalonians 3:1",
+  "content_hash": "4569b7d47daba40df3defd02a53dced95568925a99838296e69fff9c4fb82e86",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_7184107ce0d86e70",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 33",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 33
+  },
+  "summary": "Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 33:1",
+  "content_hash": "a85992a4905433721027880a8e7ed1dcda14dc38e2e5f55942e40861f9afb8a3",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_16cba6918fc6d452",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jonah",
+  "title": "Jonah 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jonah",
+    "chapter": 1
+  },
+  "summary": "Now the word of the LORD came unto Jonah the son of Amittai, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jonah 1:1",
+  "content_hash": "eddce766e5f1892c3ec8f01fce578b7da3f9652f7949ea62a375bbea4f1215b9",
+  "updated": "2026-10-29T16:32:46Z"
+}

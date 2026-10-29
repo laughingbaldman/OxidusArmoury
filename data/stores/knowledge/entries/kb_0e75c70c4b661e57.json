@@ -1,0 +1,19 @@
+{
+  "id": "kb_0e75c70c4b661e57",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 27",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 27
+  },
+  "summary": "Boast not thyself of to morrow; for thou knowest not what a day may bring forth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 27:1",
+  "content_hash": "aec6e84952750e1e0e13c9def96e2779ed6f39911963b46eca3985e96957aa72",
+  "updated": "2026-10-29T16:32:46Z"
+}

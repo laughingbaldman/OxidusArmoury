@@ -1,0 +1,19 @@
+{
+  "id": "kb_10caa5ba073de0e4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 20
+  },
+  "summary": "And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to enquire of the LORD, and sat before me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 20:1",
+  "content_hash": "ae54e4da36bb591d633651acac286175cc42462ae129b42eed2b7f94846671de",
+  "updated": "2026-10-29T16:32:46Z"
+}

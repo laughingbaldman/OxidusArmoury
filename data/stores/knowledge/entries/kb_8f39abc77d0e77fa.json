@@ -1,0 +1,19 @@
+{
+  "id": "kb_8f39abc77d0e77fa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 3
+  },
+  "summary": "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 3:1",
+  "content_hash": "a632f7813cd306ff50875603f7b50ef1452bdba301f7d8468905a55bc86e4ab3",
+  "updated": "2026-10-29T16:32:47Z"
+}

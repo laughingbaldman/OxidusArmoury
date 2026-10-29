@@ -1,0 +1,19 @@
+{
+  "id": "kb_5a30e3f2e33ca67c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezra",
+  "title": "Ezra 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezra",
+    "chapter": 1
+  },
+  "summary": "Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezra 1:1",
+  "content_hash": "7f5b3faab39264865e6b69c98c3ed0b01b2747b06131a45e7de361d9a1b3de8f",
+  "updated": "2026-10-29T16:32:46Z"
+}

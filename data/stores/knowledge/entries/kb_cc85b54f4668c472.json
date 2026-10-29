@@ -1,0 +1,19 @@
+{
+  "id": "kb_cc85b54f4668c472",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 38",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 38
+  },
+  "summary": "O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 38:1",
+  "content_hash": "b95c481cc8cdc5871cd7f223953beec002d3758d310acf4cd1a8688b6e8d6228",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_b481635bc0e5009b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 35",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 35
+  },
+  "summary": "And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 35:1",
+  "content_hash": "bf2b11874f2fb0db1f652339811e110ae3ee9546a332f32fe71e91a9c6fc78a8",
+  "updated": "2026-10-29T16:32:45Z"
+}

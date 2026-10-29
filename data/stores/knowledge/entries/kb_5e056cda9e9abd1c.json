@@ -1,0 +1,19 @@
+{
+  "id": "kb_5e056cda9e9abd1c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 31",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 31
+  },
+  "summary": "And he heard the words of Laban’s sons, saying, Jacob hath taken away all that was our father’s; and of that which was our father’s hath he gotten all this glory.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 31:1",
+  "content_hash": "02e5affe8500b26b205df56847b3d38700543a81a867f76d54b8e2ebadfd9847",
+  "updated": "2026-10-29T16:32:45Z"
+}

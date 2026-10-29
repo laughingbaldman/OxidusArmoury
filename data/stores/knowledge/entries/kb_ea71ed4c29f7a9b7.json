@@ -1,0 +1,19 @@
+{
+  "id": "kb_ea71ed4c29f7a9b7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 14
+  },
+  "summary": "Man that is born of a woman is of few days, and full of trouble.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 14:1",
+  "content_hash": "14329c6d1c671d4febb8a305769572f42d085ba0b1cfe23fede546527b181116",
+  "updated": "2026-10-29T16:32:46Z"
+}

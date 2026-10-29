@@ -1,0 +1,19 @@
+{
+  "id": "kb_40ecaccc32e6a4f4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 148",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 148
+  },
+  "summary": "Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 148:1",
+  "content_hash": "48994ee59c801feb46e9d12adf01d187c86e3599e8cfa0e07f6bf4c13cdebe6b",
+  "updated": "2026-10-29T16:32:46Z"
+}

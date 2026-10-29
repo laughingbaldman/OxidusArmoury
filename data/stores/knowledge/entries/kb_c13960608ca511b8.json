@@ -1,0 +1,19 @@
+{
+  "id": "kb_c13960608ca511b8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 36",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 36
+  },
+  "summary": "Now it came to pass in the fourteenth year of king Hezekiah, that Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 36:1",
+  "content_hash": "87ad2ca952cd6775b3894bb9bae0b561c8d4f3e4134f84d9686d617dc29d1368",
+  "updated": "2026-10-29T16:32:46Z"
+}

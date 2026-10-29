@@ -1,0 +1,19 @@
+{
+  "id": "kb_134120d602114e0d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 5
+  },
+  "summary": "Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 5:1",
+  "content_hash": "f6915470347ec4385815a8db8ae935ef619ba39730569a17a3e12d4a36f8b179",
+  "updated": "2026-10-29T16:32:46Z"
+}

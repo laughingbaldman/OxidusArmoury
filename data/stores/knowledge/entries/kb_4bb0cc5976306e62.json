@@ -1,0 +1,19 @@
+{
+  "id": "kb_4bb0cc5976306e62",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 3
+  },
+  "summary": "My son, forget not my law; but let thine heart keep my commandments:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 3:1",
+  "content_hash": "2b9c85071c631572bb3a17b5519c4f1910d07ecbc06a19f5b7dd326ea2b03242",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_2b3ebd36c17c2e44",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 25
+  },
+  "summary": "Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother’s name was Jehoaddan of Jerusalem.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 25:1",
+  "content_hash": "b2d01ed7f15f5e43b3317e4d5ab99620882da3520d2d96754f5fcf6b37dc5dab",
+  "updated": "2026-10-29T16:32:46Z"
+}

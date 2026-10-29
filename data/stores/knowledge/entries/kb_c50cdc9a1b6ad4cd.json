@@ -1,0 +1,19 @@
+{
+  "id": "kb_c50cdc9a1b6ad4cd",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 20
+  },
+  "summary": "The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 20:1",
+  "content_hash": "5ec13870b3e376b1829ee48942b343e6be613301ce110f9e2217a97a62186c14",
+  "updated": "2026-10-29T16:32:47Z"
+}

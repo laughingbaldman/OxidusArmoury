@@ -1,0 +1,19 @@
+{
+  "id": "kb_aac68445a4d44fec",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 2
+  },
+  "summary": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 2:1",
+  "content_hash": "7290968248a4c33d3df471714685b5688d7b55972437e5c6eebdb1eae65b5c69",
+  "updated": "2026-10-29T16:32:47Z"
+}

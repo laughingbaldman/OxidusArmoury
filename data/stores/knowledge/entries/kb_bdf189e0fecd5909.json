@@ -1,0 +1,19 @@
+{
+  "id": "kb_bdf189e0fecd5909",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 31",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 31
+  },
+  "summary": "In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 31:1",
+  "content_hash": "8e3e806abf45a8855f36326e36ba580e6c12ea02eccf444ccd2de468be5d8f91",
+  "updated": "2026-10-29T16:32:46Z"
+}

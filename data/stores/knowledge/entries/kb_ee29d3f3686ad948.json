@@ -1,0 +1,19 @@
+{
+  "id": "kb_ee29d3f3686ad948",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 11
+  },
+  "summary": "And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 11:1",
+  "content_hash": "1cf6970d54d9bf30a6ca160a4093e61b6dda3d6263d06a1455d28241edb27263",
+  "updated": "2026-10-29T16:32:47Z"
+}

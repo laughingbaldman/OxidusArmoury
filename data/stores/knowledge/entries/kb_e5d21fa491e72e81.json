@@ -1,0 +1,19 @@
+{
+  "id": "kb_e5d21fa491e72e81",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 14
+  },
+  "summary": "At that time Abijah the son of Jeroboam fell sick.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 14:1",
+  "content_hash": "68fe4929fb9b45ec191a8fba6a6fb23873fdecac0da88e25837c74fcd8f953b1",
+  "updated": "2026-10-29T16:32:45Z"
+}

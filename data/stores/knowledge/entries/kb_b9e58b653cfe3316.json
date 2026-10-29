@@ -1,0 +1,19 @@
+{
+  "id": "kb_b9e58b653cfe3316",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 30",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 30
+  },
+  "summary": "And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 30:1",
+  "content_hash": "d9e93ba090b15794698c5aa6d0aebaf771d649e6f98d06a2014af8ba9c44c3b2",
+  "updated": "2026-10-29T16:32:45Z"
+}

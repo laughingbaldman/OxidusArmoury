@@ -1,0 +1,19 @@
+{
+  "id": "kb_e1aeca968681620a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 18
+  },
+  "summary": "And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 18:1",
+  "content_hash": "1753a964000dba7735608e7ed632afeaf806c2f31231299b0de151a9d8c19bba",
+  "updated": "2026-10-29T16:32:47Z"
+}

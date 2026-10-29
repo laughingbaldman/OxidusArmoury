@@ -1,0 +1,19 @@
+{
+  "id": "kb_e515402f1c581a0b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 118",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 118
+  },
+  "summary": "O give thanks unto the LORD; for he is good: because his mercy endureth for ever.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 118:1",
+  "content_hash": "1b97596dda8ff8ceedf6c99989bd9370a3e8a46ca710107ce91855bcd134fd06",
+  "updated": "2026-10-29T16:32:46Z"
+}

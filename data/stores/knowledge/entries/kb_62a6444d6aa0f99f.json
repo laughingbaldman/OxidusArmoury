@@ -1,0 +1,19 @@
+{
+  "id": "kb_62a6444d6aa0f99f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Micah",
+  "title": "Micah 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Micah",
+    "chapter": 3
+  },
+  "summary": "And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; Is it not for you to know judgment?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Micah 3:1",
+  "content_hash": "e1571ef293362eadbd165fc09d6ca19a78ec05bf9584e4c89be8a550830e3dc3",
+  "updated": "2026-10-29T16:32:46Z"
+}

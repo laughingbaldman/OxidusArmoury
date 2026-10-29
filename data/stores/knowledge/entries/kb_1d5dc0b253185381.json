@@ -1,0 +1,19 @@
+{
+  "id": "kb_1d5dc0b253185381",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 28",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 28
+  },
+  "summary": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe and to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 28:1",
+  "content_hash": "2f479ff179a210183a3a5fd1b1fa8dee679969b5b2d854abeecd683d1d6163a8",
+  "updated": "2026-10-29T16:32:45Z"
+}

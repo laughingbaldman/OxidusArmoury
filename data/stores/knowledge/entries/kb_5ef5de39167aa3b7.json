@@ -1,0 +1,19 @@
+{
+  "id": "kb_5ef5de39167aa3b7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 19
+  },
+  "summary": "When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 19:1",
+  "content_hash": "e85c8b50c8ac91739cd741f0d57845476af5dc4fbe045419c8e51b645a5cf7b7",
+  "updated": "2026-10-29T16:32:45Z"
+}

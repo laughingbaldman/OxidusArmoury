@@ -1,0 +1,19 @@
+{
+  "id": "kb_ac4de7175337478d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 112",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 112
+  },
+  "summary": "Praise ye the LORD. Blessed is the man that feareth the LORD, that delighteth greatly in his commandments.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 112:1",
+  "content_hash": "f712733141d3bc145d252f98a35b7fa897d4c8e9a80c398b03cbc6876aee7320",
+  "updated": "2026-10-29T16:32:46Z"
+}

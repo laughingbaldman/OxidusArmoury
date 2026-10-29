@@ -1,0 +1,19 @@
+{
+  "id": "kb_423849b9ebce3075",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 18
+  },
+  "summary": "And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 18:1",
+  "content_hash": "a7f2bf00fbd7d2658b13f287c280122e90d4b58090354cd71a37f668a70ff05e",
+  "updated": "2026-10-29T16:32:45Z"
+}

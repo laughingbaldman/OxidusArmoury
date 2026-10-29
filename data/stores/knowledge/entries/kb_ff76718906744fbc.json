@@ -1,0 +1,19 @@
+{
+  "id": "kb_ff76718906744fbc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 16
+  },
+  "summary": "And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 16:1",
+  "content_hash": "69da704a96b2b46ee2d25043b03729a4540202de69ae34fe628f5322678adcea",
+  "updated": "2026-10-29T16:32:47Z"
+}

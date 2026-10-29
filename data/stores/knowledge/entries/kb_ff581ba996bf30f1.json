@@ -1,0 +1,19 @@
+{
+  "id": "kb_ff581ba996bf30f1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 24
+  },
+  "summary": "And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 24:1",
+  "content_hash": "d71319904940f9d0e1ba8b1d0780fe127a2eb74033844fdcfe200b20ab3a7217",
+  "updated": "2026-10-29T16:32:45Z"
+}

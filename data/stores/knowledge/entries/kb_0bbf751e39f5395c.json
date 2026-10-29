@@ -1,0 +1,19 @@
+{
+  "id": "kb_0bbf751e39f5395c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 2
+  },
+  "summary": "And it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 2:1",
+  "content_hash": "6a84af91dde8d390fd5140d2a85c58597c2eee2f22cdb22443e360a19a6c5fdc",
+  "updated": "2026-10-29T16:32:45Z"
+}

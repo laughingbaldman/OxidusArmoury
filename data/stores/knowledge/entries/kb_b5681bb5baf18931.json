@@ -1,0 +1,19 @@
+{
+  "id": "kb_b5681bb5baf18931",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 16
+  },
+  "summary": "Preserve me, O God: for in thee do I put my trust.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 16:1",
+  "content_hash": "6a27c71f45593dbe91b6708a74758a1a0b88c95626737a28a7d45a2ff6e77b84",
+  "updated": "2026-10-29T16:32:46Z"
+}

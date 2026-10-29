@@ -1,0 +1,19 @@
+{
+  "id": "kb_82074c5334b968dc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Song of Solomon",
+  "title": "Song of Solomon 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Song of Solomon",
+    "chapter": 7
+  },
+  "summary": "How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Song of Solomon 7:1",
+  "content_hash": "bd641964981ea238d0993ea041c0f59bd187a525ed81961a1d6e37626d3d9451",
+  "updated": "2026-10-29T16:32:46Z"
+}

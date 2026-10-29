@@ -1,0 +1,19 @@
+{
+  "id": "kb_d1bd2fe96a3e8a6c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 45",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 45
+  },
+  "summary": "Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 45:1",
+  "content_hash": "c4f9c39c246365d779861cc6d36707acf6f512d7b06517d60cd7b17fdbe66bf9",
+  "updated": "2026-10-29T16:32:45Z"
+}

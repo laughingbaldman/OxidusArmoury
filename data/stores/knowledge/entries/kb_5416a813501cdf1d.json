@@ -1,0 +1,19 @@
+{
+  "id": "kb_5416a813501cdf1d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 73",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 73
+  },
+  "summary": "Truly God is good to Israel, even to such as are of a clean heart.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 73:1",
+  "content_hash": "36654c475a1de26049251222c2954080482877185454355c415ee8961f917e8e",
+  "updated": "2026-10-29T16:32:46Z"
+}

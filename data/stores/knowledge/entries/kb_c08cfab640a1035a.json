@@ -1,0 +1,19 @@
+{
+  "id": "kb_c08cfab640a1035a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 11
+  },
+  "summary": "And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 11:1",
+  "content_hash": "70ac2ad38504a82f706b7962a6f79f33266649000ba6fc68adbc5923d3a12a31",
+  "updated": "2026-10-29T16:32:47Z"
+}

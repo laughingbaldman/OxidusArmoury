@@ -1,0 +1,19 @@
+{
+  "id": "kb_4ee4db9e17780185",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 27",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 27
+  },
+  "summary": "And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 27:1",
+  "content_hash": "768ef56627e77ea0450937cbeb92291814e868fe1c46e8c65ffe2dbf84678d40",
+  "updated": "2026-10-29T16:32:45Z"
+}

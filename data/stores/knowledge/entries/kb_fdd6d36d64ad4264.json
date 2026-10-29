@@ -1,0 +1,19 @@
+{
+  "id": "kb_fdd6d36d64ad4264",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 66",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 66
+  },
+  "summary": "Thus saith the LORD, The heaven is my throne, and the earth is my footstool: where is the house that ye build unto me? and where is the place of my rest?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 66:1",
+  "content_hash": "45ab161f0c99dd4d3c30ce07f269486db4075a1471f9645f1ac05787522e2106",
+  "updated": "2026-10-29T16:32:46Z"
+}

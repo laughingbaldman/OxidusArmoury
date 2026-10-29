@@ -1,0 +1,19 @@
+{
+  "id": "kb_d8c7417c44732764",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nehemiah",
+  "title": "Nehemiah 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nehemiah",
+    "chapter": 7
+  },
+  "summary": "Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nehemiah 7:1",
+  "content_hash": "e97858026306165f278d866591ac48fe686f3314a17952bed823c8206d4e0ac6",
+  "updated": "2026-10-29T16:32:46Z"
+}

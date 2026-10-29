@@ -1,0 +1,19 @@
+{
+  "id": "kb_2fe12281a143b83f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 66",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 66
+  },
+  "summary": "Make a joyful noise unto God, all ye lands:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 66:1",
+  "content_hash": "38826ec437049581ad6a0beb08d4b9d41aa430dfd1b774ca586eb4d595744506",
+  "updated": "2026-10-29T16:32:46Z"
+}

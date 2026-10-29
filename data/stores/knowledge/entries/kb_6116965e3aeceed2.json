@@ -1,0 +1,19 @@
+{
+  "id": "kb_6116965e3aeceed2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 123",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 123
+  },
+  "summary": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 123:1",
+  "content_hash": "a500b2894c8d69d023b63aa994f7d522f034a725f86d8ced24ca75fd78c4c3f0",
+  "updated": "2026-10-29T16:32:46Z"
+}

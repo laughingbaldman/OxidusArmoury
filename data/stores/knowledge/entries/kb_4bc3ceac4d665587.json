@@ -1,0 +1,19 @@
+{
+  "id": "kb_4bc3ceac4d665587",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Habakkuk",
+  "title": "Habakkuk 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Habakkuk",
+    "chapter": 3
+  },
+  "summary": "A prayer of Habakkuk the prophet upon Shigionoth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Habakkuk 3:1",
+  "content_hash": "8ee0e25e3ecd76876366b37eda5bbb8453afedc2bbc20d1e09d78d70d5e467f1",
+  "updated": "2026-10-29T16:32:46Z"
+}

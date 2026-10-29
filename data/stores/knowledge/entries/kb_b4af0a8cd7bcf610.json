@@ -1,0 +1,19 @@
+{
+  "id": "kb_b4af0a8cd7bcf610",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 9
+  },
+  "summary": "For as touching the ministering to the saints, it is superfluous for me to write to you:",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 9:1",
+  "content_hash": "93285d7bc60b897dc837dd6c55bcc17049ccfadc50abc75be5112b63ee839f88",
+  "updated": "2026-10-29T16:32:47Z"
+}

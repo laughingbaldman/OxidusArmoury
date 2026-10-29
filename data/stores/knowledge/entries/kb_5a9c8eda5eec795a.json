@@ -1,0 +1,19 @@
+{
+  "id": "kb_5a9c8eda5eec795a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Micah",
+  "title": "Micah 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Micah",
+    "chapter": 1
+  },
+  "summary": "The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Micah 1:1",
+  "content_hash": "27eaef648b143405e8eb1b3bae047129bce7535d56077fb88ad34293935fc408",
+  "updated": "2026-10-29T16:32:46Z"
+}

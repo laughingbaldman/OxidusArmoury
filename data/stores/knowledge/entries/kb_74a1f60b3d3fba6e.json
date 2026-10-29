@@ -1,0 +1,19 @@
+{
+  "id": "kb_74a1f60b3d3fba6e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 74",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 74
+  },
+  "summary": "O God, why hast thou cast us off for ever? why doth thine anger smoke against the sheep of thy pasture?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 74:1",
+  "content_hash": "b2c449d05684bef122f855daea8f4d7be1fd740f35a0174d24c03a598147f576",
+  "updated": "2026-10-29T16:32:46Z"
+}

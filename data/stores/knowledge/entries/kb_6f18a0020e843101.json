@@ -1,0 +1,19 @@
+{
+  "id": "kb_6f18a0020e843101",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 24
+  },
+  "summary": "Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother’s name also was Zibiah of Beersheba.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 24:1",
+  "content_hash": "d7d7fd2651e846f9465a4028a86d9c3de6303793a65de4b88cf7b5f9e9a33003",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_ffd953290018b2db",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 22
+  },
+  "summary": "Then Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 22:1",
+  "content_hash": "fa3f951a50b73691b2ff5cbdc4c2c6ef92301c4626178cf193713c3831616a75",
+  "updated": "2026-10-29T16:32:45Z"
+}

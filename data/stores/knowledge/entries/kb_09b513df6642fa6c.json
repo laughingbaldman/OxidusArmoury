@@ -1,0 +1,19 @@
+{
+  "id": "kb_09b513df6642fa6c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 32",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 32
+  },
+  "summary": "And it came to pass in the twelfth year, in the twelfth month, in the first day of the month, that the word of the LORD came unto me, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 32:1",
+  "content_hash": "82ec6d61aef24933b6198e3e555e81924b7607f75f92484347a55d489e0112db",
+  "updated": "2026-10-29T16:32:46Z"
+}

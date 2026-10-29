@@ -1,0 +1,19 @@
+{
+  "id": "kb_defe457dc7bba004",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 12
+  },
+  "summary": "In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother’s name was Zibiah of Beersheba.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 12:1",
+  "content_hash": "0d8d594234d0d473d4b0f1034bec3a4bfce94d7f75f953d68079d5822a3c1e4c",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_58a619fe209b3e57",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 13
+  },
+  "summary": "Let brotherly love continue.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 13:1",
+  "content_hash": "fc4a85f776007bc46e36cbbb91d905c3b72007f3903d005248d50ac86739f7ba",
+  "updated": "2026-10-29T16:32:47Z"
+}

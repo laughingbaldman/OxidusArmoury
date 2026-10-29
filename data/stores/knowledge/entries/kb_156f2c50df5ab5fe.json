@@ -1,0 +1,19 @@
+{
+  "id": "kb_156f2c50df5ab5fe",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 23
+  },
+  "summary": "The LORD is my shepherd; I shall not want.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 23:1",
+  "content_hash": "f1705f7a9f458f3af425d0e9349a63c083a427fe4a8187d5c5edf526ef7f1359",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_6aba4268b210997f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 2
+  },
+  "summary": "Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 2:1",
+  "content_hash": "49120c5d5af967b5122373258d44e9b69502d0a78c9326d5711f78dd9129f6af",
+  "updated": "2026-10-29T16:32:47Z"
+}

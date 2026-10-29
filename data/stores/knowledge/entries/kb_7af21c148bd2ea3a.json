@@ -1,0 +1,19 @@
+{
+  "id": "kb_7af21c148bd2ea3a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Micah",
+  "title": "Micah 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Micah",
+    "chapter": 6
+  },
+  "summary": "Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Micah 6:1",
+  "content_hash": "479aa5fce2f706f002b185541df06180d75f504ee365e84caeb719d98b2840c3",
+  "updated": "2026-10-29T16:32:46Z"
+}

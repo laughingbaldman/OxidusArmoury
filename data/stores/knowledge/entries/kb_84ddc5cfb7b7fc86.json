@@ -1,0 +1,19 @@
+{
+  "id": "kb_84ddc5cfb7b7fc86",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 34",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 34
+  },
+  "summary": "And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 34:1",
+  "content_hash": "ba09cdc4ef94ca0c0e8a6d5c56c7b5e6594ff162039117377a271da5c4deb165",
+  "updated": "2026-10-29T16:32:45Z"
+}

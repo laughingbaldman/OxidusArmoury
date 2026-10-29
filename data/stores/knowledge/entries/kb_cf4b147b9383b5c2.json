@@ -1,0 +1,19 @@
+{
+  "id": "kb_cf4b147b9383b5c2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Esther",
+  "title": "Esther 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Esther",
+    "chapter": 3
+  },
+  "summary": "After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Esther 3:1",
+  "content_hash": "7c072eed346295b9072aadabb711552c7b4561d06b8345d0302e82ab3dae1443",
+  "updated": "2026-10-29T16:32:46Z"
+}

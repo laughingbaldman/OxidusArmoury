@@ -1,0 +1,19 @@
+{
+  "id": "kb_d6193fd87bd1ba11",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 10
+  },
+  "summary": "Now it came to pass, when Adonizedec king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 10:1",
+  "content_hash": "064e68167417c638dcbfe3ae56136b9ae2452243b650ba6cdd619a0053fe05bc",
+  "updated": "2026-10-29T16:32:45Z"
+}

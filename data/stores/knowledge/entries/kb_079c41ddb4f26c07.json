@@ -1,0 +1,19 @@
+{
+  "id": "kb_079c41ddb4f26c07",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 25
+  },
+  "summary": "The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah, that was the first year of Nebuchadrezzar king of Babylon;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 25:1",
+  "content_hash": "79504b8be6a863d1c04c62e66cafbb0af6f46068e95190fd2e6ce2f13ef6bc43",
+  "updated": "2026-10-29T16:32:46Z"
+}

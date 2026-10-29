@@ -1,0 +1,19 @@
+{
+  "id": "kb_c8ea095475fa48fd",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 28",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 28
+  },
+  "summary": "And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 28:1",
+  "content_hash": "2118cfa3b6490ffe052b160aea79a5e1729238648fd9ac1c50e60142ea020f1e",
+  "updated": "2026-10-29T16:32:45Z"
+}

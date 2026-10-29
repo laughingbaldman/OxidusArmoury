@@ -1,0 +1,19 @@
+{
+  "id": "kb_03f0e96147c644d4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 24
+  },
+  "summary": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 24:1",
+  "content_hash": "a05edaa02264043d80fd3946076b423472e899279e3e47b77b152d8d91e3f5c9",
+  "updated": "2026-10-29T16:32:46Z"
+}

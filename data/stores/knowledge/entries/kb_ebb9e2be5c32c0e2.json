@@ -1,0 +1,19 @@
+{
+  "id": "kb_ebb9e2be5c32c0e2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joel",
+  "title": "Joel 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joel",
+    "chapter": 2
+  },
+  "summary": "Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for it is nigh at hand;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joel 2:1",
+  "content_hash": "b14d51c37c5de3682d75bf12dce08f60f03db88821398b9659d88149887e83b3",
+  "updated": "2026-10-29T16:32:46Z"
+}

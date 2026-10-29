@@ -1,0 +1,19 @@
+{
+  "id": "kb_15ad7251453038ac",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 33",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 33
+  },
+  "summary": "And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 33:1",
+  "content_hash": "6afbc7d73aab0e6670eabfd56abd0b7c71b70769cbc97b176bf30154405260f2",
+  "updated": "2026-10-29T16:32:45Z"
+}

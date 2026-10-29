@@ -1,0 +1,19 @@
+{
+  "id": "kb_02ded626f90c3a44",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 7
+  },
+  "summary": "Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 7:1",
+  "content_hash": "47e490a4eafbf2cb09fe320f6d4a6744e8c6e4f19d9a27fc7ba3c71bcb27f1e3",
+  "updated": "2026-10-29T16:32:47Z"
+}

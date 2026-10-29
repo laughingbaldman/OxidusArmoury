@@ -1,0 +1,19 @@
+{
+  "id": "kb_0a24bd4079184d51",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 12
+  },
+  "summary": "Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 12:1",
+  "content_hash": "5f482cee6a818a4d1efb9d7d8bd8589f076032cb2cd852b69ba953e9fad4d4a1",
+  "updated": "2026-10-29T16:32:46Z"
+}

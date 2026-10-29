@@ -1,0 +1,19 @@
+{
+  "id": "kb_82c87cb4e79412da",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 2
+  },
+  "summary": "My son, if thou wilt receive my words, and hide my commandments with thee;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 2:1",
+  "content_hash": "601fa63e8f672b0cb4d022cbe3eee2279616080787317f71bb310d29f1ea9dc6",
+  "updated": "2026-10-29T16:32:46Z"
+}

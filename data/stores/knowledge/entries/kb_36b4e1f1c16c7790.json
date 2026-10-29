@@ -1,0 +1,19 @@
+{
+  "id": "kb_36b4e1f1c16c7790",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ecclesiastes",
+  "title": "Ecclesiastes 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ecclesiastes",
+    "chapter": 7
+  },
+  "summary": "A good name is better than precious ointment; and the day of death than the day of one’s birth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ecclesiastes 7:1",
+  "content_hash": "64574c4b2fe151cab3d73dd45440df24813836e71f4067de1c5d47897aafd955",
+  "updated": "2026-10-29T16:32:46Z"
+}

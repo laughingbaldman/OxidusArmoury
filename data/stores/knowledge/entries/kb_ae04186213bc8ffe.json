@@ -1,0 +1,19 @@
+{
+  "id": "kb_ae04186213bc8ffe",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 11
+  },
+  "summary": "And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 11:1",
+  "content_hash": "d97862f695acba8fe17fab00eed8af189cf50cb6f365b800e01d847aca37639e",
+  "updated": "2026-10-29T16:32:47Z"
+}

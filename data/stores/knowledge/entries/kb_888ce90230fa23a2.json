@@ -1,0 +1,19 @@
+{
+  "id": "kb_888ce90230fa23a2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 21
+  },
+  "summary": "And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the day following unto Rhodes, and from thence unto Patara:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 21:1",
+  "content_hash": "50690b12877a1185e2aeb6c434d2e6560ea8afed425ec134162554eab64acae0",
+  "updated": "2026-10-29T16:32:47Z"
+}

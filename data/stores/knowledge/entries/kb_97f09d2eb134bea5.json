@@ -1,0 +1,19 @@
+{
+  "id": "kb_97f09d2eb134bea5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ecclesiastes",
+  "title": "Ecclesiastes 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ecclesiastes",
+    "chapter": 6
+  },
+  "summary": "There is an evil which I have seen under the sun, and it is common among men:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ecclesiastes 6:1",
+  "content_hash": "f040d4eccbfe8f5aaede4e1de5d882043cbba809dab98252d9f5a0cf1e6c341b",
+  "updated": "2026-10-29T16:32:46Z"
+}

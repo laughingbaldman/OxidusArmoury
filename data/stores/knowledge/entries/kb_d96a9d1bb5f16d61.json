@@ -1,0 +1,19 @@
+{
+  "id": "kb_d96a9d1bb5f16d61",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 25
+  },
+  "summary": "Then again Abraham took a wife, and her name was Keturah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 25:1",
+  "content_hash": "57dd0c6d871380c5f546e01ba8304b6cac9e9e14b612947561cfc2d5f995bc5b",
+  "updated": "2026-10-29T16:32:45Z"
+}

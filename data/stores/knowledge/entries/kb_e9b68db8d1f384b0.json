@@ -1,0 +1,19 @@
+{
+  "id": "kb_e9b68db8d1f384b0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 5
+  },
+  "summary": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 5:1",
+  "content_hash": "ebbc2e0a675d364062057b262a284ac36a52cd6955d2531574fffa41319177f9",
+  "updated": "2026-10-29T16:32:47Z"
+}

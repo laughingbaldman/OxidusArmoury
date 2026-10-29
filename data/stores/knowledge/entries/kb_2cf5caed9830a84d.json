@@ -1,0 +1,19 @@
+{
+  "id": "kb_2cf5caed9830a84d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 21
+  },
+  "summary": "The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 21:1",
+  "content_hash": "6c08197ef17d52c04ce00ecc884c3a469c8e5b59cbc37aacdadc13fe8dbc229b",
+  "updated": "2026-10-29T16:32:46Z"
+}

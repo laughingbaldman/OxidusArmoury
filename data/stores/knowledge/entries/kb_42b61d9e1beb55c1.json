@@ -1,0 +1,19 @@
+{
+  "id": "kb_42b61d9e1beb55c1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ecclesiastes",
+  "title": "Ecclesiastes 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ecclesiastes",
+    "chapter": 12
+  },
+  "summary": "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ecclesiastes 12:1",
+  "content_hash": "c256315d29832052202bf7ad00b2bd79e40fcfa7ea280d538a299e504aec99d3",
+  "updated": "2026-10-29T16:32:46Z"
+}

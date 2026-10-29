@@ -1,0 +1,19 @@
+{
+  "id": "kb_c304d7d83f260ac4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 33",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 33
+  },
+  "summary": "These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 33:1",
+  "content_hash": "633fe9a2a884345a8718b4c1425e77f7e9a913dfea07a795a9be962393f490eb",
+  "updated": "2026-10-29T16:32:45Z"
+}

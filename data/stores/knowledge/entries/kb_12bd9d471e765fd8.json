@@ -1,0 +1,19 @@
+{
+  "id": "kb_12bd9d471e765fd8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Galatians",
+  "title": "Galatians 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Galatians",
+    "chapter": 1
+  },
+  "summary": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)",
+  "source": "KJV",
+  "when": "",
+  "loc": "Galatians 1:1",
+  "content_hash": "49693cd15380586d008111cb313dde258cfccd7fc1ac9289f525ccb6b066683b",
+  "updated": "2026-10-29T16:32:47Z"
+}

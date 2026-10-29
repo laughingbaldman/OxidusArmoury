@@ -1,0 +1,19 @@
+{
+  "id": "kb_ea2eed57de41200b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Colossians",
+  "title": "Colossians 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Colossians",
+    "chapter": 3
+  },
+  "summary": "If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Colossians 3:1",
+  "content_hash": "8325bc3b57377c51960b74625dbe8bf0d0c45adbed0adfffe88795c681187ce5",
+  "updated": "2026-10-29T16:32:47Z"
+}

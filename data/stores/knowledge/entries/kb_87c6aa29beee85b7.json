@@ -1,0 +1,19 @@
+{
+  "id": "kb_87c6aa29beee85b7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 15
+  },
+  "summary": "Lord, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 15:1",
+  "content_hash": "92baa268ac073b169c16168cacc9f7292bfbc67be0da999e65b24eee53db436e",
+  "updated": "2026-10-29T16:32:46Z"
+}

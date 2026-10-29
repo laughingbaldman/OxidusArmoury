@@ -1,0 +1,19 @@
+{
+  "id": "kb_71f28fa2a64d3466",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 28",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 28
+  },
+  "summary": "In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 28:1",
+  "content_hash": "67e91e5b1e4b204ad068945dd70b890c35ab7fc1a913a98a07b7fe78cc629800",
+  "updated": "2026-10-29T16:32:47Z"
+}

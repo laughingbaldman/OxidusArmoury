@@ -1,0 +1,19 @@
+{
+  "id": "kb_6bb4e47895988c86",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 11
+  },
+  "summary": "And when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 11:1",
+  "content_hash": "07f67a756d899f0f0dc198ed9c1fde8d889af80a9713282f1bff9acb70586743",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_e3953ddba8846fc1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ecclesiastes",
+  "title": "Ecclesiastes 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ecclesiastes",
+    "chapter": 10
+  },
+  "summary": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ecclesiastes 10:1",
+  "content_hash": "8366c672edfdbf3895c4ed1b4969cc698a1fcf90e914c25b9e5cf6778531a895",
+  "updated": "2026-10-29T16:32:46Z"
+}

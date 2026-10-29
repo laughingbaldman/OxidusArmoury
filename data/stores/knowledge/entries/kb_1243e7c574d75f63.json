@@ -1,0 +1,19 @@
+{
+  "id": "kb_1243e7c574d75f63",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Esther",
+  "title": "Esther 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Esther",
+    "chapter": 8
+  },
+  "summary": "On that day did the king Ahasuerus give the house of Haman the Jews’ enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he was unto her.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Esther 8:1",
+  "content_hash": "1984b9018f3ee2711fedd203ee65b6f0c55518a20f2311ba2f11f4aaea7c6fc4",
+  "updated": "2026-10-29T16:32:46Z"
+}

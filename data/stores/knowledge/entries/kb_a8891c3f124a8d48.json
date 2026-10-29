@@ -1,0 +1,19 @@
+{
+  "id": "kb_a8891c3f124a8d48",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 2
+  },
+  "summary": "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 2:1",
+  "content_hash": "e32196cb62ec04133b29e1ce62ee0ecf0bf786348ee10c51966004ff6b4f7684",
+  "updated": "2026-10-29T16:32:47Z"
+}

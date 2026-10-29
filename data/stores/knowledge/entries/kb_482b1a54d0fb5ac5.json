@@ -1,0 +1,19 @@
+{
+  "id": "kb_482b1a54d0fb5ac5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 15
+  },
+  "summary": "And the Spirit of God came upon Azariah the son of Oded:",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 15:1",
+  "content_hash": "332de719394b0377b9a373c71c42a88d352ee592c1c8f12b96c10ce127f7342e",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_96ea521d61582c2e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 11
+  },
+  "summary": "And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 11:1",
+  "content_hash": "d105e71b4bc0b5b74f89c3672f149fa0b3315381a10a1ba8c86bb55f4a7cae34",
+  "updated": "2026-10-29T16:32:46Z"
+}

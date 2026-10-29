@@ -1,0 +1,19 @@
+{
+  "id": "kb_a87ee1e4c1711482",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 144",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 144
+  },
+  "summary": "Blessed be the LORD my strength, which teacheth my hands to war, and my fingers to fight:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 144:1",
+  "content_hash": "801fb499f3c93fdff33b55d1c924d297eada4a48fcc34ab0736d554b769bce3b",
+  "updated": "2026-10-29T16:32:46Z"
+}

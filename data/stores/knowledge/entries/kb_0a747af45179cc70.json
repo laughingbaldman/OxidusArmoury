@@ -1,0 +1,19 @@
+{
+  "id": "kb_0a747af45179cc70",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Esther",
+  "title": "Esther 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Esther",
+    "chapter": 1
+  },
+  "summary": "Now it came to pass in the days of Ahasuerus, (this is Ahasuerus which reigned, from India even unto Ethiopia, over an hundred and seven and twenty provinces:)",
+  "source": "KJV",
+  "when": "",
+  "loc": "Esther 1:1",
+  "content_hash": "398476672e4d8909f5716b05e903ef3c02f285898d7985bec768b6563c0718e3",
+  "updated": "2026-10-29T16:32:46Z"
+}

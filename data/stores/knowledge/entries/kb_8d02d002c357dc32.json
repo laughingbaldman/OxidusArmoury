@@ -1,0 +1,19 @@
+{
+  "id": "kb_8d02d002c357dc32",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 20
+  },
+  "summary": "And Benhadad the king of Syria gathered all his host together: and there were thirty and two kings with him, and horses, and chariots; and he went up and besieged Samaria, and warred against it.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 20:1",
+  "content_hash": "743f9ae417b3a2fa48a2c3a5dbb6bd5bdf62c540a94ff0e1db4ed2c1b65452ae",
+  "updated": "2026-10-29T16:32:45Z"
+}

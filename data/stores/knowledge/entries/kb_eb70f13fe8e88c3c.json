@@ -1,0 +1,19 @@
+{
+  "id": "kb_eb70f13fe8e88c3c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 16
+  },
+  "summary": "Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 16:1",
+  "content_hash": "9cc183f8359007b9ff2684db888fa59a6ef55dc6bd2aa8994d10a197e61c864f",
+  "updated": "2026-10-29T16:32:45Z"
+}

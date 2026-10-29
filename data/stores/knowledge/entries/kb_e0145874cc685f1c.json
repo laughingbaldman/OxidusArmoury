@@ -1,0 +1,19 @@
+{
+  "id": "kb_e0145874cc685f1c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 22
+  },
+  "summary": "And David spake unto the LORD the words of this song in the day that the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul:",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 22:1",
+  "content_hash": "5250fe068053f70baecba5f572fd179589957e627e255b43df70b76c67b4ba7b",
+  "updated": "2026-10-29T16:32:45Z"
+}

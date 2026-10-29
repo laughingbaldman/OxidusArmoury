@@ -1,0 +1,19 @@
+{
+  "id": "kb_f7cae9e9c4bb1a76",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 11
+  },
+  "summary": "And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 11:1",
+  "content_hash": "ea641c37c3a3f78487579127c961c851695ea3a0714ae167c8bc35acf7f429c4",
+  "updated": "2026-10-29T16:32:46Z"
+}

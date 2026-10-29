@@ -1,0 +1,19 @@
+{
+  "id": "kb_62f585b9e3d57255",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zephaniah",
+  "title": "Zephaniah 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zephaniah",
+    "chapter": 1
+  },
+  "summary": "The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zephaniah 1:1",
+  "content_hash": "f64d0dc041ab7d6da9ad4814f246a25ebb8ba07d3d040e781ea658721ea84ef5",
+  "updated": "2026-10-29T16:32:46Z"
+}

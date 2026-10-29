@@ -1,0 +1,19 @@
+{
+  "id": "kb_96ae16ad91539dda",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Peter",
+  "title": "1 Peter 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Peter",
+    "chapter": 2
+  },
+  "summary": "Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Peter 2:1",
+  "content_hash": "7570d5f6afc8d3fb2f4dfb66ae0468f9a7c61422a907165b43ece1716a9aa394",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_f2231fb586df6c2c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 20
+  },
+  "summary": "In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 20:1",
+  "content_hash": "0d6cdc3f0761aaeb33a686cc6b8bd09937736e7304ce92f0665373df18553065",
+  "updated": "2026-10-29T16:32:46Z"
+}

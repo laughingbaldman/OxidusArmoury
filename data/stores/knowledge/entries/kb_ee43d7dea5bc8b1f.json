@@ -1,0 +1,19 @@
+{
+  "id": "kb_ee43d7dea5bc8b1f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 10
+  },
+  "summary": "Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 10:1",
+  "content_hash": "095c6144d0ce77c36e1d3bcaa1f545325ef909ac44010aa6d5b5c1a4fa285797",
+  "updated": "2026-10-29T16:32:46Z"
+}

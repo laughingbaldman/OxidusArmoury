@@ -1,0 +1,19 @@
+{
+  "id": "kb_f51893117d6c8fac",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 7
+  },
+  "summary": "Then said the high priest, Are these things so?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 7:1",
+  "content_hash": "924d22f282fa28edf57dbfaff83dacaee2a7f94ed6f2692bf6b0958e3c9de5b1",
+  "updated": "2026-10-29T16:32:47Z"
+}

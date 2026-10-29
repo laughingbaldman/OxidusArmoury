@@ -1,0 +1,19 @@
+{
+  "id": "kb_6d9fdf61aa527dac",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 17
+  },
+  "summary": "And Elijah the Tishbite, who was of the inhabitants of Gilead, said unto Ahab, As the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 17:1",
+  "content_hash": "de49d99fff9f148ddb3007b16a326227d2f29f8d8fa2b1d875d3b614f2c057ea",
+  "updated": "2026-10-29T16:32:45Z"
+}

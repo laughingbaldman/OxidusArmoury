@@ -1,0 +1,19 @@
+{
+  "id": "kb_ce460b0095c30d0d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 84",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 84
+  },
+  "summary": "How amiable are thy tabernacles, O LORD of hosts!",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 84:1",
+  "content_hash": "7a0402f9f72350b5a5b4e3ec56b3e6283ad13ec954f2b5c43bc44284eace3729",
+  "updated": "2026-10-29T16:32:46Z"
+}

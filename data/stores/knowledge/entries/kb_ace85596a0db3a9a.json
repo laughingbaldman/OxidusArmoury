@@ -1,0 +1,19 @@
+{
+  "id": "kb_ace85596a0db3a9a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 15
+  },
+  "summary": "And certain men which came down from Judaea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 15:1",
+  "content_hash": "fff3afec46460bc99a27bfa2d09d1095a945253c9910bf8bd8cbd0dd95bcf255",
+  "updated": "2026-10-29T16:32:47Z"
+}

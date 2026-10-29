@@ -1,0 +1,19 @@
+{
+  "id": "kb_60543d3b651b612a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 2
+  },
+  "summary": "And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 2:1",
+  "content_hash": "58a4bd20c269d60a5eec2e304dd16a114bfce1f6a5be7a3478a625cd2a90805f",
+  "updated": "2026-10-29T16:32:45Z"
+}

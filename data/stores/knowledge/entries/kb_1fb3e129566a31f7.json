@@ -1,0 +1,19 @@
+{
+  "id": "kb_1fb3e129566a31f7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 12
+  },
+  "summary": "And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 12:1",
+  "content_hash": "a7593306e791bc9f8266c2345dcdb07f98ea6c93d4bc21fe69db7d63e0c0b31a",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_4d75179b5fafeb61",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 21
+  },
+  "summary": "If one be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, and it be not known who hath slain him:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 21:1",
+  "content_hash": "52e81775d3288fc439e3fe9cba604818b2e24f746e9da84a4912474c0885f078",
+  "updated": "2026-10-29T16:32:45Z"
+}

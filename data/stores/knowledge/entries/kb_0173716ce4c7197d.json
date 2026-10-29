@@ -1,0 +1,19 @@
+{
+  "id": "kb_0173716ce4c7197d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 51",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 51
+  },
+  "summary": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 51:1",
+  "content_hash": "841c2f143bb5bdde34d3920ccdd77267aabc249dcd450f8c5f284bf9ad186b3e",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_c2949402481613b0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 77",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 77
+  },
+  "summary": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 77:1",
+  "content_hash": "0dbd1698a68bce5d5afa7a5af7997c7467498acf5e7bf1b5b9cabb05be3dcd1e",
+  "updated": "2026-10-29T16:32:46Z"
+}

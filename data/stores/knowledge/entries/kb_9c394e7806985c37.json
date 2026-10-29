@@ -1,0 +1,19 @@
+{
+  "id": "kb_9c394e7806985c37",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 35",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 35
+  },
+  "summary": "And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 35:1",
+  "content_hash": "6aa7fd1042c07c273ef177041b8262694744e930467348a096e565f7269c4374",
+  "updated": "2026-10-29T16:32:45Z"
+}

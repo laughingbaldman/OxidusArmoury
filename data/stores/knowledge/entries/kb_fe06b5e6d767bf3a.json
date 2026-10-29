@@ -1,0 +1,19 @@
+{
+  "id": "kb_fe06b5e6d767bf3a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 18
+  },
+  "summary": "And it came to pass after many days, that the word of the LORD came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 18:1",
+  "content_hash": "f174ed206dd5ae8035eea15cf2ed2eec8be0ade827a78478b387b8e2c5601825",
+  "updated": "2026-10-29T16:32:45Z"
+}

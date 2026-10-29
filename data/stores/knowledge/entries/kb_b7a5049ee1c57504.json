@@ -1,0 +1,19 @@
+{
+  "id": "kb_b7a5049ee1c57504",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 10
+  },
+  "summary": "After these things the LORD appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 10:1",
+  "content_hash": "d2bef48f4450c87644adbcd9f850477677dd5370df4618cd8136c16103678f3c",
+  "updated": "2026-10-29T16:32:47Z"
+}

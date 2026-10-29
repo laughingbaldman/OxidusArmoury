@@ -1,0 +1,19 @@
+{
+  "id": "kb_1699f6bf497a74a5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 1
+  },
+  "summary": "Adam, Sheth, Enosh,",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 1:1",
+  "content_hash": "77e62a048f710995b470fdfee5c10527da42b1c629aadbecd570fdbdb6e35052",
+  "updated": "2026-10-29T16:32:46Z"
+}

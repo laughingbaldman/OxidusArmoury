@@ -1,0 +1,19 @@
+{
+  "id": "kb_023d0518d41de04f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zephaniah",
+  "title": "Zephaniah 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zephaniah",
+    "chapter": 2
+  },
+  "summary": "Gather yourselves together, yea, gather together, O nation not desired;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zephaniah 2:1",
+  "content_hash": "19123f3ab2cda10d11a5f58c9d28ab198a7d87a0f2c66218e9c2f1b6f03252a6",
+  "updated": "2026-10-29T16:32:46Z"
+}

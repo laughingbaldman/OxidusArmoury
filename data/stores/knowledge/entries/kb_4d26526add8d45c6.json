@@ -1,0 +1,19 @@
+{
+  "id": "kb_4d26526add8d45c6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 5
+  },
+  "summary": "Give ear to my words, O LORD, consider my meditation.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 5:1",
+  "content_hash": "8d0b301414342d380615c07b314c52bf4b863645e3083dea11252696ce43a04f",
+  "updated": "2026-10-29T16:32:46Z"
+}

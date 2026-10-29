@@ -1,0 +1,19 @@
+{
+  "id": "kb_d1d2b78e76fcd588",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 72",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 72
+  },
+  "summary": "Give the king thy judgments, O God, and thy righteousness unto the king’s son.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 72:1",
+  "content_hash": "ea35b179c41fcf99c2dc582d0d6e40de9f795bb49e6c09caafdced0d9246b211",
+  "updated": "2026-10-29T16:32:46Z"
+}

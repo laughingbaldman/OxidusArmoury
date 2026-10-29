@@ -1,0 +1,19 @@
+{
+  "id": "kb_563b2e12ab8b0619",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 61",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 61
+  },
+  "summary": "Hear my cry, O God; attend unto my prayer.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 61:1",
+  "content_hash": "b5187943167824ea63f2c55293812381d2b98d81e3e246aedb547bc5ed42b55b",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_2a00edb8c6d18da0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 17
+  },
+  "summary": "And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 17:1",
+  "content_hash": "ef6a790a864cfe072fd4afe81f6a8149feb0bbb71206c3059445aa3b5e38063e",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_b5511da8c6b0b484",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 64",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 64
+  },
+  "summary": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 64:1",
+  "content_hash": "6b0ba89cbe6e3afd93225713d53c9a1506216c43ef84d79c9024d6267e9ae732",
+  "updated": "2026-10-29T16:32:46Z"
+}

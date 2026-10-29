@@ -1,0 +1,19 @@
+{
+  "id": "kb_89f05374e96259ac",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 15
+  },
+  "summary": "And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 15:1",
+  "content_hash": "753e4cf2da8cc17764562cd42fea52ee81d7815bb0f1ca88690d5761bb0819a2",
+  "updated": "2026-10-29T16:32:46Z"
+}

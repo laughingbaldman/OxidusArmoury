@@ -1,0 +1,19 @@
+{
+  "id": "kb_cba633c03046f923",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 21
+  },
+  "summary": "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 21:1",
+  "content_hash": "455540d1f400dd0f762195e01852aea0785eb49f16ad0f0805876b63332509db",
+  "updated": "2026-10-29T16:32:47Z"
+}

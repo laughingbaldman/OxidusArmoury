@@ -1,0 +1,19 @@
+{
+  "id": "kb_def856a3ee57177c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 56",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 56
+  },
+  "summary": "Thus saith the LORD, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 56:1",
+  "content_hash": "d3c9504379135bb6e9c2f545ba3e0e452d5f3082c8b295bececaf1f04b49af52",
+  "updated": "2026-10-29T16:32:46Z"
+}

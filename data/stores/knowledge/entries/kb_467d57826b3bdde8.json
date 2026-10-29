@@ -1,0 +1,19 @@
+{
+  "id": "kb_467d57826b3bdde8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 8
+  },
+  "summary": "Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 8:1",
+  "content_hash": "d3cae6c29178777a5acee1074fedd713dc1990cce54e76b6203f4af48f73ec30",
+  "updated": "2026-10-29T16:32:47Z"
+}

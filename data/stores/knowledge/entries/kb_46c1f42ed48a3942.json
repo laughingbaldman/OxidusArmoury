@@ -1,0 +1,19 @@
+{
+  "id": "kb_46c1f42ed48a3942",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 1
+  },
+  "summary": "Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 1:1",
+  "content_hash": "4c8a8569e99e80c75a3d50935e05c5d42075544749ebfbabc95ac2cff9d85623",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_0941fb8e170991ab",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 31",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 31
+  },
+  "summary": "And Moses went and spake these words unto all Israel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 31:1",
+  "content_hash": "39fdf43eaf19e7943c63c064c6b89daffc54ff87335e4a4947cb8f7ce6b1caaf",
+  "updated": "2026-10-29T16:32:45Z"
+}

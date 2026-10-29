@@ -1,0 +1,19 @@
+{
+  "id": "kb_fea3d95e7dbae04f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 9
+  },
+  "summary": "So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their transgression.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 9:1",
+  "content_hash": "9663249f5c175ff9bbc7479847aa88db6206ccfaa6f865525c0044f529b91b0b",
+  "updated": "2026-10-29T16:32:46Z"
+}

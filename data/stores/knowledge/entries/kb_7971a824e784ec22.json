@@ -1,0 +1,19 @@
+{
+  "id": "kb_7971a824e784ec22",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 19
+  },
+  "summary": "And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 19:1",
+  "content_hash": "16a66e7791eaece25b24cc3919e1dd1e6062f9ce2608903c33a72f7c74f398d3",
+  "updated": "2026-10-29T16:32:46Z"
+}

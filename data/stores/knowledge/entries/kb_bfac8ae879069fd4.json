@@ -1,0 +1,19 @@
+{
+  "id": "kb_bfac8ae879069fd4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 8
+  },
+  "summary": "And it came to pass in the sixth year, in the sixth month, in the fifth day of the month, as I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 8:1",
+  "content_hash": "03ec378ffb752d0e961d5cb9cefdd9667e9ee28d3bffcebcca0ef48337cd988c",
+  "updated": "2026-10-29T16:32:46Z"
+}

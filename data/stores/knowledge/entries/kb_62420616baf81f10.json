@@ -1,0 +1,19 @@
+{
+  "id": "kb_62420616baf81f10",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Galatians",
+  "title": "Galatians 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Galatians",
+    "chapter": 2
+  },
+  "summary": "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Galatians 2:1",
+  "content_hash": "79c9fc0aaa09925579a960241aa0e5ca885e885dbfee0e7ff629d7cbbf61be03",
+  "updated": "2026-10-29T16:32:47Z"
+}

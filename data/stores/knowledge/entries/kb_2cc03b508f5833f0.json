@@ -1,0 +1,19 @@
+{
+  "id": "kb_2cc03b508f5833f0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 26
+  },
+  "summary": "But Job answered and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 26:1",
+  "content_hash": "f65acd19d797e07425b81014a3e7e1e1b687f6c6f777056186616c73f26df942",
+  "updated": "2026-10-29T16:32:46Z"
+}

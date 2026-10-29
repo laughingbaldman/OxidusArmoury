@@ -1,0 +1,19 @@
+{
+  "id": "kb_d408915c5055031b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nahum",
+  "title": "Nahum 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nahum",
+    "chapter": 3
+  },
+  "summary": "Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nahum 3:1",
+  "content_hash": "943cec3ea7da75f70d9d99e4ef5177f1ac7a6f042894290dd9a957c45b31be96",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_0b82e4d88aae2e67",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 105",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 105
+  },
+  "summary": "O give thanks unto the LORD; call upon his name: make known his deeds among the people.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 105:1",
+  "content_hash": "4b91d8d038f0364106eb26047667d2f38d2f7409e2613d96b0ca6ecfdb9eca61",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_bd8e36973c438736",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 22
+  },
+  "summary": "Men, brethren, and fathers, hear ye my defence which I make now unto you.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 22:1",
+  "content_hash": "79db5462b76ca7e39f4aae6b3af46a30d48e4e0a53941db07c862c9b25f4e752",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_6337fdc314c977e8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 53",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 53
+  },
+  "summary": "The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 53:1",
+  "content_hash": "60e67816992490a16d20abaf2a53345d592b0bd65c7d76e9552dc7b99d22ff43",
+  "updated": "2026-10-29T16:32:46Z"
+}

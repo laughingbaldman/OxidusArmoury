@@ -1,0 +1,19 @@
+{
+  "id": "kb_d50f1b72f440dd78",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 26
+  },
+  "summary": "And it came to pass, when Jesus had finished all these sayings, he said unto his disciples,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 26:1",
+  "content_hash": "bc9f9c1dc876611456983e0e66028fe2c37650b311c288d480696100161fc72d",
+  "updated": "2026-10-29T16:32:47Z"
+}

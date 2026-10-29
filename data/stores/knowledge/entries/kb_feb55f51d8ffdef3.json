@@ -1,0 +1,19 @@
+{
+  "id": "kb_feb55f51d8ffdef3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 37",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 37
+  },
+  "summary": "And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 37:1",
+  "content_hash": "16a66e7791eaece25b24cc3919e1dd1e6062f9ce2608903c33a72f7c74f398d3",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_287a34cc18fd36b0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 14
+  },
+  "summary": "At that time Herod the tetrarch heard of the fame of Jesus,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 14:1",
+  "content_hash": "a2bd9b5f37324aaf29c7231ed499925c749897c3d0d0518649092c3ea419d1e8",
+  "updated": "2026-10-29T16:32:47Z"
+}

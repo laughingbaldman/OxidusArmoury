@@ -1,0 +1,19 @@
+{
+  "id": "kb_b6e02e313b9f779c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 29",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 29
+  },
+  "summary": "Woe to Ariel, to Ariel, the city where David dwelt! add ye year to year; let them kill sacrifices.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 29:1",
+  "content_hash": "98617bbd9f7dc73507171cc5b79fd4442b79694147048f4c7f27e095f53b9826",
+  "updated": "2026-10-29T16:32:46Z"
+}

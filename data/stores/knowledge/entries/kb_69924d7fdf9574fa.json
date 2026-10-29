@@ -1,0 +1,19 @@
+{
+  "id": "kb_69924d7fdf9574fa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 1
+  },
+  "summary": "Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 1:1",
+  "content_hash": "ad48d7461c5c6189a4e26a903e0b732dd2e42fab69aeda16a034d9e25859a31e",
+  "updated": "2026-10-29T16:32:45Z"
+}

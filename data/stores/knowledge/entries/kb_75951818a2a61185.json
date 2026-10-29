@@ -1,0 +1,19 @@
+{
+  "id": "kb_75951818a2a61185",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 12
+  },
+  "summary": "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 12:1",
+  "content_hash": "ffd5609907abc9b150469bbd6ec663bb34fc44994b12ba4386a8bba6db7ad39a",
+  "updated": "2026-10-29T16:32:47Z"
+}

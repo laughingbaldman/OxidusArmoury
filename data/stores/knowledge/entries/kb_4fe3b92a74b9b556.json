@@ -1,0 +1,19 @@
+{
+  "id": "kb_4fe3b92a74b9b556",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 24
+  },
+  "summary": "The earth is the LORD’s, and the fulness thereof; the world, and they that dwell therein.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 24:1",
+  "content_hash": "31139760ff98925226995d3bb297102e108148402de6ba9b725e8fd5a300d936",
+  "updated": "2026-10-29T16:32:46Z"
+}

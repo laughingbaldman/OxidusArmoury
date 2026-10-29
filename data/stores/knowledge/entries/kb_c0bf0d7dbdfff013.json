@@ -1,0 +1,19 @@
+{
+  "id": "kb_c0bf0d7dbdfff013",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 40",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 40
+  },
+  "summary": "Moreover the LORD answered Job, and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 40:1",
+  "content_hash": "86763a5555a78d05902a82b7c581e843c02d5950d5258938446fe05a3b344abc",
+  "updated": "2026-10-29T16:32:46Z"
+}

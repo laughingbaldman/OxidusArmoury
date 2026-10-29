@@ -1,0 +1,19 @@
+{
+  "id": "kb_80bba5bd1ca340c0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 14
+  },
+  "summary": "Then came certain of the elders of Israel unto me, and sat before me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 14:1",
+  "content_hash": "93aeeda605baf043d5546a5e1099e74dad92050e109e29b20b1af6484ce880c5",
+  "updated": "2026-10-29T16:32:46Z"
+}

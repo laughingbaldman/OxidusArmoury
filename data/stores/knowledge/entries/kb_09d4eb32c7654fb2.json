@@ -1,0 +1,19 @@
+{
+  "id": "kb_09d4eb32c7654fb2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 15
+  },
+  "summary": "Then said the LORD unto me, Though Moses and Samuel stood before me, yet my mind could not be toward this people: cast them out of my sight, and let them go forth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 15:1",
+  "content_hash": "fa1b0a9935662dc1ccb01e419466045160455ec3d503b495198c1dfb4fa87472",
+  "updated": "2026-10-29T16:32:46Z"
+}

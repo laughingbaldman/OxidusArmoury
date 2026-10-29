@@ -1,0 +1,19 @@
+{
+  "id": "kb_c253239974c2ba33",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 52",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 52
+  },
+  "summary": "Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 52:1",
+  "content_hash": "54db3bb5d4af55f2e6fcb0cdb947d3ae4c13d575881362f292141a941e2af65d",
+  "updated": "2026-10-29T16:32:46Z"
+}

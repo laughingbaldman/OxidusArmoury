@@ -1,0 +1,19 @@
+{
+  "id": "kb_22b03b84cbce5ec1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 126",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 126
+  },
+  "summary": "When the LORD turned again the captivity of Zion, we were like them that dream.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 126:1",
+  "content_hash": "67eea0a633cd035d2cdb8266148492d5484af98a49a68d20d8a6bb52d3d484b8",
+  "updated": "2026-10-29T16:32:46Z"
+}

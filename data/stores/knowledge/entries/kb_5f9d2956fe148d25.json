@@ -1,0 +1,19 @@
+{
+  "id": "kb_5f9d2956fe148d25",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 17
+  },
+  "summary": "The burden of Damascus. Behold, Damascus is taken away from being a city, and it shall be a ruinous heap.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 17:1",
+  "content_hash": "091e1c49d7d4f08966e63d7607848ae561897d0aba12cdced596dcec64f66d18",
+  "updated": "2026-10-29T16:32:46Z"
+}

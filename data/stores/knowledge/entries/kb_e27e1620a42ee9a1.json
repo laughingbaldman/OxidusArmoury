@@ -1,0 +1,19 @@
+{
+  "id": "kb_e27e1620a42ee9a1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Micah",
+  "title": "Micah 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Micah",
+    "chapter": 4
+  },
+  "summary": "But in the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Micah 4:1",
+  "content_hash": "6444a72f6cc727987e34217c412514bbff5a3df1c8ebb0d730791c6195d6abdd",
+  "updated": "2026-10-29T16:32:46Z"
+}

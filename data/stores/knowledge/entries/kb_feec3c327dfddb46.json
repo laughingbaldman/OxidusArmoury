@@ -1,0 +1,19 @@
+{
+  "id": "kb_feec3c327dfddb46",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 16
+  },
+  "summary": "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 16:1",
+  "content_hash": "0b7e4b1e9cbcc321f838cbd38395ef09df3ff9baedf45afd1c05ea521feeb71e",
+  "updated": "2026-10-29T16:32:45Z"
+}

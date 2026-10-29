@@ -1,0 +1,19 @@
+{
+  "id": "kb_fc5254913583c930",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 24
+  },
+  "summary": "Be not thou envious against evil men, neither desire to be with them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 24:1",
+  "content_hash": "e7cc7026793f73ed63b74075b3ba08d042a9e59dc05744a507eaef3c708c76dd",
+  "updated": "2026-10-29T16:32:46Z"
+}

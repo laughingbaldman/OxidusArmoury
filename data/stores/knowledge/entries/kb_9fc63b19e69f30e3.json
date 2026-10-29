@@ -1,0 +1,19 @@
+{
+  "id": "kb_9fc63b19e69f30e3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 19
+  },
+  "summary": "And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 19:1",
+  "content_hash": "1ac783536e285db48045df6f625f30bcb160085b803d3a8927a3b59441ef3faf",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_442bca444e6ab8b3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 26
+  },
+  "summary": "And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 26:1",
+  "content_hash": "1390407e11b270940b0d8271330c3734c2a8423fed1b551479cb92befc43e2d3",
+  "updated": "2026-10-29T16:32:45Z"
+}

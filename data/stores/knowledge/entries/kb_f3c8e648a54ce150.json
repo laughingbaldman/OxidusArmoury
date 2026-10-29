@@ -1,0 +1,19 @@
+{
+  "id": "kb_f3c8e648a54ce150",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 32",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 32
+  },
+  "summary": "The word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadrezzar.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 32:1",
+  "content_hash": "78b94c0695306f482ce37d10e6ecc018e3ff5d47323f0ef6935129b1e82f4ccb",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_67f04863083461d5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 22
+  },
+  "summary": "A GOOD name is rather to be chosen than great riches, and loving favour rather than silver and gold.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 22:1",
+  "content_hash": "384ee9c562c5bbf0ae324d18589c7d47232587183fc93f1e63ae5b8a18457d70",
+  "updated": "2026-10-29T16:32:46Z"
+}

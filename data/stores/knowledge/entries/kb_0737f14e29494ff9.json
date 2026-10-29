@@ -1,0 +1,19 @@
+{
+  "id": "kb_0737f14e29494ff9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 17
+  },
+  "summary": "My breath is corrupt, my days are extinct, the graves are ready for me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 17:1",
+  "content_hash": "3763aa119eb9b5bd82fac27013b50bcff6a193527bfb0b3899902736011adbb1",
+  "updated": "2026-10-29T16:32:46Z"
+}

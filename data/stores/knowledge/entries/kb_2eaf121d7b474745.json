@@ -1,0 +1,19 @@
+{
+  "id": "kb_2eaf121d7b474745",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 4
+  },
+  "summary": "And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Ebenezer: and the Philistines pitched in Aphek.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 4:1",
+  "content_hash": "d7bdc8a9e6393e43e6435e6fe5a318b9d8067c94ca2a4ad757f44a2546aa94a8",
+  "updated": "2026-10-29T16:32:45Z"
+}

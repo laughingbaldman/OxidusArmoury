@@ -1,0 +1,19 @@
+{
+  "id": "kb_9dbbeaec81682493",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ruth",
+  "title": "Ruth 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ruth",
+    "chapter": 1
+  },
+  "summary": "Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ruth 1:1",
+  "content_hash": "d162cb600010e8c5c7dc1c44ff7344bf999ff6218e61347d4bc07673afcdfc59",
+  "updated": "2026-10-29T16:32:45Z"
+}

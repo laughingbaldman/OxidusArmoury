@@ -1,0 +1,19 @@
+{
+  "id": "kb_2733f41414d01cc3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 22
+  },
+  "summary": "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 22:1",
+  "content_hash": "bba88068b073f6d3b227b103fe753d46a63db9539c9002c2dfda44bfee290cde",
+  "updated": "2026-10-29T16:32:45Z"
+}

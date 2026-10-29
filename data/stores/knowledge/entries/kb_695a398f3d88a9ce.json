@@ -1,0 +1,19 @@
+{
+  "id": "kb_695a398f3d88a9ce",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 4
+  },
+  "summary": "Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 4:1",
+  "content_hash": "16b82211c427130a29a39591d88c659bb72b9b2a18c1ea3c7788af5725e9ac5e",
+  "updated": "2026-10-29T16:32:46Z"
+}

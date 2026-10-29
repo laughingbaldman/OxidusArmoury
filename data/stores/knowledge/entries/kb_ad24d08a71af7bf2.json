@@ -1,0 +1,19 @@
+{
+  "id": "kb_ad24d08a71af7bf2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Amos",
+  "title": "Amos 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Amos",
+    "chapter": 4
+  },
+  "summary": "Hear this word, ye kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say to their masters, Bring, and let us drink.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Amos 4:1",
+  "content_hash": "b3e216ff9457d3bf8f449338c5121ec4789922cb5505f03537c6aabf2bcba16f",
+  "updated": "2026-10-29T16:32:46Z"
+}

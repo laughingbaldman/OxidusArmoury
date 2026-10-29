@@ -1,0 +1,19 @@
+{
+  "id": "kb_4bc2384cab9b8bdb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joel",
+  "title": "Joel 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joel",
+    "chapter": 1
+  },
+  "summary": "The word of the LORD that came to Joel the son of Pethuel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joel 1:1",
+  "content_hash": "2ead23843cd4566dbbc5778007a815bf03bb2eda2ec4124f0f9978ec37408e44",
+  "updated": "2026-10-29T16:32:46Z"
+}

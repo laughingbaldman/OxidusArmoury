@@ -1,0 +1,19 @@
+{
+  "id": "kb_24ee65f66fdc5157",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 3
+  },
+  "summary": "Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 3:1",
+  "content_hash": "97e315c2a712e3642de4d40d6ff1809ecb1059239ecec897088874e2c25686a2",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_6c1797cdf5820a0a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 27",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 27
+  },
+  "summary": "The word of the LORD came again unto me, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 27:1",
+  "content_hash": "db0f90c8025c164f9ac6e15506b37aeec93ae0fb5fcab4868b486ea5e3873ced",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_eb1b12a181b4381b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 13
+  },
+  "summary": "The same day went Jesus out of the house, and sat by the sea side.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 13:1",
+  "content_hash": "393bf90ca825f08b8f7679c9558c4d4d4ece0de172782fa94b4669c3956f2b5f",
+  "updated": "2026-10-29T16:32:47Z"
+}

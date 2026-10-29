@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oxidus workshop</title>
+    <style>
+        body { margin: 0; background: #101317; color: #f5f7fb; font-family: "Segoe UI", sans-serif; }
+        header { display: flex; justify-content: space-between; gap: 12px; align-items: center; padding: 12px 18px; border-bottom: 1px solid rgba(200,210,220,.18); }
+        a { color: #c1ba8b; }
+        .layout { display: grid; grid-template-columns: 200px 1fr; min-height: calc(100vh - 52px); }
+        nav { border-right: 1px solid rgba(200,210,220,.18); padding: 12px; }
+        nav button { display: block; width: 100%; text-align: left; margin: 4px 0; background: transparent; color: #f5f7fb; border: 0; padding: 8px; cursor: pointer; }
+        nav button.on { background: #1c242b; }
+        main { padding: 18px 22px 40px; }
+        section { display: none; }
+        section.on { display: block; }
+        input, textarea, select { background: #0c0f12; color: #f5f7fb; border: 1px solid rgba(200,210,220,.3); padding: 8px; width: min(520px, 100%); }
+        button.act { background: #c1ba8b; color: #111; border: 0; padding: 8px 12px; cursor: pointer; }
+        pre { white-space: pre-wrap; background: #070809; padding: 12px; }
+        .voice-dot { display: inline-block; width: 12px; height: 12px; border-radius: 50%; background: #666; margin-right: 8px; }
+        .voice-dot.listening { background: #c1ba8b; }
+        .voice-dot.speaking { background: #e06b62; }
+        .meter { width: 140px; height: 8px; background: #222; display: inline-block; vertical-align: middle; }
+        .meter span { display: block; height: 100%; background: #c1ba8b; width: 0; }
+        @media (max-width: 800px) { .layout { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <header>
+        <div><span id="dot" class="voice-dot"></span><strong id="voiceLabel">Mic off</strong></div>
+        <div><a href="/">Chat</a> · <a href="/agent">Agent</a> · <a href="/games">Games</a> · <a href="/admin">Admin</a></div>
+    </header>
+    <div class="layout">
+        <nav id="nav"></nav>
+        <main id="main"></main>
+    </div>
+    <script>
+        const pages = ["Status", "Voice", "Questions", "Shelf", "Bible", "Ethics", "Tools", "Models", "Fine-tune", "Logs", "Admin"];
+        const nav = document.getElementById("nav");
+        const main = document.getElementById("main");
+        pages.forEach((name, index) => {
+            const button = document.createElement("button");
+            button.textContent = name;
+            button.onclick = () => show(index);
+            nav.appendChild(button);
+        });
+        function show(index) {
+            [...nav.children].forEach((button, i) => button.className = i === index ? "on" : "");
+            [...main.children].forEach((node, i) => node.className = i === index ? "on" : "");
+        }
+        function section(title, html) {
+            const node = document.createElement("section");
+            node.innerHTML = `<h2>${title}</h2>` + html;
+            main.appendChild(node);
+            return node;
+        }
+        const statusPage = section("Status", `<p id="status"></p><label>Tier <select id="tier"><option>lite</option><option>standard</option><option>full</option></select></label> <button class="act" id="saveTier">Save tier</button>`);
+        const voicePage = section("Voice", `<p>The microphone stays off until you enable it. Wake word is Oxidus. Push-to-talk is Ctrl+Space.</p><button class="act" id="mic">Enable mic</button> <button class="act" id="mute">Mute</button> <label>Device <select id="devices"></select></label><div class="meter"><span id="level"></span></div>`);
+        const questionsPage = section("Questions", `<div id="questions"></div>`);
+        const shelfPage = section("Shelf", `<input id="q" placeholder="Search the shelf"><button class="act" id="search">Search</button><pre id="hits"></pre><h3>Add a card</h3><input id="title" placeholder="Title"><br><textarea id="text" rows="4"></textarea><br><button class="act" id="add">Add</button><h3>Thesaurus</h3><input id="synTerm" placeholder="term"><input id="synList" placeholder="synonyms, comma separated"><button class="act" id="saveSyn">Save synonyms</button><pre id="toc"></pre>`);
+        const biblePage = section("Bible", `<p>Public-domain King James, tagged for moral lookup.</p><button class="act" id="books">List books</button><pre id="bible"></pre><button class="act" id="matt">Matthew 7:12</button>`);
+        const ethicsPage = section("Ethics", `<p>The covenant boundaries stay. You can add house rules under them.</p><pre id="ethics"></pre><textarea id="rule" rows="3" placeholder="Extra rule"></textarea><br><button class="act" id="saveRule">Save extra rules</button>`);
+        const toolsPage = section("Tools", `<p>Image and video stay off on Lite. Desktop actions wait for approval and show the indicator.</p><input id="prompt" placeholder="Prompt"><button class="act" id="image">Image</button> <button class="act" id="video">Video</button><pre id="toolOut"></pre><button class="act" id="predict">Predict next action</button><h3>Desktop</h3><input id="desk" placeholder="What should the desktop do?"><button class="act" id="propose">Propose</button> <button class="act" id="approveDesk">Approve</button><pre id="deskOut"></pre>`);
+        const modelsPage = section("Models", `<label>Backend <select id="backend"><option>auto</option><option>retrieval</option><option>lm_studio</option><option>grok</option></select></label> <button class="act" id="saveBackend">Save</button><pre id="models"></pre>`);
+        const tunePage = section("Fine-tune", `<p>Builds a dataset from answered questions. The GPU train is a separate command.</p><button class="act" id="tune">Prepare dataset</button><pre id="tuneOut"></pre>`);
+        const logsPage = section("Logs", `<button class="act" id="logs">Load learning log</button><pre id="logOut"></pre>`);
+        const adminPage = section("Admin", `<p>These are the old admin actions. Put the admin secret in the box. It stays in this browser tab.</p><input id="adminToken" type="password" placeholder="Admin secret"><pre id="adminOut"></pre><div id="adminButtons"></div>`);
+        show(0);
+
+        async function get(url) { const response = await fetch(url); return response.json(); }
+        async function post(url, body, headers) {
+            const response = await fetch(url, {method: "POST", headers: Object.assign({"Content-Type": "application/json"}, headers || {}), body: JSON.stringify(body || {})});
+            return response.json();
+        }
+        let deskId = "";
+        document.getElementById("saveTier").onclick = async () => { await post("/api/console/tier", {tier: document.getElementById("tier").value}); refresh(); };
+        document.getElementById("mic").onclick = async () => { const data = await post("/api/console/voice", {mic_enabled: true}); paintVoice(data); };
+        document.getElementById("mute").onclick = async () => { const data = await post("/api/console/voice", {muted: true}); paintVoice(data); };
+        document.getElementById("search").onclick = async () => { document.getElementById("hits").textContent = JSON.stringify(await get("/api/console/search?q=" + encodeURIComponent(document.getElementById("q").value)), null, 2); };
+        document.getElementById("add").onclick = async () => { await post("/api/console/entry", {title: document.getElementById("title").value, text: document.getElementById("text").value, topic: "notes"}); document.getElementById("toc").textContent = JSON.stringify(await get("/api/console/toc"), null, 2); };
+        document.getElementById("saveSyn").onclick = async () => { await post("/api/console/thesaurus", {term: document.getElementById("synTerm").value, synonyms: document.getElementById("synList").value.split(",").map(s => s.trim()).filter(Boolean)}); };
+        document.getElementById("books").onclick = async () => { document.getElementById("bible").textContent = JSON.stringify(await get("/api/console/bible/books"), null, 2); };
+        document.getElementById("matt").onclick = async () => { document.getElementById("bible").textContent = JSON.stringify(await get("/api/console/bible/verse?book=Matthew&chapter=7&verse=12"), null, 2); };
+        document.getElementById("saveRule").onclick = async () => { const current = await get("/api/console/ethics"); const extra = current.extra || []; extra.push({text: document.getElementById("rule").value, enabled: true}); await post("/api/console/ethics", {extra}); document.getElementById("ethics").textContent = JSON.stringify(await get("/api/console/ethics"), null, 2); };
+        document.getElementById("image").onclick = async () => { document.getElementById("toolOut").textContent = JSON.stringify(await post("/api/console/tools/image", {prompt: document.getElementById("prompt").value}), null, 2); };
+        document.getElementById("video").onclick = async () => { document.getElementById("toolOut").textContent = JSON.stringify(await post("/api/console/tools/video", {prompt: document.getElementById("prompt").value}), null, 2); };
+        document.getElementById("predict").onclick = async () => { document.getElementById("toolOut").textContent = JSON.stringify(await post("/api/console/tools/predict", {events: ["ethics", "ethics", "voice"]}), null, 2); };
+        document.getElementById("propose").onclick = async () => { const data = await post("/api/console/desktop/propose", {action: {type: "note", summary: document.getElementById("desk").value}}); deskId = data.id || ""; document.getElementById("deskOut").textContent = JSON.stringify(data, null, 2); };
+        document.getElementById("approveDesk").onclick = async () => { document.getElementById("deskOut").textContent = JSON.stringify(await post("/api/console/desktop/approve", {id: deskId}, {"X-Oxidus-Local-Action": "approve"}), null, 2); };
+        document.getElementById("saveBackend").onclick = async () => { document.getElementById("models").textContent = JSON.stringify(await post("/api/console/models", {backend: document.getElementById("backend").value}), null, 2); };
+        document.getElementById("tune").onclick = async () => { document.getElementById("tuneOut").textContent = JSON.stringify(await post("/api/console/finetune", {}), null, 2); };
+        document.getElementById("logs").onclick = async () => { document.getElementById("logOut").textContent = JSON.stringify(await get("/api/console/logs?name=learning_log.jsonl"), null, 2); };
+        const adminActions = [
+            ["Health", "GET", "/api/admin/health"],
+            ["Status", "GET", "/api/admin/status"],
+            ["Ops summary", "GET", "/api/admin/ops/summary"],
+            ["Integrity", "GET", "/api/admin/integrity"],
+            ["Recent telemetry", "GET", "/api/admin/telemetry/recent"],
+            ["Conversation log", "GET", "/api/admin/conversation"],
+            ["Learning trace", "GET", "/api/admin/learning-trace"],
+            ["MemryX health", "GET", "/api/admin/memryx/health"],
+            ["MemryX devices", "GET", "/api/admin/memryx/devices"],
+            ["Hybrid status", "GET", "/api/admin/hybrid-status"],
+            ["Search overview", "GET", "/api/admin/search/overview"],
+            ["Access heat", "GET", "/api/admin/access-heat"],
+            ["Tiering", "GET", "/api/admin/tiering/overview"],
+            ["Indexing status", "GET", "/api/admin/indexing/status"],
+            ["Indexing metrics", "GET", "/api/admin/indexing/metrics"],
+            ["Archive preview", "GET", "/api/admin/archive/preview"],
+            ["Archive manifest", "GET", "/api/admin/archive/manifest"],
+            ["Clear safe mode", "POST", "/api/admin/safe-mode/clear"],
+            ["Stop autonomy", "POST", "/api/admin/stop-autonomy"],
+            ["Dedupe knowledge", "POST", "/api/admin/knowledge/dedupe"],
+            ["Rebuild dedupe", "POST", "/api/admin/knowledge/rebuild-dedupe"],
+            ["Rebuild knowledge", "POST", "/api/admin/rebuild-knowledge"],
+            ["Warm cache", "POST", "/api/admin/cache/warm"],
+            ["Clear cache", "POST", "/api/admin/cache/clear"],
+            ["Start indexing", "POST", "/api/admin/indexing/start"],
+            ["Run maintenance scan", "POST", "/api/admin/maintenance/run"],
+            ["Validate end to end", "POST", "/api/admin/validate-e2e"],
+            ["Shutdown", "POST", "/api/admin/shutdown"],
+            ["Restart", "POST", "/api/admin/restart"]
+        ];
+        const adminBox = document.getElementById("adminButtons");
+        adminActions.forEach(([label, method, url]) => {
+            const button = document.createElement("button");
+            button.className = "act";
+            button.style.margin = "4px";
+            button.textContent = label;
+            button.onclick = async () => {
+                if ((url.endsWith("shutdown") || url.endsWith("restart")) && !window.confirm(label + "?")) return;
+                const headers = {"X-Oxidus-Admin-Token": document.getElementById("adminToken").value};
+                const response = await fetch(url, {method, headers, body: method === "POST" ? "{}" : undefined});
+                const text = await response.text();
+                document.getElementById("adminOut").textContent = response.status + " " + text.slice(0, 4000);
+            };
+            adminBox.appendChild(button);
+        });
+        async function refreshQuestions() {
+            const data = await get("/api/console/questions");
+            const box = document.getElementById("questions");
+            box.innerHTML = "";
+            (data.questions || []).forEach(item => {
+                const row = document.createElement("div");
+                row.textContent = `${item.status}: ${item.question}`;
+                if (item.status === "open") {
+                    const input = document.createElement("input");
+                    const button = document.createElement("button");
+                    button.className = "act";
+                    button.textContent = "Save answer";
+                    button.onclick = async () => { await post("/api/console/questions/" + item.id + "/answer", {answer: input.value}); refreshQuestions(); };
+                    row.append(document.createElement("br"), input, button);
+                }
+                box.appendChild(row);
+            });
+        }
+        function paintVoice(data) {
+            document.getElementById("voiceLabel").textContent = data.indicator === "off" ? "Mic off" : data.indicator;
+            document.getElementById("dot").className = "voice-dot " + (data.indicator || "");
+            document.getElementById("level").style.width = Math.round((data.level || 0) * 100) + "%";
+        }
+        async function refresh() {
+            const data = await get("/api/console/status");
+            document.getElementById("status").textContent = `${data.tier}: ${data.tier_note} Cores ${data.hardware.cores}, RAM ${data.hardware.ram_gb} GB, GPU ${data.hardware.gpu ? "yes" : "no"}.`;
+            document.getElementById("tier").value = data.tier;
+            paintVoice(data.voice);
+            document.getElementById("models").textContent = JSON.stringify(data.grok, null, 2);
+        }
+        refresh();
+        refreshQuestions();
+        setInterval(refresh, 3000);
+    </script>
+</body>
+</html>

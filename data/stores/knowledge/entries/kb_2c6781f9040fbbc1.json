@@ -1,0 +1,19 @@
+{
+  "id": "kb_2c6781f9040fbbc1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezra",
+  "title": "Ezra 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezra",
+    "chapter": 10
+  },
+  "summary": "Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezra 10:1",
+  "content_hash": "a43785daf5dc49b83baa3f36fbb80ce9b6abf65d88af6b132127e58383dfd6cb",
+  "updated": "2026-10-29T16:32:46Z"
+}

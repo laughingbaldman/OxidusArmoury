@@ -1,0 +1,19 @@
+{
+  "id": "kb_f393be228dceab07",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Philemon",
+  "title": "Philemon 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Philemon",
+    "chapter": 1
+  },
+  "summary": "Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Philemon 1:1",
+  "content_hash": "e53c2dcc09b05cf3f2e1cf44fd31925a78013f94dfe9d4a5b82f8a9871729606",
+  "updated": "2026-10-29T16:32:47Z"
+}

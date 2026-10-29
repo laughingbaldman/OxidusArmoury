@@ -1,0 +1,19 @@
+{
+  "id": "kb_06ee6c3247c7b0a8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 4
+  },
+  "summary": "And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 4:1",
+  "content_hash": "2363761cbc57020c6f65625b5ec82f63514201eb8964514ab567e3331fd3ae65",
+  "updated": "2026-10-29T16:32:45Z"
+}

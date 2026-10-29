@@ -1,0 +1,19 @@
+{
+  "id": "kb_33e74da0ce0226c7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nahum",
+  "title": "Nahum 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nahum",
+    "chapter": 1
+  },
+  "summary": "The burden of Nineveh. The book of the vision of Nahum the Elkoshite.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nahum 1:1",
+  "content_hash": "283bc6a3abf6de082d2891a96870b69c276236bb02bd28fd4d7295c74b72b6a7",
+  "updated": "2026-10-29T16:32:46Z"
+}

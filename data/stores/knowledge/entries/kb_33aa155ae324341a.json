@@ -1,0 +1,19 @@
+{
+  "id": "kb_33aa155ae324341a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 6
+  },
+  "summary": "O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 6:1",
+  "content_hash": "30394da0be86f459ed98c57cfc51e6cb7239ae2a714889d153543f33bef7efc6",
+  "updated": "2026-10-29T16:32:46Z"
+}

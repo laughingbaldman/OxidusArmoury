@@ -1,0 +1,19 @@
+{
+  "id": "kb_681658efc0567a20",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 150",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 150
+  },
+  "summary": "Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 150:1",
+  "content_hash": "937edd1d73aa7d2263d2da0057e19146cf65e548a019dbf72eeb973e65823e2d",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_a71330f5202efa59",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 49",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 49
+  },
+  "summary": "Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 49:1",
+  "content_hash": "16cf6cd63e9383e20eb676d27157712fcb7a9e0ccc807c173a1fb67c2d73499a",
+  "updated": "2026-10-29T16:32:46Z"
+}

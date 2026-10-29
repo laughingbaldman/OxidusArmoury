@@ -1,0 +1,19 @@
+{
+  "id": "kb_9dab18e3f4ad1f1a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 41",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 41
+  },
+  "summary": "Keep silence before me, O islands; and let the people renew their strength: let them come near; then let them speak: let us come near together to judgment.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 41:1",
+  "content_hash": "727893090a5f0582400f13a71a1bb16d593515f6b247dbf886acb551d1596ced",
+  "updated": "2026-10-29T16:32:46Z"
+}

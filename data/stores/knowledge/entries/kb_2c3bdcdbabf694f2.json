@@ -1,0 +1,19 @@
+{
+  "id": "kb_2c3bdcdbabf694f2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 18
+  },
+  "summary": "The priests the Levites, and all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the LORD made by fire, and his inheritance.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 18:1",
+  "content_hash": "a6d3245c29a5cdf28ada7a6c9967bd3bac5d50879214c869cb3413511a6be6b8",
+  "updated": "2026-10-29T16:32:45Z"
+}

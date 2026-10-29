@@ -1,0 +1,19 @@
+{
+  "id": "kb_d291fb53d35da8ef",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 34",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 34
+  },
+  "summary": "Furthermore Elihu answered and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 34:1",
+  "content_hash": "37eaa10a33758d4b758ddc63e4e03f3d6545e15e16e6daff81d0a2ed70b6b2c9",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_326189dfe3274fc5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Timothy",
+  "title": "1 Timothy 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Timothy",
+    "chapter": 1
+  },
+  "summary": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Timothy 1:1",
+  "content_hash": "9ce102193da6c914a8e2854b20b5e072c117925760d6f16d01e317ab2734a4ec",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_675fb2372df893f4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 7
+  },
+  "summary": "Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 7:1",
+  "content_hash": "ce7149538591a6b0e2bc47d10708d6e8d637bdf0d99b34db2c4580c0e713a590",
+  "updated": "2026-10-29T16:32:47Z"
+}

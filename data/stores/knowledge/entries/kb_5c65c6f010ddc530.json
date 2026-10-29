@@ -1,0 +1,19 @@
+{
+  "id": "kb_5c65c6f010ddc530",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 26
+  },
+  "summary": "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 26:1",
+  "content_hash": "7f64a1f40498c1ed49c2272e70371dba587fdadef687375f9b641ad38877ed95",
+  "updated": "2026-10-29T16:32:47Z"
+}

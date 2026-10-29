@@ -1,0 +1,19 @@
+{
+  "id": "kb_58a58b7dbb7e356e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 18
+  },
+  "summary": "At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 18:1",
+  "content_hash": "b1b52a1e7c2287d73235f5713b242567391bb1c4ce11cb820b2e68c3471eaa94",
+  "updated": "2026-10-29T16:32:47Z"
+}

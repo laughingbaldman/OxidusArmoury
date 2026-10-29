@@ -1,0 +1,19 @@
+{
+  "id": "kb_fc95d0a9f59474d3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 8
+  },
+  "summary": "And it came to pass at the end of twenty years, wherein Solomon had built the house of the LORD, and his own house,",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 8:1",
+  "content_hash": "594b46d4e5df961e48fb1d70b86e0c9e3575a6267e971c9781db4a358bdbb726",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_ecf9563670131db8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 23
+  },
+  "summary": "He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 23:1",
+  "content_hash": "4110aa8f0f097f3f155075a35b3401afffae72e30102c67f19e64b8028af5d79",
+  "updated": "2026-10-29T16:32:45Z"
+}

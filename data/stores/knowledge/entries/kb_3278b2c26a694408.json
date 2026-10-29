@@ -1,0 +1,19 @@
+{
+  "id": "kb_3278b2c26a694408",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 16
+  },
+  "summary": "The preparations of the heart in man, and the answer of the tongue, is from the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 16:1",
+  "content_hash": "8fea9924483c6760de5696e65970cd733bfd65c605c26a47e4f039ac852e8e2d",
+  "updated": "2026-10-29T16:32:46Z"
+}

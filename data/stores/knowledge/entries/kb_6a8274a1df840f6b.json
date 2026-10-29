@@ -1,0 +1,19 @@
+{
+  "id": "kb_6a8274a1df840f6b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 27",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 27
+  },
+  "summary": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 27:1",
+  "content_hash": "388d2ee69fe1d90bb62c677476bb31a7a1e3d5d160baf59ae5921f48cc4ec40c",
+  "updated": "2026-10-29T16:32:46Z"
+}

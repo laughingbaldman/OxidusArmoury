@@ -1,0 +1,19 @@
+{
+  "id": "kb_8b808ab7f3ff323f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 2
+  },
+  "summary": "But I determined this with myself, that I would not come again to you in heaviness.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 2:1",
+  "content_hash": "e172e5f3a481eea2d30b5b5950d9f4d440000e3e4fd643cf59f2ff2c0ed341ea",
+  "updated": "2026-10-29T16:32:47Z"
+}

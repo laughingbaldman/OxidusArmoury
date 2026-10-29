@@ -1,0 +1,19 @@
+{
+  "id": "kb_12e0851eb60af62b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 90",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 90
+  },
+  "summary": "Lord, thou hast been our dwelling place in all generations.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 90:1",
+  "content_hash": "15abc543a6757a7cd77921e3b1d6d0c85797f828ae55b16f773cc7466d9d7e9c",
+  "updated": "2026-10-29T16:32:46Z"
+}

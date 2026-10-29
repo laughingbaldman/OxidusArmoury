@@ -1,0 +1,19 @@
+{
+  "id": "kb_c21fe35edfc7b214",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "James",
+  "title": "James 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "James",
+    "chapter": 3
+  },
+  "summary": "My brethren, be not many masters, knowing that we shall receive the greater condemnation.",
+  "source": "KJV",
+  "when": "",
+  "loc": "James 3:1",
+  "content_hash": "440c9503c018d3e381b026bd66e90b64e475788375ae38a22d186d12ecf3fbcd",
+  "updated": "2026-10-29T16:32:47Z"
+}

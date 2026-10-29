@@ -1,0 +1,19 @@
+{
+  "id": "kb_7bec5ce7a5e9c73b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nehemiah",
+  "title": "Nehemiah 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nehemiah",
+    "chapter": 11
+  },
+  "summary": "And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nehemiah 11:1",
+  "content_hash": "428f8d0ef0b6181c7dbdd19f2c133c2a4260413671a6163dc18a727bd4f7cae3",
+  "updated": "2026-10-29T16:32:46Z"
+}

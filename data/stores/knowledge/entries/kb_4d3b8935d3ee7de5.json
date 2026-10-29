@@ -1,0 +1,19 @@
+{
+  "id": "kb_4d3b8935d3ee7de5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nehemiah",
+  "title": "Nehemiah 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nehemiah",
+    "chapter": 5
+  },
+  "summary": "And there was a great cry of the people and of their wives against their brethren the Jews.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nehemiah 5:1",
+  "content_hash": "280ade7b19cbec2f0e38821d06583e701e272046b3dd1f0dbf3bb980fdc8b5c3",
+  "updated": "2026-10-29T16:32:46Z"
+}

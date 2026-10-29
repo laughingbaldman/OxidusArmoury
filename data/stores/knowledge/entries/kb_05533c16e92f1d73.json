@@ -1,0 +1,19 @@
+{
+  "id": "kb_05533c16e92f1d73",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 18
+  },
+  "summary": "And David numbered the people that were with him, and set captains of thousands and captains of hundreds over them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 18:1",
+  "content_hash": "e2d178bad785624c2364b53947cc0dc3b0a69ea88215581712b586d81f1cfb02",
+  "updated": "2026-10-29T16:32:45Z"
+}

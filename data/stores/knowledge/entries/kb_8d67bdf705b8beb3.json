@@ -1,0 +1,19 @@
+{
+  "id": "kb_8d67bdf705b8beb3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 1
+  },
+  "summary": "In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 1:1",
+  "content_hash": "15337cff8ce19d646be99cece536d53cf6f97c46ea82781c49c939651bea1afd",
+  "updated": "2026-10-29T16:32:46Z"
+}

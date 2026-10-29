@@ -1,0 +1,19 @@
+{
+  "id": "kb_9074a7987c6e4ccc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 27",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 27
+  },
+  "summary": "And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 27:1",
+  "content_hash": "cc76bd0178a63dce81d2e7df224636f5788f191fb18fe9ece18d388967de9df7",
+  "updated": "2026-10-29T16:32:45Z"
+}

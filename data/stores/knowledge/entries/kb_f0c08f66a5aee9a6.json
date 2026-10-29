@@ -1,0 +1,19 @@
+{
+  "id": "kb_f0c08f66a5aee9a6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 50",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 50
+  },
+  "summary": "Thus saith the LORD, Where is the bill of your mother’s divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 50:1",
+  "content_hash": "79deb8aab1a5484515159f77bc1aaba30aadce0be044a8f9e747a658a9e3677d",
+  "updated": "2026-10-29T16:32:46Z"
+}

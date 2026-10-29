@@ -1,0 +1,19 @@
+{
+  "id": "kb_9e49109f34d76860",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 8
+  },
+  "summary": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 8:1",
+  "content_hash": "afd41f8c577dcd91d799e711f44e2cb80ee30529739b9528315ad05556a5f4dc",
+  "updated": "2026-10-29T16:32:47Z"
+}

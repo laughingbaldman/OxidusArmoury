@@ -1,0 +1,19 @@
+{
+  "id": "kb_16b7ef6afc4d97c2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 11
+  },
+  "summary": "And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 11:1",
+  "content_hash": "d66833579ba40b2fa67170d065f09db35d85f1e3bbccbed44594ccafa05f5f0e",
+  "updated": "2026-10-29T16:32:47Z"
+}

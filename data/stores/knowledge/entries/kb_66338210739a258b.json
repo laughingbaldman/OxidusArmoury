@@ -1,0 +1,19 @@
+{
+  "id": "kb_66338210739a258b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 18
+  },
+  "summary": "After these things Paul departed from Athens, and came to Corinth;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 18:1",
+  "content_hash": "4eef6aed28ace42f339b16f4519d2f23a6014021296eb12dfbb03f46eeb1c421",
+  "updated": "2026-10-29T16:32:47Z"
+}

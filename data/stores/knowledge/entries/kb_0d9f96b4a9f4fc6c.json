@@ -1,0 +1,19 @@
+{
+  "id": "kb_0d9f96b4a9f4fc6c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Timothy",
+  "title": "2 Timothy 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Timothy",
+    "chapter": 4
+  },
+  "summary": "I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Timothy 4:1",
+  "content_hash": "466a2b002cb1bd0de4c2597b756dd8bd82adfd0a753600011e458528c3ae35dd",
+  "updated": "2026-10-29T16:32:47Z"
+}

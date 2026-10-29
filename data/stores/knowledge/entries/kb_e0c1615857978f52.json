@@ -1,0 +1,19 @@
+{
+  "id": "kb_e0c1615857978f52",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 9
+  },
+  "summary": "Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 9:1",
+  "content_hash": "76b47720e8bdc8dc8ccc32bfbd6d45dde8ebe94ba775f8666e058aef3f215552",
+  "updated": "2026-10-29T16:32:45Z"
+}

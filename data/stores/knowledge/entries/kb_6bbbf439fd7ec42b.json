@@ -1,0 +1,19 @@
+{
+  "id": "kb_6bbbf439fd7ec42b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 12
+  },
+  "summary": "Now about that time Herod the king stretched forth his hands to vex certain of the church.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 12:1",
+  "content_hash": "5bd67423d68aaeb94be31cce3bf893d8ce6fdc0adc66f96a4aef37b8aa5b8875",
+  "updated": "2026-10-29T16:32:47Z"
+}

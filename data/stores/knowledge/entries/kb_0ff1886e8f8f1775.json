@@ -1,0 +1,19 @@
+{
+  "id": "kb_0ff1886e8f8f1775",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 80",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 80
+  },
+  "summary": "Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 80:1",
+  "content_hash": "d3b3c17c082e504fe6a7b4d2376885e4db310ede31ff2f10984bd19bc57bac69",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_5e3e834359f4a565",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezra",
+  "title": "Ezra 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezra",
+    "chapter": 5
+  },
+  "summary": "Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem in the name of the God of Israel, even unto them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezra 5:1",
+  "content_hash": "d21c2bf84927b5ddba580f8b0ce8e507132afd9f7f505d5d1c7a63818cc5186e",
+  "updated": "2026-10-29T16:32:46Z"
+}

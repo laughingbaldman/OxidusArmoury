@@ -1,0 +1,19 @@
+{
+  "id": "kb_0abcdeebd7c0d855",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 113",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 113
+  },
+  "summary": "Praise ye the LORD. Praise, O ye servants of the LORD, praise the name of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 113:1",
+  "content_hash": "2b4f083ca535a6abf087c6f12913387192b80db00a9dd8ef36060f7ba8d292e0",
+  "updated": "2026-10-29T16:32:46Z"
+}

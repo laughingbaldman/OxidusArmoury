@@ -1,0 +1,19 @@
+{
+  "id": "kb_f1e06b64cd9408fb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 24
+  },
+  "summary": "Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 24:1",
+  "content_hash": "fb6eb427257f5f854ebc88d7e43793ebe90cc2525f0fe37a21c98e5059dfe4a8",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_68914aed470f7a12",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 12
+  },
+  "summary": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 12:1",
+  "content_hash": "493ea46c8c96c0f3655a2fb9d9e47febbf4e44889badb59d91e7ad3fc530d6b9",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_6ae4baa40048b0d0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 4
+  },
+  "summary": "And when Saul’s son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 4:1",
+  "content_hash": "f3bbaa0086d27b3efff575f5f479ad18398909d04f77a834a1bfb5914c709c46",
+  "updated": "2026-10-29T16:32:45Z"
+}

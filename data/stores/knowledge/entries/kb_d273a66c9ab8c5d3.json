@@ -1,0 +1,19 @@
+{
+  "id": "kb_d273a66c9ab8c5d3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 11
+  },
+  "summary": "A false balance is abomination to the LORD: but a just weight is his delight.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 11:1",
+  "content_hash": "1a47ce6fa40c2faac88e2ace98b6aefeb416888af9b72de8479cfc0c6044940f",
+  "updated": "2026-10-29T16:32:46Z"
+}

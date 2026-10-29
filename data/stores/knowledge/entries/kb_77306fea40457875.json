@@ -1,0 +1,19 @@
+{
+  "id": "kb_77306fea40457875",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 15
+  },
+  "summary": "And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 15:1",
+  "content_hash": "4dd4a37c8aa486066961c29b523a9bc0d7f0daeac31f963b3f02a8868d2dc559",
+  "updated": "2026-10-29T16:32:45Z"
+}

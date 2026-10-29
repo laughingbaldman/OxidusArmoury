@@ -1,0 +1,19 @@
+{
+  "id": "kb_2347304e2890dd06",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Amos",
+  "title": "Amos 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Amos",
+    "chapter": 1
+  },
+  "summary": "The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Amos 1:1",
+  "content_hash": "850f3ac8c5edd33abc15157c15263e61733928506b09634ac72817eceabde987",
+  "updated": "2026-10-29T16:32:46Z"
+}

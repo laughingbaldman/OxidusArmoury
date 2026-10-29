@@ -1,0 +1,19 @@
+{
+  "id": "kb_eba4b66e917c9217",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 4
+  },
+  "summary": "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 4:1",
+  "content_hash": "7762d85c0ee8124d01b04767b09d1d94a9403f0cd312ba33c7eb2778058a8a9d",
+  "updated": "2026-10-29T16:32:47Z"
+}

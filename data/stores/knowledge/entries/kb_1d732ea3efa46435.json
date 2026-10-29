@@ -1,0 +1,19 @@
+{
+  "id": "kb_1d732ea3efa46435",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ecclesiastes",
+  "title": "Ecclesiastes 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ecclesiastes",
+    "chapter": 3
+  },
+  "summary": "To every thing there is a season, and a time to every purpose under the heaven:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ecclesiastes 3:1",
+  "content_hash": "ee096af30d16a8b90e013aacf00600d929b380cb3295fb46a129896976ef196f",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_8f392b284093f919",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 19
+  },
+  "summary": "And Saul spake to Jonathan his son, and to all his servants, that they should kill David.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 19:1",
+  "content_hash": "7ef490bdf7e8b8802cdc90b74d30930d42529700563f3e0ca63904110221bd04",
+  "updated": "2026-10-29T16:32:45Z"
+}

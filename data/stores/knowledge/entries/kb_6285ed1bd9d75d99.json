@@ -1,0 +1,19 @@
+{
+  "id": "kb_6285ed1bd9d75d99",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Peter",
+  "title": "1 Peter 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Peter",
+    "chapter": 1
+  },
+  "summary": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Peter 1:1",
+  "content_hash": "5684384cd9ba2e9bba2e955c50b0c88cb04c7b207d621bdfcaae6634f12aaf7b",
+  "updated": "2026-10-29T16:32:47Z"
+}

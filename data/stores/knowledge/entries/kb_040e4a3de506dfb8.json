@@ -1,0 +1,19 @@
+{
+  "id": "kb_040e4a3de506dfb8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezra",
+  "title": "Ezra 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezra",
+    "chapter": 7
+  },
+  "summary": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezra 7:1",
+  "content_hash": "ddd908ed0a21ae5e4a9de48ad504b63144ff400f49285c6911db1d3264460cce",
+  "updated": "2026-10-29T16:32:46Z"
+}

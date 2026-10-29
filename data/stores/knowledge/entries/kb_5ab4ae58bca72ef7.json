@@ -1,0 +1,19 @@
+{
+  "id": "kb_5ab4ae58bca72ef7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 20
+  },
+  "summary": "Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 20:1",
+  "content_hash": "c5309c9600960f3232a9976630a18facf5fa051280892dda3e6429e42aec5842",
+  "updated": "2026-10-29T16:32:46Z"
+}

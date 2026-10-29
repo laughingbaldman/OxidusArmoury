@@ -1,0 +1,19 @@
+{
+  "id": "kb_e630688b31058336",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Philippians",
+  "title": "Philippians 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Philippians",
+    "chapter": 1
+  },
+  "summary": "Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Philippians 1:1",
+  "content_hash": "a13145e504d44f6307decfa9fb6f710e5a4ca74f81cc68eeeb0d2755ea5973f3",
+  "updated": "2026-10-29T16:32:47Z"
+}

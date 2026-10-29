@@ -1,0 +1,19 @@
+{
+  "id": "kb_5cf4bcbb2866db71",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 20
+  },
+  "summary": "And after the uproar was ceased, Paul called unto him the disciples, and embraced them, and departed for to go into Macedonia.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 20:1",
+  "content_hash": "364ab54215793f8d4f6e2025bddf9399c71b2c503e8f92e7be4327d4e75bfa2c",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_e6dea5cc8a26eb65",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 John",
+  "title": "1 John 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 John",
+    "chapter": 2
+  },
+  "summary": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 John 2:1",
+  "content_hash": "e56ab182434265cb537347eef443b1cbd3f25af10a19f861ce0739255fdcaf80",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_fe58ab172029a4d0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 20
+  },
+  "summary": "Then answered Zophar the Naamathite, and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 20:1",
+  "content_hash": "abcfee89aa80047f10fe1248f618d00092b68fad104b59cc06510e4f483c0231",
+  "updated": "2026-10-29T16:32:46Z"
+}

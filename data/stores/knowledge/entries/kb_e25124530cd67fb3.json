@@ -1,0 +1,19 @@
+{
+  "id": "kb_e25124530cd67fb3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezra",
+  "title": "Ezra 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezra",
+    "chapter": 2
+  },
+  "summary": "Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezra 2:1",
+  "content_hash": "87c252635d5b52b26dcce590120c718aedd1877f660b70cb03c3aaa5e53f0e46",
+  "updated": "2026-10-29T16:32:46Z"
+}

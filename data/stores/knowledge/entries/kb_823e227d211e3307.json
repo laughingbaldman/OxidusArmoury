@@ -1,0 +1,19 @@
+{
+  "id": "kb_823e227d211e3307",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 16
+  },
+  "summary": "The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 16:1",
+  "content_hash": "3ef2a7bb84a9e80627c241164d5102febaba7041434df0d088e47d0a045e0dc8",
+  "updated": "2026-10-29T16:32:47Z"
+}

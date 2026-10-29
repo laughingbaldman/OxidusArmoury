@@ -1,0 +1,19 @@
+{
+  "id": "kb_c3404c268e882572",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 14
+  },
+  "summary": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 14:1",
+  "content_hash": "e675f6bb50c806fc4f761ac7ccc16a37029a715308039e6a51a25f670892d954",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_7fa960844c015376",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 60",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 60
+  },
+  "summary": "O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 60:1",
+  "content_hash": "2eb2c943a1858691f346dcaf3604f159df4eca4aa425ebae82a6d9e785a16bb2",
+  "updated": "2026-10-29T16:32:46Z"
+}

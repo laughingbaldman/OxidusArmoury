@@ -1,0 +1,19 @@
+{
+  "id": "kb_d55c51ec3ceaa966",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 37",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 37
+  },
+  "summary": "And Bezaleel made the ark of shittim wood: two cubits and a half was the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 37:1",
+  "content_hash": "0583be02f7f73e119a55aac4d278840d57247deb7dd48df045a6a7f9685dc14f",
+  "updated": "2026-10-29T16:32:45Z"
+}

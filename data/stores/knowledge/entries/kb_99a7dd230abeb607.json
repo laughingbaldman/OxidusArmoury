@@ -1,0 +1,19 @@
+{
+  "id": "kb_99a7dd230abeb607",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 32",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 32
+  },
+  "summary": "And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 32:1",
+  "content_hash": "68e47879cedfaf6c8beb6b37119ebdbad69ead0ef199e86fa1a4c7673664f6cf",
+  "updated": "2026-10-29T16:32:45Z"
+}

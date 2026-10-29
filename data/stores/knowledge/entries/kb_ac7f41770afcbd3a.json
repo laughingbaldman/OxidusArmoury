@@ -1,0 +1,19 @@
+{
+  "id": "kb_ac7f41770afcbd3a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 24
+  },
+  "summary": "And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 24:1",
+  "content_hash": "9888e6c4154c68155879fc9606668ba04c0bdf29c85a8ce8fefb20ccb0832513",
+  "updated": "2026-10-29T16:32:47Z"
+}

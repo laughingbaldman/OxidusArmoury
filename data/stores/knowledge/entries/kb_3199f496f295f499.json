@@ -1,0 +1,19 @@
+{
+  "id": "kb_3199f496f295f499",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 32",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 32
+  },
+  "summary": "Behold, a king shall reign in righteousness, and princes shall rule in judgment.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 32:1",
+  "content_hash": "ca2aa680db18ebfbb4be32d615458a075adae1efdf1f2262d24d7db0ce140d7e",
+  "updated": "2026-10-29T16:32:46Z"
+}

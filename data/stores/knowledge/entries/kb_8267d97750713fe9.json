@@ -1,0 +1,19 @@
+{
+  "id": "kb_8267d97750713fe9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 21
+  },
+  "summary": "Manasseh was twelve years old when he began to reign, and reigned fifty and five years in Jerusalem. And his mother’s name was Hephzibah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 21:1",
+  "content_hash": "ae9cc50b14f4e0b65c54090a6e67b2db99bcaf45f8482494b9b0029d8c0859de",
+  "updated": "2026-10-29T16:32:46Z"
+}

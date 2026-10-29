@@ -1,0 +1,19 @@
+{
+  "id": "kb_5308c4c09cebd0c8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 46",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 46
+  },
+  "summary": "The word of the LORD which came to Jeremiah the prophet against the Gentiles;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 46:1",
+  "content_hash": "0dc5cf01f80f4820388d504dee20694e8e572f2a2f7534c11d30743a163b77cf",
+  "updated": "2026-10-29T16:32:46Z"
+}

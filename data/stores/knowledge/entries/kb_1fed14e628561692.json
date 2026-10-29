@@ -1,0 +1,19 @@
+{
+  "id": "kb_1fed14e628561692",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 57",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 57
+  },
+  "summary": "The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 57:1",
+  "content_hash": "1b78d0622693f01b375077c0b9d8889db79e80092a8c55d4b306e0ae1cca40f9",
+  "updated": "2026-10-29T16:32:46Z"
+}

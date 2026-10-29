@@ -1,0 +1,19 @@
+{
+  "id": "kb_a1de9281ef9fb593",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 2
+  },
+  "summary": "And Solomon determined to build an house for the name of the LORD, and an house for his kingdom.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 2:1",
+  "content_hash": "8089a48c3fa166a32a20472293dfee0308d2cb0a3ebfb2edb77daed7311bf3fb",
+  "updated": "2026-10-29T16:32:46Z"
+}

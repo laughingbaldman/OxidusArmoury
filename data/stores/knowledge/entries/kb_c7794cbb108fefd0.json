@@ -1,0 +1,19 @@
+{
+  "id": "kb_c7794cbb108fefd0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Malachi",
+  "title": "Malachi 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Malachi",
+    "chapter": 3
+  },
+  "summary": "Behold, I will send my messenger, and he shall prepare the way before me: and the LORD, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Malachi 3:1",
+  "content_hash": "3301a3587a7a14026f4d51212ccd1359ddf15c0b1f077f5e251fc613a3324740",
+  "updated": "2026-10-29T16:32:46Z"
+}

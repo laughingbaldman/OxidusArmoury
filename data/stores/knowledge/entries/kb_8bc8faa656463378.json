@@ -1,0 +1,19 @@
+{
+  "id": "kb_8bc8faa656463378",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 1
+  },
+  "summary": "These be the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 1:1",
+  "content_hash": "47345cd30855a4182a1470e5557f89118cb54b3bf0abf774f63f2d105cc65809",
+  "updated": "2026-10-29T16:32:45Z"
+}

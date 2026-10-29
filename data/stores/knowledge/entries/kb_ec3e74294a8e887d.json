@@ -1,0 +1,19 @@
+{
+  "id": "kb_ec3e74294a8e887d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 1
+  },
+  "summary": "Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 1:1",
+  "content_hash": "ae700a94780a8cd48cb869267de38d376a6b84d1bed4e9be0618c4db53d7ebf5",
+  "updated": "2026-10-29T16:32:46Z"
+}

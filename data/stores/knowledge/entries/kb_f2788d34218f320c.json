@@ -1,0 +1,19 @@
+{
+  "id": "kb_f2788d34218f320c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 36",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 36
+  },
+  "summary": "The transgression of the wicked saith within my heart, that there is no fear of God before his eyes.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 36:1",
+  "content_hash": "08e7a6189bf58472ebfde666b07eaa2de509c3de88afff29446f1c4f4ca60b53",
+  "updated": "2026-10-29T16:32:46Z"
+}

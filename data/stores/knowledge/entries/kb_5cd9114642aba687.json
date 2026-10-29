@@ -1,0 +1,19 @@
+{
+  "id": "kb_5cd9114642aba687",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 6
+  },
+  "summary": "But Job answered and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 6:1",
+  "content_hash": "f65acd19d797e07425b81014a3e7e1e1b687f6c6f777056186616c73f26df942",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_fcf1f63b5be3b95a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nehemiah",
+  "title": "Nehemiah 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nehemiah",
+    "chapter": 6
+  },
+  "summary": "Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and that there was no breach left therein; (though at that time I had not set up the doors upon the gates;)",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nehemiah 6:1",
+  "content_hash": "277891f37ad4dd6d9ede07dafb95724a99a02a0efc652de36feab04605dd3359",
+  "updated": "2026-10-29T16:32:46Z"
+}

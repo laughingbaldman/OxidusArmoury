@@ -1,0 +1,19 @@
+{
+  "id": "kb_32cd4e985f2b92a4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 7
+  },
+  "summary": "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 7:1",
+  "content_hash": "542d2ef24558a20691d0d4e81da3115d76824679cdf55666a7398a3febb4ceef",
+  "updated": "2026-10-29T16:32:47Z"
+}

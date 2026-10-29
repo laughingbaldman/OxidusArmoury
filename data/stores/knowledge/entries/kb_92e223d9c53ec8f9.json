@@ -1,0 +1,19 @@
+{
+  "id": "kb_92e223d9c53ec8f9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 63",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 63
+  },
+  "summary": "Who is this that cometh from Edom, with dyed garments from Bozrah? this that is glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 63:1",
+  "content_hash": "425799acd882b4f5bf2665d065f26c5cf320e09e242f8ff95231a913292bc384",
+  "updated": "2026-10-29T16:32:46Z"
+}

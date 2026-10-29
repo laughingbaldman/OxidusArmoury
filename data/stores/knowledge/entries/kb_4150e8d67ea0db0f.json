@@ -1,0 +1,19 @@
+{
+  "id": "kb_4150e8d67ea0db0f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 5
+  },
+  "summary": "It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 5:1",
+  "content_hash": "4cb122b00bb08bf2ac5145be91c2c901d4719af6a65c2e68f53868fc8cbd2e8b",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_25f531eda24e0faf",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 9
+  },
+  "summary": "Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 9:1",
+  "content_hash": "18842715b05d47864d79b4350008f1dcc6c2e0310624fe446bae43c19418cc7c",
+  "updated": "2026-10-29T16:32:45Z"
+}

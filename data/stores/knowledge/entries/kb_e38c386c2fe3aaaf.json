@@ -1,0 +1,19 @@
+{
+  "id": "kb_e38c386c2fe3aaaf",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 86",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 86
+  },
+  "summary": "Bow down thine ear, O LORD, hear me: for I am poor and needy.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 86:1",
+  "content_hash": "9c825baa05b01fcd33a891832de31a2c373fd6c810d72063ad36b8e7f0b452a2",
+  "updated": "2026-10-29T16:32:46Z"
+}

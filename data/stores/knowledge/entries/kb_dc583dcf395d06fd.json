@@ -1,0 +1,19 @@
+{
+  "id": "kb_dc583dcf395d06fd",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 40",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 40
+  },
+  "summary": "I waited patiently for the LORD; and he inclined unto me, and heard my cry.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 40:1",
+  "content_hash": "572ac05d456fefa57aac4bba7e027a8168da4c017a3d08ebebb690482452efc7",
+  "updated": "2026-10-29T16:32:46Z"
+}

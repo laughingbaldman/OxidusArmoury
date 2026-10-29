@@ -1,0 +1,19 @@
+{
+  "id": "kb_c485a0e0a5e9bb3b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 64",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 64
+  },
+  "summary": "Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 64:1",
+  "content_hash": "78a8199b66204964e85f0078be1cd01ab91a0396d72ebbf459739f414395876b",
+  "updated": "2026-10-29T16:32:46Z"
+}

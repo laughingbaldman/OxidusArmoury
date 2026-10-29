@@ -1,0 +1,19 @@
+{
+  "id": "kb_acb3c58a62fd1968",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 29",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 29
+  },
+  "summary": "Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which is in Jezreel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 29:1",
+  "content_hash": "e9d31e7c0658cb214ab8809c9125085a52642d2d7f163406d575ac8983681664",
+  "updated": "2026-10-29T16:32:45Z"
+}

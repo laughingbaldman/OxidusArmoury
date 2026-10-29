@@ -1,0 +1,19 @@
+{
+  "id": "kb_02ca40728b76083c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 28",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 28
+  },
+  "summary": "The wicked flee when no man pursueth: but the righteous are bold as a lion.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 28:1",
+  "content_hash": "f2c3b92696f7a6a4ae7845eb40a0f6152f0bb4757688cdceda30f98a293215b3",
+  "updated": "2026-10-29T16:32:46Z"
+}

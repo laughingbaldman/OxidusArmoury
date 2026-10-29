@@ -1,0 +1,19 @@
+{
+  "id": "kb_226c2932cfd47f01",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 10
+  },
+  "summary": "And it came to pass after this, that the king of the children of Ammon died, and Hanun his son reigned in his stead.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 10:1",
+  "content_hash": "d832aed073e12c122e0c3827a4548ce463b4289494b5895d9911858cafbf17b4",
+  "updated": "2026-10-29T16:32:45Z"
+}

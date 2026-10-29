@@ -1,0 +1,19 @@
+{
+  "id": "kb_ea83696b459050ec",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 63",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 63
+  },
+  "summary": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 63:1",
+  "content_hash": "fe4dc5bd86df7a7c8d6756c9586d46b4feaa7826cf273ecae12e4a060cfc0815",
+  "updated": "2026-10-29T16:32:46Z"
+}

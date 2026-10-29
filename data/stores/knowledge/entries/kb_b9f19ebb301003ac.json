@@ -1,0 +1,19 @@
+{
+  "id": "kb_b9f19ebb301003ac",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 6
+  },
+  "summary": "Then said Solomon, The LORD hath said that he would dwell in the thick darkness.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 6:1",
+  "content_hash": "e2f0743e05587c8c37c28126225e255a8b55750f4bea98e085f672e9dcdf646e",
+  "updated": "2026-10-29T16:32:46Z"
+}

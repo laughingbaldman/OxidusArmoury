@@ -1,0 +1,19 @@
+{
+  "id": "kb_08d9d86f7043d084",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 36",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 36
+  },
+  "summary": "Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 36:1",
+  "content_hash": "56c5e38cb079e36e3c826f2d55d2a0c4aee5ed1c0bf1eaf779f6e094b8e80b6c",
+  "updated": "2026-10-29T16:32:46Z"
+}

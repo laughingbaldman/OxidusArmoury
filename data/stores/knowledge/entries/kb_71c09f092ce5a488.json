@@ -1,0 +1,19 @@
+{
+  "id": "kb_71c09f092ce5a488",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 14
+  },
+  "summary": "After two days was the feast of the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put him to death.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 14:1",
+  "content_hash": "a2ac921456975260b8dbb4120cebef495a4e854794742b41c221bd097febe227",
+  "updated": "2026-10-29T16:32:47Z"
+}

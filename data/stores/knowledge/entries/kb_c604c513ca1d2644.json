@@ -1,0 +1,19 @@
+{
+  "id": "kb_c604c513ca1d2644",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 3
+  },
+  "summary": "For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah the stay and the staff, the whole stay of bread, and the whole stay of water.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 3:1",
+  "content_hash": "cd44abaf2c277420f296648da5ed8a3d621431c6852c1a6a4155f044ef49193a",
+  "updated": "2026-10-29T16:32:46Z"
+}

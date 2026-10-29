@@ -1,0 +1,19 @@
+{
+  "id": "kb_f57b452858d3dd97",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 15
+  },
+  "summary": "Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 15:1",
+  "content_hash": "c515eed60b33e728d8d636a7f45917e6103de1f7773cd83d3c245980b998e269",
+  "updated": "2026-10-29T16:32:47Z"
+}

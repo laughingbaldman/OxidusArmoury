@@ -1,0 +1,19 @@
+{
+  "id": "kb_8a07e58fd3c4b9ee",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 4
+  },
+  "summary": "Then Eliphaz the Temanite answered and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 4:1",
+  "content_hash": "a85b4fc324f02bf16f5bc4be7fa73f9d01d23f077667700cf27417f32e9e91a2",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_3dcff1dbb166cb41",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 16
+  },
+  "summary": "In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 16:1",
+  "content_hash": "5f9793bfdb7ed27c65ad483bdb386ddd9d46f511e58788cdaeadd6e255995d3a",
+  "updated": "2026-10-29T16:32:46Z"
+}

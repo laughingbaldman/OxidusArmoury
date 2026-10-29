@@ -1,0 +1,19 @@
+{
+  "id": "kb_42d1cd3849ce63ec",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 45",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 45
+  },
+  "summary": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 45:1",
+  "content_hash": "869b22151fc1d995b19c89dd6cb4f56bd22f2dfbb82c88afdba71373e6f5b8e2",
+  "updated": "2026-10-29T16:32:46Z"
+}

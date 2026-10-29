@@ -1,0 +1,19 @@
+{
+  "id": "kb_0767ae7af8be9902",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 9
+  },
+  "summary": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 9:1",
+  "content_hash": "c72973b1192b05268661ef5192562b8dda92d1253f731d929158f9cf1c839aa6",
+  "updated": "2026-10-29T16:32:45Z"
+}

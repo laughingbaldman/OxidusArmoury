@@ -1,0 +1,19 @@
+{
+  "id": "kb_7bfa6ac70da05c87",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 12
+  },
+  "summary": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 12:1",
+  "content_hash": "76c7cef372a95817337f4ee86092017686d77dfae7c6ac4a7d62c80ab3a1bc97",
+  "updated": "2026-10-29T16:32:47Z"
+}

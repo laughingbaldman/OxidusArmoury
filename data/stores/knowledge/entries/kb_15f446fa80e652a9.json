@@ -1,0 +1,19 @@
+{
+  "id": "kb_15f446fa80e652a9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 22
+  },
+  "summary": "My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 22:1",
+  "content_hash": "cb3c4e6a95db59af53e63be69aa2d748edad0d1cca8aaa950b381132366f6cab",
+  "updated": "2026-10-29T16:32:46Z"
+}

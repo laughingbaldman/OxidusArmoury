@@ -1,0 +1,19 @@
+{
+  "id": "kb_1deee9604e28083b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 30",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 30
+  },
+  "summary": "But now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 30:1",
+  "content_hash": "b97cec68f457c9b6eeeba4ebc6c0a54b4aa67f0a1bdbac51ff92364a0d3eb772",
+  "updated": "2026-10-29T16:32:46Z"
+}

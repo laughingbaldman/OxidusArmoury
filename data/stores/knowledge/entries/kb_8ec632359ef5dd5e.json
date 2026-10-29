@@ -1,0 +1,19 @@
+{
+  "id": "kb_8ec632359ef5dd5e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 24
+  },
+  "summary": "And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 24:1",
+  "content_hash": "c588d93db8b70e2a0e7b9cc7e71b45cd4d28a9a32389b6751074d5d402e53b34",
+  "updated": "2026-10-29T16:32:45Z"
+}

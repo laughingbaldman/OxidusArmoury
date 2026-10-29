@@ -1,0 +1,19 @@
+{
+  "id": "kb_fb18c7d848d7dfaf",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 6
+  },
+  "summary": "We then, as workers together with him, beseech you also that ye receive not the grace of God in vain.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 6:1",
+  "content_hash": "15a4c7c252b9f7ca0427c98b9f720c5f8215b6c3f183394ee7bf7faf898d1267",
+  "updated": "2026-10-29T16:32:47Z"
+}

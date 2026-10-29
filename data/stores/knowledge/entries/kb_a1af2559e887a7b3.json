@@ -1,0 +1,19 @@
+{
+  "id": "kb_a1af2559e887a7b3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 1
+  },
+  "summary": "The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 1:1",
+  "content_hash": "307a7088d44457b1b9cc27dbf4d92e3b96e0415223a8396f686f57b0f0f8343f",
+  "updated": "2026-10-29T16:32:46Z"
+}

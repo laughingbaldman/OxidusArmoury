@@ -1,0 +1,19 @@
+{
+  "id": "kb_634c5b4f38e72c4e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 32",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 32
+  },
+  "summary": "So these three men ceased to answer Job, because he was righteous in his own eyes.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 32:1",
+  "content_hash": "f15bacb363a63867c551788f68c802bc2c3fc9d86d426814663ad341b59adad3",
+  "updated": "2026-10-29T16:32:46Z"
+}

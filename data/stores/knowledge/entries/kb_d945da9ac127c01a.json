@@ -1,0 +1,19 @@
+{
+  "id": "kb_d945da9ac127c01a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 54",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 54
+  },
+  "summary": "Sing, O barren, thou that didst not bear; break forth into singing, and cry aloud, thou that didst not travail with child: for more are the children of the desolate than the children of the married wife, saith the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 54:1",
+  "content_hash": "60423b3a8ebfda885bdf4e95fe434d97cfe42eeb8dd3e7708223a29ca3ad0a5f",
+  "updated": "2026-10-29T16:32:46Z"
+}

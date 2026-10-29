@@ -1,0 +1,19 @@
+{
+  "id": "kb_37ab96213cbf4bfa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 21
+  },
+  "summary": "And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 21:1",
+  "content_hash": "53f5fc8520af8749ef458d8e738a2c17376a846c505a9019457f162f1365bbfc",
+  "updated": "2026-10-29T16:32:45Z"
+}

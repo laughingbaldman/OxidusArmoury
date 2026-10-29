@@ -1,0 +1,19 @@
+{
+  "id": "kb_afae2ddb57c254a7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 55",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 55
+  },
+  "summary": "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 55:1",
+  "content_hash": "3ba534ef20a171037afcdd1b53b241d605e1f4b7912d74ef42af1805684a26ca",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_35156fbdbb0b95bb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 29",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 29
+  },
+  "summary": "He, that being often reproved hardeneth his neck, shall suddenly be destroyed, and that without remedy.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 29:1",
+  "content_hash": "a7a9c171a3ae336952bbf3834cd7f78bc1a019cc81403747c9fc65da8c515d8a",
+  "updated": "2026-10-29T16:32:46Z"
+}

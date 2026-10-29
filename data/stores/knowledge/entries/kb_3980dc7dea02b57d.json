@@ -1,0 +1,19 @@
+{
+  "id": "kb_3980dc7dea02b57d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 11
+  },
+  "summary": "And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 11:1",
+  "content_hash": "e25963383cee175ebc80155b20b2c8eab08a0cc36192b306f9311833fd611eed",
+  "updated": "2026-10-29T16:32:47Z"
+}

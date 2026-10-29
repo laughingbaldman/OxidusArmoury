@@ -1,0 +1,19 @@
+{
+  "id": "kb_76b0b77d13700366",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 9
+  },
+  "summary": "And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 9:1",
+  "content_hash": "1c4a914dfd1ddee3d05bf0c8494c926993e8c16d234c3a4da2238034a9e19f75",
+  "updated": "2026-10-29T16:32:47Z"
+}

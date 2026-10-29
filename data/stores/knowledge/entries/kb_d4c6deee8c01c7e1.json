@@ -1,0 +1,19 @@
+{
+  "id": "kb_d4c6deee8c01c7e1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 17
+  },
+  "summary": "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 17:1",
+  "content_hash": "83454872c1aa205b6c507818c0c5273812af1dc9f6066288e50d5cf51b7670ce",
+  "updated": "2026-10-29T16:32:46Z"
+}

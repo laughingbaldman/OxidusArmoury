@@ -1,0 +1,19 @@
+{
+  "id": "kb_49a9761f61a7d486",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 1
+  },
+  "summary": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 1:1",
+  "content_hash": "a86d830ac6435d4eee2feeba6eeee174a8ed5cb47e4f31f4d7d92e59996b384e",
+  "updated": "2026-10-29T16:32:47Z"
+}

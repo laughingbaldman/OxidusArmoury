@@ -1,0 +1,19 @@
+{
+  "id": "kb_d3a8674d92fc7494",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 2
+  },
+  "summary": "And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 2:1",
+  "content_hash": "c793bae59ee087f095263e2a39f0fd39d84026f3b28212d58c565d60c342313d",
+  "updated": "2026-10-29T16:32:45Z"
+}

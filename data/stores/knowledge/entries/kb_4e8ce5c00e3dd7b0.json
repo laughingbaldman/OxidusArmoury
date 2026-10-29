@@ -1,0 +1,19 @@
+{
+  "id": "kb_4e8ce5c00e3dd7b0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 19
+  },
+  "summary": "And Jesus entered and passed through Jericho.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 19:1",
+  "content_hash": "a063c593e132ad472f3fb0f75d2203ba6e8af33defc694098d44af86598de7ea",
+  "updated": "2026-10-29T16:32:47Z"
+}

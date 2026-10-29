@@ -1,0 +1,19 @@
+{
+  "id": "kb_1a90c3088ef1d710",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 30",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 30
+  },
+  "summary": "And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 30:1",
+  "content_hash": "15f4075eba017ebbfd2692fa75969336b645bdc6a8f540bb3952b7776720b3a1",
+  "updated": "2026-10-29T16:32:45Z"
+}

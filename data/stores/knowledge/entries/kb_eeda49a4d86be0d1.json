@@ -1,0 +1,19 @@
+{
+  "id": "kb_eeda49a4d86be0d1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 5
+  },
+  "summary": "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 5:1",
+  "content_hash": "4f815cf11325dca0d0897c2b21a1eb5f31812711bce4270a16fa0902656e7094",
+  "updated": "2026-10-29T16:32:45Z"
+}

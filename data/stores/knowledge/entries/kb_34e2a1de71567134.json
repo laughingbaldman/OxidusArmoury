@@ -1,0 +1,19 @@
+{
+  "id": "kb_34e2a1de71567134",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 43",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 43
+  },
+  "summary": "And the famine was sore in the land.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 43:1",
+  "content_hash": "d9714327617203ad5c9b375690d4870a15fdd93a213591dbed58d81e8ae8e893",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_41a9a3294dd5df33",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 17
+  },
+  "summary": "These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 17:1",
+  "content_hash": "4f2cf645e2c2bfa47565afcfb748f6ca5e77f5ecbaeb905a05c33267b56f4d02",
+  "updated": "2026-10-29T16:32:47Z"
+}

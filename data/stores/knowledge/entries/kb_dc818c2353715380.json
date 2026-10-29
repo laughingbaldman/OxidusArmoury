@@ -1,0 +1,19 @@
+{
+  "id": "kb_dc818c2353715380",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 1
+  },
+  "summary": "The beginning of the gospel of Jesus Christ, the Son of God;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 1:1",
+  "content_hash": "1f22b0b06fde69359e55356ce5ff57f2b8df0385a96b9641c6f5ac6d48d68ead",
+  "updated": "2026-10-29T16:32:47Z"
+}

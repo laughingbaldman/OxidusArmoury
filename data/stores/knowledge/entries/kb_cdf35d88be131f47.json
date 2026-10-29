@@ -1,0 +1,19 @@
+{
+  "id": "kb_cdf35d88be131f47",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 3
+  },
+  "summary": "Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 3:1",
+  "content_hash": "aa43f38d07d0a7711f88faffb9ed8763fb1a8ef7f6ef9476976cae4a7b1b3f58",
+  "updated": "2026-10-29T16:32:45Z"
+}

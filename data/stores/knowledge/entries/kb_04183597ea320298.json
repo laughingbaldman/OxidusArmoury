@@ -1,0 +1,19 @@
+{
+  "id": "kb_04183597ea320298",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 10
+  },
+  "summary": "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 10:1",
+  "content_hash": "008630c571843e94c0f5bbdadaa4efb53d448b9e4dfe636ec501bd4074e65007",
+  "updated": "2026-10-29T16:32:47Z"
+}

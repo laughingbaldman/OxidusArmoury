@@ -1,0 +1,19 @@
+{
+  "id": "kb_214815991ef6333e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 141",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 141
+  },
+  "summary": "Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 141:1",
+  "content_hash": "9d6f39cb18b5b5983b5dfaaa2036d1a75b91ab46bebff4ddecb7e84d485b73a2",
+  "updated": "2026-10-29T16:32:46Z"
+}

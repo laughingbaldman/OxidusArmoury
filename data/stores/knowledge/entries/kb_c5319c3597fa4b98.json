@@ -1,0 +1,19 @@
+{
+  "id": "kb_c5319c3597fa4b98",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zechariah",
+  "title": "Zechariah 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zechariah",
+    "chapter": 5
+  },
+  "summary": "Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zechariah 5:1",
+  "content_hash": "b21e622be056bd3bf81a6aa4b1085fc08d6cd4821626da2dbae925457101ecf4",
+  "updated": "2026-10-29T16:32:46Z"
+}

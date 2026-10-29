@@ -1,0 +1,19 @@
+{
+  "id": "kb_cc7b0c62802c59bf",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 7
+  },
+  "summary": "After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 7:1",
+  "content_hash": "8522c60546183e71c85600c5fa85ed61051108d4974048741fde240a2214829f",
+  "updated": "2026-10-29T16:32:47Z"
+}

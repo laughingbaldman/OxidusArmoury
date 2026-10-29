@@ -1,0 +1,19 @@
+{
+  "id": "kb_12b65b367da9f11c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 8
+  },
+  "summary": "Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 8:1",
+  "content_hash": "e1a49429d6573aef8041041fc08ce5a374141e8aa5aba6d095311c3560fb4ffd",
+  "updated": "2026-10-29T16:32:47Z"
+}

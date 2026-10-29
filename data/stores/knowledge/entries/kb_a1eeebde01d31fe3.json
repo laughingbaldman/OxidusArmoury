@@ -1,0 +1,19 @@
+{
+  "id": "kb_a1eeebde01d31fe3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 3
+  },
+  "summary": "Now Moses kept the flock of Jethro his father in law, the priest of Midian: and he led the flock to the backside of the desert, and came to the mountain of God, even to Horeb.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 3:1",
+  "content_hash": "5c2169aa578e5b1ecfcd3e5ee09f99560d6a4bc6fff54d8fbabdecd4c4a2ca7e",
+  "updated": "2026-10-29T16:32:45Z"
+}

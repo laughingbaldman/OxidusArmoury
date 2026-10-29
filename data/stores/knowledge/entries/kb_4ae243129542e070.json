@@ -1,0 +1,19 @@
+{
+  "id": "kb_4ae243129542e070",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 41",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 41
+  },
+  "summary": "Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 41:1",
+  "content_hash": "37a13cc3c6ae957bfd8ce473177fea106c2bf0eae30d1fe8a62531c549054013",
+  "updated": "2026-10-29T16:32:46Z"
+}

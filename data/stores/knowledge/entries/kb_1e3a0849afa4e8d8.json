@@ -1,0 +1,19 @@
+{
+  "id": "kb_1e3a0849afa4e8d8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Timothy",
+  "title": "1 Timothy 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Timothy",
+    "chapter": 5
+  },
+  "summary": "Rebuke not an elder, but intreat him as a father; and the younger men as brethren;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Timothy 5:1",
+  "content_hash": "b912089d2c4884170dd8fedb9bc09286639af3af83bc127efd0e882a40fef683",
+  "updated": "2026-10-29T16:32:47Z"
+}

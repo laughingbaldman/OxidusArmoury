@@ -1,0 +1,19 @@
+{
+  "id": "kb_3b999208ce72b608",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 12
+  },
+  "summary": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall b",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 12:1",
+  "content_hash": "42af437a29e2a638fc09a4502b8dd7b17cb3097afe73ef7520973298c9e310d4",
+  "updated": "2026-10-29T16:32:46Z"
+}

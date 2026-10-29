@@ -1,0 +1,19 @@
+{
+  "id": "kb_35d8fc31034b5746",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joel",
+  "title": "Joel 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joel",
+    "chapter": 3
+  },
+  "summary": "For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joel 3:1",
+  "content_hash": "0cc53703c00f5ae04ccb7e9007cf5e8eb343c7ebff0cea995f66bf1a40c55646",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_4d728dbe03bbf48e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Colossians",
+  "title": "Colossians 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Colossians",
+    "chapter": 1
+  },
+  "summary": "Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Colossians 1:1",
+  "content_hash": "b0df4c2f0a69fdb3141b95d693d7399f68007ea8d3d6466bd36a6fed4ebeda65",
+  "updated": "2026-10-29T16:32:47Z"
+}

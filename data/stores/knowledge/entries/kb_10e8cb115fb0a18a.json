@@ -1,0 +1,19 @@
+{
+  "id": "kb_10e8cb115fb0a18a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 99",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 99
+  },
+  "summary": "The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 99:1",
+  "content_hash": "dff8123ae514a2dfffc82f94c956ec3f7cac4d6096b545749da53bf33dbaa9ba",
+  "updated": "2026-10-29T16:32:46Z"
+}

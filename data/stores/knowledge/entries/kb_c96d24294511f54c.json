@@ -1,0 +1,19 @@
+{
+  "id": "kb_c96d24294511f54c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 10
+  },
+  "summary": "The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 10:1",
+  "content_hash": "43cb30b0f9550b54551d027ad53ca9df7f0840fd0eb7acc582506f4737e460c7",
+  "updated": "2026-10-29T16:32:46Z"
+}

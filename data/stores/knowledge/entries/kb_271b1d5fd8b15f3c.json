@@ -1,0 +1,19 @@
+{
+  "id": "kb_271b1d5fd8b15f3c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 33",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 33
+  },
+  "summary": "And the LORD said unto Moses, Depart, and go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 33:1",
+  "content_hash": "8d167941e5e20c47c2ac2dde3337b8545b78bfca1ff1f1fb7d52909f4672f26d",
+  "updated": "2026-10-29T16:32:45Z"
+}

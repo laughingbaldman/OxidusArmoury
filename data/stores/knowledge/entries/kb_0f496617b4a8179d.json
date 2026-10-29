@@ -1,0 +1,19 @@
+{
+  "id": "kb_0f496617b4a8179d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 14
+  },
+  "summary": "Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 14:1",
+  "content_hash": "4643f3c5002f289c07a27bddd3509fc982b3a82ebd8194b59c37ce4315b3c4e0",
+  "updated": "2026-10-29T16:32:46Z"
+}

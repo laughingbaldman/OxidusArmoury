@@ -1,0 +1,19 @@
+{
+  "id": "kb_436aae958ec0f612",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 29",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 29
+  },
+  "summary": "Moreover Job continued his parable, and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 29:1",
+  "content_hash": "7c61612f1f48be2b4ef53608b5d97374f58c6d633334d66e130805691e989c96",
+  "updated": "2026-10-29T16:32:46Z"
+}

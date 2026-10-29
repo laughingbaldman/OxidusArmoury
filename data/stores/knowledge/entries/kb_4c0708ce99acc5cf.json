@@ -1,0 +1,19 @@
+{
+  "id": "kb_4c0708ce99acc5cf",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 3
+  },
+  "summary": "Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 3:1",
+  "content_hash": "0623b9aa1b7f54aab57abc15a2ba2eb3921aa0ebb106ade2ed77a0b1d65aba19",
+  "updated": "2026-10-29T16:32:45Z"
+}

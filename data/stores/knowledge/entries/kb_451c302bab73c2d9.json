@@ -1,0 +1,19 @@
+{
+  "id": "kb_451c302bab73c2d9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezra",
+  "title": "Ezra 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezra",
+    "chapter": 6
+  },
+  "summary": "Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezra 6:1",
+  "content_hash": "76b9c7e65a109038108d167d4db685000c9754882d8dd1998c34c5080e045f04",
+  "updated": "2026-10-29T16:32:46Z"
+}

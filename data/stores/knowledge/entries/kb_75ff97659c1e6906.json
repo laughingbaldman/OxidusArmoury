@@ -1,0 +1,19 @@
+{
+  "id": "kb_75ff97659c1e6906",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ruth",
+  "title": "Ruth 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ruth",
+    "chapter": 3
+  },
+  "summary": "Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ruth 3:1",
+  "content_hash": "4b0112845c8ca1e533f8ff54f7e4dcabb2b304c043c10369561d9d7c473a46ef",
+  "updated": "2026-10-29T16:32:45Z"
+}

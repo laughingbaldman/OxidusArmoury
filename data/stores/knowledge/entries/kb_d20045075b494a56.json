@@ -1,0 +1,19 @@
+{
+  "id": "kb_d20045075b494a56",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 9
+  },
+  "summary": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 9:1",
+  "content_hash": "98f7320e42a1a4b9bc982ddd75da3d5d480be261785170e9b0eb912f118dc8ee",
+  "updated": "2026-10-29T16:32:46Z"
+}

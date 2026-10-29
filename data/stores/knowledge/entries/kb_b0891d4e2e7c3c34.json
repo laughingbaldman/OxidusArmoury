@@ -1,0 +1,19 @@
+{
+  "id": "kb_b0891d4e2e7c3c34",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 13
+  },
+  "summary": "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 13:1",
+  "content_hash": "47125493c65c84fc78d30ee2b169a90f8397c07a5d192ee87a5c524117103cee",
+  "updated": "2026-10-29T16:32:47Z"
+}

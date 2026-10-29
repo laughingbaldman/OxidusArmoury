@@ -1,0 +1,19 @@
+{
+  "id": "kb_8b691353698e18cf",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 15
+  },
+  "summary": "And the LORD spake unto Moses and to Aaron, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 15:1",
+  "content_hash": "19f212809a148128264f7618b524a8f8a7516fd5828aa6d51d0a8bbee7cdd4c3",
+  "updated": "2026-10-29T16:32:45Z"
+}

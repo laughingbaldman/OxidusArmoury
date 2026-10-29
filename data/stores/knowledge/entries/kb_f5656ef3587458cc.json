@@ -1,0 +1,19 @@
+{
+  "id": "kb_f5656ef3587458cc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 15
+  },
+  "summary": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 15:1",
+  "content_hash": "b862906bd1798c43bd63e0acc28f55ee1ce05321e0d66ef8e260198363e8467b",
+  "updated": "2026-10-29T16:32:47Z"
+}

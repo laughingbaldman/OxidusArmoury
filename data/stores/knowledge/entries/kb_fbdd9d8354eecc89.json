@@ -1,0 +1,19 @@
+{
+  "id": "kb_fbdd9d8354eecc89",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 16
+  },
+  "summary": "Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 16:1",
+  "content_hash": "b13a517a149e7322a95d46f73b912fad8613fc3d8e5768758726bdf9ad64467d",
+  "updated": "2026-10-29T16:32:46Z"
+}

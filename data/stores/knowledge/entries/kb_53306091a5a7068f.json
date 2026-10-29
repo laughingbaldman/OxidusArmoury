@@ -1,0 +1,19 @@
+{
+  "id": "kb_53306091a5a7068f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 29",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 29
+  },
+  "summary": "Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babyl",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 29:1",
+  "content_hash": "cf76e2c45dce32462fd6bebef8454d68e6893a305b784314796240f5319d7381",
+  "updated": "2026-10-29T16:32:46Z"
+}

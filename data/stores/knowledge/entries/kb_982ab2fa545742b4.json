@@ -1,0 +1,19 @@
+{
+  "id": "kb_982ab2fa545742b4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 12
+  },
+  "summary": "And the LORD sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 12:1",
+  "content_hash": "25da8112d5ce19650c3b16c563814fb694351180de595125e94e8e9f9cdc044f",
+  "updated": "2026-10-29T16:32:45Z"
+}

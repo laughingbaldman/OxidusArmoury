@@ -1,0 +1,19 @@
+{
+  "id": "kb_441b37f003d706dc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 6
+  },
+  "summary": "In the year that king Uzziah died I saw also the LORD sitting upon a throne, high and lifted up, and his train filled the temple.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 6:1",
+  "content_hash": "6b4f31b69b8bbb4a2ff828a707730cd04385fb3f23cee4b337eeb49dabddab45",
+  "updated": "2026-10-29T16:32:46Z"
+}

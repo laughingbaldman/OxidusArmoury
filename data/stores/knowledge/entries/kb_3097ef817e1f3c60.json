@@ -1,0 +1,19 @@
+{
+  "id": "kb_3097ef817e1f3c60",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nehemiah",
+  "title": "Nehemiah 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nehemiah",
+    "chapter": 9
+  },
+  "summary": "Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nehemiah 9:1",
+  "content_hash": "5f5d93ec59fecd8d8bcfb0192c51e3adb0dd34792ae2cc8919ab9161576cae96",
+  "updated": "2026-10-29T16:32:46Z"
+}

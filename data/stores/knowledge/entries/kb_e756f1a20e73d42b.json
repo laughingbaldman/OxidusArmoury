@@ -1,0 +1,19 @@
+{
+  "id": "kb_e756f1a20e73d42b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 16
+  },
+  "summary": "These things have I spoken unto you, that ye should not be offended.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 16:1",
+  "content_hash": "e8634795aaa16783f6dac3fa92589564645c2a4a2f9325a86aff66961accc719",
+  "updated": "2026-10-29T16:32:47Z"
+}

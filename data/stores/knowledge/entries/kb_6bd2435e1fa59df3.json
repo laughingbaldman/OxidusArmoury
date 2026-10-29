@@ -1,0 +1,19 @@
+{
+  "id": "kb_6bd2435e1fa59df3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 89",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 89
+  },
+  "summary": "I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 89:1",
+  "content_hash": "3bc60bb7e171a4be1053ee7fa1dc828edb4fbb2e6b72a53d2b85da47594f3e27",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_58221a44c216fd69",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 10
+  },
+  "summary": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 10:1",
+  "content_hash": "2e87a4d280051f491a708aaede5b1b1feb81835cb0bf1e3406d6a0a066c8ebb9",
+  "updated": "2026-10-29T16:32:46Z"
+}

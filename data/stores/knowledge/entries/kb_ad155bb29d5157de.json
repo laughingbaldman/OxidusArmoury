@@ -1,0 +1,19 @@
+{
+  "id": "kb_ad155bb29d5157de",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ecclesiastes",
+  "title": "Ecclesiastes 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ecclesiastes",
+    "chapter": 9
+  },
+  "summary": "For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ecclesiastes 9:1",
+  "content_hash": "fd69211ce79ac1e8b5b4ccf035ee708cd04e0084de4e5c83246e42a2c0c025c8",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_d239a2c23eff2fc6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 94",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 94
+  },
+  "summary": "O Lord God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 94:1",
+  "content_hash": "b218950512364d9c9f1afde442f316e46f0156772e8b68b1a306924629ba75c4",
+  "updated": "2026-10-29T16:32:46Z"
+}

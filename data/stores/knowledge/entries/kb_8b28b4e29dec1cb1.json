@@ -1,0 +1,19 @@
+{
+  "id": "kb_8b28b4e29dec1cb1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 2
+  },
+  "summary": "The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 2:1",
+  "content_hash": "da6fea0132728d2cb3877389c337242b8e262b27e25a3a10d82eb1dd57277d62",
+  "updated": "2026-10-29T16:32:46Z"
+}

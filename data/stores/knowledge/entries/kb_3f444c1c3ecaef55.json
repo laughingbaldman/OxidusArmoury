@@ -1,0 +1,19 @@
+{
+  "id": "kb_3f444c1c3ecaef55",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 3
+  },
+  "summary": "Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 3:1",
+  "content_hash": "6eb8f7ccb9eb9ca9f0364754b4604d3d85151349e5e8264f90f71606a95b8865",
+  "updated": "2026-10-29T16:32:46Z"
+}

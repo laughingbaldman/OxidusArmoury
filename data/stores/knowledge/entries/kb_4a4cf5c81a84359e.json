@@ -1,0 +1,19 @@
+{
+  "id": "kb_4a4cf5c81a84359e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 35",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 35
+  },
+  "summary": "Elihu spake moreover, and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 35:1",
+  "content_hash": "c6dc7a592d1860908f29e6e5d255fa5da7fcac3888328ac2f594e6ecfcb7c265",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_31d6c04a819a1ba2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Lamentations",
+  "title": "Lamentations 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Lamentations",
+    "chapter": 4
+  },
+  "summary": "How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Lamentations 4:1",
+  "content_hash": "a000ed23a4ee49f92fc8c5e1a419959769cfacf9663bd7e2e9b7e21ea06bd501",
+  "updated": "2026-10-29T16:32:46Z"
+}

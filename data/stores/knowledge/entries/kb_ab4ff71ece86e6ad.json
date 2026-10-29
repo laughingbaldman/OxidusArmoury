@@ -1,0 +1,19 @@
+{
+  "id": "kb_ab4ff71ece86e6ad",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 11
+  },
+  "summary": "Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 11:1",
+  "content_hash": "1b72052ebfa5e3fc7a7405eef86c09616880b63193039621daa78b908c7d3637",
+  "updated": "2026-10-29T16:32:45Z"
+}

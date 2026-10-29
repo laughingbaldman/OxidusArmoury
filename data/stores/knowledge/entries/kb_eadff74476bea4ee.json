@@ -1,0 +1,19 @@
+{
+  "id": "kb_eadff74476bea4ee",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 15
+  },
+  "summary": "Then drew near unto him all the publicans and sinners for to hear him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 15:1",
+  "content_hash": "d28507ef02ab11df41cbb07c28fde1214e7e26270d70864f20a3bf3a77f0fa93",
+  "updated": "2026-10-29T16:32:47Z"
+}

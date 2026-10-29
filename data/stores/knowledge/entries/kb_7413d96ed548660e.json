@@ -1,0 +1,19 @@
+{
+  "id": "kb_7413d96ed548660e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 21
+  },
+  "summary": "Now these are the judgments which thou shalt set before them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 21:1",
+  "content_hash": "43722445b0f19e6d2ef27982fb560d4c9203224294b78e1777e050a2239ab46b",
+  "updated": "2026-10-29T16:32:45Z"
+}

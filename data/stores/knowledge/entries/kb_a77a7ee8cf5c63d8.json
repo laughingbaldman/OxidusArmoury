@@ -1,0 +1,19 @@
+{
+  "id": "kb_a77a7ee8cf5c63d8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 50",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 50
+  },
+  "summary": "The mighty God, even the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 50:1",
+  "content_hash": "972ebb76c02c8a22126c7327624eee766b61840e3216c6861366934505b30601",
+  "updated": "2026-10-29T16:32:46Z"
+}

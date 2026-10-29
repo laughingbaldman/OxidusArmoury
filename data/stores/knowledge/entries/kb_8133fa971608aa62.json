@@ -1,0 +1,19 @@
+{
+  "id": "kb_8133fa971608aa62",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 11
+  },
+  "summary": "Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 11:1",
+  "content_hash": "1cc0bbc4edc5c3daa7db4d883ba4d2a7be5bc0dba967daa353d2e8580c4366cc",
+  "updated": "2026-10-29T16:32:46Z"
+}

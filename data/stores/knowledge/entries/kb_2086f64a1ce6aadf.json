@@ -1,0 +1,19 @@
+{
+  "id": "kb_2086f64a1ce6aadf",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Colossians",
+  "title": "Colossians 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Colossians",
+    "chapter": 4
+  },
+  "summary": "Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Colossians 4:1",
+  "content_hash": "609970c334497743cb70a134ebfd6a833578c585c9ccdfcc9e8ad3c697d576a3",
+  "updated": "2026-10-29T16:32:47Z"
+}

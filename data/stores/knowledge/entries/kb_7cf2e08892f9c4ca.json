@@ -1,0 +1,19 @@
+{
+  "id": "kb_7cf2e08892f9c4ca",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 20
+  },
+  "summary": "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 20:1",
+  "content_hash": "ae86f68a28b956d410987a6eedb24d6f013e7f748f6a9d17618198a9051d03cc",
+  "updated": "2026-10-29T16:32:47Z"
+}

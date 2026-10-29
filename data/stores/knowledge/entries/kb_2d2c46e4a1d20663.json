@@ -1,0 +1,19 @@
+{
+  "id": "kb_2d2c46e4a1d20663",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hosea",
+  "title": "Hosea 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hosea",
+    "chapter": 13
+  },
+  "summary": "When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hosea 13:1",
+  "content_hash": "b129bf221a0719e2ddd5ea770a80d37dbc1b7fce5bab0b542ceeee1d8cf19fd1",
+  "updated": "2026-10-29T16:32:46Z"
+}

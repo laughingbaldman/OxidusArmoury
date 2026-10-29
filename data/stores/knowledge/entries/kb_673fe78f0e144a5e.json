@@ -1,0 +1,19 @@
+{
+  "id": "kb_673fe78f0e144a5e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 34",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 34
+  },
+  "summary": "Josiah was eight years old when he began to reign, and he reigned in Jerusalem one and thirty years.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 34:1",
+  "content_hash": "5a9292f40a24558f5e13efa2eca73abc4a38720b4d200f7fc28a78d3735f485a",
+  "updated": "2026-10-29T16:32:46Z"
+}

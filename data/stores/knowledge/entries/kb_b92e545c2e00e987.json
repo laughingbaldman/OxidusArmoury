@@ -1,0 +1,19 @@
+{
+  "id": "kb_b92e545c2e00e987",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 32",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 32
+  },
+  "summary": "After these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 32:1",
+  "content_hash": "ea381a9b35e5da5c3dcc4090bb3a31460dca0a67c92932dc76443527dd9c1c04",
+  "updated": "2026-10-29T16:32:46Z"
+}

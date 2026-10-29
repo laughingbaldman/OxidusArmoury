@@ -1,0 +1,19 @@
+{
+  "id": "kb_b0e57f7c5386557e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 8
+  },
+  "summary": "In the third year of the reign of king Belshazzar a vision appeared unto me, even unto me Daniel, after that which appeared unto me at the first.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 8:1",
+  "content_hash": "74f003ec3945ccded9c7c8807f4382ad998ea26fdb1e5c43ac8077acaed8337f",
+  "updated": "2026-10-29T16:32:46Z"
+}

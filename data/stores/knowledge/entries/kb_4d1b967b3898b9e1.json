@@ -1,0 +1,19 @@
+{
+  "id": "kb_4d1b967b3898b9e1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 130",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 130
+  },
+  "summary": "Out of the depths have I cried unto thee, O LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 130:1",
+  "content_hash": "bcd7645d5f4fe28095957999fc130eb360e91c35b2e45555c26c671d2bff2bb7",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_2ed88324e9c73a6c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ecclesiastes",
+  "title": "Ecclesiastes 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ecclesiastes",
+    "chapter": 11
+  },
+  "summary": "Cast thy bread upon the waters: for thou shalt find it after many days.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ecclesiastes 11:1",
+  "content_hash": "5604f4ffb6e953b5b59460fbb29f11402685ce3f62229cd49bc94890a0f52aff",
+  "updated": "2026-10-29T16:32:46Z"
+}

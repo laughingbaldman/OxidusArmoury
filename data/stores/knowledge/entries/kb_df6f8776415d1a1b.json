@@ -1,0 +1,19 @@
+{
+  "id": "kb_df6f8776415d1a1b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 48",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 48
+  },
+  "summary": "And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 48:1",
+  "content_hash": "e6f6207a9d2e19351cfbaa5ad51de1e949abcf53dc78651b0abc0ab55bdcd419",
+  "updated": "2026-10-29T16:32:45Z"
+}

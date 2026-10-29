@@ -1,0 +1,19 @@
+{
+  "id": "kb_9e41f01d70227e08",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 26
+  },
+  "summary": "Judge me, O LORD; for I have walked in mine integrity: I have trusted also in the LORD; therefore I shall not slide.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 26:1",
+  "content_hash": "8edc96f880271ce0483f97ec66eebe923ada1141e53842923f1e39a13fd47709",
+  "updated": "2026-10-29T16:32:46Z"
+}

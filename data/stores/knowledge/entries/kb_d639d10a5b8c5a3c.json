@@ -1,0 +1,19 @@
+{
+  "id": "kb_d639d10a5b8c5a3c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 61",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 61
+  },
+  "summary": "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 61:1",
+  "content_hash": "14b4f747f7d70e85e8c44a5dda41efd94198ac409635ff095ec2b819cca31f1a",
+  "updated": "2026-10-29T16:32:46Z"
+}

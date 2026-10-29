@@ -1,0 +1,19 @@
+{
+  "id": "kb_e1a4d8c23a71e3ca",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 20
+  },
+  "summary": "Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beersheba, with the land of Gilead, unto the LORD in Mizpeh.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 20:1",
+  "content_hash": "2e58cc9e811c51170c5e74e6089273ea9778b4f18d7526d9a0feb2e9c1b7f8d1",
+  "updated": "2026-10-29T16:32:45Z"
+}

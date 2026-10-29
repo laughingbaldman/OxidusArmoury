@@ -1,0 +1,19 @@
+{
+  "id": "kb_463c297a0582d85c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 3
+  },
+  "summary": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 3:1",
+  "content_hash": "81f5e57bbc86c310ce7d4444a81bf7b871fad75afb4170fbd092891cbde988b6",
+  "updated": "2026-10-29T16:32:47Z"
+}

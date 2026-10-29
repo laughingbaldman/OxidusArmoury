@@ -1,0 +1,19 @@
+{
+  "id": "kb_4f2a37c2ae43d495",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ruth",
+  "title": "Ruth 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ruth",
+    "chapter": 2
+  },
+  "summary": "And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech; and his name was Boaz.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ruth 2:1",
+  "content_hash": "2c80b3bc0e6b5d1d3fe9a0532c156b99d8fe3c9af5c054c036d4d5a82a9b67a0",
+  "updated": "2026-10-29T16:32:45Z"
+}

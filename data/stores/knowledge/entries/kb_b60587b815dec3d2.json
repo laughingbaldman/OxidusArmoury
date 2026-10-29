@@ -1,0 +1,19 @@
+{
+  "id": "kb_b60587b815dec3d2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 14
+  },
+  "summary": "The word of the LORD that came to Jeremiah concerning the dearth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 14:1",
+  "content_hash": "449397da0f62bea56b02f3277ec055e0edbf7a2c3f434b6f510c7b3ffa908489",
+  "updated": "2026-10-29T16:32:46Z"
+}

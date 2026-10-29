@@ -1,0 +1,19 @@
+{
+  "id": "kb_b55b71a94e6d8419",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "James",
+  "title": "James 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "James",
+    "chapter": 5
+  },
+  "summary": "Go to now, ye rich men, weep and howl for your miseries that shall come upon you.",
+  "source": "KJV",
+  "when": "",
+  "loc": "James 5:1",
+  "content_hash": "a8a366e673b1f68ac6838c7dfc9afef92c6015579ad0d1382e91b2d1641bf13b",
+  "updated": "2026-10-29T16:32:47Z"
+}

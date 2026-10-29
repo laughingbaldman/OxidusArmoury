@@ -1,0 +1,19 @@
+{
+  "id": "kb_ae730200d465aaf6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 22
+  },
+  "summary": "Now the feast of unleavened bread drew nigh, which is called the Passover.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 22:1",
+  "content_hash": "cc4b5f2866a482186989a8d235255f045ca75ab2d6c6e313b9a4fd1de18e86dc",
+  "updated": "2026-10-29T16:32:47Z"
+}

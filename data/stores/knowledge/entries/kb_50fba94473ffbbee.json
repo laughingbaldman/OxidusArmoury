@@ -1,0 +1,19 @@
+{
+  "id": "kb_50fba94473ffbbee",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 13
+  },
+  "summary": "Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 13:1",
+  "content_hash": "d4e9479e4d5c534d40ed2e20734dcb9965c2d514367c5673765a04945731db84",
+  "updated": "2026-10-29T16:32:47Z"
+}

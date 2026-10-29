@@ -1,0 +1,19 @@
+{
+  "id": "kb_3bc5d6eafc04e66c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Lamentations",
+  "title": "Lamentations 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Lamentations",
+    "chapter": 3
+  },
+  "summary": "I AM the man that hath seen affliction by the rod of his wrath.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Lamentations 3:1",
+  "content_hash": "cadf62ea000d73023989379794176b4e9bb745f57dc1d36d051d873a1549742e",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_34533a60ff93a558",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 11
+  },
+  "summary": "And the LORD spake unto Moses and to Aaron, saying unto them,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 11:1",
+  "content_hash": "3adb434b62e063373e49217e357e2a004800fcba935744625320897ebe3f1e5d",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_9ac4f7eabae5d696",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 2
+  },
+  "summary": "And when the day of Pentecost was fully come, they were all with one accord in one place.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 2:1",
+  "content_hash": "f1326bb474b0e37332d74da498f95f436d3f41b80be90201f0fb15f15a51db74",
+  "updated": "2026-10-29T16:32:47Z"
+}

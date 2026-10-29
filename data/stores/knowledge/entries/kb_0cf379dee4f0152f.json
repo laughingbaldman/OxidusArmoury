@@ -1,0 +1,19 @@
+{
+  "id": "kb_0cf379dee4f0152f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 20
+  },
+  "summary": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 20:1",
+  "content_hash": "012d2d2d5980d8af53b63930969ac42467e4ca0ccfaef9e3ebebc8d160657767",
+  "updated": "2026-10-29T16:32:46Z"
+}

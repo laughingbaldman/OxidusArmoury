@@ -1,0 +1,19 @@
+{
+  "id": "kb_52fe0e94d0900549",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 22
+  },
+  "summary": "And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 22:1",
+  "content_hash": "bce2a1dba33e1d5cfc550bcc49af0e62b7ba956b744e9fe5b22169d79216efe5",
+  "updated": "2026-10-29T16:32:45Z"
+}

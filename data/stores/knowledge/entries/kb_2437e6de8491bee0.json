@@ -1,0 +1,19 @@
+{
+  "id": "kb_2437e6de8491bee0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 25
+  },
+  "summary": "And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 25:1",
+  "content_hash": "60f606d4fe138e99432052ede7a6db6d973d2429d72b563785bcbbdf9115aab0",
+  "updated": "2026-10-29T16:32:46Z"
+}

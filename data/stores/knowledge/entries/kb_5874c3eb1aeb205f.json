@@ -1,0 +1,19 @@
+{
+  "id": "kb_5874c3eb1aeb205f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 2
+  },
+  "summary": "And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 2:1",
+  "content_hash": "ac1379fff579ff5eaddd3d2c5155ae657674489f3cff5830c49381907aebfdbe",
+  "updated": "2026-10-29T16:32:47Z"
+}

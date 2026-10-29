@@ -1,0 +1,19 @@
+{
+  "id": "kb_c6d80d656aea1692",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 16
+  },
+  "summary": "And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 16:1",
+  "content_hash": "72f77c47f137942ed4707d4553612c5b2b52de310fbb4c4a836760692f0265e3",
+  "updated": "2026-10-29T16:32:47Z"
+}

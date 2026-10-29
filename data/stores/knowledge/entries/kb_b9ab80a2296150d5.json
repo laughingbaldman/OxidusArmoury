@@ -1,0 +1,19 @@
+{
+  "id": "kb_b9ab80a2296150d5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 26
+  },
+  "summary": "Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 26:1",
+  "content_hash": "ea8421461167c9817f2cf6daeec4188f73092bd702c47c46b99f95ab86c14cf2",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_52140e81c49e9a13",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 97",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 97
+  },
+  "summary": "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 97:1",
+  "content_hash": "4d825aa56b703357e5c4c89b0f6fed8e154ada451ee35a5a4065bfd13b2bd0c6",
+  "updated": "2026-10-29T16:32:46Z"
+}

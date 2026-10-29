@@ -1,0 +1,19 @@
+{
+  "id": "kb_0be073048f5d09ef",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 125",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 125
+  },
+  "summary": "They that trust in the LORD shall be as mount Zion, which cannot be removed, but abideth for ever.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 125:1",
+  "content_hash": "d20fb45155b684a512b5b41d5fbaaad8ad6a78b877199a1f9285ba914e766209",
+  "updated": "2026-10-29T16:32:46Z"
+}

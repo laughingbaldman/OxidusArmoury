@@ -1,0 +1,19 @@
+{
+  "id": "kb_aa012fffeb9d814e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 3
+  },
+  "summary": "And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 3:1",
+  "content_hash": "f87cf864dc8fd6ffbfb7cf149792b1b20245233bee00829ecd6bb38d35651009",
+  "updated": "2026-10-29T16:32:47Z"
+}

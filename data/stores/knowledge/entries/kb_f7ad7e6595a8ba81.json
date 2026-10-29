@@ -1,0 +1,19 @@
+{
+  "id": "kb_f7ad7e6595a8ba81",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 5
+  },
+  "summary": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 5:1",
+  "content_hash": "becb0799bf8e24fa9cbe98f71c1bfadd679ca464f1af4c372f5c20528db0de83",
+  "updated": "2026-10-29T16:32:47Z"
+}

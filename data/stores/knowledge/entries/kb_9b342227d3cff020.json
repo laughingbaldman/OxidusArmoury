@@ -1,0 +1,19 @@
+{
+  "id": "kb_9b342227d3cff020",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 12
+  },
+  "summary": "And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 12:1",
+  "content_hash": "575fda1a579638e249ea0244fce9902b8d6d824c3019c838776099a5f4d3f372",
+  "updated": "2026-10-29T16:32:45Z"
+}

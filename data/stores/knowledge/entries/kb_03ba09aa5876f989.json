@@ -1,0 +1,19 @@
+{
+  "id": "kb_03ba09aa5876f989",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 21
+  },
+  "summary": "The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 21:1",
+  "content_hash": "7a747e985b15d74f42be5a0d85865bcadd0d41d31fe939b9f7be3c47545c7aac",
+  "updated": "2026-10-29T16:32:46Z"
+}

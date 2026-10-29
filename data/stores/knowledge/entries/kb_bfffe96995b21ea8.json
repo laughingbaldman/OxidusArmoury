@@ -1,0 +1,19 @@
+{
+  "id": "kb_bfffe96995b21ea8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 29",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 29
+  },
+  "summary": "Give unto the LORD, O ye mighty, give unto the LORD glory and strength.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 29:1",
+  "content_hash": "380d5094c8d9058e8ea115dc58f752a01f0fe2040237404df02cd73f6302fbf1",
+  "updated": "2026-10-29T16:32:46Z"
+}

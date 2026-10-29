@@ -1,0 +1,19 @@
+{
+  "id": "kb_8f66dd19349167e6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 51",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 51
+  },
+  "summary": "Hearken to me, ye that follow after righteousness, ye that seek the LORD: look unto the rock whence ye are hewn, and to the hole of the pit whence ye are digged.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 51:1",
+  "content_hash": "04cff22c63b934eb0fef74547a939c06a5577a55bfe0e62854d27999aa21cd44",
+  "updated": "2026-10-29T16:32:46Z"
+}

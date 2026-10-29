@@ -1,0 +1,19 @@
+{
+  "id": "kb_ae246e43c991602f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 15
+  },
+  "summary": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 15:1",
+  "content_hash": "231c45938754b06bf065f90cb2a6d7340b71be377b3e060cbd216cb4dad0b8d2",
+  "updated": "2026-10-29T16:32:47Z"
+}

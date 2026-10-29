@@ -1,0 +1,19 @@
+{
+  "id": "kb_b2dc0564ffdc262f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Daniel",
+  "title": "Daniel 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Daniel",
+    "chapter": 3
+  },
+  "summary": "Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Daniel 3:1",
+  "content_hash": "e9f03a7a3ceef58c56af2935d8e667bb12bef7795fbfd32667914988644eb996",
+  "updated": "2026-10-29T16:32:46Z"
+}

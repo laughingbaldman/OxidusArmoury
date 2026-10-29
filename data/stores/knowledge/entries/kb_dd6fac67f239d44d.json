@@ -1,0 +1,19 @@
+{
+  "id": "kb_dd6fac67f239d44d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 7
+  },
+  "summary": "And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 7:1",
+  "content_hash": "b987a5c4d1c0b9b9538c9503a76ad57a9506fdb54683dc3e2d2d9d65bac2dd7d",
+  "updated": "2026-10-29T16:32:45Z"
+}

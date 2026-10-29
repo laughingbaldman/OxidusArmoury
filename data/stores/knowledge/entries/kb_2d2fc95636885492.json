@@ -1,0 +1,19 @@
+{
+  "id": "kb_2d2fc95636885492",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 16
+  },
+  "summary": "Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 16:1",
+  "content_hash": "4a3dd9dd56d94d108078afa2cc407c28d1a96fa05df4b47d3ace57b4ccfc9f9f",
+  "updated": "2026-10-29T16:32:45Z"
+}

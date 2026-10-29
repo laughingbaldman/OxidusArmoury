@@ -1,0 +1,19 @@
+{
+  "id": "kb_ebfdecab14590ee2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 5
+  },
+  "summary": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 5:1",
+  "content_hash": "c90c53cff4b6ac880f6db59a01396de0c639e85ac5042c81f63983281ac083b2",
+  "updated": "2026-10-29T16:32:47Z"
+}

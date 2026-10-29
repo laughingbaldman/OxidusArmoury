@@ -1,0 +1,19 @@
+{
+  "id": "kb_9a9dd0f9cb2ece4c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 71",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 71
+  },
+  "summary": "In thee, O LORD, do I put my trust: let me never be put to confusion.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 71:1",
+  "content_hash": "6fe62b2e46e4c66df81cb0746b5f3fffa1fb7c07f87a15c29744ff66bd9eeafd",
+  "updated": "2026-10-29T16:32:46Z"
+}

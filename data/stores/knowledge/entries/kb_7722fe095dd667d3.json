@@ -1,0 +1,19 @@
+{
+  "id": "kb_7722fe095dd667d3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 9
+  },
+  "summary": "And as Jesus passed by, he saw a man which was blind from his birth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 9:1",
+  "content_hash": "f915f79f8b34e62d20e8b9b8e046a0f09643a69ebba1f5d42e7a6d74d07cbb5a",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_b5794eacb6726f1d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 11
+  },
+  "summary": "And the whole earth was of one language, and of one speech.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 11:1",
+  "content_hash": "fbffd30f33b5476f4930bbd489723dfbb564f389a12ec41f4913afc636ccb5e3",
+  "updated": "2026-10-29T16:32:45Z"
+}

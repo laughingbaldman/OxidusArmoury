@@ -1,0 +1,19 @@
+{
+  "id": "kb_efecdebff9a8f6f1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 24
+  },
+  "summary": "When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 24:1",
+  "content_hash": "714ed6d63188cbdd2ccc401f3578222e5b13223c718addcf298d005fb0bff77f",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_942ee282cd43638f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 5
+  },
+  "summary": "For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 5:1",
+  "content_hash": "a7395c5a44f66124658607e0d1ed44802f4cd89944c1e4b47856055ac47a1af8",
+  "updated": "2026-10-29T16:32:47Z"
+}

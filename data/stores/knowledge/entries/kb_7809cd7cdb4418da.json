@@ -1,0 +1,19 @@
+{
+  "id": "kb_7809cd7cdb4418da",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 44",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 44
+  },
+  "summary": "Yet now hear, O Jacob my servant; and Israel, whom I have chosen:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 44:1",
+  "content_hash": "27b9436955ae17090e95b36518de590e5cb91ed8196938bbfdd50163d799eb3c",
+  "updated": "2026-10-29T16:32:46Z"
+}

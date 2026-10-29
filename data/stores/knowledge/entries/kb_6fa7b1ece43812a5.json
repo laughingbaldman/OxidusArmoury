@@ -1,0 +1,19 @@
+{
+  "id": "kb_6fa7b1ece43812a5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 17
+  },
+  "summary": "Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 17:1",
+  "content_hash": "1496893969f06df229145fd93f7b64da38147a1838981ae8dc97e33de5ec133d",
+  "updated": "2026-10-29T16:32:46Z"
+}

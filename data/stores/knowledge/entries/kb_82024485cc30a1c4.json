@@ -1,0 +1,19 @@
+{
+  "id": "kb_82024485cc30a1c4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 7
+  },
+  "summary": "The word that came to Jeremiah from the LORD, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 7:1",
+  "content_hash": "0b7aecf94589262a25f4a6d51a5896c92a0223223f69004e738ca7dc8c0970f6",
+  "updated": "2026-10-29T16:32:46Z"
+}

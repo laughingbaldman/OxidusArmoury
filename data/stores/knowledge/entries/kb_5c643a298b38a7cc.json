@@ -1,0 +1,19 @@
+{
+  "id": "kb_5c643a298b38a7cc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 44",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 44
+  },
+  "summary": "We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 44:1",
+  "content_hash": "c79f2644636aed6115fd524c419c5041303596a505d053c05841f35c90457905",
+  "updated": "2026-10-29T16:32:46Z"
+}

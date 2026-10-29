@@ -1,0 +1,19 @@
+{
+  "id": "kb_f4360b25000dc712",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 5
+  },
+  "summary": "And they came over unto the other side of the sea, into the country of the Gadarenes.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 5:1",
+  "content_hash": "a0ef64e7c30047f347ce761ce069e6ca83dc3782200c90fa103c4ebb5cde922c",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_838f13e1427ebad0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 33",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 33
+  },
+  "summary": "Moreover the word of the LORD came unto Jeremiah the second time, while he was yet shut up in the court of the prison, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 33:1",
+  "content_hash": "7b9387db33022b0f2b76a6fc7226137420878bba35c9f824e0c9faef03ca703e",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_7d4045f0e8e86add",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 11
+  },
+  "summary": "And it came to pass, after the year was expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 11:1",
+  "content_hash": "a6044bf3cc5afc8bf5ab4decdeed8570d5db79b365357c6d735a1309b0b28023",
+  "updated": "2026-10-29T16:32:45Z"
+}

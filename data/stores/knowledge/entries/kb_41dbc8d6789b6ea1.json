@@ -1,0 +1,19 @@
+{
+  "id": "kb_41dbc8d6789b6ea1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ephesians",
+  "title": "Ephesians 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ephesians",
+    "chapter": 2
+  },
+  "summary": "And you hath he quickened, who were dead in trespasses and sins;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ephesians 2:1",
+  "content_hash": "43399de7ddbf7c405c5fe9b5865f68d2312f6494ec729757e7ef5b8b8b63be1f",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_6893805f9d1e953f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 14
+  },
+  "summary": "And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 14:1",
+  "content_hash": "e66bfe6c89955758ef2402d82b963e159a34124cb53100293aa205845b7b4a94",
+  "updated": "2026-10-29T16:32:47Z"
+}

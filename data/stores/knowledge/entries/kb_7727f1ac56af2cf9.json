@@ -1,0 +1,19 @@
+{
+  "id": "kb_7727f1ac56af2cf9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 15
+  },
+  "summary": "Samuel also said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 15:1",
+  "content_hash": "c8f5e0c1c910b8326f6f7eedfc50530181d9c51ef97818dc1edee2a4d945f4d4",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_eecf1e770989fe1b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 96",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 96
+  },
+  "summary": "O sing unto the LORD a new song: sing unto the LORD, all the earth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 96:1",
+  "content_hash": "4c94efdb8bee069bf148dd5292af8fb06890ea0639b40f55d27ae6baa4db81dc",
+  "updated": "2026-10-29T16:32:46Z"
+}

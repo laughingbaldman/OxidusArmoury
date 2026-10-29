@@ -1,0 +1,19 @@
+{
+  "id": "kb_46852c1298636984",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 1
+  },
+  "summary": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 1:1",
+  "content_hash": "3c02efad706f122b4a3d97a47616af2f55493c451840812a844751349670f2fa",
+  "updated": "2026-10-29T16:32:46Z"
+}

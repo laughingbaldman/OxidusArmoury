@@ -1,0 +1,19 @@
+{
+  "id": "kb_189bc2382a14e227",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 11
+  },
+  "summary": "And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 11:1",
+  "content_hash": "bf7a93a4128da8d94984cc156aa403f62ec25f599db5201024d61cb1cf2a74d8",
+  "updated": "2026-10-29T16:32:45Z"
+}

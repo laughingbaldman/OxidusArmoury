@@ -1,0 +1,19 @@
+{
+  "id": "kb_490a144b33d76a37",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 9
+  },
+  "summary": "And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 9:1",
+  "content_hash": "764916ef0622a3142a3a4afa2f9c6fbaa0e6ac3e9e9cf1aadb71b7cb184ecc43",
+  "updated": "2026-10-29T16:32:45Z"
+}

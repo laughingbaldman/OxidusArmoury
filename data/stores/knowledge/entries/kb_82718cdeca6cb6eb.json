@@ -1,0 +1,19 @@
+{
+  "id": "kb_82718cdeca6cb6eb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 28",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 28
+  },
+  "summary": "Unto thee will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 28:1",
+  "content_hash": "0c618aa54d8100a9c631c14f3348550c1e651038dc32235d299b63a504f06aee",
+  "updated": "2026-10-29T16:32:46Z"
+}

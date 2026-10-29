@@ -1,0 +1,19 @@
+{
+  "id": "kb_2348a0a3ab094fad",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 40",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 40
+  },
+  "summary": "And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 40:1",
+  "content_hash": "c33950362395b09f3d5888524c26fd5698569608125f1a38b31a1897db3b32b9",
+  "updated": "2026-10-29T16:32:45Z"
+}

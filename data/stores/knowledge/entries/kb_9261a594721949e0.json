@@ -1,0 +1,19 @@
+{
+  "id": "kb_9261a594721949e0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 140",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 140
+  },
+  "summary": "Deliver me, O LORD, from the evil man: preserve me from the violent man;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 140:1",
+  "content_hash": "d22c7d7d1e5943ceefb09ad0feb8392772a93dbcbb620cc3f5694bb680056a3a",
+  "updated": "2026-10-29T16:32:46Z"
+}

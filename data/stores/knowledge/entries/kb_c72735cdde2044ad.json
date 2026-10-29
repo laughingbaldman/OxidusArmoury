@@ -1,0 +1,19 @@
+{
+  "id": "kb_c72735cdde2044ad",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 132",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 132
+  },
+  "summary": "Lord, remember David, and all his afflictions:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 132:1",
+  "content_hash": "eb81803f2e7892ad9eff2208d435a1bb9797c67133dd6621ffe3c3894d76ab9d",
+  "updated": "2026-10-29T16:32:46Z"
+}

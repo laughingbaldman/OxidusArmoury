@@ -1,0 +1,19 @@
+{
+  "id": "kb_d173997420109843",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 20
+  },
+  "summary": "And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 20:1",
+  "content_hash": "6dc377b63bfc4486c2cdbdebf2ec042b784a7f86f3c9bd995bcb3a003b805160",
+  "updated": "2026-10-29T16:32:47Z"
+}

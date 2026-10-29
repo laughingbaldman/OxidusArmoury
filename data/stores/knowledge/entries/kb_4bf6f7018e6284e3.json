@@ -1,0 +1,19 @@
+{
+  "id": "kb_4bf6f7018e6284e3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 3
+  },
+  "summary": "Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 3:1",
+  "content_hash": "6abecbe450e15396514b32830c1be8088a077adbe24f728811d1ecbac88d5554",
+  "updated": "2026-10-29T16:32:45Z"
+}

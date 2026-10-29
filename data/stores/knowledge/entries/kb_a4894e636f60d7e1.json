@@ -1,0 +1,19 @@
+{
+  "id": "kb_a4894e636f60d7e1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ruth",
+  "title": "Ruth 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ruth",
+    "chapter": 4
+  },
+  "summary": "Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ruth 4:1",
+  "content_hash": "d18e39f44a62d6e345020c1fca94b9c4d6de87afb6304eb2c468f670517b434c",
+  "updated": "2026-10-29T16:32:45Z"
+}

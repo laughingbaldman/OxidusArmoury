@@ -1,0 +1,19 @@
+{
+  "id": "kb_05ae367aabba35cb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 111",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 111
+  },
+  "summary": "Praise ye the LORD. I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 111:1",
+  "content_hash": "3b095041a1a1aac5295b3c64d3a5a883263b7e2a692b685afd2b2ef8f2dfa8b2",
+  "updated": "2026-10-29T16:32:46Z"
+}

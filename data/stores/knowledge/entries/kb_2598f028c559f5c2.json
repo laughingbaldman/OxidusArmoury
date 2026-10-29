@@ -1,0 +1,19 @@
+{
+  "id": "kb_2598f028c559f5c2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 39",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 39
+  },
+  "summary": "Knowest thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 39:1",
+  "content_hash": "4a2de56c139322f3a7a149cd1e933db0512649d48facf11d753d7c5baa8566a7",
+  "updated": "2026-10-29T16:32:46Z"
+}

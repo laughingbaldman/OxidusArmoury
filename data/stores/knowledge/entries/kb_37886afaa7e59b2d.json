@@ -1,0 +1,19 @@
+{
+  "id": "kb_37886afaa7e59b2d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 23
+  },
+  "summary": "Then spake Jesus to the multitude, and to his disciples,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 23:1",
+  "content_hash": "daa195f30496e0d3f6f7b60a507734657eafe2bfc0fd1d1b250907fa3ee1a274",
+  "updated": "2026-10-29T16:32:47Z"
+}

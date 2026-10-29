@@ -1,0 +1,19 @@
+{
+  "id": "kb_d1f2abebc73c22f4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 1
+  },
+  "summary": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 1:1",
+  "content_hash": "09c9620e89cbbf56f96c3edb0ddb8b0824a656bf92e940a83cdb527bd3426765",
+  "updated": "2026-10-29T16:32:47Z"
+}

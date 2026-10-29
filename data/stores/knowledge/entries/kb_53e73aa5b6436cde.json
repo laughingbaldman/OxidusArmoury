@@ -1,0 +1,19 @@
+{
+  "id": "kb_53e73aa5b6436cde",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 6
+  },
+  "summary": "And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 6:1",
+  "content_hash": "d79589b3d6384478240b5916f0625973bdfb6dfcb909bf49017b1a10196db13e",
+  "updated": "2026-10-29T16:32:46Z"
+}

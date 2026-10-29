@@ -1,0 +1,19 @@
+{
+  "id": "kb_1de6c851c1b7fde5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 145",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 145
+  },
+  "summary": "I will extol thee, my God, O king; and I will bless thy name for ever and ever.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 145:1",
+  "content_hash": "300b02e2ec044f6cc12d5d65058401d7efba400f091410e7a4bd4371269ef5e2",
+  "updated": "2026-10-29T16:32:46Z"
+}

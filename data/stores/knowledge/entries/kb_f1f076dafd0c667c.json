@@ -1,0 +1,19 @@
+{
+  "id": "kb_f1f076dafd0c667c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 10
+  },
+  "summary": "Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 10:1",
+  "content_hash": "66b1c244cc2e739f6745f48615907b2bd85f437814d229bd3fccf63f148903d8",
+  "updated": "2026-10-29T16:32:47Z"
+}

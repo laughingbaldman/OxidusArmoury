@@ -1,0 +1,19 @@
+{
+  "id": "kb_3b748846e182ea80",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "3 John",
+  "title": "3 John 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "3 John",
+    "chapter": 1
+  },
+  "summary": "The elder unto the wellbeloved Gaius, whom I love in the truth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "3 John 1:1",
+  "content_hash": "8f3b2a92cbd80981ca165d4e28e0c68e11cbf6e99383165a6ea78b46deb3d024",
+  "updated": "2026-10-29T16:32:47Z"
+}

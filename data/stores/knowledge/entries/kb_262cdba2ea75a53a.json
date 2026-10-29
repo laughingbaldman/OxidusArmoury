@@ -1,0 +1,19 @@
+{
+  "id": "kb_262cdba2ea75a53a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 11
+  },
+  "summary": "Would to God ye could bear with me a little in my folly: and indeed bear with me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 11:1",
+  "content_hash": "0b589a0032fc5807b4417fbe4a30a0f83010d3465345f1a9b6cc1d6bae7c9cf9",
+  "updated": "2026-10-29T16:32:47Z"
+}

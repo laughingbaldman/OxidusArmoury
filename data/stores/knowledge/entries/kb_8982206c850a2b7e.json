@@ -1,0 +1,19 @@
+{
+  "id": "kb_8982206c850a2b7e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 14
+  },
+  "summary": "The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 14:1",
+  "content_hash": "e0a4c12e03e2fd88f8df80386acb94b26baea1d0ba5b48e48b5642007bf19b1f",
+  "updated": "2026-10-29T16:32:46Z"
+}

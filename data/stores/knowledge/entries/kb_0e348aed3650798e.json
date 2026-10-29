@@ -1,0 +1,19 @@
+{
+  "id": "kb_0e348aed3650798e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 9
+  },
+  "summary": "Then Job answered and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 9:1",
+  "content_hash": "3cea07ac5b3d5c27f3b87fb724c38fd8c32bf1ab9fa665f52a544060e851e318",
+  "updated": "2026-10-29T16:32:46Z"
+}

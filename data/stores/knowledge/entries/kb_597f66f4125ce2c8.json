@@ -1,0 +1,19 @@
+{
+  "id": "kb_597f66f4125ce2c8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 38",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 38
+  },
+  "summary": "Then the LORD answered Job out of the whirlwind, and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 38:1",
+  "content_hash": "7933ed947e6438ff3f486243d900dac3f0f881f2d4c1c304be884e32251fab74",
+  "updated": "2026-10-29T16:32:46Z"
+}

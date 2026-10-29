@@ -1,0 +1,19 @@
+{
+  "id": "kb_21f72616ae790246",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Song of Solomon",
+  "title": "Song of Solomon 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Song of Solomon",
+    "chapter": 2
+  },
+  "summary": "I am the rose of Sharon, and the lily of the valleys.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Song of Solomon 2:1",
+  "content_hash": "d905b29fb4e4ca08ace688973961772e619806a22689bf7f0bce9d8a59d6c945",
+  "updated": "2026-10-29T16:32:46Z"
+}

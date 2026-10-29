@@ -1,0 +1,19 @@
+{
+  "id": "kb_f872b73fdf51b752",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 59",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 59
+  },
+  "summary": "Deliver me from mine enemies, O my God: defend me from them that rise up against me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 59:1",
+  "content_hash": "25cb1fd6665613ab9b37ee3662bd3e62f2cdb7d006ab949856a3581bab722ce3",
+  "updated": "2026-10-29T16:32:46Z"
+}

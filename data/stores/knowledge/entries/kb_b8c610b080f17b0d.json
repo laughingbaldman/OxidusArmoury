@@ -1,0 +1,19 @@
+{
+  "id": "kb_b8c610b080f17b0d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 85",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 85
+  },
+  "summary": "Lord, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 85:1",
+  "content_hash": "5183dc35d5eaaaf24662bb9c7741d964edb242d231dee5e14b96f82e11ce5789",
+  "updated": "2026-10-29T16:32:46Z"
+}

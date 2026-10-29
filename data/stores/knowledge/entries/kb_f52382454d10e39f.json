@@ -1,0 +1,19 @@
+{
+  "id": "kb_f52382454d10e39f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Esther",
+  "title": "Esther 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Esther",
+    "chapter": 10
+  },
+  "summary": "And the king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Esther 10:1",
+  "content_hash": "e032c4c701bdff9782481d124518c6cfa7eb1f32a8abafe24f7943bed648a850",
+  "updated": "2026-10-29T16:32:46Z"
+}

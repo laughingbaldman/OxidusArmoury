@@ -1,0 +1,19 @@
+{
+  "id": "kb_8593488d2d118ee1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 10
+  },
+  "summary": "Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 10:1",
+  "content_hash": "bf96582f7234618fb9f41044eae2ce6bfdf88297ae463f76ed1451fae82806fe",
+  "updated": "2026-10-29T16:32:46Z"
+}

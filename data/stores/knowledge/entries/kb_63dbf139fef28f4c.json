@@ -1,0 +1,19 @@
+{
+  "id": "kb_63dbf139fef28f4c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 22
+  },
+  "summary": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 22:1",
+  "content_hash": "c39c8fa9857183f090350e58759a6ae305743d93204b79fb5e9ba553a7ec4136",
+  "updated": "2026-10-29T16:32:47Z"
+}

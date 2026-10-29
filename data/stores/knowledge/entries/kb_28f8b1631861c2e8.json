@@ -1,0 +1,19 @@
+{
+  "id": "kb_28f8b1631861c2e8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Thessalonians",
+  "title": "1 Thessalonians 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Thessalonians",
+    "chapter": 2
+  },
+  "summary": "For yourselves, brethren, know our entrance in unto you, that it was not in vain:",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Thessalonians 2:1",
+  "content_hash": "567ed3beb7fa1945420548bf87db159ddd937ddabdbff8c420b6fd97fbf0d495",
+  "updated": "2026-10-29T16:32:47Z"
+}

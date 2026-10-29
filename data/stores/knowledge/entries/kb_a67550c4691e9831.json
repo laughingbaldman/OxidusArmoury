@@ -1,0 +1,19 @@
+{
+  "id": "kb_a67550c4691e9831",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 26
+  },
+  "summary": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 26:1",
+  "content_hash": "f9244d9935c8eb5a8c0744b25db02a74967355181dbe8b5d75bc924d45b4df6e",
+  "updated": "2026-10-29T16:32:45Z"
+}

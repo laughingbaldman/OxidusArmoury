@@ -1,0 +1,19 @@
+{
+  "id": "kb_3f33ff4b63dc2268",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 10
+  },
+  "summary": "At that time the LORD said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 10:1",
+  "content_hash": "1ec973aa5e926593aec95bd5e046c8008da92b5c694b69efdc227d2e914fdff4",
+  "updated": "2026-10-29T16:32:45Z"
+}

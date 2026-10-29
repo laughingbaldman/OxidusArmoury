@@ -1,0 +1,19 @@
+{
+  "id": "kb_ea45a26c63ca75af",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 107",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 107
+  },
+  "summary": "O give thanks unto the LORD, for he is good: for his mercy endureth for ever.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 107:1",
+  "content_hash": "e42c3962abdffebd56b097402aada17f7c1f5b2076af61ee029ce732e131135e",
+  "updated": "2026-10-29T16:32:46Z"
+}

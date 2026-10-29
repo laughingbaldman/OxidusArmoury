@@ -1,0 +1,19 @@
+{
+  "id": "kb_0e8f5b9849b5451c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 62",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 62
+  },
+  "summary": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 62:1",
+  "content_hash": "b580bf006ee1f763cdee2d916082f4c9dc352a8d22af259b22c752c3b446cfef",
+  "updated": "2026-10-29T16:32:46Z"
+}

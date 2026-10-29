@@ -1,0 +1,19 @@
+{
+  "id": "kb_4ff871248422bd37",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Esther",
+  "title": "Esther 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Esther",
+    "chapter": 2
+  },
+  "summary": "After these things, when the wrath of king Ahasuerus was appeased, he remembered Vashti, and what she had done, and what was decreed against her.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Esther 2:1",
+  "content_hash": "5d2fd510328a24dfb530e3c4165c670fddf630555c025578d41efd3611a03113",
+  "updated": "2026-10-29T16:32:46Z"
+}

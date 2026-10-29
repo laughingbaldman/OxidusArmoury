@@ -1,0 +1,19 @@
+{
+  "id": "kb_207489d406d2f91e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 John",
+  "title": "1 John 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 John",
+    "chapter": 5
+  },
+  "summary": "Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 John 5:1",
+  "content_hash": "06f15852285aaf94e851609707c331b6268ed1ccd503f74c6600dcf7a700a992",
+  "updated": "2026-10-29T16:32:47Z"
+}

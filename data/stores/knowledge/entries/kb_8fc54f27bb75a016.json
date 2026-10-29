@@ -1,0 +1,19 @@
+{
+  "id": "kb_8fc54f27bb75a016",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Thessalonians",
+  "title": "2 Thessalonians 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Thessalonians",
+    "chapter": 3
+  },
+  "summary": "Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Thessalonians 3:1",
+  "content_hash": "24d7fd119d684d07443aa34d2e783f290c6938670b1f361797e16bd425258fe7",
+  "updated": "2026-10-29T16:32:47Z"
+}

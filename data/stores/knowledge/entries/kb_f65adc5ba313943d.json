@@ -1,0 +1,19 @@
+{
+  "id": "kb_f65adc5ba313943d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 4
+  },
+  "summary": "And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 4:1",
+  "content_hash": "24ea43c9aab8d2100c6d3a60c50a7ad67041832ab8179bcd2054138c1418c7b2",
+  "updated": "2026-10-29T16:32:46Z"
+}

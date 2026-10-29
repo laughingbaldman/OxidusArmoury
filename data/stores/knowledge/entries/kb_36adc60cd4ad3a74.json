@@ -1,0 +1,19 @@
+{
+  "id": "kb_36adc60cd4ad3a74",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 19
+  },
+  "summary": "And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 19:1",
+  "content_hash": "046ab8b29980854bb50c4358e74fe119cd89f9e10376baddd22e9fbc61d65806",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_2e374f551960ff21",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 19
+  },
+  "summary": "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 19:1",
+  "content_hash": "8bbffe47f2cec1e161e941f382b04ac31b8361e1c7c9aece4a47270a4b91c07f",
+  "updated": "2026-10-29T16:32:46Z"
+}

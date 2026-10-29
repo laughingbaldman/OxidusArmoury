@@ -1,0 +1,19 @@
+{
+  "id": "kb_01ac71ce273153c8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 23
+  },
+  "summary": "When thou sittest to eat with a ruler, consider diligently what is before thee:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 23:1",
+  "content_hash": "99bf64b2088cf24b388af7729373f80050bfc3d9fdf4a09cc021a0908aa6f8a1",
+  "updated": "2026-10-29T16:32:46Z"
+}

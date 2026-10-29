@@ -1,0 +1,19 @@
+{
+  "id": "kb_036ccca5cba48dfb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 22
+  },
+  "summary": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 22:1",
+  "content_hash": "85a9b9534a5d623dc1ec9afa5b8b662f9d9d525473955325eb4e2b3011fd5029",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_a044fb57664f9621",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 13
+  },
+  "summary": "And the LORD spake unto Moses and Aaron, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 13:1",
+  "content_hash": "e34cfb794f7cfd2fe334e06e6db0c437663966cf73a7e644f09ef549559c64fe",
+  "updated": "2026-10-29T16:32:45Z"
+}

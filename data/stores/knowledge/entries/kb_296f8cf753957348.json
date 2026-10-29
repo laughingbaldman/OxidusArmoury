@@ -1,0 +1,19 @@
+{
+  "id": "kb_296f8cf753957348",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 2
+  },
+  "summary": "And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 2:1",
+  "content_hash": "6e658460af71fb9c3ab6e46d739420385eec4d5b564481652c13cde1d9fa3e1f",
+  "updated": "2026-10-29T16:32:47Z"
+}

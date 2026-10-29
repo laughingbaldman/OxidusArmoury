@@ -1,0 +1,19 @@
+{
+  "id": "kb_8db574bdc2fcaef2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 14
+  },
+  "summary": "And all the congregation lifted up their voice, and cried; and the people wept that night.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 14:1",
+  "content_hash": "793c357ad83f9ba781637946e4b324dd2effc168e54c560b797eb617ee1b111a",
+  "updated": "2026-10-29T16:32:45Z"
+}

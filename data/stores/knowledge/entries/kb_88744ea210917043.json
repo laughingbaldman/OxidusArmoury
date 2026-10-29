@@ -1,0 +1,19 @@
+{
+  "id": "kb_88744ea210917043",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 98",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 98
+  },
+  "summary": "O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 98:1",
+  "content_hash": "32d3e8c4165a77a157ea3925872130ee9b48989fd4252bde008a8e558d6febcf",
+  "updated": "2026-10-29T16:32:46Z"
+}

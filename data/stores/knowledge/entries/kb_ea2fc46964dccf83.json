@@ -1,0 +1,19 @@
+{
+  "id": "kb_ea2fc46964dccf83",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 9
+  },
+  "summary": "Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 9:1",
+  "content_hash": "5496a38a41a4cfcf00362b80d2bff1a96266b89efae55edc48d708d9f15ec1ee",
+  "updated": "2026-10-29T16:32:47Z"
+}

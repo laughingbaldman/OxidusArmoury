@@ -1,0 +1,19 @@
+{
+  "id": "kb_7e961cd9a9b35202",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 7
+  },
+  "summary": "Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 7:1",
+  "content_hash": "94c5dd555cad211824e7d488870b9ed875a584d9c59269764b6dc909fe1d10c0",
+  "updated": "2026-10-29T16:32:46Z"
+}

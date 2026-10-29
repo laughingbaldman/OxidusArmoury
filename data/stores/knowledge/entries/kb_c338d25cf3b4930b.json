@@ -1,0 +1,19 @@
+{
+  "id": "kb_c338d25cf3b4930b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Esther",
+  "title": "Esther 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Esther",
+    "chapter": 5
+  },
+  "summary": "Now it came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king’s house, over against the king’s house: and the king sat upon his royal throne in the royal house, over against the gate of the house.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Esther 5:1",
+  "content_hash": "9c38efbba0479fb392411bf024bde3ac2fecd968f4e4707fb90e516e5667d24c",
+  "updated": "2026-10-29T16:32:46Z"
+}

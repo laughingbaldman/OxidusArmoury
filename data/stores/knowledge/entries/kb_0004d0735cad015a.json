@@ -1,0 +1,19 @@
+{
+  "id": "kb_0004d0735cad015a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 5
+  },
+  "summary": "And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 5:1",
+  "content_hash": "9c04a2e048c87ad28a7afdbc799af0e5d974a40e4500407e4274ecf5db9419cb",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_735c615ff8efe7f6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 7
+  },
+  "summary": "But Solomon was building his own house thirteen years, and he finished all his house.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 7:1",
+  "content_hash": "e33c8f10d7504aceba7f98ffea54e1b66a15335ae8440f2835c173963ae54682",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_aa6ca0788bfe09d9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ecclesiastes",
+  "title": "Ecclesiastes 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ecclesiastes",
+    "chapter": 4
+  },
+  "summary": "So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ecclesiastes 4:1",
+  "content_hash": "facfd2388b195ac638604cc3f2c7988fc187575588d66bd0f2b2ddcfa6beaca6",
+  "updated": "2026-10-29T16:32:46Z"
+}

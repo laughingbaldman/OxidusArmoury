@@ -1,0 +1,19 @@
+{
+  "id": "kb_cac2af3cbe154324",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 12
+  },
+  "summary": "And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 12:1",
+  "content_hash": "93fea85b642d54eba94d1c6aa14cb266e3c8cc202864afd1c3af0bc59dad41ee",
+  "updated": "2026-10-29T16:32:47Z"
+}

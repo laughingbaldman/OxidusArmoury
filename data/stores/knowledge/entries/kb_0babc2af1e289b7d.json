@@ -1,0 +1,19 @@
+{
+  "id": "kb_0babc2af1e289b7d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Amos",
+  "title": "Amos 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Amos",
+    "chapter": 8
+  },
+  "summary": "Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Amos 8:1",
+  "content_hash": "e2e8488dd4932213616490498da704f46c5f4c856ce274bdd0793e293b412be4",
+  "updated": "2026-10-29T16:32:46Z"
+}

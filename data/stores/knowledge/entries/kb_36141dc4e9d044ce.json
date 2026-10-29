@@ -1,0 +1,19 @@
+{
+  "id": "kb_36141dc4e9d044ce",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 6
+  },
+  "summary": "And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 6:1",
+  "content_hash": "24f55d0f6a5ee5109923df16e1c4b2b62b1ac6ac82604a5738dca8d1cd2ed380",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_5ebb3a1ccb644100",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Chronicles",
+  "title": "2 Chronicles 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Chronicles",
+    "chapter": 3
+  },
+  "summary": "Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where the Lord appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Chronicles 3:1",
+  "content_hash": "f7242b68813c0abdea47d80536a2da6ea33ea08af744e00d86711108db08df8b",
+  "updated": "2026-10-29T16:32:46Z"
+}

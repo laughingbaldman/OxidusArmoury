@@ -1,0 +1,19 @@
+{
+  "id": "kb_9405132fe7ad0768",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hosea",
+  "title": "Hosea 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hosea",
+    "chapter": 5
+  },
+  "summary": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hosea 5:1",
+  "content_hash": "62b420efae34231cb9098b95a691750dccaca105268b581d18419d831464f113",
+  "updated": "2026-10-29T16:32:46Z"
+}

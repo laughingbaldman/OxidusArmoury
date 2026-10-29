@@ -1,0 +1,19 @@
+{
+  "id": "kb_56e636ee2b6a5a3f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 8
+  },
+  "summary": "When he was come down from the mountain, great multitudes followed him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 8:1",
+  "content_hash": "0e634fa9eb977392f4dfa4045e9f8613e9b39b05670199692e4dead0e8a162e0",
+  "updated": "2026-10-29T16:32:47Z"
+}

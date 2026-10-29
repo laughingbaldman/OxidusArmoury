@@ -1,0 +1,19 @@
+{
+  "id": "kb_471b1acd34e60414",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 John",
+  "title": "1 John 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 John",
+    "chapter": 3
+  },
+  "summary": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 John 3:1",
+  "content_hash": "0f39c64ac66130110e1f960604b2c5704ca737b6295e960669376fed71b9565a",
+  "updated": "2026-10-29T16:32:47Z"
+}

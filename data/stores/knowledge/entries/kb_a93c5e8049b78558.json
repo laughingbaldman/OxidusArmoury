@@ -1,0 +1,19 @@
+{
+  "id": "kb_a93c5e8049b78558",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 21
+  },
+  "summary": "And he looked up, and saw the rich men casting their gifts into the treasury.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 21:1",
+  "content_hash": "ad09b5b709d58c2037079d263a7e0e38f07ef157f2630187410709f793b0d436",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_915672bb970c623b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 20
+  },
+  "summary": "And God spake all these words, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 20:1",
+  "content_hash": "e1ea794aadb4c195d28ed67524424698caf250c779910891955822f42e505051",
+  "updated": "2026-10-29T16:32:45Z"
+}

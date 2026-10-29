@@ -1,0 +1,19 @@
+{
+  "id": "kb_b3c733770ff5ae6a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 12
+  },
+  "summary": "Righteous art thou, O LORD, when I plead with thee: yet let me talk with thee of thy judgments: Wherefore doth the way of the wicked prosper? wherefore are all they happy that deal very treacherously?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 12:1",
+  "content_hash": "fca1c688cf2b7e7f061c53580ef9c476a622dbb94e6e368915333397970a3e5d",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_16bbbb668708ac42",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Job",
+  "title": "Job 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Job",
+    "chapter": 2
+  },
+  "summary": "Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Job 2:1",
+  "content_hash": "853cb540b5de2a0c728cfb0508e0c813c60e870206603af5362098de3c0f180e",
+  "updated": "2026-10-29T16:32:46Z"
+}

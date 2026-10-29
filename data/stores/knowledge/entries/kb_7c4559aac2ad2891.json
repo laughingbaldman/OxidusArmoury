@@ -1,0 +1,19 @@
+{
+  "id": "kb_7c4559aac2ad2891",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Galatians",
+  "title": "Galatians 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Galatians",
+    "chapter": 5
+  },
+  "summary": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Galatians 5:1",
+  "content_hash": "531f8ccac0c56f2665f7d8fb226de21e8d3c34cf568b3330ae85168b26dbceb8",
+  "updated": "2026-10-29T16:32:47Z"
+}

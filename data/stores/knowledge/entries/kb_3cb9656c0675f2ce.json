@@ -1,0 +1,19 @@
+{
+  "id": "kb_3cb9656c0675f2ce",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 37",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 37
+  },
+  "summary": "And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 37:1",
+  "content_hash": "6d7f0d8d3ecd7f509f670bdadb9c7e2da56dba3a9e0ee3af4d193a2f1169af02",
+  "updated": "2026-10-29T16:32:45Z"
+}

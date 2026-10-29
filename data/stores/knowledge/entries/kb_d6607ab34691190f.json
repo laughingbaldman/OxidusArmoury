@@ -1,0 +1,19 @@
+{
+  "id": "kb_d6607ab34691190f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nehemiah",
+  "title": "Nehemiah 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nehemiah",
+    "chapter": 12
+  },
+  "summary": "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nehemiah 12:1",
+  "content_hash": "d11c1d3e74b0ac5495b8138c0c87bc12e38d024a50b0797ebd87f48a22ce9dae",
+  "updated": "2026-10-29T16:32:46Z"
+}

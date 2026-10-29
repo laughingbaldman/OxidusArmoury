@@ -1,0 +1,19 @@
+{
+  "id": "kb_6ac88f9455b72b4e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 42",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 42
+  },
+  "summary": "As the hart panteth after the water brooks, so panteth my soul after thee, O God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 42:1",
+  "content_hash": "8ced153e1a540504b43fe50482df4aa0addb8692fbd7018f4ead886bbf43fcb1",
+  "updated": "2026-10-29T16:32:46Z"
+}

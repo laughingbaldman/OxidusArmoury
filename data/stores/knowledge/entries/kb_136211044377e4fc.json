@@ -1,0 +1,19 @@
+{
+  "id": "kb_136211044377e4fc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 40",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 40
+  },
+  "summary": "Comfort ye, comfort ye my people, saith your God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 40:1",
+  "content_hash": "ec7cbaa57290a38bae56d92749690f5e1e58fe45212be732a3e772675cc7a67e",
+  "updated": "2026-10-29T16:32:46Z"
+}

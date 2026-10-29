@@ -1,0 +1,19 @@
+{
+  "id": "kb_60420057c26e86d9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 91",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 91
+  },
+  "summary": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 91:1",
+  "content_hash": "f385edb2c14b985d08d88be1d0ade01744dbe0be7cf347065ce685189078213a",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_070e1721925eb0ae",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 5
+  },
+  "summary": "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be any that executeth judgment, that seeketh the truth; and I will pardon it.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 5:1",
+  "content_hash": "a964146d44450c2d9a13b8251e1ce7fc3efa5141c5dc5656fe73146048a3218a",
+  "updated": "2026-10-29T16:32:46Z"
+}

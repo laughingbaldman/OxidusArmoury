@@ -1,0 +1,19 @@
+{
+  "id": "kb_9b714ee259503999",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 6
+  },
+  "summary": "And the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 6:1",
+  "content_hash": "127fb2de8794b540419b1757e82a3dbf8f123691461530404ed5cf0ea9eaa66e",
+  "updated": "2026-10-29T16:32:45Z"
+}

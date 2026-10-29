@@ -1,0 +1,19 @@
+{
+  "id": "kb_b57ac73a3317f82d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Corinthians",
+  "title": "1 Corinthians 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Corinthians",
+    "chapter": 2
+  },
+  "summary": "And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Corinthians 2:1",
+  "content_hash": "ea8cdc1c5fb6d90763f275885ddb0272304edc9d7fc0aef32d6667dd2794408c",
+  "updated": "2026-10-29T16:32:47Z"
+}

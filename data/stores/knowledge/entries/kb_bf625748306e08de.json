@@ -1,0 +1,19 @@
+{
+  "id": "kb_bf625748306e08de",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 13
+  },
+  "summary": "And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 13:1",
+  "content_hash": "df91d50a8aeebb39f4f150ffebbe8afa10dee07313b47c8c3016e7bae8a6673b",
+  "updated": "2026-10-29T16:32:47Z"
+}

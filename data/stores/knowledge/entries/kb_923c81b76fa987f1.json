@@ -1,0 +1,19 @@
+{
+  "id": "kb_923c81b76fa987f1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 8
+  },
+  "summary": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 8:1",
+  "content_hash": "59d63b548d49363b29a6d5cfd4487b1c356b68106ebc2c060bfa43de766ee4b4",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_8fb13ddfd18be929",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 37",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 37
+  },
+  "summary": "And king Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 37:1",
+  "content_hash": "6a14bc3d26fd7e78da1171a7eb0ea3d3950502b3adef089110cf159f395279b5",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_e27bae324d3eb157",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 5
+  },
+  "summary": "After this there was a feast of the Jews; and Jesus went up to Jerusalem.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 5:1",
+  "content_hash": "66a65901124b59a765d7a262344d8afbead27f509412492cb0acb9b95b760d11",
+  "updated": "2026-10-29T16:32:47Z"
+}

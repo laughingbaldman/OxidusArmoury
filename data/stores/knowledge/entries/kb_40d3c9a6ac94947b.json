@@ -1,0 +1,19 @@
+{
+  "id": "kb_40d3c9a6ac94947b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 18
+  },
+  "summary": "And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 18:1",
+  "content_hash": "31ecedbd72f1722270ce75cce78383357563d533d9a7b68a38e95550d764fb89",
+  "updated": "2026-10-29T16:32:45Z"
+}

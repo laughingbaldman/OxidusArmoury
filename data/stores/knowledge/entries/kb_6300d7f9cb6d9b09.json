@@ -1,0 +1,19 @@
+{
+  "id": "kb_6300d7f9cb6d9b09",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 10
+  },
+  "summary": "Why standest thou afar off, O LORD? why hidest thou thyself in times of trouble?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 10:1",
+  "content_hash": "50b34e901785479addc8764c8648a82357b19c74236626e1993d7a31e70cfbc6",
+  "updated": "2026-10-29T16:32:46Z"
+}

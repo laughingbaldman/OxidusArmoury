@@ -1,0 +1,19 @@
+{
+  "id": "kb_ef7c51d93c22141b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 30",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 30
+  },
+  "summary": "And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither the LORD thy God hath driven thee,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 30:1",
+  "content_hash": "42c63d59739fb796267455be035a523d3dd2ea94edb9ff2d10860ca36a84c64f",
+  "updated": "2026-10-29T16:32:45Z"
+}

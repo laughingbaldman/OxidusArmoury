@@ -1,0 +1,19 @@
+{
+  "id": "kb_e97c894a6f8a854e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 20
+  },
+  "summary": "Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 20:1",
+  "content_hash": "1a37701d1f215bd91c0f0f2ca6ce7b0ee390a4ead013fae65c7c9cdb747691b6",
+  "updated": "2026-10-29T16:32:45Z"
+}

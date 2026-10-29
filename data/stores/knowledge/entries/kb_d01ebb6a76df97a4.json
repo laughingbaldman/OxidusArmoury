@@ -1,0 +1,19 @@
+{
+  "id": "kb_d01ebb6a76df97a4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 17
+  },
+  "summary": "Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 17:1",
+  "content_hash": "a375276152942c9a2bfe9c2251030725ac7274a38c859d745d0d815f6528299d",
+  "updated": "2026-10-29T16:32:45Z"
+}

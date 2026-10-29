@@ -1,0 +1,19 @@
+{
+  "id": "kb_b602cdbecb65de49",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 14
+  },
+  "summary": "Him that is weak in the faith receive ye, but not to doubtful disputations.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 14:1",
+  "content_hash": "0e76a7793aa534fc7438ea7d85a0df890e3743068935946b14dd09ed68808cb6",
+  "updated": "2026-10-29T16:32:47Z"
+}

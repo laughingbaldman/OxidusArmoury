@@ -1,0 +1,19 @@
+{
+  "id": "kb_d638b8b626304dbe",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 14
+  },
+  "summary": "And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 14:1",
+  "content_hash": "071af9908072a3f9c4c83eee06c8406cc86851a28350b9fa8b5d5fc76c0b5cd0",
+  "updated": "2026-10-29T16:32:47Z"
+}

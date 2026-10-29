@@ -1,0 +1,19 @@
+{
+  "id": "kb_2eaf24fe62c05a18",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Nehemiah",
+  "title": "Nehemiah 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Nehemiah",
+    "chapter": 2
+  },
+  "summary": "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Nehemiah 2:1",
+  "content_hash": "13454ec6b158bede958031658e74069bb8e984c61eaa02a86126128cfa4bdb25",
+  "updated": "2026-10-29T16:32:46Z"
+}

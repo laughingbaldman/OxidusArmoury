@@ -1,0 +1,19 @@
+{
+  "id": "kb_273f2797c689a90a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 23
+  },
+  "summary": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 23:1",
+  "content_hash": "f4dce4b21e3c3fc2d285ccaafbe6d3aad9dae8730800bbcb710c964f2b1b9abd",
+  "updated": "2026-10-29T16:32:45Z"
+}

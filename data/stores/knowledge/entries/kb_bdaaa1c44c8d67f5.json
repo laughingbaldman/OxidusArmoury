@@ -1,0 +1,19 @@
+{
+  "id": "kb_bdaaa1c44c8d67f5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 9
+  },
+  "summary": "Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 9:1",
+  "content_hash": "b86fc67b63aa6848557dc8b200e8acc20c7a6242de5270a49b85ba7451040cfc",
+  "updated": "2026-10-29T16:32:46Z"
+}

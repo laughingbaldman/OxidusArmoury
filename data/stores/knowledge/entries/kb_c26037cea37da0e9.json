@@ -1,0 +1,19 @@
+{
+  "id": "kb_c26037cea37da0e9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 122",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 122
+  },
+  "summary": "I was glad when they said unto me, Let us go into the house of the LORD.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 122:1",
+  "content_hash": "71866f5887d86fd13069113387c0ac77e8a50b8ed4e2053bd67c17efa39fddbc",
+  "updated": "2026-10-29T16:32:46Z"
+}

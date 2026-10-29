@@ -1,0 +1,19 @@
+{
+  "id": "kb_322f7223ce9db4e6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hosea",
+  "title": "Hosea 11",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hosea",
+    "chapter": 11
+  },
+  "summary": "When Israel was a child, then I loved him, and called my son out of Egypt.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hosea 11:1",
+  "content_hash": "4f1c710a6079be8684d1f25559fa9f5b8c35d67feee0148e59e39268c61a4d8a",
+  "updated": "2026-10-29T16:32:46Z"
+}

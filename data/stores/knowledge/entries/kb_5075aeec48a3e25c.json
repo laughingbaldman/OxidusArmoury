@@ -1,0 +1,19 @@
+{
+  "id": "kb_5075aeec48a3e25c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 21
+  },
+  "summary": "Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 21:1",
+  "content_hash": "4f43cc5fb075b29fa28d4bf54d6f04cb79ccdc5a9592300e1f45dbb1318aed15",
+  "updated": "2026-10-29T16:32:45Z"
+}

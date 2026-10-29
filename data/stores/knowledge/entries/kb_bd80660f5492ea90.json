@@ -1,0 +1,19 @@
+{
+  "id": "kb_bd80660f5492ea90",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ephesians",
+  "title": "Ephesians 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ephesians",
+    "chapter": 4
+  },
+  "summary": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ephesians 4:1",
+  "content_hash": "59cc24551636f0dfe86ed7e35f68f2fdb6ce3e5f4e8ddb329e5770d110f9e51b",
+  "updated": "2026-10-29T16:32:47Z"
+}

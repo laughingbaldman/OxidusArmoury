@@ -1,0 +1,19 @@
+{
+  "id": "kb_f866998f64d02c4e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 7
+  },
+  "summary": "For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 7:1",
+  "content_hash": "8a732c0e00fa48485f94f932a2891123f70fe79fae4c577121f30af47d1717f3",
+  "updated": "2026-10-29T16:32:47Z"
+}

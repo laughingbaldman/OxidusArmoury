@@ -1,0 +1,19 @@
+{
+  "id": "kb_f18834ae10201d84",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 23
+  },
+  "summary": "And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 23:1",
+  "content_hash": "f082a80a527d585cde87543abf0bf5f2c6cbfaee189b6d54671c0872f66f6e29",
+  "updated": "2026-10-29T16:32:45Z"
+}

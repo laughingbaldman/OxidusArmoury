@@ -1,0 +1,19 @@
+{
+  "id": "kb_c7a1bcdf2c10f5b9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 27",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 27
+  },
+  "summary": "Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 27:1",
+  "content_hash": "05e9dc8bdad5403d3fb784b10e4a756e320b4bd550f061dec13295a4ae3a56b2",
+  "updated": "2026-10-29T16:32:45Z"
+}

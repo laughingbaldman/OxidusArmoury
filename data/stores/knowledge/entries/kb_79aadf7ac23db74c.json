@@ -1,0 +1,19 @@
+{
+  "id": "kb_79aadf7ac23db74c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 12
+  },
+  "summary": "Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 12:1",
+  "content_hash": "8e1fd9b55a23ba11da1a27831e83cf782c4a576831ba67c3e06dcff2ec3dd200",
+  "updated": "2026-10-29T16:32:45Z"
+}

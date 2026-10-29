@@ -1,0 +1,19 @@
+{
+  "id": "kb_3ea7ce8ec3091d4e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Kings",
+  "title": "2 Kings 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Kings",
+    "chapter": 5
+  },
+  "summary": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Kings 5:1",
+  "content_hash": "40d3edd14fa06058ce233e9e630cb96f7cc4c8c5432c51a428f0171a23ea6228",
+  "updated": "2026-10-29T16:32:46Z"
+}

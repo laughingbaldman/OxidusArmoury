@@ -1,0 +1,19 @@
+{
+  "id": "kb_3bed94a791741610",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 137",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 137
+  },
+  "summary": "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 137:1",
+  "content_hash": "550e9ce784b34f3bea69739519a3184d34e71b20dccee2f70b871056480f0ef9",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_9c85f3202105b92e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 13
+  },
+  "summary": "And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 13:1",
+  "content_hash": "565ec612d0d639eff26ab9292c3189454aa1a1a5c7cdec4fcb94879aa5420657",
+  "updated": "2026-10-29T16:32:45Z"
+}

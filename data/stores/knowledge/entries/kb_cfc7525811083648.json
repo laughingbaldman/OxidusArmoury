@@ -1,0 +1,19 @@
+{
+  "id": "kb_cfc7525811083648",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 6
+  },
+  "summary": "And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 6:1",
+  "content_hash": "b24086bac408be5119f13f7ec926cea057b21956383de2e3da3e21a0aa0d9b37",
+  "updated": "2026-10-29T16:32:47Z"
+}

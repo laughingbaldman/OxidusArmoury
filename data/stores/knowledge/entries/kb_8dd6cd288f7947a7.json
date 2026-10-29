@@ -1,0 +1,19 @@
+{
+  "id": "kb_8dd6cd288f7947a7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 29",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 29
+  },
+  "summary": "These are the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 29:1",
+  "content_hash": "e98ca11a3aeece301cf9def16b4e04978ea3307386a5ca8ae828abf9eee2f02e",
+  "updated": "2026-10-29T16:32:45Z"
+}

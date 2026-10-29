@@ -1,0 +1,19 @@
+{
+  "id": "kb_e683f7eaafc58be2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 12
+  },
+  "summary": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 12:1",
+  "content_hash": "f6491d3a1fc989285dfcad81ffd3335c8968d8f5e4e2570e28c592ef6e4cda43",
+  "updated": "2026-10-29T16:32:47Z"
+}

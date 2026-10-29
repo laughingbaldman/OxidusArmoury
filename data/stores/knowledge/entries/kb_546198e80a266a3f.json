@@ -1,0 +1,19 @@
+{
+  "id": "kb_546198e80a266a3f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 26
+  },
+  "summary": "In that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 26:1",
+  "content_hash": "c0b91d373ea10c366fe9c024bcab7f8ea08cf1dd07ab56ad50e67fa8dc7991b0",
+  "updated": "2026-10-29T16:32:46Z"
+}

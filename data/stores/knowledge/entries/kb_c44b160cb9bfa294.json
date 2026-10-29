@@ -1,0 +1,19 @@
+{
+  "id": "kb_c44b160cb9bfa294",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 4
+  },
+  "summary": "When therefore the LORD knew how the Pharisees had heard that Jesus made and baptized more disciples than John,",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 4:1",
+  "content_hash": "95ab4ebc87ff7a5ecc42bd671543959dadf31097373897b9d210b5135a788cc1",
+  "updated": "2026-10-29T16:32:47Z"
+}

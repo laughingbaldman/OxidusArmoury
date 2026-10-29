@@ -1,0 +1,19 @@
+{
+  "id": "kb_177197b1b0ea52cc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 6
+  },
+  "summary": "What shall we say then? Shall we continue in sin, that grace may abound?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 6:1",
+  "content_hash": "10a15e62ab2c24e99846a9872ab6c1e2bd49be385daf2f0f4e5f925db01ba512",
+  "updated": "2026-10-29T16:32:47Z"
+}

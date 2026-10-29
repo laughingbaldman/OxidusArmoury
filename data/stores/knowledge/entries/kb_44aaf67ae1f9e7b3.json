@@ -1,0 +1,19 @@
+{
+  "id": "kb_44aaf67ae1f9e7b3",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Acts",
+  "title": "Acts 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Acts",
+    "chapter": 13
+  },
+  "summary": "Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Acts 13:1",
+  "content_hash": "9a4a119b3c70847d69b0b4436ed3114b7088f10cdf1b172806c0a7d1c9c0484d",
+  "updated": "2026-10-29T16:32:47Z"
+}

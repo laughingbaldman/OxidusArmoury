@@ -1,0 +1,19 @@
+{
+  "id": "kb_2d89cadf325f23d5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 19",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 19
+  },
+  "summary": "And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Bethlehemjudah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 19:1",
+  "content_hash": "7512efdcabbba09aa84ad36045b273fcbe58ccc4a9a40df7657f6a5cfb5b3f94",
+  "updated": "2026-10-29T16:32:45Z"
+}

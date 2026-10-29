@@ -1,0 +1,19 @@
+{
+  "id": "kb_900d8b0dccc2bf62",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Peter",
+  "title": "1 Peter 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Peter",
+    "chapter": 3
+  },
+  "summary": "Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Peter 3:1",
+  "content_hash": "7cac3ad20d48567017e9af756b02b247e04caa89b3d237cdebb3b7f610da3b57",
+  "updated": "2026-10-29T16:32:47Z"
+}

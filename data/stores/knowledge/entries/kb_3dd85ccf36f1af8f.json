@@ -1,0 +1,19 @@
+{
+  "id": "kb_3dd85ccf36f1af8f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 120",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 120
+  },
+  "summary": "In my distress I cried unto the LORD, and he heard me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 120:1",
+  "content_hash": "ef73527052dce33b5d47c5b6a6ab574a86851d8be554dd810ff4f65caebff47c",
+  "updated": "2026-10-29T16:32:46Z"
+}

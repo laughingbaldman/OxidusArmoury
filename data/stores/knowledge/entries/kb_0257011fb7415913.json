@@ -1,0 +1,19 @@
+{
+  "id": "kb_0257011fb7415913",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 1
+  },
+  "summary": "Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses’ minister, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 1:1",
+  "content_hash": "d7d1dfc65610a528b254ff49cabcc162f642199467a7bbb8cd4812b3dc7132f1",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_283663631878f328",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 18
+  },
+  "summary": "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 18:1",
+  "content_hash": "502bac3171b8642822481eab2eec2dbb0d2fe2c205afce81f90a7d9cfcc4e60c",
+  "updated": "2026-10-29T16:32:47Z"
+}

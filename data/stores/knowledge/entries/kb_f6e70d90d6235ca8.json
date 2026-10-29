@@ -1,0 +1,19 @@
+{
+  "id": "kb_f6e70d90d6235ca8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 67",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 67
+  },
+  "summary": "God be merciful unto us, and bless us; and cause his face to shine upon us; Selah.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 67:1",
+  "content_hash": "7e43708e74b18d185e5885c370c67ed1b369ad7ba79d95ee07327afcb0c3ef68",
+  "updated": "2026-10-29T16:32:46Z"
+}

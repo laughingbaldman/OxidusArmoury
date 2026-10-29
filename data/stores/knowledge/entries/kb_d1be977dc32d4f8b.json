@@ -1,0 +1,19 @@
+{
+  "id": "kb_d1be977dc32d4f8b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 12
+  },
+  "summary": "And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 12:1",
+  "content_hash": "05910356431fc856eeee8fb78276e39e041141059f183c4e574d80e41205c89b",
+  "updated": "2026-10-29T16:32:45Z"
+}

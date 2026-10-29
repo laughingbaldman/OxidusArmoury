@@ -1,0 +1,19 @@
+{
+  "id": "kb_354b3fb85afe4876",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Judges",
+  "title": "Judges 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Judges",
+    "chapter": 13
+  },
+  "summary": "And the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Judges 13:1",
+  "content_hash": "e807e6f850e025d68b404e65553e03ce86b06addd52a15c25ef3c3662cc39292",
+  "updated": "2026-10-29T16:32:45Z"
+}

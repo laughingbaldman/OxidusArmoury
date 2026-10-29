@@ -1,0 +1,19 @@
+{
+  "id": "kb_95ad7ed12935088c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Amos",
+  "title": "Amos 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Amos",
+    "chapter": 6
+  },
+  "summary": "Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!",
+  "source": "KJV",
+  "when": "",
+  "loc": "Amos 6:1",
+  "content_hash": "f1f51a72481b4097922aebe11592ffc6783e0f9243d94c5107d9c4e11027742d",
+  "updated": "2026-10-29T16:32:46Z"
+}

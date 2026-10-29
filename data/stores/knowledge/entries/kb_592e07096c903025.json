@@ -1,0 +1,19 @@
+{
+  "id": "kb_592e07096c903025",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "John",
+  "title": "John 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "John",
+    "chapter": 8
+  },
+  "summary": "Jesus went unto the mount of Olives.",
+  "source": "KJV",
+  "when": "",
+  "loc": "John 8:1",
+  "content_hash": "a2318988124970dc6c478b1470e17409b78411830ef9d7f496ab84e83edf027b",
+  "updated": "2026-10-29T16:32:47Z"
+}

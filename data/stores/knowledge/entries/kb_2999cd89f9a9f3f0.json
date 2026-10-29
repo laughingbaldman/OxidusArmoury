@@ -1,0 +1,19 @@
+{
+  "id": "kb_2999cd89f9a9f3f0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 12
+  },
+  "summary": "These are the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 12:1",
+  "content_hash": "c55453d27ec3065e476c6adeb9f1af0e74b54baf4471544027d558d8dce968b8",
+  "updated": "2026-10-29T16:32:45Z"
+}

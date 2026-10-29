@@ -1,0 +1,19 @@
+{
+  "id": "kb_f4502de152c4ec77",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 12
+  },
+  "summary": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 12:1",
+  "content_hash": "93471cfe6f7a72d6c1477af88546887525bc15b5eed73a65788336c3c8526398",
+  "updated": "2026-10-29T16:32:47Z"
+}

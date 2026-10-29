@@ -1,0 +1,19 @@
+{
+  "id": "kb_8c6d42123ad4e0c0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 4
+  },
+  "summary": "Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 4:1",
+  "content_hash": "668e11b4e732c6a5e40c722152d961392917d8d6e8a575cec16f7f6eff15e0ec",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_c4abd36e32573f0c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 5
+  },
+  "summary": "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 5:1",
+  "content_hash": "bfddfa0ac1306efc5785d6f5cd73cafc0ceeb4b43b004a842c8e3cf27e2424e6",
+  "updated": "2026-10-29T16:32:45Z"
+}

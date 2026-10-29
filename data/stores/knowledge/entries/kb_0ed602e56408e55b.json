@@ -1,0 +1,19 @@
+{
+  "id": "kb_0ed602e56408e55b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 24
+  },
+  "summary": "And Abraham was old, and well stricken in age: and the LORD had blessed Abraham in all things.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 24:1",
+  "content_hash": "ac81356d40f9ead2d2453c787e8030986a53b59822416b9bc0866e5896726221",
+  "updated": "2026-10-29T16:32:45Z"
+}

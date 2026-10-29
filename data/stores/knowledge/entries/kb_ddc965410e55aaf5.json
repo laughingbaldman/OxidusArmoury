@@ -1,0 +1,19 @@
+{
+  "id": "kb_ddc965410e55aaf5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 147",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 147
+  },
+  "summary": "Praise ye the LORD: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 147:1",
+  "content_hash": "348cb1d847a43d0ec91dd43ee9c7dd56ebeb897dd0614487b9ea5f649d5d5d02",
+  "updated": "2026-10-29T16:32:46Z"
+}

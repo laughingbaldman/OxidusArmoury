@@ -1,0 +1,19 @@
+{
+  "id": "kb_154214fea0beebcd",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Titus",
+  "title": "Titus 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Titus",
+    "chapter": 3
+  },
+  "summary": "Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Titus 3:1",
+  "content_hash": "56da34f848d0d8bfdf406a8cdf80e75590fb33bae802b58dc0623139bfa6e9c9",
+  "updated": "2026-10-29T16:32:47Z"
+}

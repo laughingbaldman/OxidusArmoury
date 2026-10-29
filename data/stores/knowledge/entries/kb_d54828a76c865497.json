@@ -1,0 +1,19 @@
+{
+  "id": "kb_d54828a76c865497",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 139",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 139
+  },
+  "summary": "O LORD, thou hast searched me, and known me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 139:1",
+  "content_hash": "a75cbe19e4701e2735ecfc1928f56ba65a6c4e7ccf8928f5fbaa39805caecaa2",
+  "updated": "2026-10-29T16:32:46Z"
+}

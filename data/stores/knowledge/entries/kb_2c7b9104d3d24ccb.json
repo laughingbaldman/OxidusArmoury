@@ -1,0 +1,19 @@
+{
+  "id": "kb_2c7b9104d3d24ccb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 7
+  },
+  "summary": "And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 7:1",
+  "content_hash": "b2f02fe7f31ac967ff8bb76bac8b9be6c8d4d5b560d4288ff64562e23bc168a3",
+  "updated": "2026-10-29T16:32:46Z"
+}

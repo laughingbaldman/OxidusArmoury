@@ -1,0 +1,19 @@
+{
+  "id": "kb_b9e6a2f62a2bb61e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 18",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 18
+  },
+  "summary": "I will love thee, O LORD, my strength.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 18:1",
+  "content_hash": "d129b53412d71b850f0420c9bac8c8931f866dfd30194ca7c2268e52d1f7b450",
+  "updated": "2026-10-29T16:32:46Z"
+}

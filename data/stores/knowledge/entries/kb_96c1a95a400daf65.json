@@ -1,0 +1,19 @@
+{
+  "id": "kb_96c1a95a400daf65",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 26",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 26
+  },
+  "summary": "As snow in summer, and as rain in harvest, so honour is not seemly for a fool.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 26:1",
+  "content_hash": "1ba96bfd247c2e86e8b0781ca7afb5f0fbfdd5281d2c408d367e1f8a08c482c7",
+  "updated": "2026-10-29T16:32:46Z"
+}

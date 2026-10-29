@@ -1,0 +1,19 @@
+{
+  "id": "kb_62674e615323316d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 22",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 22
+  },
+  "summary": "And Jesus answered and spake unto them again by parables, and said,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 22:1",
+  "content_hash": "1e4032bef2ec2b2f81edb40efc4179c817e41a6f535a7eef86b0e12123bb3bab",
+  "updated": "2026-10-29T16:32:47Z"
+}

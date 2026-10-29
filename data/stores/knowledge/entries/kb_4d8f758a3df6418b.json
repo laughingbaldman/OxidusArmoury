@@ -1,0 +1,19 @@
+{
+  "id": "kb_4d8f758a3df6418b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Kings",
+  "title": "1 Kings 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Kings",
+    "chapter": 9
+  },
+  "summary": "And it came to pass, when Solomon had finished the building of the house of the LORD, and the king’s house, and all Solomon’s desire which he was pleased to do,",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Kings 9:1",
+  "content_hash": "4f6dd6c3e27d7ad5ebf26131b2c65484b1eb367d71448e09a11d3ced2473a429",
+  "updated": "2026-10-29T16:32:45Z"
+}

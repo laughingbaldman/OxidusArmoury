@@ -1,0 +1,19 @@
+{
+  "id": "kb_7ca1fd89c2e4d1bb",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 24
+  },
+  "summary": "And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 24:1",
+  "content_hash": "fd71e301b5dd9fdcc0d78c6ee057bcf19b5d21b2a214a5bf74aa5a486757fab8",
+  "updated": "2026-10-29T16:32:45Z"
+}

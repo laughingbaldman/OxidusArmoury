@@ -1,0 +1,19 @@
+{
+  "id": "kb_35ab2b66406011f7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 16
+  },
+  "summary": "Observe the month of Abib, and keep the passover unto the LORD thy God: for in the month of Abib the LORD thy God brought thee forth out of Egypt by night.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 16:1",
+  "content_hash": "66785aaf3ca3273cc2842b348575f7c2cf8dff07b591afbd198932496959841b",
+  "updated": "2026-10-29T16:32:45Z"
+}

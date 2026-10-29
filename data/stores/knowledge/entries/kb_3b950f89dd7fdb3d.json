@@ -1,0 +1,19 @@
+{
+  "id": "kb_3b950f89dd7fdb3d",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 7
+  },
+  "summary": "When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greate",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 7:1",
+  "content_hash": "8f0e18a8fdf048f0db30a7864e28fc60201d697de7579b445d3a8aec0e02b02a",
+  "updated": "2026-10-29T16:32:45Z"
+}

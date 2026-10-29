@@ -1,0 +1,19 @@
+{
+  "id": "kb_e50339566147ddb0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 3
+  },
+  "summary": "And he entered again into the synagogue; and there was a man there which had a withered hand.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 3:1",
+  "content_hash": "f8cb9c106a1a279e0ccac19fb8306b933cd83d4699eeb95b537a5cca80e48325",
+  "updated": "2026-10-29T16:32:47Z"
+}

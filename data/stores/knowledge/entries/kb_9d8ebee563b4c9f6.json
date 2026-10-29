@@ -1,0 +1,19 @@
+{
+  "id": "kb_9d8ebee563b4c9f6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 25
+  },
+  "summary": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 25:1",
+  "content_hash": "73694be390da4708e607d46f0bd55fb4db538b3097cfc66fcf2b28ea58b09a07",
+  "updated": "2026-10-29T16:32:47Z"
+}

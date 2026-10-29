@@ -1,0 +1,19 @@
+{
+  "id": "kb_4151915028c1beaa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 41",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 41
+  },
+  "summary": "And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 41:1",
+  "content_hash": "aeaeae92178ff1da555f53da38e794f55cd1d0bb1f70181c295ea734dbdd244e",
+  "updated": "2026-10-29T16:32:45Z"
+}

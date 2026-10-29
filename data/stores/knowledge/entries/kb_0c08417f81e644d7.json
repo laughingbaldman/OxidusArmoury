@@ -1,0 +1,19 @@
+{
+  "id": "kb_0c08417f81e644d7",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 17
+  },
+  "summary": "Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the LORD remaineth under curtains.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 17:1",
+  "content_hash": "45728b929bc9f9be020383db05d5ea7a836bc5a44e68dd755e75d0690e73ee41",
+  "updated": "2026-10-29T16:32:46Z"
+}

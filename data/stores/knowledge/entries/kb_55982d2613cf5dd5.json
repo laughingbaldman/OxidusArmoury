@@ -1,0 +1,19 @@
+{
+  "id": "kb_55982d2613cf5dd5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 115",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 115
+  },
+  "summary": "Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 115:1",
+  "content_hash": "e7601251504964c1f66cfb3c2b9f04c3261b3ecca848a79cdbfe09a072eb5eb0",
+  "updated": "2026-10-29T16:32:46Z"
+}

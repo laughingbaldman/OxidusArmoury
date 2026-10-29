@@ -1,0 +1,19 @@
+{
+  "id": "kb_5ea420601f367e0c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 9",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 9
+  },
+  "summary": "Wisdom hath builded her house, she hath hewn out her seven pillars:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 9:1",
+  "content_hash": "482d37d2315101fde298a7bd1ffaf38e18176365bb4239e227888ce52cdd10ab",
+  "updated": "2026-10-29T16:32:46Z"
+}

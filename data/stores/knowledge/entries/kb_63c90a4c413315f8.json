@@ -1,0 +1,19 @@
+{
+  "id": "kb_63c90a4c413315f8",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Timothy",
+  "title": "1 Timothy 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Timothy",
+    "chapter": 6
+  },
+  "summary": "Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Timothy 6:1",
+  "content_hash": "9cddc7cf57b98f619031457fcecc79117bbe8bc0ca8f1341515e9b49886c84f4",
+  "updated": "2026-10-29T16:32:47Z"
+}

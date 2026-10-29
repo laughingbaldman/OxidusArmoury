@@ -1,0 +1,19 @@
+{
+  "id": "kb_9389a23f9bdf2717",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 25
+  },
+  "summary": "If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 25:1",
+  "content_hash": "4e4d3ca81b6ab6789d8f703a9ad1819a6c85a7f5dce58042d42a7a0431e8c60d",
+  "updated": "2026-10-29T16:32:45Z"
+}

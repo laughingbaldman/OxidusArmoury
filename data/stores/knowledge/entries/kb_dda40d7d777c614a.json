@@ -1,0 +1,19 @@
+{
+  "id": "kb_dda40d7d777c614a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ecclesiastes",
+  "title": "Ecclesiastes 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ecclesiastes",
+    "chapter": 5
+  },
+  "summary": "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ecclesiastes 5:1",
+  "content_hash": "b8ffd9828fe4cb0115e32dae0cdb1f3635f97338aded733095a8bea58c23f819",
+  "updated": "2026-10-29T16:32:46Z"
+}

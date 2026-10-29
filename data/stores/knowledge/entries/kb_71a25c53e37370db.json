@@ -1,0 +1,19 @@
+{
+  "id": "kb_71a25c53e37370db",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 83",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 83
+  },
+  "summary": "Keep not thou silence, O God: hold not thy peace, and be not still, O God.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 83:1",
+  "content_hash": "e117433052dcf5fd3bdddc820f1e11212c08136fce5b43c851369f46231c277b",
+  "updated": "2026-10-29T16:32:46Z"
+}

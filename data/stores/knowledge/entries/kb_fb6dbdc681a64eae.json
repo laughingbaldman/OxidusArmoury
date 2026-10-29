@@ -1,0 +1,19 @@
+{
+  "id": "kb_fb6dbdc681a64eae",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 33",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 33
+  },
+  "summary": "Woe to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 33:1",
+  "content_hash": "07dfdcbf36db8d518388a332d90349a5d2a4684f25a53ac95214ebda10a66d97",
+  "updated": "2026-10-29T16:32:46Z"
+}

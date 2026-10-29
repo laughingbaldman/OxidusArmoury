@@ -1,0 +1,19 @@
+{
+  "id": "kb_bc3996c7440dee0a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 2
+  },
+  "summary": "And again he entered into Capernaum after some days; and it was noised that he was in the house.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 2:1",
+  "content_hash": "f357ef4a832b877677bb6f17abd96478590194b1a769136384e0e8e5b2c70eea",
+  "updated": "2026-10-29T16:32:47Z"
+}

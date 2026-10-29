@@ -1,0 +1,19 @@
+{
+  "id": "kb_957e25c0fe477c7b",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 2
+  },
+  "summary": "And there went a man of the house of Levi, and took to wife a daughter of Levi.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 2:1",
+  "content_hash": "cd134453618ee19b51ed4a0f559e726b96dd5f30c7a1524a3fb296ff2c42ec63",
+  "updated": "2026-10-29T16:32:45Z"
+}

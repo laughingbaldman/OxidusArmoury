@@ -1,0 +1,19 @@
+{
+  "id": "kb_78674a1fe0f2d328",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 24",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 24
+  },
+  "summary": "And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 24:1",
+  "content_hash": "61f460f34c8a5f5288012652b858949d0bb0d6977569fc0ac8713ebd4ee12a27",
+  "updated": "2026-10-29T16:32:47Z"
+}

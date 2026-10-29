@@ -1,0 +1,19 @@
+{
+  "id": "kb_36f48dbb4021bac1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Joshua",
+  "title": "Joshua 15",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Joshua",
+    "chapter": 15
+  },
+  "summary": "This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Joshua 15:1",
+  "content_hash": "8e9f8fab4ac8b6a171af21cdc736f9bd132fdfe3a4eae400bd98f92b50d0aec3",
+  "updated": "2026-10-29T16:32:45Z"
+}

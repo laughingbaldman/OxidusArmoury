@@ -1,0 +1,19 @@
+{
+  "id": "kb_679b5b373ef69b1e",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 58",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 58
+  },
+  "summary": "Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 58:1",
+  "content_hash": "43878f689a8d5ddb95e6bffd67fd08da72ec897eedbd89e21d3ce5d363928775",
+  "updated": "2026-10-29T16:32:46Z"
+}

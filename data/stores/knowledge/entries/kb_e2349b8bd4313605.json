@@ -1,0 +1,19 @@
+{
+  "id": "kb_e2349b8bd4313605",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Samuel",
+  "title": "1 Samuel 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Samuel",
+    "chapter": 6
+  },
+  "summary": "And the ark of the LORD was in the country of the Philistines seven months.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Samuel 6:1",
+  "content_hash": "2ef35132f85f470ddb51d424b8b2bd13836bf48ff64a01cdacb7c02dfa4c5551",
+  "updated": "2026-10-29T16:32:45Z"
+}

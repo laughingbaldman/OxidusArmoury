@@ -1,0 +1,19 @@
+{
+  "id": "kb_43dff5b0e7209b28",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 56",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 56
+  },
+  "summary": "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 56:1",
+  "content_hash": "87147385935eb1a5e9915de0e8247a7bcd415569f71295ac63c323aabe3f5264",
+  "updated": "2026-10-29T16:32:46Z"
+}

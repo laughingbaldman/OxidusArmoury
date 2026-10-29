@@ -1,0 +1,19 @@
+{
+  "id": "kb_0837b4027f2832e2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 133",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 133
+  },
+  "summary": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 133:1",
+  "content_hash": "6e4f64c87a645b0c5ebd02244cadbc3bd69cd23e2074b761d979745f360c4db1",
+  "updated": "2026-10-29T16:32:46Z"
+}

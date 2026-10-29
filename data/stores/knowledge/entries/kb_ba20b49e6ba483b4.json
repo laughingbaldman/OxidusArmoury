@@ -1,0 +1,19 @@
+{
+  "id": "kb_ba20b49e6ba483b4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 1
+  },
+  "summary": "Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 1:1",
+  "content_hash": "8e41604aa1a0513d2250f3f79eff8b7d99c8b1d4c859eaeb8dc45e5ed181071e",
+  "updated": "2026-10-29T16:32:47Z"
+}

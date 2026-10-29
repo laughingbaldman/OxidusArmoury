@@ -1,0 +1,19 @@
+{
+  "id": "kb_96bf1c398ddf3613",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Deuteronomy",
+  "title": "Deuteronomy 14",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Deuteronomy",
+    "chapter": 14
+  },
+  "summary": "Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Deuteronomy 14:1",
+  "content_hash": "1b64249928f5240b9305f8f99cab3652c8bc2720e72f7f579ededdcaa352469f",
+  "updated": "2026-10-29T16:32:45Z"
+}

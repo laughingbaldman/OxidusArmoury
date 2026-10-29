@@ -1,0 +1,19 @@
+{
+  "id": "kb_d8594568a771c403",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 2
+  },
+  "summary": "Moreover the word of the LORD came to me, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 2:1",
+  "content_hash": "704658681c748bbceff12d5f331f2d09214fb39b51d3358c1c47a11769d65ee8",
+  "updated": "2026-10-29T16:32:46Z"
+}

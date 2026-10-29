@@ -1,0 +1,19 @@
+{
+  "id": "kb_b9e640a3dc11f2a0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 8
+  },
+  "summary": "And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 8:1",
+  "content_hash": "3c29f926df1831128b396f298ba02087ba3012c239b22d3f739bb05ba1651535",
+  "updated": "2026-10-29T16:32:45Z"
+}

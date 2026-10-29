@@ -1,0 +1,19 @@
+{
+  "id": "kb_fe1d315334ba63df",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Leviticus",
+  "title": "Leviticus 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Leviticus",
+    "chapter": 21
+  },
+  "summary": "And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Leviticus 21:1",
+  "content_hash": "ea6f2e3c4151437421ab3fe93f375767259c983717dee319d6de23f7a4bcff9c",
+  "updated": "2026-10-29T16:32:45Z"
+}

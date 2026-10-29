@@ -1,0 +1,19 @@
+{
+  "id": "kb_989221b257c5471f",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 47",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 47
+  },
+  "summary": "Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 47:1",
+  "content_hash": "b51c30a0daf85031d1458e0090266c4ed2e3dd7c02c9ce53bc73ec7285c2b105",
+  "updated": "2026-10-29T16:32:45Z"
+}

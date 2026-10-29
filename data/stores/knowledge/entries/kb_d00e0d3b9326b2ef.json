@@ -1,0 +1,19 @@
+{
+  "id": "kb_d00e0d3b9326b2ef",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 25",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 25
+  },
+  "summary": "And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 25:1",
+  "content_hash": "41efee9210b3a7ec8f7a4c6f7bfaebf88b822f2981632b5ebac8bbe8ba335ce2",
+  "updated": "2026-10-29T16:32:45Z"
+}

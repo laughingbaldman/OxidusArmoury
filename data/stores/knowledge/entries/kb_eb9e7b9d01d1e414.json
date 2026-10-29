@@ -1,0 +1,19 @@
+{
+  "id": "kb_eb9e7b9d01d1e414",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Proverbs",
+  "title": "Proverbs 12",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Proverbs",
+    "chapter": 12
+  },
+  "summary": "Whoso loveth instruction loveth knowledge: but he that hateth reproof is brutish.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Proverbs 12:1",
+  "content_hash": "dd8439a34eac4b767da72ca2d7915cb23e4f53f4a73bd77271676b00957d852a",
+  "updated": "2026-10-29T16:32:46Z"
+}

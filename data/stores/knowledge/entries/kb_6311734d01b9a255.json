@@ -1,0 +1,19 @@
+{
+  "id": "kb_6311734d01b9a255",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Luke",
+  "title": "Luke 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Luke",
+    "chapter": 13
+  },
+  "summary": "There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Luke 13:1",
+  "content_hash": "71b82d78f548cd44896e3c75bc01ac3ad9a97a58167cc613413ed2eb43e5dac8",
+  "updated": "2026-10-29T16:32:47Z"
+}

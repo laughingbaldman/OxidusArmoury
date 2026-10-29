@@ -1,0 +1,19 @@
+{
+  "id": "kb_3b95c586898ed2d0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 60",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 60
+  },
+  "summary": "Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 60:1",
+  "content_hash": "7050cc73402c6eb9977ee1a04c1010b2b5cd6e9f1bc29732afd26d285361e266",
+  "updated": "2026-10-29T16:32:46Z"
+}

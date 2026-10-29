@@ -1,0 +1,19 @@
+{
+  "id": "kb_e8b36a32351046aa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "1 Chronicles",
+  "title": "1 Chronicles 21",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "1 Chronicles",
+    "chapter": 21
+  },
+  "summary": "And Satan stood up against Israel, and provoked David to number Israel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "1 Chronicles 21:1",
+  "content_hash": "99aa64f3c36e36340423d9ed799b41d86d4f0b7b0e9fe862c9ce03ef6ae5b1e7",
+  "updated": "2026-10-29T16:32:46Z"
+}

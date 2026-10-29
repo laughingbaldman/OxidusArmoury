@@ -1,0 +1,19 @@
+{
+  "id": "kb_8bffc3a1f11d8d89",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Samuel",
+  "title": "2 Samuel 7",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Samuel",
+    "chapter": 7
+  },
+  "summary": "And it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies;",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Samuel 7:1",
+  "content_hash": "3d3043c2e8acf3c90966ee017160a7215fc32400b725db05334b709b1d4fa6cf",
+  "updated": "2026-10-29T16:32:45Z"
+}

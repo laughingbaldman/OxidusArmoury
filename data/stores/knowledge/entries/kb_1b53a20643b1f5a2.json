@@ -1,0 +1,19 @@
+{
+  "id": "kb_1b53a20643b1f5a2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 92",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 92
+  },
+  "summary": "IT IS A GOOD THING TO GIVE THANKS UNTO THE LORD, AND TO SING PRAISES UNTO THY NAME, O MOST HIGH:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 92:1",
+  "content_hash": "5fe6aaa6f0f64e45ae89d5de136fb211a042f716623b8fdd5ab8dd5d12d35b83",
+  "updated": "2026-10-29T16:32:46Z"
+}

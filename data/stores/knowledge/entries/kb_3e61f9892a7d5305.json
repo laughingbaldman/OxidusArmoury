@@ -1,0 +1,19 @@
+{
+  "id": "kb_3e61f9892a7d5305",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Numbers",
+  "title": "Numbers 32",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Numbers",
+    "chapter": 32
+  },
+  "summary": "Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Numbers 32:1",
+  "content_hash": "b11a350635c3e9b3ca970679c0a00b47ad11096bd219e268661f24614e791838",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_3a3c0acdd11de907",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 8
+  },
+  "summary": "At that time, saith the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 8:1",
+  "content_hash": "22be52eec2cb89cba6ea5f63d1e988f06fb7afa54d956f1dda20234b4ab678c9",
+  "updated": "2026-10-29T16:32:46Z"
+}

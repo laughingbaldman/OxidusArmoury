@@ -1,0 +1,19 @@
+{
+  "id": "kb_aa1f9e407b4496d0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 76",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 76
+  },
+  "summary": "In Judah is God known: his name is great in Israel.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 76:1",
+  "content_hash": "ba23b1c0c71eed654f59525776f376cf691800a06789f2944681bd59a496cee6",
+  "updated": "2026-10-29T16:32:46Z"
+}

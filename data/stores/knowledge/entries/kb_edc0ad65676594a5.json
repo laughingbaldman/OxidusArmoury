@@ -1,0 +1,19 @@
+{
+  "id": "kb_edc0ad65676594a5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 103",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 103
+  },
+  "summary": "Bless the LORD, O my soul: and all that is within me, bless his holy name.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 103:1",
+  "content_hash": "6b053fb2fbd19f4bf24e19aa104e4ed4b1c8e84484780c1c7b9a8925dcd4748d",
+  "updated": "2026-10-29T16:32:46Z"
+}

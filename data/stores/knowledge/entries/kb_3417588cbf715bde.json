@@ -1,0 +1,19 @@
+{
+  "id": "kb_3417588cbf715bde",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Philippians",
+  "title": "Philippians 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Philippians",
+    "chapter": 2
+  },
+  "summary": "If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Philippians 2:1",
+  "content_hash": "19959ad9da224057d7178a3ca117429f8c984b634c20463db4beddba9b034316",
+  "updated": "2026-10-29T16:32:47Z"
+}

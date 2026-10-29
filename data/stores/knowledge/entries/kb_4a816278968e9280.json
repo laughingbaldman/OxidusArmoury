@@ -1,0 +1,19 @@
+{
+  "id": "kb_4a816278968e9280",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Romans",
+  "title": "Romans 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Romans",
+    "chapter": 10
+  },
+  "summary": "Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Romans 10:1",
+  "content_hash": "12e2d9c3514c210014a681c90e44060d4f7b269f44f1b617148d32206a1a562f",
+  "updated": "2026-10-29T16:32:47Z"
+}

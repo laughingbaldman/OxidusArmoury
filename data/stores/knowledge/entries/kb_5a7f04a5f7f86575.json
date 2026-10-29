@@ -1,0 +1,19 @@
+{
+  "id": "kb_5a7f04a5f7f86575",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Titus",
+  "title": "Titus 2",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Titus",
+    "chapter": 2
+  },
+  "summary": "But speak thou the things which become sound doctrine:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Titus 2:1",
+  "content_hash": "b2ae4f87e2614d269695bba082e06a99d7e63894b00beffed87198cd709f3d4f",
+  "updated": "2026-10-29T16:32:47Z"
+}

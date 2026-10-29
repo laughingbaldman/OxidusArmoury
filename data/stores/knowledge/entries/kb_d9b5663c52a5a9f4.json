@@ -1,0 +1,19 @@
+{
+  "id": "kb_d9b5663c52a5a9f4",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Genesis",
+  "title": "Genesis 46",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Genesis",
+    "chapter": 46
+  },
+  "summary": "And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Genesis 46:1",
+  "content_hash": "598d1712108873ea9b53a63002241ec997958d57d2911b91e6faf588febeb577",
+  "updated": "2026-10-29T16:32:45Z"
+}

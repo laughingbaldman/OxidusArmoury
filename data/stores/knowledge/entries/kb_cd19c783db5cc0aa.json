@@ -1,0 +1,19 @@
+{
+  "id": "kb_cd19c783db5cc0aa",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezra",
+  "title": "Ezra 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezra",
+    "chapter": 4
+  },
+  "summary": "Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezra 4:1",
+  "content_hash": "3e7d5083b8534436533102732f1434a1ebc27d38f8876cbdc8a99d26ffa65281",
+  "updated": "2026-10-29T16:32:46Z"
+}

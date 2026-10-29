@@ -1,0 +1,19 @@
+{
+  "id": "kb_3fa78067c0a975bc",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 38",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 38
+  },
+  "summary": "And he made the altar of burnt offering of shittim wood: five cubits was the length thereof, and five cubits the breadth thereof; it was foursquare; and three cubits the height thereof.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 38:1",
+  "content_hash": "cd9b0d77fc417fad842e50dc522d99f661ca332d3624587a50af4be4fda71cbb",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_36a293c98d19c807",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 20",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 20
+  },
+  "summary": "The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 20:1",
+  "content_hash": "ed742503252e6674a5d27d5d786225a53c74078a3a39f279923467387d689558",
+  "updated": "2026-10-29T16:32:46Z"
+}

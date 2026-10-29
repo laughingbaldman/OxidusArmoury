@@ -1,0 +1,19 @@
+{
+  "id": "kb_85ed5eb40b34efe9",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 138",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 138
+  },
+  "summary": "I will praise thee with my whole heart: before the gods will I sing praise unto thee.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 138:1",
+  "content_hash": "3ad6027439ded597616ff28bf0d2f898641f545786c6f1307dfcbb29a9ba9018",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_abc208d684a42bb1",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Galatians",
+  "title": "Galatians 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Galatians",
+    "chapter": 6
+  },
+  "summary": "Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Galatians 6:1",
+  "content_hash": "455b9d1a52cdc6281c65281662b8def3fc80d2f8d1efe8f54758c37e44a9e26b",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_c72f4833b9094bbd",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ephesians",
+  "title": "Ephesians 1",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ephesians",
+    "chapter": 1
+  },
+  "summary": "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ephesians 1:1",
+  "content_hash": "504498e419815528b40f8a829ba165e1522c5ae0e7ddf1fe7c075706aa447b50",
+  "updated": "2026-10-29T16:32:47Z"
+}

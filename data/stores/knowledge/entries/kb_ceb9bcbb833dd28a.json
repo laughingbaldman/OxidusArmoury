@@ -1,0 +1,19 @@
+{
+  "id": "kb_ceb9bcbb833dd28a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Jeremiah",
+  "title": "Jeremiah 50",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Jeremiah",
+    "chapter": 50
+  },
+  "summary": "The word that the LORD spake against Babylon and against the land of the Chaldeans by Jeremiah the prophet.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Jeremiah 50:1",
+  "content_hash": "21acecac02da20395af9aac900051c7bfed4c2a0ba34a959d97477460d870f02",
+  "updated": "2026-10-29T16:32:46Z"
+}

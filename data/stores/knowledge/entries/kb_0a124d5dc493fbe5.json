@@ -1,0 +1,19 @@
+{
+  "id": "kb_0a124d5dc493fbe5",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Hebrews",
+  "title": "Hebrews 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Hebrews",
+    "chapter": 8
+  },
+  "summary": "Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;",
+  "source": "KJV",
+  "when": "",
+  "loc": "Hebrews 8:1",
+  "content_hash": "99cf28dbf9a5c99efab07128ca146745830edfbc29e4ad400022f2b61d098add",
+  "updated": "2026-10-29T16:32:47Z"
+}

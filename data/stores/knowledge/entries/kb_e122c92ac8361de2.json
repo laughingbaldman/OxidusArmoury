@@ -1,0 +1,19 @@
+{
+  "id": "kb_e122c92ac8361de2",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 5
+  },
+  "summary": "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 5:1",
+  "content_hash": "968f0a43aebe0a733d9990a8a7925cc56dbf6b7bba2c784fdf184bde3b5c34ed",
+  "updated": "2026-10-29T16:32:47Z"
+}

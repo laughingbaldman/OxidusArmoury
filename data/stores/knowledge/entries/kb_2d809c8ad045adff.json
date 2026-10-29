@@ -1,0 +1,19 @@
+{
+  "id": "kb_2d809c8ad045adff",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 39",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 39
+  },
+  "summary": "I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 39:1",
+  "content_hash": "4a9837cb9d814e3e26b5715dfc40c9fe46cf4588b1499bacd481575fc20b117c",
+  "updated": "2026-10-29T16:32:46Z"
+}

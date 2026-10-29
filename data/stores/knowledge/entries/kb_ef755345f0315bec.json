@@ -1,0 +1,19 @@
+{
+  "id": "kb_ef755345f0315bec",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "2 Corinthians",
+  "title": "2 Corinthians 10",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "2 Corinthians",
+    "chapter": 10
+  },
+  "summary": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:",
+  "source": "KJV",
+  "when": "",
+  "loc": "2 Corinthians 10:1",
+  "content_hash": "b8f2e6c9fc9285eec20b80d170bd9cfd761272066e26c6a6c48fc371f420f437",
+  "updated": "2026-10-29T16:32:47Z"
+}

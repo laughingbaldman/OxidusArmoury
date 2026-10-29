@@ -1,0 +1,19 @@
+{
+  "id": "kb_dcc6430ddea995d0",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 48",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 48
+  },
+  "summary": "Hear ye this, O house of Jacob, which are called by the name of Israel, and are come forth out of the waters of Judah, which swear by the name of the LORD, and make mention of the God of Israel, but not in truth, nor in righteousness.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 48:1",
+  "content_hash": "45a23a74cf9334b6b317b0cc405912a4095d7cf889f7b16ce82a3b372c4e874c",
+  "updated": "2026-10-29T16:32:46Z"
+}

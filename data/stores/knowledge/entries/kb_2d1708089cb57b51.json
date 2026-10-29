@@ -1,0 +1,19 @@
+{
+  "id": "kb_2d1708089cb57b51",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ezekiel",
+  "title": "Ezekiel 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ezekiel",
+    "chapter": 16
+  },
+  "summary": "Again the word of the LORD came unto me, saying,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ezekiel 16:1",
+  "content_hash": "9c83fba6d5001e6cf61cfec818e4fb44453c50c7c31caf6ac5ea1e7d57565feb",
+  "updated": "2026-10-29T16:32:46Z"
+}

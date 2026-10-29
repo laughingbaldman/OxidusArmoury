@@ -1,0 +1,19 @@
+{
+  "id": "kb_10ef245c80b5688c",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Matthew",
+  "title": "Matthew 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Matthew",
+    "chapter": 3
+  },
+  "summary": "In those days came John the Baptist, preaching in the wilderness of Judaea,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Matthew 3:1",
+  "content_hash": "1ac262e06fa49756cea81d73d69943310d3d199536ff5dc27c7d39aebe6cd15d",
+  "updated": "2026-10-29T16:32:47Z"
+}

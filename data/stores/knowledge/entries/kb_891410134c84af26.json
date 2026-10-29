@@ -1,0 +1,19 @@
+{
+  "id": "kb_891410134c84af26",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Mark",
+  "title": "Mark 8",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Mark",
+    "chapter": 8
+  },
+  "summary": "In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,",
+  "source": "KJV",
+  "when": "",
+  "loc": "Mark 8:1",
+  "content_hash": "ac02f6c8dc9c0bd1f8e5c9f82d38aa7ae14acf78008960e7e5505a154484be8f",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_e2d6945ba42963cf",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Revelation",
+  "title": "Revelation 17",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Revelation",
+    "chapter": 17
+  },
+  "summary": "And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:",
+  "source": "KJV",
+  "when": "",
+  "loc": "Revelation 17:1",
+  "content_hash": "2f115ecb0d1fda827f2157b66ed7521e5aa380c5f429657d2fd643c78d94c973",
+  "updated": "2026-10-29T16:32:47Z"
+}

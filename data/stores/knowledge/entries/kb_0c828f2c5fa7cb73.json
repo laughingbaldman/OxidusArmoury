@@ -1,0 +1,19 @@
+{
+  "id": "kb_0c828f2c5fa7cb73",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 47",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 47
+  },
+  "summary": "O clap your hands, all ye people; shout unto God with the voice of triumph.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 47:1",
+  "content_hash": "0e43cea5039df910db349c8e381458311aeca8f05a5c1b956f73b8f610709675",
+  "updated": "2026-10-29T16:32:46Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_172e5eea8ab6673a",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Isaiah",
+  "title": "Isaiah 23",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Isaiah",
+    "chapter": 23
+  },
+  "summary": "The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Chittim it is revealed to them.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Isaiah 23:1",
+  "content_hash": "b642f1ae466d3d8154d00a62a63fb59038f41cc395cc1539bc53b9a6fe95a1b9",
+  "updated": "2026-10-29T16:32:46Z"
+}

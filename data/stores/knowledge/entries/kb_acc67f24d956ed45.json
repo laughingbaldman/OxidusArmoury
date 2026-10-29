@@ -1,0 +1,19 @@
+{
+  "id": "kb_acc67f24d956ed45",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Lamentations",
+  "title": "Lamentations 5",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Lamentations",
+    "chapter": 5
+  },
+  "summary": "Remember, O LORD, what is come upon us: consider, and behold our reproach.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Lamentations 5:1",
+  "content_hash": "fe7186fd21ab5157e0620235574cbddf396114f117fe08a0949c7732cbc43463",
+  "updated": "2026-10-29T16:32:46Z"
+}

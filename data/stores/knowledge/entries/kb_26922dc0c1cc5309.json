@@ -1,0 +1,19 @@
+{
+  "id": "kb_26922dc0c1cc5309",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Psalms",
+  "title": "Psalms 30",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Psalms",
+    "chapter": 30
+  },
+  "summary": "I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Psalms 30:1",
+  "content_hash": "020bb58c8bbbc2c35c24f8b57d514e743c6974a95cca89d380fb79d1688bda26",
+  "updated": "2026-10-29T16:32:46Z"
+}

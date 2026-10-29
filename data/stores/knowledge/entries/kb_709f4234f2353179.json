@@ -1,0 +1,19 @@
+{
+  "id": "kb_709f4234f2353179",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 4",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 4
+  },
+  "summary": "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 4:1",
+  "content_hash": "4461b9cb766adfaac884dab63404601250720c5807112adb151734432e63632f",
+  "updated": "2026-10-29T16:32:45Z"
+}

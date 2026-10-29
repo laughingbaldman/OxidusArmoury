@@ -1,0 +1,19 @@
+{
+  "id": "kb_8fbf9a630a62ccba",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Ephesians",
+  "title": "Ephesians 6",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Ephesians",
+    "chapter": 6
+  },
+  "summary": "Children, obey your parents in the Lord: for this is right.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Ephesians 6:1",
+  "content_hash": "750ea3370b4d33c82e1180c256fc9851841979cbd66057a38266391a704c6eec",
+  "updated": "2026-10-29T16:32:47Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_1ae96b0cbd725527",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Exodus",
+  "title": "Exodus 16",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Exodus",
+    "chapter": 16
+  },
+  "summary": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Exodus 16:1",
+  "content_hash": "a50231928e1137cb0165f265b9ca06ac786e7295669b66ca35c2fe88e018219e",
+  "updated": "2026-10-29T16:32:45Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kb_187451ca52bf73d6",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zechariah",
+  "title": "Zechariah 13",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zechariah",
+    "chapter": 13
+  },
+  "summary": "In that day there shall be a fountain opened to the house of David and to the inhabitants of Jerusalem for sin and for uncleanness.",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zechariah 13:1",
+  "content_hash": "d8f4b23b61d5be30af87353ec31694da35bbf8b9007692903cdc8ac1d009006a",
+  "updated": "2026-10-29T16:32:46Z"
+}

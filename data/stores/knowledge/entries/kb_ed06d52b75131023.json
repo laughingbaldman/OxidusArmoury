@@ -1,0 +1,19 @@
+{
+  "id": "kb_ed06d52b75131023",
+  "store": "knowledge",
+  "topic": "scripture",
+  "subtopic": "Zephaniah",
+  "title": "Zephaniah 3",
+  "text": "",
+  "text_ref": {
+    "kind": "bible",
+    "book": "Zephaniah",
+    "chapter": 3
+  },
+  "summary": "Woe to her that is filthy and polluted, to the oppressing city!",
+  "source": "KJV",
+  "when": "",
+  "loc": "Zephaniah 3:1",
+  "content_hash": "ab16f97c0e8cacfec9dbb46ae9ebf351dc654356077a14af0037ed3b9f9c4f88",
+  "updated": "2026-10-29T16:32:46Z"
+}
