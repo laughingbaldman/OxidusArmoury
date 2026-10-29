@@ -37,9 +37,9 @@ class LMStudioClient:
         self.api_endpoint = f"{self.base_url}/v1/chat/completions"
         self.last_error: Optional[str] = None
         try:
-            self.request_timeout = max(5.0, float(os.environ.get('OXIDUS_LM_TIMEOUT', '90')))
+            self.request_timeout = max(5.0, float(os.environ.get('OXIDUS_LM_TIMEOUT', '300')))
         except ValueError:
-            self.request_timeout = 90.0
+            self.request_timeout = 300.0
         env_primary = os.environ.get('OXIDUS_LM_MODEL') or lm_settings.model()
         env_secondary = os.environ.get('OXIDUS_LM_SECONDARY_MODEL')
 
@@ -376,30 +376,72 @@ class LMStudioClient:
                            " No model is loaded yet; LM Studio will load it on the first question (can take a minute)."))
         return info
 
-    def test_round_trip(self, timeout: float = 120) -> Dict[str, Any]:
-        """Send one tiny chat request and report what came back."""
+    def _chat_stream(self, payload: Dict[str, Any], timeout: Optional[float] = None) -> Dict[str, Any]:
+        """POST a chat completion with stream=True and collect the text.
+
+        Streaming means a slow CPU or a model that is still loading doesn't trip a
+        single fixed timeout: the read timeout only applies between chunks.
+        Returns {status, content, reasoning, first_token_s, seconds, error}.
+        """
         import time as _time
+        body = dict(payload, stream=True)
+        read_timeout = timeout or self.request_timeout
+        start = _time.time()
+        out: Dict[str, Any] = {"status": None, "content": "", "reasoning": "", "first_token_s": None,
+                               "seconds": None, "error": None}
+        with requests.post(self.api_endpoint, json=body, headers=self._headers(),
+                           timeout=(10, read_timeout), stream=True) as response:
+            out["status"] = response.status_code
+            if response.status_code != 200:
+                out["error"] = f"HTTP {response.status_code}: {response.text[:200]}"
+                out["seconds"] = round(_time.time() - start, 2)
+                return out
+            parts, thinking = [], []
+            for raw in response.iter_lines(decode_unicode=True):
+                if not raw or not raw.startswith("data:"):
+                    continue
+                data = raw[5:].strip()
+                if data == "[DONE]":
+                    break
+                try:
+                    delta = (json.loads(data).get("choices") or [{}])[0].get("delta") or {}
+                except ValueError:
+                    continue
+                text = delta.get("content") or ""
+                think = delta.get("reasoning_content") or delta.get("reasoning") or ""
+                if (text or think) and out["first_token_s"] is None:
+                    out["first_token_s"] = round(_time.time() - start, 2)
+                if text:
+                    parts.append(text)
+                if think:
+                    thinking.append(think)
+            out["content"] = "".join(parts)
+            out["reasoning"] = "".join(thinking)
+        out["seconds"] = round(_time.time() - start, 2)
+        return out
+
+    def test_round_trip(self, timeout: float = 300) -> Dict[str, Any]:
+        """Send one tiny chat request (streamed) and report what came back."""
         diag = self.diagnose()
         if not diag.get("ok"):
             return {"ok": False, "message": diag.get("message"), "diagnose": diag}
-        payload = {"model": self.model, "temperature": 0, "max_tokens": 40, "stream": False,
+        payload = {"model": self.model, "temperature": 0, "max_tokens": 300,
                    "messages": [{"role": "user", "content": "Reply with exactly: Oxidus link OK"}]}
-        start = _time.time()
         try:
-            response = requests.post(self.api_endpoint, json=payload, headers=self._headers(), timeout=timeout)
+            result = self._chat_stream(payload, timeout=timeout)
         except requests.exceptions.RequestException as exc:
-            return {"ok": False, "message": f"Request failed: {type(exc).__name__}", "diagnose": diag}
-        seconds = round(_time.time() - start, 2)
-        if response.status_code != 200:
-            return {"ok": False, "message": f"LM Studio answered HTTP {response.status_code}: {response.text[:200]}",
-                    "seconds": seconds, "diagnose": diag}
-        try:
-            reply = response.json()['choices'][0]['message'].get('content') or ''
-        except (ValueError, KeyError, IndexError):
-            reply = ''
-        return {"ok": bool(reply.strip()), "reply": reply.strip()[:300], "model": self.model, "seconds": seconds,
-                "message": "Round trip worked." if reply.strip() else "LM Studio answered with an empty reply.",
+            return {"ok": False, "message": f"No answer from LM Studio ({type(exc).__name__}). The model may still be "
+                    "loading or busy with another request; try again in a minute.", "diagnose": diag}
+        reply = result["content"].strip()
+        base = {"model": self.model, "seconds": result["seconds"], "first_token_s": result["first_token_s"],
                 "diagnose": diag}
+        if result["error"]:
+            return dict(base, ok=False, message=f"LM Studio answered {result['error']}")
+        if not reply and result["reasoning"]:
+            return dict(base, ok=False, reply="", message="The model only produced hidden 'thinking' text and ran out "
+                        "of room before answering. Raise max tokens or turn thinking off for this model in LM Studio.")
+        return dict(base, ok=bool(reply), reply=reply[:300],
+                    message="Round trip worked." if reply else "LM Studio answered with an empty reply.")
         
     def is_available(self) -> bool:
         """
@@ -461,21 +503,14 @@ class LMStudioClient:
             payload["max_tokens"] = effective_max_tokens
         
         try:
-            response = requests.post(
-                self.api_endpoint,
-                json=payload,
-                headers=self._headers(),
-                timeout=self.request_timeout
-            )
-
-            if response.status_code != 200:
-                self.last_error = f"HTTP {response.status_code}: {response.text[:200]}"
+            streamed = self._chat_stream(payload, timeout=self.request_timeout)
+            if streamed["error"]:
+                self.last_error = streamed["error"]
                 return None
             self.last_error = None
 
-            data = response.json()
-            content = data['choices'][0]['message']['content']
-            if content is None:
+            content = streamed["content"]
+            if not content:
                 return None
 
             content = str(content)

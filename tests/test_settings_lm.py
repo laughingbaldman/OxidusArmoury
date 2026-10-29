@@ -98,3 +98,49 @@ def test_diagnose_server_off_and_auth_required(cfg, monkeypatch):
     monkeypatch.setattr(lmc.requests, "get", lambda *a, **k: Resp(401, {"error": "token required"}))
     info = lmc.LMStudioClient().diagnose()
     assert info["reachable"] and info["auth"] == "required"
+
+
+class StreamResp:
+    status_code = 200
+    text = ""
+
+    def __init__(self, lines):
+        self._lines = lines
+
+    def iter_lines(self, decode_unicode=True):
+        return iter(self._lines)
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *a):
+        return False
+
+
+def _sse(**delta):
+    return "data: " + json.dumps({"choices": [{"delta": delta}]})
+
+
+def test_round_trip_streams_and_no_key_when_unset(cfg, monkeypatch):
+    monkeypatch.setattr(lmc.requests, "get", lambda url, headers=None, timeout=None: Resp(
+        200, {"data": [{"id": "google/gemma-4-12b", "type": "llm", "state": "loaded"}]}))
+    seen = {}
+
+    def fake_post(url, json=None, headers=None, timeout=None, stream=False):
+        seen.update(headers=headers, stream=stream, body=json)
+        return StreamResp([_sse(reasoning_content="thinking..."), _sse(content="Oxidus "), _sse(content="link OK"),
+                           "data: [DONE]"])
+
+    monkeypatch.setattr(lmc.requests, "post", fake_post)
+    result = lmc.LMStudioClient().test_round_trip()
+    assert result["ok"] and result["reply"] == "Oxidus link OK"
+    assert seen["stream"] and seen["body"]["stream"] is True
+    assert "Authorization" not in (seen["headers"] or {})
+
+
+def test_round_trip_reports_thinking_only(cfg, monkeypatch):
+    monkeypatch.setattr(lmc.requests, "get", lambda url, headers=None, timeout=None: Resp(
+        200, {"data": [{"id": "google/gemma-4-12b"}]}))
+    monkeypatch.setattr(lmc.requests, "post", lambda *a, **k: StreamResp([_sse(reasoning_content="hmm"), "data: [DONE]"]))
+    result = lmc.LMStudioClient().test_round_trip()
+    assert not result["ok"] and "thinking" in result["message"]

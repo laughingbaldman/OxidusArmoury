@@ -151,7 +151,7 @@ $("lmClear").onclick = async () => { paintLm(await postJ("/api/settings/lm-studi
 $("lmTest").onclick = async () => {
   msg($("lmTestOut"), "Sending a test question to LM Studio… (the first answer can take a minute while the model loads)", "warn");
   const d = await postJ("/api/settings/lm-studio/test", {});
-  msg($("lmTestOut"), d.ok ? `Worked in ${d.seconds}s using ${d.model}. LM Studio said: "${d.reply}"` : `Didn't work: ${d.message}`, d.ok ? "ok" : "bad");
+  msg($("lmTestOut"), d.ok ? `Worked in ${d.seconds}s (first words after ${d.first_token_s}s) using ${d.model}. LM Studio said: "${d.reply}"` : `Didn't work: ${d.message}`, d.ok ? "ok" : "bad");
 };
 getJ("/api/console/models").then(d => { $("backend").value = d.backend || "auto"; }).catch(() => {});
 $("backendSave").onclick = async () => { await postJ("/api/console/models", { backend: $("backend").value }); msg($("lmTestOut"), "Answer source saved.", "ok"); };
